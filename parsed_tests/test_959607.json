@@ -1,0 +1,425 @@
+{
+    "datum_testu": "14.07.2025",
+    "prehled_otazek": [
+        {
+            "text_otazky": "Co znamená zkratka CTR?",
+            "moznosti": {
+                "A": "prostor, kde není možné provádět lety VFR",
+                "B": "koncová řízená oblast",
+                "C": "řízený okrsek letiště"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Rozdíl mezi UTC a středoevropským (SEČ) časem je:",
+            "moznosti": {
+                "A": "2 hodiny",
+                "B": "není žádný",
+                "C": "1 hodina"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Pro lepení leteckých konstrukcí se používají:",
+            "moznosti": {
+                "A": "pouze k tomu určená lepidla",
+                "B": "letecké konstrukce se nelepí",
+                "C": "jakákoli lepidla"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "U skořepinové konstrukce trupu přenáší:",
+            "moznosti": {
+                "A": "hlavní síly příhradová konstrukce",
+                "B": "veškeré síly potah",
+                "C": "veškeré síly přepážky trupu"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Poloha zeměpisného a magnetického pólu:",
+            "moznosti": {
+                "A": "není shodná",
+                "B": "totožná",
+                "C": "magnetický pól je vždy na východ od zeměpisného"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Nejspodnější vrstvu atmosféry nazýváme:",
+            "moznosti": {
+                "A": "troposféra",
+                "B": "mezosféra",
+                "C": "stratosféra"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Pádová rychlost letadla v zatáčce:",
+            "moznosti": {
+                "A": "je konstantní, nesmí být vyšší než 65 km/h",
+                "B": "je nižší než v přímém ustáleném letu",
+                "C": "je vyšší než v přímém ustáleném letu a závisí na náklonu letadla"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Při dosažení obratové rychlosti ULL značené jako Va mohou být kormidla vychýlena:",
+            "moznosti": {
+                "A": "na maimální výchylky",
+                "B": "nemohou - nesmí být použita jakákoli výchylka",
+                "C": "na 1/3 maimální výchylky"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Úhel náběhu je geometrický úhel, který:",
+            "moznosti": {
+                "A": "svírá tětiva profilu s vodorovnou rovinou (horizontem)",
+                "B": "svírá směr nabíhajícího proudu s vodorovnou rovinou (horizontem), tj. nulový v horizontálním letu",
+                "C": "svírá směr nabíhajícího proudu vzduchu s tětivou profilu"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Zvláštní lety VFR pro letadla v řízeném okrsku se smí provádět mimo mraky, za stálé viditelnosti země při minimální přízemní i letové dohlednosti:",
+            "moznosti": {
+                "A": "500 m",
+                "B": "1 km",
+                "C": "1,5 km pro letouny a 0,8 km pro vrtulníky"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Do jaké výšky lze počítat s „přízemním efektem“ v blízkosti země?",
+            "moznosti": {
+                "A": "do výšky 1 m",
+                "B": "asi do výšky jako je polovina rozpětí křídla",
+                "C": "u ULLa do výšky přibližně 20 m"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Na nosnou konstrukci malých letadel se používají tyto druhy dřev:",
+            "moznosti": {
+                "A": "bříza, buk, olše, lípa, jasan, jilm",
+                "B": "zásadně topol",
+                "C": "smrk, borovice"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Přivedení letadla za letu do blízkosti kritického úhlu náběhu se zpravidla projeví:",
+            "moznosti": {
+                "A": "chvěním letadla, patrným i v řízení letadla způsobené tím, že proud vzduchu, který se odtrhává na křídle zasahuje ocasní plochy",
+                "B": "zvětšením sil v řízení",
+                "C": "zvýšením rychlosti letu"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Letíte-li směrem na východ nebo na západ a prudce změníte rychlost, magnetický kompas: :",
+            "moznosti": {
+                "A": "se rozkolísá",
+                "B": "ukáže změnu kurzu",
+                "C": "bude ukazovat stále stejný kurs"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Při letech na neřízené letiště nebo když se nepodaří navázat radiospojení se stanovištěm AFIS daného letiště, je velitel letadla vybaveného radiostanicí povinen:",
+            "moznosti": {
+                "A": "přistát na daném letišti bez spojení",
+                "B": "odletět na náhradní letiště",
+                "C": "vysílat hlášení na příslušném kmitočtu daného letiště zprávu obsahující značku letadla, výšku, místo vstupu do letové zóny ATZ, místo zařazení do okruhu a polohy na okruhu"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Může být celkový a statický tlak do rychloměru přiveden z jiného zařízení než z Pitot-statické trubice?",
+            "moznosti": {
+                "A": "nemůže",
+                "B": "může",
+                "C": "absolutně nesmí"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Zeměkoule je:",
+            "moznosti": {
+                "A": "síť souřadnicových čar",
+                "B": "ideální koule",
+                "C": "rotační elipsoid na pólech zploštělý"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Zeměpisný sever a jih:",
+            "moznosti": {
+                "A": "mění se v závislosti na roční době",
+                "B": "působí na něj magnetismus země",
+                "C": "nemění polohu"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Musí se motor před vzletem ohřívat na předepsané teploty?",
+            "moznosti": {
+                "A": "musí jen dvoutaktní",
+                "B": "musí jen vzduchem chlazený",
+                "C": "musí"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Jsou motory montované do SLZ 100% spolehlivé?",
+            "moznosti": {
+                "A": "nejsou",
+                "B": "když se dodrží předepsané prohlídky tak jsou",
+                "C": "jsou, když se s nimi zachází opatrně"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
+        },
+        {
+            "text_otazky": "9 cm na mapě 1 : 500 000 odpovídá ve skutečnosti:",
+            "moznosti": {
+                "A": "50 km",
+                "B": "45 km",
+                "C": "60 km"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Kdy je ve střední Evropě největší pravděpodobnost výskytu bouřek z tepla?",
+            "moznosti": {
+                "A": "Poledne, odpoledne",
+                "B": "Okolo půlnoci",
+                "C": "Pozdě ráno"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Údržba letadla je:",
+            "moznosti": {
+                "A": "souhrn činností zajišťujících čistotu všech částí letadla",
+                "B": "souhrn činností zajišťující pevnost letadla systémem prohlídek, ošetření a oprav",
+                "C": "souhrn činností zajišťujících zachování způsobilosti k leteckému provozu systémem prohlídek, ošetření a oprav"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Vyšší účinnost má vrtule:",
+            "moznosti": {
+                "A": "4 listá",
+                "B": "3 listá",
+                "C": "2 listá"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Při laminárním proudění:",
+            "moznosti": {
+                "A": "nedochází k vzájemnému promíchávání proudnic",
+                "B": "dochází k vzájemnému promíchávání proudnic",
+                "C": "dochází k vzájemnému promíchávání proudnic, ale na konci sledovaného průřezu (profilu) se v proudu netvoří víry"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
+        },
+        {
+            "text_otazky": "Sportovní létající zařízení může řídit",
+            "moznosti": {
+                "A": "pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo pilotní žák za podmínek stanovených výcvikovou osnovou",
+                "B": "pilot, který je držitelem platného posudku o zdravotní způsobilosti, nebo pilotní žák za podmínek stanovených výcvikovou osnovou",
+                "C": "pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo osoba oprávněná provozovatelem SLZ za přítomnosti pilota, pilotní žák za podmínek stanovených výcvikovou osnovou"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Musí být na palubě letadla při všech letech doklad o pojištění zákonné odpovědnosti?",
+            "moznosti": {
+                "A": "ne při letištním letu",
+                "B": "ano",
+                "C": "ne"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Obsahuje letová příručka provozní omezení?",
+            "moznosti": {
+                "A": "ne",
+                "B": "ano",
+                "C": "podle rozhodnutí provozovatele"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Ploška na výškovém kormidle, která se automaticky vychyluje v závislosti na výchylce výškovky v opačném smyslu se nazývá:",
+            "moznosti": {
+                "A": "odlehčovací ploška, jejímž účelem je zmenšení sil v řízení",
+                "B": "osové odlehčení",
+                "C": "jen vyvažovací"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Za vykonávání činnosti leteckého personálu bez platného průkazu způsobilosti může být pilotovi SLZ:",
+            "moznosti": {
+                "A": "uložena pokuta až do výše 5.000,- Kč",
+                "B": "nemůže být uložena žádná sankce",
+                "C": "uložena pokuta až do výše 500.000,-- Kč"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Co převážně obsahují vysoká oblaka (čím je tvořena oblačnost klasifikovaná jako vysoká)?",
+            "moznosti": {
+                "A": "Ledové krystalky",
+                "B": "Kroupy",
+                "C": "Podchlazené vodní kapky"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
+        },
+        {
+            "text_otazky": "Trup letadla je charakterizován následovně:",
+            "moznosti": {
+                "A": "část draku letadla, sloužící hlavně ke spojení jednotlivých části draku a k umístění posádky, cestujících, nákladu, výstroje popř. hnací jednotky",
+                "B": "utěsněná část letadla s vnitřním vybavením a výstrojí",
+                "C": "sestavený drak letadla bez potahu a křídel"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Je-li dáván příkaz letadlu za letu orgánem letištní služby řízení světelným návěstím, potom stálé zelené světlo znamená:",
+            "moznosti": {
+                "A": "přistání povoleno",
+                "B": "vrať se na přistání",
+                "C": "vzlet povolen"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
+        },
+        {
+            "text_otazky": "Kde začíná na profilu odtrhávání proudu?",
+            "moznosti": {
+                "A": "v mezní vrstvě na sací straně profilu od odtokové hrany",
+                "B": "v úplavu na sací straně profilu u náběžné hrany",
+                "C": "v mezní vrstvě na sací straně profilu u náběžné hrany"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Jaký účinek má slot?",
+            "moznosti": {
+                "A": "zvýší cestovní rychlost",
+                "B": "umožní zvětšení kritického úhlu náběhu",
+                "C": "zvětší součinitel třecího odporu"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Letadlo za letu nebo pohybující se na zemi musí dát přednost letadlu, které:",
+            "moznosti": {
+                "A": "nemá spojení se službou řízeného letového provozu",
+                "B": "přistává nebo je v poslední fázi přiblížení na přistání",
+                "C": "dostalo povolení pro přiblížení na přistání"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Jaká je nejmenší délka VPD pro vzlety a přistání SLZ",
+            "moznosti": {
+                "A": "150 m",
+                "B": "500 m",
+                "C": "300 m"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Mezi oblačnost kupovitou patří:",
+            "moznosti": {
+                "A": "Cu - cumulus",
+                "B": "St - stratus",
+                "C": "As - altostratus"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Na ULL je instalována dřevěná vrtule. Tato je připevněna pomocí šroubů, které jsou:",
+            "moznosti": {
+                "A": "dotaženy bez podložek",
+                "B": "dotaženy přes samostatné podložky",
+                "C": "dotaženy přes jednu centrální podložku"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "K pádu do vývrtky dochází v důsledku:",
+            "moznosti": {
+                "A": "uvedení do zatáčky s příliš velkým náklonem kolem podélné osy",
+                "B": "nesymetrického odtržení proudění na křídle",
+                "C": "uvedení do zatáčky při příliš velké rychlosti"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Jak se změní rychlost proudu a statický tlak, když se rozšíří v určitém místě proudnice:",
+            "moznosti": {
+                "A": "rychlost se sníží, statický tlak poklesne",
+                "B": "rychlost se zvýší, statický tlak se zvýší",
+                "C": "rychlost se sníží, statický tlak se zvýší"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Co je to kompenzace kompasu?",
+            "moznosti": {
+                "A": "odstraňování chyb kompasu způsobených špatným upevněním v letadle.",
+                "B": "odstraňování chyb kompasu způsobených třením přístroje",
+                "C": "odstraňování chyb kompasu vzniklých vlivem rušivých magnetický nebo elektromagnetických polí v letadle."
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        }
+    ]
+}
