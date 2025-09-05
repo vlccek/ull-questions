@@ -2,53 +2,33 @@
     "datum_testu": "12.05.2025",
     "prehled_otazek": [
         {
-            "text_otazky": "Výškoměr má okénko tlakové stupnice, k jakému účelu slouží?",
+            "text_otazky": "Vztažný bod letiště určuje:",
             "moznosti": {
-                "A": "pro přesné nastavení určitého tlaku vzduchu",
-                "B": "pro přesnou kompenzaci výškoměru",
-                "C": "pro přesné nastavení určité výšky"
+                "A": "nadmořskou výšku letiště",
+                "B": "zeměpisnou polohu letiště",
+                "C": "geometrický střed hlavní RWY"
             },
-            "spravna_odpoved": "A",
+            "spravna_odpoved": "B",
             "body": 1
         },
         {
-            "text_otazky": "Lety VFR ve vzdušném prostoru třídy G se musí provádět tak, aby letadlo letělo:",
+            "text_otazky": "Hustota vzduchu:",
             "moznosti": {
-                "A": "při stejné nebo větší vzdálenosti od oblaku než - horizontálně 1,5 km, vertikálně 300",
-                "B": "vně oblaků za stálé dohlednosti země",
-                "C": "při stejné nebo větší vzdálenosti od oblaku než - horizontálně 5 km, vertikálně 300 m"
+                "A": "roste s klesající teplotou vzduchu",
+                "B": "snižuje se s klesající teplotou",
+                "C": "roste s rostoucí teplotou"
             },
-            "spravna_odpoved": "B",
+            "spravna_odpoved": "A",
             "body": 3
         },
         {
-            "text_otazky": "Musí být na palubě SLZ při provádění výcviku vzletu a přistání platný technický průkaz?",
+            "text_otazky": "Průměrná spotřeba = 21 l/h, doba letu 2°10‘:",
             "moznosti": {
-                "A": "ano",
-                "B": "ne",
-                "C": "podle rozhodnutí pilota"
+                "A": "spotřebujete 45,5 l",
+                "B": "spotřebujete 52 l",
+                "C": "spotřebujete 42 l"
             },
             "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Jaká pohonná jednotka se u SLZ používá?",
-            "moznosti": {
-                "A": "pístová",
-                "B": "raketová",
-                "C": "turbohřídelová"
-            },
-            "spravna_odpoved": "A",
-            "body": 1
-        },
-        {
-            "text_otazky": "V definici standardní atmosféry jsou hodnoty tlaku a teploty na střední hladině moře:",
-            "moznosti": {
-                "A": "1015 hPa, +10°C",
-                "B": "1013,25 hPa, 0°C",
-                "C": "1013,25 hPa, +15°C"
-            },
-            "spravna_odpoved": "C",
             "body": 3
         },
         {
@@ -57,6 +37,16 @@
                 "A": "žádný tlak",
                 "B": "podtlak",
                 "C": "přetlak"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Přízemní projevy aktivní bouřky nebezpečné pro letecký provoz:",
+            "moznosti": {
+                "A": "vypadávání trvalých srážek",
+                "B": "snížení základny oblačnosti, snižování dohlednosti",
+                "C": "húlava na čele bouřky, eistence silného vzestupného proudu před húlavou, silný sestupný proud za húlavou v oblasti vypadávajících srážek, silné nárazy větru"
             },
             "spravna_odpoved": "C",
             "body": 3
@@ -72,14 +62,14 @@
             "body": 3
         },
         {
-            "text_otazky": "Provádíte-li zatáčku na jih podle magnetického kompasu, zatáčku:",
+            "text_otazky": "Záznamy o provozu a údržbě SLZ se vedou:",
             "moznosti": {
-                "A": "zastavíte přesně na zamýšleném kursu",
-                "B": "nedotočíte",
-                "C": "přetočíte"
+                "A": "v letové příručce",
+                "B": "v letadlové knize",
+                "C": "nemusí být vedeny"
             },
-            "spravna_odpoved": "C",
-            "body": 1
+            "spravna_odpoved": "B",
+            "body": 3
         },
         {
             "text_otazky": "Při provádění srovnávací orientace je vždy spolehlivější:",
@@ -92,53 +82,23 @@
             "body": 3
         },
         {
-            "text_otazky": "Při překročení kritického úhlu náběhu dochází k odtržení proudu nejdříve:",
+            "text_otazky": "Každá závada (porucha) mající vliv na letovou způsobilost, která byla zjištěna na letadle, jeho výstroji a pohonné jednotce musí být odstraněna před zahájením dalšího letu:",
             "moznosti": {
-                "A": "na kýlové ploše",
-                "B": "na vodorovných ocasních plochách",
-                "C": "na křídle"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "Letíme kursem 030°, točíme pravou zatáčku o náklonu 15 st. Na jakém kursu musíme srovnat",
-            "moznosti": {
-                "A": "na 180°",
-                "B": "na 210°",
-                "C": "na 150°"
+                "A": "nemusí být odstraněna před zahájením letištního letu",
+                "B": "ano – musí být odstraněna před zahájením dalšího letu",
+                "C": "musí být odstraněna pouze při provozu ve středisku pilotního výcviku"
             },
             "spravna_odpoved": "B",
             "body": 3
         },
         {
-            "text_otazky": "Do jaké výšky lze počítat s „přízemním efektem“ v blízkosti země?",
-            "moznosti": {
-                "A": "u ULLa do výšky přibližně 20 m",
-                "B": "asi do výšky jako je polovina rozpětí křídla",
-                "C": "do výšky 1 m"
-            },
-            "spravna_odpoved": "B",
-            "body": 1
-        },
-        {
-            "text_otazky": "V letové příručce letadla je uvedena minimální hmotnost pilota 70 kg a maximální hmotnost",
+            "text_otazky": "V letové příručce letadla je uvedena minimální hmotnost pilota 70 kg a maximální hmotnost pilota 110 kg. Pilot s hmotností 59 kg pro provedení letu provede:",
             "moznosti": {
                 "A": "let bez dalších úprav",
                 "B": "dovážení své hmotnosti na 70 kg",
                 "C": "dovážení své hmotnosti tak, aby na jeho sedačce byla hmotnost 110 kg."
             },
             "spravna_odpoved": "B",
-            "body": 3
-        },
-        {
-            "text_otazky": "Průměrná spotřeba = 21 l/h, doba letu 2°10‘:",
-            "moznosti": {
-                "A": "spotřebujete 45,5 l",
-                "B": "spotřebujete 52 l",
-                "C": "spotřebujete 42 l"
-            },
-            "spravna_odpoved": "A",
             "body": 3
         },
         {
@@ -152,6 +112,26 @@
             "body": 0
         },
         {
+            "text_otazky": "Pádová rychlost letadla v zatáčce:",
+            "moznosti": {
+                "A": "je vyšší než v přímém ustáleném letu a závisí na náklonu letadla",
+                "B": "je konstantní, nesmí být vyšší než 65 km/h",
+                "C": "je nižší než v přímém ustáleném letu"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Jaké jsou fáze vzletu motorového letadla?",
+            "moznosti": {
+                "A": "rozjezd, nadzdvihnutí, rozlet přechodový oblouk, stoupání až do doby než je dosažena cestovní rychlost",
+                "B": "rozjezd, odtržení, mírné stoupání, strmé stoupání až do předepsané výšky",
+                "C": "rozjezd, odpoutání, rozlet, přechodový oblouk, stoupání"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
             "text_otazky": "Letištní provozní zóna - ATZ je:",
             "moznosti": {
                 "A": "vymezený vzdušný prostor se službou řízení letového provozu",
@@ -162,31 +142,41 @@
             "body": 1
         },
         {
-            "text_otazky": "Na jakém povrchu země se může dělat motorová zkouška?",
+            "text_otazky": "Platný pilotní průkaz musí mít pilot u sebe:",
             "moznosti": {
-                "A": "na bezprašném bez drobných nečistot (kamínky apod.)",
-                "B": "jen na betónu nebo asfaltu",
-                "C": "na povrchu země nezáleží"
+                "A": "při přeletu",
+                "B": "při mimoletištním letu",
+                "C": "při každém letu"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Lety VFR ve vzdušném prostoru třídy G se musí provádět tak, aby letadlo letělo:",
+            "moznosti": {
+                "A": "při stejné nebo větší vzdálenosti od oblaku než - horizontálně 1,5 km, vertikálně 300 m",
+                "B": "vně oblaků za stálé dohlednosti země",
+                "C": "při stejné nebo větší vzdálenosti od oblaku než - horizontálně 5 km, vertikálně 300 m"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Technický průkaz SLZ platí na dobu:",
+            "moznosti": {
+                "A": "maimálně 2 roky",
+                "B": "maimálně na dobu 5ti let",
+                "C": "neomezenou"
             },
             "spravna_odpoved": "A",
             "body": 1
         },
         {
-            "text_otazky": "Zeměkoule je:",
+            "text_otazky": "225 stupňů je vedlejší světová strana:",
             "moznosti": {
-                "A": "síť souřadnicových čar",
-                "B": "ideální koule",
-                "C": "rotační elipsoid na pólech zploštělý"
-            },
-            "spravna_odpoved": "C",
-            "body": 1
-        },
-        {
-            "text_otazky": "Pádová rychlost letadla v zatáčce:",
-            "moznosti": {
-                "A": "je vyšší než v přímém ustáleném letu a závisí na náklonu letadla",
-                "B": "je konstantní, nesmí být vyšší než 65 km/h",
-                "C": "je nižší než v přímém ustáleném letu"
+                "A": "jihozápad",
+                "B": "severozápad",
+                "C": "jihovýchod"
             },
             "spravna_odpoved": "A",
             "body": 3
@@ -202,24 +192,14 @@
             "body": 3
         },
         {
-            "text_otazky": "Přízemní projevy aktivní bouřky nebezpečné pro letecký provoz:",
+            "text_otazky": "Je možné z rychlostní poláry odečíst rychlost nejlepšího klouzání při protivětru?",
             "moznosti": {
-                "A": "vypadávání trvalých srážek",
-                "B": "snížení základny oblačnosti, snižování dohlednosti",
-                "C": "húlava na čele bouřky, eistence silného vzestupného proudu před húlavou, silný"
+                "A": "jen pro vítr do zad",
+                "B": "ne",
+                "C": "ano"
             },
             "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "Jaké jsou fáze vzletu motorového letadla?",
-            "moznosti": {
-                "A": "rozjezd, nadzdvihnutí, rozlet přechodový oblouk, stoupání až do doby než je",
-                "B": "rozjezd, odtržení, mírné stoupání, strmé stoupání až do předepsané výšky",
-                "C": "rozjezd, odpoutání, rozlet, přechodový oblouk, stoupání"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
+            "body": 1
         },
         {
             "text_otazky": "Prostor třídy G sahá v ČR do výšky",
@@ -229,6 +209,126 @@
                 "C": "300 m AGL"
             },
             "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Je nutné před letem provádět kontrolu motoru a doplnění médií?",
+            "moznosti": {
+                "A": "ano, jednou měsíčně",
+                "B": "ano, jednou za dva měsíce",
+                "C": "ano, vždy na začátku letového dne"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Na jakém povrchu země se může dělat motorová zkouška?",
+            "moznosti": {
+                "A": "na bezprašném bez drobných nečistot (kamínky apod.)",
+                "B": "jen na betónu nebo asfaltu",
+                "C": "na povrchu země nezáleží"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
+        },
+        {
+            "text_otazky": "Úbytek teploty s výškou v definici standardní atmosféry – vertikální teplotní gradient má hodnotu:",
+            "moznosti": {
+                "A": "0,65° C/100 m",
+                "B": "0,6° C/100 m",
+                "C": "1,0° C/100 m"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
+        },
+        {
+            "text_otazky": "Horizontální červená čtvercová deska se žlutými úhlopříčkami vyložená v signální (návěstní) ploše znamená:",
+            "moznosti": {
+                "A": "nezpůsobilost provozní plochy",
+                "B": "nebezpečí při přistání",
+                "C": "že přistání na dotyčném letišti je zakázáno a zákaz se pravděpodobně prodlouží"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Provádíte-li zatáčku na jih podle magnetického kompasu, zatáčku:",
+            "moznosti": {
+                "A": "zastavíte přesně na zamýšleném kursu",
+                "B": "nedotočíte",
+                "C": "přetočíte"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Při překročení kritického úhlu náběhu dochází k odtržení proudu nejdříve:",
+            "moznosti": {
+                "A": "na kýlové ploše",
+                "B": "na vodorovných ocasních plochách",
+                "C": "na křídle"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Musí být na palubě SLZ při provádění výcviku vzletu a přistání platný technický průkaz?",
+            "moznosti": {
+                "A": "ano",
+                "B": "ne",
+                "C": "podle rozhodnutí pilota"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Bude letadlu poskytována pohotovostní služba když nemá velitel letadla podaný letový plán a letí v CTR:",
+            "moznosti": {
+                "A": "ne",
+                "B": "jen na žádost velitele letadla",
+                "C": "ano"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Je povinností pilota, mít při mimoletištním letu na palubě mapu?",
+            "moznosti": {
+                "A": "není když má GPS",
+                "B": "není",
+                "C": "je"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Optimální klouzavostí lze letět při:",
+            "moznosti": {
+                "A": "dvou úhlech náběhu",
+                "B": "kritickém úhlu náběhu",
+                "C": "jednom úhlu náběhu"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Zeměkoule je:",
+            "moznosti": {
+                "A": "síť souřadnicových čar",
+                "B": "ideální koule",
+                "C": "rotační elipsoid na pólech zploštělý"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "S výjimkou vzletu nebo přistání nebo s výjimkou povolení vydaného leteckým úřadem, musí být VFR let prováděn nad hustě zastavěnými místy nebo shromáždištěm lidí na volném prostranství ve výšce, která nesmí být menší než:",
+            "moznosti": {
+                "A": "150 m nad nejvyšší překážkou v okruhu 600 m od letadla",
+                "B": "300 m nad nejvyšší překážkou v okruhu 600 m od letadla",
+                "C": "300 m nad nejvyšší překážkou v okruhu 300 m od letadla"
+            },
+            "spravna_odpoved": "B",
             "body": 3
         },
         {
@@ -252,36 +352,6 @@
             "body": 1
         },
         {
-            "text_otazky": "Hustota vzduchu:",
-            "moznosti": {
-                "A": "roste s klesající teplotou vzduchu",
-                "B": "snižuje se s klesající teplotou",
-                "C": "roste s rostoucí teplotou"
-            },
-            "spravna_odpoved": "A",
-            "body": 3
-        },
-        {
-            "text_otazky": "Optimální klouzavostí lze letět při:",
-            "moznosti": {
-                "A": "dvou úhlech náběhu",
-                "B": "kritickém úhlu náběhu",
-                "C": "jednom úhlu náběhu"
-            },
-            "spravna_odpoved": "C",
-            "body": 1
-        },
-        {
-            "text_otazky": "225 stupňů je vedlejší světová strana:",
-            "moznosti": {
-                "A": "jihozápad",
-                "B": "severozápad",
-                "C": "jihovýchod"
-            },
-            "spravna_odpoved": "A",
-            "body": 3
-        },
-        {
             "text_otazky": "Letadlo pojíždějící po provozní ploše (před vzletem) musí dát přednost letadlu:",
             "moznosti": {
                 "A": "rychlejšímu",
@@ -292,54 +362,34 @@
             "body": 3
         },
         {
-            "text_otazky": "Úbytek teploty s výškou v definici standardní atmosféry – vertikální teplotní gradient má",
+            "text_otazky": "V definici standardní atmosféry jsou hodnoty tlaku a teploty na střední hladině moře:",
             "moznosti": {
-                "A": "0,65° C/100 m",
-                "B": "0,6° C/100 m",
-                "C": "1,0° C/100 m"
+                "A": "1015 hPa, +10°C",
+                "B": "1013,25 hPa, 0°C",
+                "C": "1013,25 hPa, +15°C"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Jaká pohonná jednotka se u SLZ používá?",
+            "moznosti": {
+                "A": "pístová",
+                "B": "raketová",
+                "C": "turbohřídelová"
             },
             "spravna_odpoved": "A",
             "body": 1
         },
         {
-            "text_otazky": "Každá závada (porucha) mající vliv na letovou způsobilost, která byla zjištěna na letadle, jeho",
+            "text_otazky": "Do jaké výšky lze počítat s „přízemním efektem“ v blízkosti země?",
             "moznosti": {
-                "A": "nemusí být odstraněna před zahájením letištního letu",
-                "B": "ano – musí být odstraněna před zahájením dalšího letu",
-                "C": "musí být odstraněna pouze při provozu ve středisku pilotního výcviku"
+                "A": "u ULLa do výšky přibližně 20 m",
+                "B": "asi do výšky jako je polovina rozpětí křídla",
+                "C": "do výšky 1 m"
             },
             "spravna_odpoved": "B",
-            "body": 3
-        },
-        {
-            "text_otazky": "Horizontální červená čtvercová deska se žlutými úhlopříčkami vyložená v signální (návěstní)",
-            "moznosti": {
-                "A": "nezpůsobilost provozní plochy",
-                "B": "nebezpečí při přistání",
-                "C": "že přistání na dotyčném letišti je zakázáno a zákaz se pravděpodobně prodlouží"
-            },
-            "spravna_odpoved": "C",
             "body": 1
-        },
-        {
-            "text_otazky": "Je nutné před letem provádět kontrolu motoru a doplnění médií?",
-            "moznosti": {
-                "A": "ano, jednou měsíčně",
-                "B": "ano, jednou za dva měsíce",
-                "C": "ano, vždy na začátku letového dne"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "Záznamy o provozu a údržbě SLZ se vedou:",
-            "moznosti": {
-                "A": "v letové příručce",
-                "B": "v letadlové knize",
-                "C": "nemusí být vedeny"
-            },
-            "spravna_odpoved": "B",
-            "body": 3
         },
         {
             "text_otazky": "Motor je vždy uložen do draku letounu:",
@@ -352,71 +402,21 @@
             "body": 1
         },
         {
-            "text_otazky": "Je možné z rychlostní poláry odečíst rychlost nejlepšího klouzání při protivětru?",
+            "text_otazky": "Výškoměr má okénko tlakové stupnice, k jakému účelu slouží?",
             "moznosti": {
-                "A": "jen pro vítr do zad",
-                "B": "ne",
-                "C": "ano"
-            },
-            "spravna_odpoved": "C",
-            "body": 1
-        },
-        {
-            "text_otazky": "Vztažný bod letiště určuje:",
-            "moznosti": {
-                "A": "nadmořskou výšku letiště",
-                "B": "zeměpisnou polohu letiště",
-                "C": "geometrický střed hlavní RWY"
-            },
-            "spravna_odpoved": "B",
-            "body": 1
-        },
-        {
-            "text_otazky": "Je povinností pilota, mít při mimoletištním letu na palubě mapu?",
-            "moznosti": {
-                "A": "není když má GPS",
-                "B": "není",
-                "C": "je"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "Bude letadlu poskytována pohotovostní služba když nemá velitel letadla podaný letový plán a",
-            "moznosti": {
-                "A": "ne",
-                "B": "jen na žádost velitele letadla",
-                "C": "ano"
-            },
-            "spravna_odpoved": "C",
-            "body": 1
-        },
-        {
-            "text_otazky": "Technický průkaz SLZ platí na dobu:",
-            "moznosti": {
-                "A": "maimálně 2 roky",
-                "B": "maimálně na dobu 5ti let",
-                "C": "neomezenou"
+                "A": "pro přesné nastavení určitého tlaku vzduchu",
+                "B": "pro přesnou kompenzaci výškoměru",
+                "C": "pro přesné nastavení určité výšky"
             },
             "spravna_odpoved": "A",
             "body": 1
         },
         {
-            "text_otazky": "Platný pilotní průkaz musí mít pilot u sebe:",
+            "text_otazky": "Letíme kursem 030°, točíme pravou zatáčku o náklonu 15 st. Na jakém kursu musíme srovnat zatáčku, abychom letěli kursem 180 stupňů?",
             "moznosti": {
-                "A": "při přeletu",
-                "B": "při mimoletištním letu",
-                "C": "při každém letu"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "S výjimkou vzletu nebo přistání nebo s výjimkou povolení vydaného leteckým úřadem, musí",
-            "moznosti": {
-                "A": "150 m nad nejvyšší překážkou v okruhu 600 m od letadla",
-                "B": "300 m nad nejvyšší překážkou v okruhu 600 m od letadla",
-                "C": "300 m nad nejvyšší překážkou v okruhu 300 m od letadla"
+                "A": "na 180°",
+                "B": "na 210°",
+                "C": "na 150°"
             },
             "spravna_odpoved": "B",
             "body": 3

@@ -2,11 +2,41 @@
     "datum_testu": "13.05.2025",
     "prehled_otazek": [
         {
-            "text_otazky": "Jakou rychlost měří rychloměr?",
+            "text_otazky": "Elektrické vedení procházející otvorem musí být chráněno zvýšenou izolací (např. gumovou průchodkou), která jej chrání před poškozením?",
             "moznosti": {
-                "A": "skutečnou",
-                "B": "rychlost pohybu letadla vůči ovzduší",
-                "C": "absolutní"
+                "A": "ne",
+                "B": "ano",
+                "C": "jen u zapalování"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Letadlo má v letové příručce a na štítku v kabině uvedenou max. vzletovou hmotnost 420 kg:",
+            "moznosti": {
+                "A": "pro vzlet musí být dodržena hmotnost 420 kg. Tato hmotnost může být překročena o hmotnost záchranného systému která se do ma. vzletové hmotnosti nezapočitává.",
+                "B": "maimální vzletová hmotnost je 450 kg dle leteckého zákona.",
+                "C": "pro vzlet musí být dodržena hmotnost 420 kg"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "V případě přeplnění nádrže palivového systému přebytečným palivem, nesmí mít toto palivo možnost zatékat do konstrukce letadla:",
+            "moznosti": {
+                "A": "nadbytečný požadavek u většiny paliv",
+                "B": "nesmí",
+                "C": "může"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Při laminárním proudění:",
+            "moznosti": {
+                "A": "dochází k vzájemnému promíchávání proudnic",
+                "B": "nedochází k vzájemnému promíchávání proudnic",
+                "C": "dochází k vzájemnému promíchávání proudnic, ale na konci sledovaného průřezu (profilu) se v proudu netvoří víry"
             },
             "spravna_odpoved": "B",
             "body": 0
@@ -22,16 +52,6 @@
             "body": 1
         },
         {
-            "text_otazky": "Plošné zatížení:",
-            "moznosti": {
-                "A": "udává počet kilogramů celkové hmotnosti na m2 nosné plochy",
-                "B": "udává počet m2 nosné plochy na jeden kilogram celkové hmotnosti a veškerého",
-                "C": "udává počet kilogramů hmotnosti pilota na m2 nosné plochy"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
             "text_otazky": "Těžiště letadla je:",
             "moznosti": {
                 "A": "působiště tíhové síly",
@@ -42,27 +62,17 @@
             "body": 0
         },
         {
-            "text_otazky": "Kontakty akumulátoru se značí?",
+            "text_otazky": "Velikost násobku zatížení pilot nejvíc ovlivní:",
             "moznosti": {
-                "A": "kladný (–) červeně, záporný (+) modře",
-                "B": "kladný (+) červeně, záporný (–) modře",
-                "C": "kladný (+) modře, záporný (–) červeně"
+                "A": "prudkým vyvážením „těžký na ocas“",
+                "B": "rychlým zásahem do podélného řízení",
+                "C": "prudkým vyvážením „těžký na hlavu“"
             },
             "spravna_odpoved": "B",
             "body": 0
         },
         {
-            "text_otazky": "Velitelé letadel letících po letištním OKRUH_IDu jsou povinni:",
-            "moznosti": {
-                "A": "při přiblížení na přistání nebo po vzletu provádět všechny zatáčky doleva, pokud není",
-                "B": "vždy provádět všechny zatáčky doprava",
-                "C": "postupovat podle letového plánu"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Horizontální červená čtvercová deska se žlutými úhlopříčkami vyložená v signální (návěstní)",
+            "text_otazky": "Horizontální červená čtvercová deska se žlutými úhlopříčkami vyložená v signální (návěstní) ploše znamená:",
             "moznosti": {
                 "A": "nebezpečí při přistání",
                 "B": "že přistání na dotyčném letišti je zakázáno a zákaz se pravděpodobně prodlouží",
@@ -70,146 +80,6 @@
             },
             "spravna_odpoved": "B",
             "body": 0
-        },
-        {
-            "text_otazky": "Na spodní straně křídla za letu působí:",
-            "moznosti": {
-                "A": "přetlak",
-                "B": "žádný tlak",
-                "C": "podtlak"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Na nosnou konstrukci malých letadel se používají tyto druhy dřev:",
-            "moznosti": {
-                "A": "zásadně topol",
-                "B": "smrk, borovice",
-                "C": "bříza, buk, olše, lípa, jasan, jilm"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "Jestliže se instrukce předané letadlu narušiteli pomocí radiového spojení z jakýchkoliv zdrojů",
-            "moznosti": {
-                "A": "vzdálit se od zakázaného prostoru",
-                "B": "okamžitě žádat o vyjasnění a přitom se nadále řídit vizuálními instrukcemi",
-                "C": "zatočit do sledovaného směru a kývat křídly"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "Do jaké výšky lze počítat s „přízemním efektem“ v blízkosti země?",
-            "moznosti": {
-                "A": "do výšky 1 m",
-                "B": "u ULLa do výšky přibližně 20 m",
-                "C": "asi do výšky jako je polovina rozpětí křídla"
-            },
-            "spravna_odpoved": "C",
-            "body": 1
-        },
-        {
-            "text_otazky": "Letadlo má v letové příručce a na štítku v kabině uvedenou max. vzletovou hmotnost 420 kg:",
-            "moznosti": {
-                "A": "pro vzlet musí být dodržena hmotnost 420 kg. Tato hmotnost může být překročena o",
-                "B": "maimální vzletová hmotnost je 450 kg dle leteckého zákona.",
-                "C": "pro vzlet musí být dodržena hmotnost 420 kg"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "Která vlastnost je typická pro troposféru:",
-            "moznosti": {
-                "A": "nárůst tlaku s výškou",
-                "B": "isotermie",
-                "C": "pokles teploty s výškou"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "Který pól kompasu musí být těžší, aby byla růžice vodorovně?",
-            "moznosti": {
-                "A": "východní",
-                "B": "jižní",
-                "C": "severní"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "Štíhlost křídla:",
-            "moznosti": {
-                "A": "udává vztah mezi rozpětím a tloušťkou profilu",
-                "B": "udává vztah mezi druhou mocninou rozpětí a plochou křídla",
-                "C": "udává vztah mezi hloubkou a tloušťkou profilu"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "Účelem potahu v konstrukci křídla je:",
-            "moznosti": {
-                "A": "přijímat zatížení od tlakových změn na povrchu křídla a vytvořit vnější povrch křídla s",
-                "B": "přenášet ohybové zatížení křídla na nosníky",
-                "C": "spojit všechny části křídla v jeden celek"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Při laminárním proudění:",
-            "moznosti": {
-                "A": "dochází k vzájemnému promíchávání proudnic",
-                "B": "nedochází k vzájemnému promíchávání proudnic",
-                "C": "dochází k vzájemnému promíchávání proudnic, ale na konci sledovaného průřezu"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "Řízení letadel je:",
-            "moznosti": {
-                "A": "řídící páka nebo volant v pilotní kabině",
-                "B": "pedály v kabině pilota",
-                "C": "soustava prvků které, umožňují vychylování kormidel na ocasních plochách a"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "Vysunutí vztlakových klapek:",
-            "moznosti": {
-                "A": "klouzavost nezmění",
-                "B": "zlepší klouzavost",
-                "C": "zhorší klouzavost"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "Velká kružnice je:",
-            "moznosti": {
-                "A": "pouze rovník a nultý poledník",
-                "B": "největší kružnice na zeměkouli",
-                "C": "kružnice jejíž rovina prochází středem zeměkoule"
-            },
-            "spravna_odpoved": "C",
-            "body": 1
-        },
-        {
-            "text_otazky": "Informace o poloze CTR, TMA, LKR, LKP je možno získat",
-            "moznosti": {
-                "A": "v mapě ADAC",
-                "B": "v oficiální navigační mapě ÚCL",
-                "C": "v AIP ČR nebo platné letecké mapě"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
         },
         {
             "text_otazky": "UL letadla jsou dimenzovány na kladný provozní násobek:",
@@ -222,14 +92,64 @@
             "body": 3
         },
         {
-            "text_otazky": "Vyhláška k zákonu o civilním letectví, zdravotní prohlídku od pilota",
+            "text_otazky": "Kontakty akumulátoru se značí?",
             "moznosti": {
-                "A": "vyžaduje, a to určeným leteckým lékařem",
-                "B": "vyžaduje, a to sportovním lékařem",
-                "C": "nevyžaduje"
+                "A": "kladný (–) červeně, záporný (+) modře",
+                "B": "kladný (+) červeně, záporný (–) modře",
+                "C": "kladný (+) modře, záporný (–) červeně"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Vysunutí vztlakových klapek:",
+            "moznosti": {
+                "A": "klouzavost nezmění",
+                "B": "zlepší klouzavost",
+                "C": "zhorší klouzavost"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Jestliže se instrukce předané letadlu narušiteli pomocí radiového spojení z jakýchkoliv zdrojů liší od instrukcí předávaných zakročujícím letadlem pomocí vizuální návěsti,letadlo proti kterému je zakročováno musí:",
+            "moznosti": {
+                "A": "vzdálit se od zakázaného prostoru",
+                "B": "okamžitě žádat o vyjasnění a přitom se nadále řídit vizuálními instrukcemi předávanými zakročujícím letadlem",
+                "C": "zatočit do sledovaného směru a kývat křídly"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Poloha zeměpisného a magnetického pólu:",
+            "moznosti": {
+                "A": "není shodná",
+                "B": "totožná",
+                "C": "magnetický pól je vždy na východ od zeměpisného"
             },
             "spravna_odpoved": "A",
             "body": 0
+        },
+        {
+            "text_otazky": "Plošné zatížení:",
+            "moznosti": {
+                "A": "udává počet kilogramů celkové hmotnosti na m2 nosné plochy",
+                "B": "udává počet m2 nosné plochy na jeden kilogram celkové hmotnosti a veškerého vybavení",
+                "C": "udává počet kilogramů hmotnosti pilota na m2 nosné plochy"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Informace o poloze CTR, TMA, LKR, LKP je možno získat",
+            "moznosti": {
+                "A": "v mapě ADAC",
+                "B": "v oficiální navigační mapě ÚCL",
+                "C": "v AIP ČR nebo platné letecké mapě"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
         },
         {
             "text_otazky": "Horizontální rychlost se udává:",
@@ -242,33 +162,43 @@
             "body": 0
         },
         {
-            "text_otazky": "Čas se udává:",
+            "text_otazky": "Jakou rychlost měří rychloměr?",
             "moznosti": {
-                "A": "v hod, min, sec s tím, že minuta začíná ve 30.sec předchozí minuty a končí ve 30.sec",
-                "B": "v hod, min, sec s tím, že minuta začíná 1.sec a končí 60.sec",
-                "C": "ve stupních"
+                "A": "skutečnou",
+                "B": "rychlost pohybu letadla vůči ovzduší",
+                "C": "absolutní"
             },
             "spravna_odpoved": "B",
             "body": 0
         },
         {
-            "text_otazky": "Nezbytným předpokladem pro kondenzaci nasycených vodních par v troposféře je přítomnost",
+            "text_otazky": "Traťové lety VFR prováděné nad 900 m (3000ft)nad zemí nebo vodou ve směru od 180 stupňů do 359 stupňů musí být prováděny v letových hladinách FL:",
             "moznosti": {
-                "A": "kapalné částice",
-                "B": "kapalné i pevné částice",
-                "C": "pevné částice"
+                "A": "20, 40, 60, 80",
+                "B": "55, 75, 95, 115",
+                "C": "45, 65, 85, 105"
             },
             "spravna_odpoved": "C",
             "body": 1
         },
         {
-            "text_otazky": "V případě přeplnění nádrže palivového systému přebytečným palivem, nesmí mít toto palivo",
+            "text_otazky": "Nejčastější směr větru v údolí způsobený termickými efekty je směrem:",
             "moznosti": {
-                "A": "nadbytečný požadavek u většiny paliv",
-                "B": "nesmí",
-                "C": "může"
+                "A": "Během dne ke kopci",
+                "B": "Během dne z kopce",
+                "C": "Během noci z kopce"
             },
-            "spravna_odpoved": "B",
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Jaký pohyb řídící pákou musí pilot vykonat, aby letadlo přešlo do letu na menším úhlu náběhu, jak se při tom vychýlí výškové kormidlo?",
+            "moznosti": {
+                "A": "tlačit na řídící páku, výškové kormidlo se vychýlí dolů",
+                "B": "tlačit na řídící páku, výškové kormidlo se vychýlí nahoru",
+                "C": "přitáhnout řídící páku, výškovké kormidlo se vychýlí nahoru"
+            },
+            "spravna_odpoved": "A",
             "body": 0
         },
         {
@@ -292,23 +222,43 @@
             "body": 0
         },
         {
-            "text_otazky": "Poloha zeměpisného a magnetického pólu:",
+            "text_otazky": "Na nosnou konstrukci malých letadel se používají tyto druhy dřev:",
             "moznosti": {
-                "A": "není shodná",
-                "B": "totožná",
-                "C": "magnetický pól je vždy na východ od zeměpisného"
+                "A": "zásadně topol",
+                "B": "smrk, borovice",
+                "C": "bříza, buk, olše, lípa, jasan, jilm"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Vyhláška k zákonu o civilním letectví, zdravotní prohlídku od pilota",
+            "moznosti": {
+                "A": "vyžaduje, a to určeným leteckým lékařem",
+                "B": "vyžaduje, a to sportovním lékařem",
+                "C": "nevyžaduje"
             },
             "spravna_odpoved": "A",
             "body": 0
         },
         {
-            "text_otazky": "Velikost násobku zatížení pilot nejvíc ovlivní:",
+            "text_otazky": "Která vlastnost je typická pro troposféru:",
             "moznosti": {
-                "A": "prudkým vyvážením „těžký na ocas“",
-                "B": "rychlým zásahem do podélného řízení",
-                "C": "prudkým vyvážením „těžký na hlavu“"
+                "A": "nárůst tlaku s výškou",
+                "B": "isotermie",
+                "C": "pokles teploty s výškou"
             },
-            "spravna_odpoved": "B",
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Účelem potahu v konstrukci křídla je:",
+            "moznosti": {
+                "A": "přijímat zatížení od tlakových změn na povrchu křídla a vytvořit vnější povrch křídla s nejmenšími odchylkami od teoretických tvarů",
+                "B": "přenášet ohybové zatížení křídla na nosníky",
+                "C": "spojit všechny části křídla v jeden celek"
+            },
+            "spravna_odpoved": "A",
             "body": 0
         },
         {
@@ -317,46 +267,6 @@
                 "A": "nízkou hmotnost vrtule (pod 1 kg)",
                 "B": "malý úhel nastavení vrtule",
                 "C": "velký úhel nastavení vrtule"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "Jak bude ovlivněna délka vzletu motorového letadla, jestliže se bude po celou jeho dobu",
-            "moznosti": {
-                "A": "letadlo v důsledku značného součinitele odporu bude velice pomalu zrychlovat, takže",
-                "B": "délka vzletu se nepatrně prodlouží",
-                "C": "délka vzletu se výrazně zkrátí neboť letadlo dosáhne velkého součinitele vztlaku"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Traťové lety VFR prováděné nad 900 m (3000ft)nad zemí nebo vodou ve směru od 180 stupňů",
-            "moznosti": {
-                "A": "20, 40, 60, 80",
-                "B": "55, 75, 95, 115",
-                "C": "45, 65, 85, 105"
-            },
-            "spravna_odpoved": "C",
-            "body": 1
-        },
-        {
-            "text_otazky": "Jaký pohyb řídící pákou musí pilot vykonat, aby letadlo přešlo do letu na menším úhlu náběhu,",
-            "moznosti": {
-                "A": "tlačit na řídící páku, výškové kormidlo se vychýlí dolů",
-                "B": "tlačit na řídící páku, výškové kormidlo se vychýlí nahoru",
-                "C": "přitáhnout řídící páku, výškovké kormidlo se vychýlí nahoru"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Je-li dáván příkaz letadlu na zemi orgánem letištní služby řízení světelným návěstím, potom",
-            "moznosti": {
-                "A": "přistání povoleno",
-                "B": "vzlet povolen",
-                "C": "stůjte"
             },
             "spravna_odpoved": "B",
             "body": 0
@@ -374,12 +284,22 @@
         {
             "text_otazky": "Kritický bod je:",
             "moznosti": {
-                "A": "místo na trati plánované, ze kterého je stejná časová vzdálenost do místa startu i do",
-                "B": "místo na trati kam až letadlo může doletět, aby se za současného stavu paliva mohlo",
+                "A": "místo na trati plánované, ze kterého je stejná časová vzdálenost do místa startu i do místa přistání",
+                "B": "místo na trati kam až letadlo může doletět, aby se za současného stavu paliva mohlo vrátit",
                 "C": "bod na plánované trati nejvíce vzdálený od VBT"
             },
             "spravna_odpoved": "A",
             "body": 0
+        },
+        {
+            "text_otazky": "TMA (koncová řízená oblast)",
+            "moznosti": {
+                "A": "dá se podletět pouze při vzájemné komunikaci radiostanicí s příslušným stanovištěm ATS",
+                "B": "nedá se podletět ani nadletět",
+                "C": "se dá podletět"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
         },
         {
             "text_otazky": "Minimální dosažená výška při vzletu SLZ s max. vzlet. hmotností musí být:",
@@ -392,31 +312,111 @@
             "body": 0
         },
         {
-            "text_otazky": "Elektrické vedení procházející otvorem musí být chráněno zvýšenou izolací (např. gumovou",
+            "text_otazky": "Čas se udává:",
             "moznosti": {
-                "A": "ne",
-                "B": "ano",
-                "C": "jen u zapalování"
+                "A": "v hod, min, sec s tím, že minuta začíná ve 30.sec předchozí minuty a končí ve 30.sec následující minuty",
+                "B": "v hod, min, sec s tím, že minuta začíná 1.sec a končí 60.sec",
+                "C": "ve stupních"
             },
             "spravna_odpoved": "B",
             "body": 0
         },
         {
-            "text_otazky": "TMA (koncová řízená oblast)",
+            "text_otazky": "Je-li dáván příkaz letadlu na zemi orgánem letištní služby řízení světelným návěstím, potom stálé zelené světlo znamená:",
             "moznosti": {
-                "A": "dá se podletět pouze při vzájemné komunikaci radiostanicí s příslušným stanovištěm",
-                "B": "nedá se podletět ani nadletět",
-                "C": "se dá podletět"
+                "A": "přistání povoleno",
+                "B": "vzlet povolen",
+                "C": "stůjte"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Jak bude ovlivněna délka vzletu motorového letadla, jestliže se bude po celou jeho dobu pohybovat na vysokém úhlu náběhu v blízkosti kritického?",
+            "moznosti": {
+                "A": "letadlo v důsledku značného součinitele odporu bude velice pomalu zrychlovat, takže délka vzletu se výrazně prodlouží",
+                "B": "délka vzletu se nepatrně prodlouží",
+                "C": "délka vzletu se výrazně zkrátí neboť letadlo dosáhne velkého součinitele vztlaku"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Štíhlost křídla:",
+            "moznosti": {
+                "A": "udává vztah mezi rozpětím a tloušťkou profilu",
+                "B": "udává vztah mezi druhou mocninou rozpětí a plochou křídla",
+                "C": "udává vztah mezi hloubkou a tloušťkou profilu"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Velká kružnice je:",
+            "moznosti": {
+                "A": "pouze rovník a nultý poledník",
+                "B": "největší kružnice na zeměkouli",
+                "C": "kružnice jejíž rovina prochází středem zeměkoule"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Řízení letadel je:",
+            "moznosti": {
+                "A": "řídící páka nebo volant v pilotní kabině",
+                "B": "pedály v kabině pilota",
+                "C": "soustava prvků které, umožňují vychylování kormidel na ocasních plochách a křídlech, vychylování prostředků pro zvýšení vztlaku, ovládání vyvažovacích plošek i brzd podvozku"
             },
             "spravna_odpoved": "C",
             "body": 3
         },
         {
-            "text_otazky": "Nejčastější směr větru v údolí způsobený termickými efekty je směrem:",
+            "text_otazky": "Který pól kompasu musí být těžší, aby byla růžice vodorovně?",
             "moznosti": {
-                "A": "Během dne ke kopci",
-                "B": "Během dne z kopce",
-                "C": "Během noci z kopce"
+                "A": "východní",
+                "B": "jižní",
+                "C": "severní"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Nezbytným předpokladem pro kondenzaci nasycených vodních par v troposféře je přítomnost kondenzačních jader, kterými jsou:",
+            "moznosti": {
+                "A": "kapalné částice",
+                "B": "kapalné i pevné částice",
+                "C": "pevné částice"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Do jaké výšky lze počítat s „přízemním efektem“ v blízkosti země?",
+            "moznosti": {
+                "A": "do výšky 1 m",
+                "B": "u ULLa do výšky přibližně 20 m",
+                "C": "asi do výšky jako je polovina rozpětí křídla"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Na spodní straně křídla za letu působí:",
+            "moznosti": {
+                "A": "přetlak",
+                "B": "žádný tlak",
+                "C": "podtlak"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Velitelé letadel letících po letištním OKRUH_IDu jsou povinni:",
+            "moznosti": {
+                "A": "při přiblížení na přistání nebo po vzletu provádět všechny zatáčky doleva, pokud není přikázáno jinak",
+                "B": "vždy provádět všechny zatáčky doprava",
+                "C": "postupovat podle letového plánu"
             },
             "spravna_odpoved": "A",
             "body": 0

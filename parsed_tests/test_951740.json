@@ -2,14 +2,14 @@
     "datum_testu": "05.05.2025",
     "prehled_otazek": [
         {
-            "text_otazky": "Agona je:",
+            "text_otazky": "Nosnou složkou kompozitní letecké konstrukce je:",
             "moznosti": {
-                "A": "čára spojující místa s nulovou deklinací",
-                "B": "čára spojující místa se zápornou deklinací",
-                "C": "čára spojující místa s kladnou deklinací"
+                "A": "pryskyřice",
+                "B": "jemná drátěná síť",
+                "C": "tkanina nebo stejnosměrná skleněná vlákna, nebo vlákna z jiných k tomu určených materiálů"
             },
-            "spravna_odpoved": "A",
-            "body": 0
+            "spravna_odpoved": "C",
+            "body": 1
         },
         {
             "text_otazky": "Vlhkostí vzduchu rozumíme:",
@@ -22,56 +22,6 @@
             "body": 1
         },
         {
-            "text_otazky": "Vychýlením řídící páky vlevo se:",
-            "moznosti": {
-                "A": "vychýlí levé křidélko nahoru, pravé dolů a letadlo se nakloní doprava",
-                "B": "vychýlí levé křidélko nahoru, pravé dolů a letadlo se nakloní doleva",
-                "C": "vychýlí levé křidélko dolů, pravé nahoru a letadlo se nakloní doleva"
-            },
-            "spravna_odpoved": "B",
-            "body": 3
-        },
-        {
-            "text_otazky": "Kontakty akumulátoru se značí?",
-            "moznosti": {
-                "A": "kladný (+) červeně, záporný (–) modře",
-                "B": "kladný (–) červeně, záporný (+) modře",
-                "C": "kladný (+) modře, záporný (–) červeně"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Jak se změní rychlost proudění a statický tlak v něm, když v nějakém místě dojde ke zhuštění",
-            "moznosti": {
-                "A": "rychlost se zvýší, statický tlak klesne",
-                "B": "rychlost klesne, statický tlak klesne",
-                "C": "rychlost se zvýší, statický tlak se zvýší"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Středovým poledníkem nultého časového pásma je:",
-            "moznosti": {
-                "A": "poledník procházející severním zeměpisným pólem",
-                "B": "poledník, procházející městem Oford v Anglii",
-                "C": "poledník, procházející hvězdárnou v Greenwich v Anglii"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "Kurz měříme od severu ve stupních:",
-            "moznosti": {
-                "A": "ve směru otáčení hodinových ručiček",
-                "B": "na východ po směru, na západ proti směru hodinových ručiček",
-                "C": "proti směru otáčení hodinových ručiček"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
             "text_otazky": "Při dosažení obratové rychlosti ULL značené jako Va mohou být kormidla vychýlena:",
             "moznosti": {
                 "A": "nemohou - nesmí být použita jakákoli výchylka",
@@ -82,94 +32,44 @@
             "body": 0
         },
         {
-            "text_otazky": "Letadlo mající přednost musí udržovat svůj kurs a rychlost:",
+            "text_otazky": "Indukovaný odpor lze zmenšit:",
             "moznosti": {
-                "A": "toto pravidlo však nezbavuje velitele letadla odpovědnosti provést takové opatření,",
-                "B": "nesmí měnit kurz, rychlost však ano",
-                "C": "tyto podmínky nesmí měnit"
-            },
-            "spravna_odpoved": "A",
-            "body": 3
-        },
-        {
-            "text_otazky": "Může být celkový a statický tlak do rychloměru přiveden z jiného zařízení než z Pitot-statické",
-            "moznosti": {
-                "A": "může",
-                "B": "nemůže",
-                "C": "absolutně nesmí"
-            },
-            "spravna_odpoved": "A",
-            "body": 1
-        },
-        {
-            "text_otazky": "Záporný násobek zatížení znamená:",
-            "moznosti": {
-                "A": "pilot je tažen ze sedačky a vztlak ohýbá křídlo letadla směrem dolů (vztaženo k",
-                "B": "pilot je tažen ze sedačky a vztlak ohýbá křídlo letadla směrem nahoru (vztaženo k",
-                "C": "pilot je tlačen do sedačky a vztlak ohýbá křídlo letadla směrem dolů (vztaženo k"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Velikost násobku zatížení pilot nejvíc ovlivní:",
-            "moznosti": {
-                "A": "prudkým vyvážením „těžký na hlavu“",
-                "B": "prudkým vyvážením „těžký na ocas“",
-                "C": "rychlým zásahem do podélného řízení"
+                "A": "šípem křídla a tloušťkou profilu",
+                "B": "tloušťkou profilu a koncovými tělěsy na koncích křídla",
+                "C": "štíhlostí křídla a vhodným zakončením křídla"
             },
             "spravna_odpoved": "C",
             "body": 3
         },
         {
-            "text_otazky": "Do variometru je zapojen:",
+            "text_otazky": "Zeměkoule se otočí o 1 stupeň zeměpisné délky za:",
             "moznosti": {
-                "A": "celkový tlak a statický tlak",
-                "B": "celkový tlak",
-                "C": "statický tlak"
+                "A": "1 min",
+                "B": "6 min",
+                "C": "4 min"
             },
             "spravna_odpoved": "C",
             "body": 0
         },
         {
-            "text_otazky": "Oceli jsou materiálem pro značně namáhané části konstrukce letadel. Používají se hlavně pro:",
+            "text_otazky": "Skupina dvou číslic umístěná svisle na letištní věži nebo blízko ní ukazuje letadlům na provozní ploše:",
             "moznosti": {
-                "A": "závěsná kování, podvozky, čepy, šrouby, pružiny",
-                "B": "hlavní nosníky křídel a ocasních ploch",
-                "C": "náběžné hrany křídel a ocasní plochy"
+                "A": "směr vzletu v desítkách stupňů magnetického kompasu",
+                "B": "směr správného pojíždění",
+                "C": "minutu západu slunce na místním poledníku"
             },
             "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Mezi oblačnost kupovitou patří:",
-            "moznosti": {
-                "A": "As - altostratus",
-                "B": "Cu - cumulus",
-                "C": "St - stratus"
-            },
-            "spravna_odpoved": "B",
-            "body": 3
-        },
-        {
-            "text_otazky": "Chlazení motoru se provádí:",
-            "moznosti": {
-                "A": "pomocí elektrické energie",
-                "B": "vzduchem, kapalinou, olejem",
-                "C": "pomocí chladícího gelu"
-            },
-            "spravna_odpoved": "B",
-            "body": 3
-        },
-        {
-            "text_otazky": "Co se rozumí pod pojmem „těžký na ocas“?",
-            "moznosti": {
-                "A": "vyjádření vzájemné polohy neutrálního bodu a těžiště, v tomto případě je těžiště před",
-                "B": "jestliže se nos letadla při uvolnění řízení klopí nahoru (zvedá)",
-                "C": "snaha letadla překlopit se při zabrždění dozadu, tj. na zadní část trupu"
-            },
-            "spravna_odpoved": "B",
             "body": 1
+        },
+        {
+            "text_otazky": "Letadlo za letu nebo pohybující se na zemi musí dát přednost letadlu, které:",
+            "moznosti": {
+                "A": "přistává nebo je v poslední fázi přiblížení na přistání",
+                "B": "dostalo povolení pro přiblížení na přistání",
+                "C": "nemá spojení se službou řízeného letového provozu"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
         },
         {
             "text_otazky": "Do zakázaného prostoru (LK P) pilot:",
@@ -177,56 +77,6 @@
                 "A": "může vletět v rámci prostoru třídy G a E avšak nejvýše rychlostí 460 km/hod IAS",
                 "B": "může vletět, nesmí jej však opustit",
                 "C": "nesmí vletět pokud příslušný úřad nevydá zvláštní povolení"
-            },
-            "spravna_odpoved": "C",
-            "body": 0
-        },
-        {
-            "text_otazky": "Platný pilotní průkaz musí mít pilot u sebe:",
-            "moznosti": {
-                "A": "při přeletu",
-                "B": "při každém letu",
-                "C": "při mimoletištním letu"
-            },
-            "spravna_odpoved": "B",
-            "body": 3
-        },
-        {
-            "text_otazky": "UL letadla jsou dimenzovány na záporný provozní násobek:",
-            "moznosti": {
-                "A": "-2,5",
-                "B": "-2",
-                "C": "-1,5"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "Při laminárním proudění:",
-            "moznosti": {
-                "A": "dochází k vzájemnému promíchávání proudnic, ale na konci sledovaného průřezu",
-                "B": "dochází k vzájemnému promíchávání proudnic",
-                "C": "nedochází k vzájemnému promíchávání proudnic"
-            },
-            "spravna_odpoved": "C",
-            "body": 1
-        },
-        {
-            "text_otazky": "Vliv reakčního momentu vrtule se bude nejvýrazněji projevovat:",
-            "moznosti": {
-                "A": "když letadlo poletí malou rychlostí při stažené přípusti",
-                "B": "když letadlo poletí malou rychlostí a pilot náhle zvýší výkon motoru",
-                "C": "v zatáčkách při přechodu do stoupání nebo klesání"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "O stabilní vzduchové hmotě mluvíme tehdy, platí-li:",
-            "moznosti": {
-                "A": "jsou v ní příznivé podmínky pro vznik výstupných pohybů",
-                "B": "dochází v ní ke vzniku konvekce",
-                "C": "jsou v ní nepříznivé podmínky pro vznik výstupných proudů"
             },
             "spravna_odpoved": "C",
             "body": 0
@@ -242,29 +92,19 @@
             "body": 1
         },
         {
-            "text_otazky": "Výrobcem letadel jsou udávány výkony, obsluha a provozní rozsah centráží příslušného typu",
+            "text_otazky": "Vychýlením řídící páky vlevo se:",
             "moznosti": {
-                "A": "palubním deníku",
-                "B": "letové příručce",
-                "C": "provozním bulletinu"
+                "A": "vychýlí levé křidélko nahoru, pravé dolů a letadlo se nakloní doprava",
+                "B": "vychýlí levé křidélko nahoru, pravé dolů a letadlo se nakloní doleva",
+                "C": "vychýlí levé křidélko dolů, pravé nahoru a letadlo se nakloní doleva"
             },
             "spravna_odpoved": "B",
             "body": 3
         },
         {
-            "text_otazky": "Doklady potřebné pro let SLZ musí mít pilot u sebe:",
-            "moznosti": {
-                "A": "jen při přeletu",
-                "B": "jen při mimoletištním letu",
-                "C": "při každém letu"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
             "text_otazky": "Námraza na vrtuli letounu může mít následující následky:",
             "moznosti": {
-                "A": "nevyváženost vrtule, nebezpečí vibrací, odlétávající kusy ledu ohrožující další části",
+                "A": "nevyváženost vrtule, nebezpečí vibrací, odlétávající kusy ledu ohrožující další části letadla a motoru, snížení účinnosti vrtule",
                 "B": "odlétávající kusy ledu ohrožující další části letadla a motoru",
                 "C": "jen velmi obtížně rozeznatelné při provozu"
             },
@@ -272,23 +112,73 @@
             "body": 1
         },
         {
-            "text_otazky": "Indukovaný odpor lze zmenšit:",
+            "text_otazky": "Jak se změní rychlost proudění a statický tlak v něm, když v nějakém místě dojde ke zhuštění proudnic?",
             "moznosti": {
-                "A": "šípem křídla a tloušťkou profilu",
-                "B": "tloušťkou profilu a koncovými tělěsy na koncích křídla",
-                "C": "štíhlostí křídla a vhodným zakončením křídla"
+                "A": "rychlost se zvýší, statický tlak klesne",
+                "B": "rychlost klesne, statický tlak klesne",
+                "C": "rychlost se zvýší, statický tlak se zvýší"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Mezi oblačnost kupovitou patří:",
+            "moznosti": {
+                "A": "As - altostratus",
+                "B": "Cu - cumulus",
+                "C": "St - stratus"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Velikost násobku zatížení pilot nejvíc ovlivní:",
+            "moznosti": {
+                "A": "prudkým vyvážením „těžký na hlavu“",
+                "B": "prudkým vyvážením „těžký na ocas“",
+                "C": "rychlým zásahem do podélného řízení"
             },
             "spravna_odpoved": "C",
             "body": 3
         },
         {
-            "text_otazky": "Skupina dvou číslic umístěná svisle na letištní věži nebo blízko ní ukazuje letadlům na",
+            "text_otazky": "Vliv reakčního momentu vrtule se bude nejvýrazněji projevovat:",
             "moznosti": {
-                "A": "směr vzletu v desítkách stupňů magnetického kompasu",
-                "B": "směr správného pojíždění",
-                "C": "minutu západu slunce na místním poledníku"
+                "A": "když letadlo poletí malou rychlostí při stažené přípusti",
+                "B": "když letadlo poletí malou rychlostí a pilot náhle zvýší výkon motoru",
+                "C": "v zatáčkách při přechodu do stoupání nebo klesání"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Agona je:",
+            "moznosti": {
+                "A": "čára spojující místa s nulovou deklinací",
+                "B": "čára spojující místa se zápornou deklinací",
+                "C": "čára spojující místa s kladnou deklinací"
             },
             "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Průměrná spotřeba = 11 l/h, doba letu 1°30‘:",
+            "moznosti": {
+                "A": "spotřebujete 17,5 l",
+                "B": "spotřebujete 18,5 l",
+                "C": "spotřebujete 16,5 l"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Při laminárním proudění:",
+            "moznosti": {
+                "A": "dochází k vzájemnému promíchávání proudnic, ale na konci sledovaného průřezu (profilu) se v proudu netvoří víry",
+                "B": "dochází k vzájemnému promíchávání proudnic",
+                "C": "nedochází k vzájemnému promíchávání proudnic"
+            },
+            "spravna_odpoved": "C",
             "body": 1
         },
         {
@@ -297,6 +187,76 @@
                 "A": "se vůbec nepohne z místa, jestliže se ale rozjede, pak již vzlet má obvyklý charakter",
                 "B": "se značně prodlouží rozjezd, po nadzdvihnutí se již vliv brzdících klapek neprojeví",
                 "C": "vzlet je nebezpečný vzhledem k výrazně zhoršeným aerodynamickým vlastnostem"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Co se rozumí pod pojmem „těžký na ocas“?",
+            "moznosti": {
+                "A": "vyjádření vzájemné polohy neutrálního bodu a těžiště, v tomto případě je těžiště před neutrálním bodem",
+                "B": "jestliže se nos letadla při uvolnění řízení klopí nahoru (zvedá)",
+                "C": "snaha letadla překlopit se při zabrždění dozadu, tj. na zadní část trupu"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Kontakty akumulátoru se značí?",
+            "moznosti": {
+                "A": "kladný (+) červeně, záporný (–) modře",
+                "B": "kladný (–) červeně, záporný (+) modře",
+                "C": "kladný (+) modře, záporný (–) červeně"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Oceli jsou materiálem pro značně namáhané části konstrukce letadel. Používají se hlavně pro:",
+            "moznosti": {
+                "A": "závěsná kování, podvozky, čepy, šrouby, pružiny",
+                "B": "hlavní nosníky křídel a ocasních ploch",
+                "C": "náběžné hrany křídel a ocasní plochy"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Letoun typu „kachna“ je",
+            "moznosti": {
+                "A": "letoun bez ocasních ploch",
+                "B": "letoun, jehož vodorovné stabilizační plochy jsou umístěny před nosnou plochou",
+                "C": "letoun, jehož vodorovné stabilizační plochy jsou umístěny za nosnou plochou"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Zajistit seznámení členů posádky s umístěním a způsobem použití bezpečnostních pásů musí:",
+            "moznosti": {
+                "A": "majitel letadla",
+                "B": "provozovatel",
+                "C": "velitel letadla (pilot)"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Horizontální \"bílá činka\" vyložená v signální (návěstní) ploše znamená?",
+            "moznosti": {
+                "A": "navijákový provoz",
+                "B": "že se od letadel nepožaduje, aby přistávala, vzlétávala a pojížděla pouze na drahách a pojezdových drahách",
+                "C": "že se od letadel požaduje, aby přistávala, vzlétávala a pojížděla pouze na drahách a pojezdových drahách"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Středovým poledníkem nultého časového pásma je:",
+            "moznosti": {
+                "A": "poledník procházející severním zeměpisným pólem",
+                "B": "poledník, procházející městem Oford v Anglii",
+                "C": "poledník, procházející hvězdárnou v Greenwich v Anglii"
             },
             "spravna_odpoved": "C",
             "body": 3
@@ -312,64 +272,44 @@
             "body": 3
         },
         {
-            "text_otazky": "Zajistit seznámení členů posádky s umístěním a způsobem použití bezpečnostních pásů musí:",
+            "text_otazky": "O stabilní vzduchové hmotě mluvíme tehdy, platí-li:",
             "moznosti": {
-                "A": "majitel letadla",
-                "B": "provozovatel",
-                "C": "velitel letadla (pilot)"
+                "A": "jsou v ní příznivé podmínky pro vznik výstupných pohybů",
+                "B": "dochází v ní ke vzniku konvekce",
+                "C": "jsou v ní nepříznivé podmínky pro vznik výstupných proudů"
             },
             "spravna_odpoved": "C",
-            "body": 1
+            "body": 0
         },
         {
-            "text_otazky": "Pilot letadla nevybaveného radiostanicí, který má v úmyslu přiletět na neřízené letiště nebo z",
+            "text_otazky": "UL letadla jsou dimenzovány na záporný provozní násobek:",
             "moznosti": {
-                "A": "předem zkoordinovat svůj přílet nebo odlet se stanovištěm AFIS nebo provozovatelem",
-                "B": "předem zkoordinovat svůj přílet nebo odlet s majitelem letiště",
-                "C": "dodržet pro odlet nebo přílet pravidla vyhýbání"
+                "A": "-2,5",
+                "B": "-2",
+                "C": "-1,5"
             },
-            "spravna_odpoved": "A",
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Doklady potřebné pro let SLZ musí mít pilot u sebe:",
+            "moznosti": {
+                "A": "jen při přeletu",
+                "B": "jen při mimoletištním letu",
+                "C": "při každém letu"
+            },
+            "spravna_odpoved": "C",
             "body": 3
         },
         {
-            "text_otazky": "Letoun typu „kachna“ je",
+            "text_otazky": "Kurz měříme od severu ve stupních:",
             "moznosti": {
-                "A": "letoun bez ocasních ploch",
-                "B": "letoun, jehož vodorovné stabilizační plochy jsou umístěny před nosnou plochou",
-                "C": "letoun, jehož vodorovné stabilizační plochy jsou umístěny za nosnou plochou"
+                "A": "ve směru otáčení hodinových ručiček",
+                "B": "na východ po směru, na západ proti směru hodinových ručiček",
+                "C": "proti směru otáčení hodinových ručiček"
             },
-            "spravna_odpoved": "B",
-            "body": 1
-        },
-        {
-            "text_otazky": "Rozdíl mezi UTC a letním středoevropským (SELČ) časem je:",
-            "moznosti": {
-                "A": "není žádný",
-                "B": "2 hodiny",
-                "C": "1 hodina"
-            },
-            "spravna_odpoved": "B",
+            "spravna_odpoved": "A",
             "body": 0
-        },
-        {
-            "text_otazky": "Průměrná spotřeba = 11 l/h, doba letu 1°30‘:",
-            "moznosti": {
-                "A": "spotřebujete 17,5 l",
-                "B": "spotřebujete 18,5 l",
-                "C": "spotřebujete 16,5 l"
-            },
-            "spravna_odpoved": "C",
-            "body": 0
-        },
-        {
-            "text_otazky": "Nosnou složkou kompozitní letecké konstrukce je:",
-            "moznosti": {
-                "A": "pryskyřice",
-                "B": "jemná drátěná síť",
-                "C": "tkanina nebo stejnosměrná skleněná vlákna, nebo vlákna z jiných k tomu určených"
-            },
-            "spravna_odpoved": "C",
-            "body": 1
         },
         {
             "text_otazky": "V okamžiku vlétnutí do klesavého proudu se úhel náběhu:",
@@ -382,27 +322,97 @@
             "body": 3
         },
         {
-            "text_otazky": "Horizontální \"bílá činka\" vyložená v signální (návěstní) ploše znamená?",
+            "text_otazky": "Záporný násobek zatížení znamená:",
             "moznosti": {
-                "A": "navijákový provoz",
-                "B": "že se od letadel nepožaduje, aby přistávala, vzlétávala a pojížděla pouze na drahách",
-                "C": "že se od letadel požaduje, aby přistávala, vzlétávala a pojížděla pouze na drahách a"
+                "A": "pilot je tažen ze sedačky a vztlak ohýbá křídlo letadla směrem dolů (vztaženo k letadlu)",
+                "B": "pilot je tažen ze sedačky a vztlak ohýbá křídlo letadla směrem nahoru (vztaženo k letadlu)",
+                "C": "pilot je tlačen do sedačky a vztlak ohýbá křídlo letadla směrem dolů (vztaženo k letadlu)"
             },
-            "spravna_odpoved": "C",
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Může být celkový a statický tlak do rychloměru přiveden z jiného zařízení než z Pitot-statické trubice?",
+            "moznosti": {
+                "A": "může",
+                "B": "nemůže",
+                "C": "absolutně nesmí"
+            },
+            "spravna_odpoved": "A",
             "body": 1
         },
         {
-            "text_otazky": "Zeměkoule se otočí o 1 stupeň zeměpisné délky za:",
+            "text_otazky": "Chlazení motoru se provádí:",
             "moznosti": {
-                "A": "1 min",
-                "B": "6 min",
-                "C": "4 min"
+                "A": "pomocí elektrické energie",
+                "B": "vzduchem, kapalinou, olejem",
+                "C": "pomocí chladícího gelu"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Výrobcem letadel jsou udávány výkony, obsluha a provozní rozsah centráží příslušného typu letadla. Tyto údaje je možné najít v:",
+            "moznosti": {
+                "A": "palubním deníku",
+                "B": "letové příručce",
+                "C": "provozním bulletinu"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Pilot letadla nevybaveného radiostanicí, který má v úmyslu přiletět na neřízené letiště nebo z něho odletět, je povinen",
+            "moznosti": {
+                "A": "předem zkoordinovat svůj přílet nebo odlet se stanovištěm AFIS nebo provozovatelem letiště",
+                "B": "předem zkoordinovat svůj přílet nebo odlet s majitelem letiště",
+                "C": "dodržet pro odlet nebo přílet pravidla vyhýbání"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Letadlo mající přednost musí udržovat svůj kurs a rychlost:",
+            "moznosti": {
+                "A": "toto pravidlo však nezbavuje velitele letadla odpovědnosti provést takové opatření, které nejlépe zabrání srážce",
+                "B": "nesmí měnit kurz, rychlost však ano",
+                "C": "tyto podmínky nesmí měnit"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Platný pilotní průkaz musí mít pilot u sebe:",
+            "moznosti": {
+                "A": "při přeletu",
+                "B": "při každém letu",
+                "C": "při mimoletištním letu"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Rozdíl mezi UTC a letním středoevropským (SELČ) časem je:",
+            "moznosti": {
+                "A": "není žádný",
+                "B": "2 hodiny",
+                "C": "1 hodina"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Do variometru je zapojen:",
+            "moznosti": {
+                "A": "celkový tlak a statický tlak",
+                "B": "celkový tlak",
+                "C": "statický tlak"
             },
             "spravna_odpoved": "C",
             "body": 0
         },
         {
-            "text_otazky": "Je-li dáván příkaz letadlu za letu orgánem letištní služby řízení světelným návěstím, potom",
+            "text_otazky": "Je-li dáván příkaz letadlu za letu orgánem letištní služby řízení světelným návěstím, potom řada bílých záblesků znamená:",
             "moznosti": {
                 "A": "vraťte se na přistání",
                 "B": "přistaňte na tomto letišti a přijeďte na odbavovací plochu",
@@ -410,16 +420,6 @@
             },
             "spravna_odpoved": "B",
             "body": 0
-        },
-        {
-            "text_otazky": "Letadlo za letu nebo pohybující se na zemi musí dát přednost letadlu, které:",
-            "moznosti": {
-                "A": "přistává nebo je v poslední fázi přiblížení na přistání",
-                "B": "dostalo povolení pro přiblížení na přistání",
-                "C": "nemá spojení se službou řízeného letového provozu"
-            },
-            "spravna_odpoved": "A",
-            "body": 3
         }
     ]
 }

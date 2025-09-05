@@ -2,133 +2,13 @@
     "datum_testu": "17.04.2025",
     "prehled_otazek": [
         {
-            "text_otazky": "Za stav SLZ před letem zodpovídá:",
-            "moznosti": {
-                "A": "pilot",
-                "B": "inspektor technik mající toto SLZ v evidenci",
-                "C": "majitel"
-            },
-            "spravna_odpoved": "A",
-            "body": 3
-        },
-        {
-            "text_otazky": "Na jakém principu funguje zatáčkoměr?",
-            "moznosti": {
-                "A": "na principu vychylování závaží.",
-                "B": "na principu pevně upevněného setrvačníku.",
-                "C": "na principu vychylování setrvačníku, tj. na precesním pohybu."
-            },
-            "spravna_odpoved": "C",
-            "body": 0
-        },
-        {
-            "text_otazky": "Má vliv na chlazení motoru tvar krytu motoru a velikosti otvorů v tomto krytu?",
-            "moznosti": {
-                "A": "nemá",
-                "B": "ano má",
-                "C": "má jen při určité rychlosti"
-            },
-            "spravna_odpoved": "B",
-            "body": 3
-        },
-        {
-            "text_otazky": "Definice zvláštního letu VFR zní?",
-            "moznosti": {
-                "A": "řízený let VFR povolený v řízeném okrsku letiště",
-                "B": "let VFR povolený v okrsku letiště v meteorologických podmínkách horších než IMC",
-                "C": "let VFR, kterému vydala služba řízení letového provozu povolení k letu v řízeném"
-            },
-            "spravna_odpoved": "C",
-            "body": 1
-        },
-        {
-            "text_otazky": "Dekarbonizací motoru se rozumí:",
-            "moznosti": {
-                "A": "očištění vnější částí motoru od karbonu a usazenin",
-                "B": "odstranění karbonu ze spalovacího prostoru",
-                "C": "odstranění karbonu z tlumiče výfuku"
-            },
-            "spravna_odpoved": "B",
-            "body": 1
-        },
-        {
-            "text_otazky": "V okamžiku vlétnutí do klesavého proudu se úhel náběhu:",
-            "moznosti": {
-                "A": "nezmění",
-                "B": "zvětší",
-                "C": "zmenší"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "Vlhkostí vzduchu rozumíme:",
-            "moznosti": {
-                "A": "vypadávání srážek",
-                "B": "množství vodních par v ovzduší",
-                "C": "sněžení"
-            },
-            "spravna_odpoved": "B",
-            "body": 1
-        },
-        {
-            "text_otazky": "Ověřovat zda je technický průkaz SLZ platný je povinností:",
-            "moznosti": {
-                "A": "provozovatele",
-                "B": "vedoucího letového provozu",
-                "C": "velitele SLZ (pilota)"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
             "text_otazky": "Co se rozumí pod pojmem „těžký na hlavu“?",
             "moznosti": {
-                "A": "vyjádření vzájemné polohy neutrálního bodu a těžiště, v tomto případě je těžiště před",
+                "A": "vyjádření vzájemné polohy neutrálního bodu a těžiště, v tomto případě je těžiště před neutrálním bodem",
                 "B": "jestliže se nos letadla za letu při uvolnění řízení klopí dolů",
-                "C": "vyjádření vzájemné polohy neutrálního bodu a těžiště, v tomto případě je těžiště za"
+                "C": "vyjádření vzájemné polohy neutrálního bodu a těžiště, v tomto případě je těžiště za neutrálním bodem"
             },
             "spravna_odpoved": "B",
-            "body": 1
-        },
-        {
-            "text_otazky": "Co je hlavní příčinou krutu a ohybu trupu letounu za letu?",
-            "moznosti": {
-                "A": "účinek hmotových sil, které působí jako jednotlivé osamělé síly",
-                "B": "otáčivé pohyby letounu",
-                "C": "především kombinovaná zatížení přejímaná od ocasních ploch"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "Jak se změní rychlost proudění a statický tlak v něm, když v nějakém místě dojde ke zhuštění",
-            "moznosti": {
-                "A": "rychlost se zvýší, statický tlak klesne",
-                "B": "rychlost klesne, statický tlak klesne",
-                "C": "rychlost se zvýší, statický tlak se zvýší"
-            },
-            "spravna_odpoved": "A",
-            "body": 3
-        },
-        {
-            "text_otazky": "Rozdíl mezi UTC a letním středoevropským (SELČ) časem je:",
-            "moznosti": {
-                "A": "2 hodiny",
-                "B": "není žádný",
-                "C": "1 hodina"
-            },
-            "spravna_odpoved": "A",
-            "body": 3
-        },
-        {
-            "text_otazky": "Při laminárním proudění:",
-            "moznosti": {
-                "A": "nedochází k vzájemnému promíchávání proudnic",
-                "B": "dochází k vzájemnému promíchávání proudnic, ale na konci sledovaného průřezu",
-                "C": "dochází k vzájemnému promíchávání proudnic"
-            },
-            "spravna_odpoved": "A",
             "body": 1
         },
         {
@@ -152,33 +32,83 @@
             "body": 3
         },
         {
-            "text_otazky": "Průměrná spotřeba = 21 l/h, doba letu 2°10‘:",
+            "text_otazky": "Jak mají být barevně označeny přístroje?",
             "moznosti": {
-                "A": "spotřebujete 52 l",
-                "B": "spotřebujete 42 l",
-                "C": "spotřebujete 45,5 l"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "Jak se pohybují vzduchové hmoty na teplé frontě?",
-            "moznosti": {
-                "A": "Teplý vzduch se nasunuje nad hmoty studeného vzduchu",
-                "B": "Teplý vzduch se nasunuje pod hmoty studeného vzduchu",
-                "C": "Studený vzduch se nasunuje nad hmoty teplého vzduchu"
+                "A": "všechny maimální a pokud jsou dány i minimální hodnoty pro bezpečný provoz musí být označeny červenou radiální čárou",
+                "B": "žádné hodnoty pro bezpečný provoz nemusí být označeny červenou radiální čárou",
+                "C": "jen všechny maimální hodnoty pro bezpečný provoz musí být označeny červenou radiální čárou"
             },
             "spravna_odpoved": "A",
             "body": 3
         },
         {
-            "text_otazky": "Ploška na výškovém kormidle, která se automaticky vychyluje v závislosti na výchylce",
+            "text_otazky": "Pádová rychlost letadla v zatáčce:",
             "moznosti": {
-                "A": "jen vyvažovací",
-                "B": "odlehčovací ploška, jejímž účelem je zmenšení sil v řízení",
-                "C": "osové odlehčení"
+                "A": "je nižší než v přímém ustáleném letu",
+                "B": "je konstantní, nesmí být vyšší než 65 km/h",
+                "C": "je vyšší než v přímém ustáleném letu a závisí na náklonu letadla"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Jaké je povoleno maximální úmyslné vychýlení UL letounu kolem příčné osy za letu ve stupních:",
+            "moznosti": {
+                "A": "30.0",
+                "B": "45.0",
+                "C": "60.0"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
+        },
+        {
+            "text_otazky": "Na jakém principu funguje zatáčkoměr?",
+            "moznosti": {
+                "A": "na principu vychylování závaží.",
+                "B": "na principu pevně upevněného setrvačníku.",
+                "C": "na principu vychylování setrvačníku, tj. na precesním pohybu."
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Jak se změní rychlost proudění a statický tlak v něm, když v nějakém místě dojde ke zhuštění proudnic?",
+            "moznosti": {
+                "A": "rychlost se zvýší, statický tlak klesne",
+                "B": "rychlost klesne, statický tlak klesne",
+                "C": "rychlost se zvýší, statický tlak se zvýší"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Záporný násobek zatížení znamená:",
+            "moznosti": {
+                "A": "pilot je tažen ze sedačky a vztlak ohýbá křídlo letadla směrem nahoru (vztaženo k letadlu)",
+                "B": "pilot je tažen ze sedačky a vztlak ohýbá křídlo letadla směrem dolů (vztaženo k letadlu)",
+                "C": "pilot je tlačen do sedačky a vztlak ohýbá křídlo letadla směrem dolů (vztaženo k letadlu)"
             },
             "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Plošné zatížení:",
+            "moznosti": {
+                "A": "udává počet kilogramů hmotnosti pilota na m2 nosné plochy",
+                "B": "udává počet m2 nosné plochy na jeden kilogram celkové hmotnosti a veškerého vybavení",
+                "C": "udává počet kilogramů celkové hmotnosti na m2 nosné plochy"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Je neprovedení údržby na letadle důvodem k dočasné ztrátě letové způsobilosti letadla?",
+            "moznosti": {
+                "A": "ano",
+                "B": "není to důvod k dočasné ztrátě letové způsobilosti",
+                "C": "jen při neprovedení roční nebo vyšší prohlídky"
+            },
+            "spravna_odpoved": "A",
             "body": 3
         },
         {
@@ -192,14 +122,64 @@
             "body": 3
         },
         {
-            "text_otazky": "Jak mají být barevně označeny přístroje?",
+            "text_otazky": "Za stav SLZ před letem zodpovídá:",
             "moznosti": {
-                "A": "všechny maimální a pokud jsou dány i minimální hodnoty pro bezpečný provoz musí",
-                "B": "žádné hodnoty pro bezpečný provoz nemusí být označeny červenou radiální čárou",
-                "C": "jen všechny maimální hodnoty pro bezpečný provoz musí být označeny červenou"
+                "A": "pilot",
+                "B": "inspektor technik mající toto SLZ v evidenci",
+                "C": "majitel"
             },
             "spravna_odpoved": "A",
             "body": 3
+        },
+        {
+            "text_otazky": "Kritický bod je:",
+            "moznosti": {
+                "A": "místo na trati plánované, ze kterého je stejná časová vzdálenost do místa startu i do místa přistání",
+                "B": "místo na trati kam až letadlo může doletět, aby se za současného stavu paliva mohlo vrátit",
+                "C": "bod na plánované trati nejvíce vzdálený od VBT"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
+        },
+        {
+            "text_otazky": "Jestliže se instrukce předané letadlu narušiteli pomocí radiového spojení z jakýchkoliv zdrojů liší od instrukcí předávaných zakročujícím letadlem pomocí vizuální návěsti,letadlo proti kterému je zakročováno musí:",
+            "moznosti": {
+                "A": "okamžitě žádat o vyjasnění a přitom se nadále řídit vizuálními instrukcemi předávanými zakročujícím letadlem",
+                "B": "vzdálit se od zakázaného prostoru",
+                "C": "zatočit do sledovaného směru a kývat křídly"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Ověřovat zda je technický průkaz SLZ platný je povinností:",
+            "moznosti": {
+                "A": "provozovatele",
+                "B": "vedoucího letového provozu",
+                "C": "velitele SLZ (pilota)"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Definice zvláštního letu VFR zní?",
+            "moznosti": {
+                "A": "řízený let VFR povolený v řízeném okrsku letiště",
+                "B": "let VFR povolený v okrsku letiště v meteorologických podmínkách horších než IMC",
+                "C": "let VFR, kterému vydala služba řízení letového provozu povolení k letu v řízeném okrsku v meteorologických podmínkách horších než VMC"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Námraza na vrtuli letounu může mít následující následky:",
+            "moznosti": {
+                "A": "nevyváženost vrtule, nebezpečí vibrací, odlétávající kusy ledu ohrožující další části letadla a motoru, snížení účinnosti vrtule",
+                "B": "odlétávající kusy ledu ohrožující další části letadla a motoru",
+                "C": "jen velmi obtížně rozeznatelné při provozu"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
         },
         {
             "text_otazky": "Do zakázaného prostoru (LK P) pilot:",
@@ -212,53 +192,13 @@
             "body": 3
         },
         {
-            "text_otazky": "Prostor typu LKP sahá",
+            "text_otazky": "Průměrná spotřeba = 21 l/h, doba letu 2°10‘:",
             "moznosti": {
-                "A": "od 150m AGL do 1500m AMSL",
-                "B": "od země do různých výšek (viz AIP nebo platná letecká mapa)",
-                "C": "od země do FL 125"
-            },
-            "spravna_odpoved": "B",
-            "body": 1
-        },
-        {
-            "text_otazky": "Pilot musí mít za letu u sebe vždy",
-            "moznosti": {
-                "A": "pilotní průkaz nebo doklad žáka, osvědčení letové způsobilosti, doklad o pojištění za",
-                "B": "průkaz totožnosti, pilotní průkaz nebo doklad žáka, osvědčení letové způsobilosti,",
-                "C": "průkaz totožnosti, pilotní průkaz nebo doklad žáka, technický průkaz SLZ, doklad o"
+                "A": "spotřebujete 52 l",
+                "B": "spotřebujete 42 l",
+                "C": "spotřebujete 45,5 l"
             },
             "spravna_odpoved": "C",
-            "body": 0
-        },
-        {
-            "text_otazky": "Zeměkoule je:",
-            "moznosti": {
-                "A": "rotační elipsoid na pólech zploštělý",
-                "B": "síť souřadnicových čar",
-                "C": "ideální koule"
-            },
-            "spravna_odpoved": "A",
-            "body": 1
-        },
-        {
-            "text_otazky": "Plošné zatížení:",
-            "moznosti": {
-                "A": "udává počet kilogramů hmotnosti pilota na m2 nosné plochy",
-                "B": "udává počet m2 nosné plochy na jeden kilogram celkové hmotnosti a veškerého",
-                "C": "udává počet kilogramů celkové hmotnosti na m2 nosné plochy"
-            },
-            "spravna_odpoved": "C",
-            "body": 1
-        },
-        {
-            "text_otazky": "Hustota vzduchu v zemské atmosféře s výškou:",
-            "moznosti": {
-                "A": "se nemění",
-                "B": "klesá",
-                "C": "vzrůstá"
-            },
-            "spravna_odpoved": "B",
             "body": 3
         },
         {
@@ -272,27 +212,107 @@
             "body": 3
         },
         {
-            "text_otazky": "Jak bude ovlivněna délka vzletu motorového letadla, jestliže se bude po celou jeho dobu",
+            "text_otazky": "Pilot musí mít za letu u sebe vždy",
+            "moznosti": {
+                "A": "pilotní průkaz nebo doklad žáka, osvědčení letové způsobilosti, doklad o pojištění za škody způsobené provozem SLZ, lékařský posudek o zdravotní způsobilosti",
+                "B": "průkaz totožnosti, pilotní průkaz nebo doklad žáka, osvědčení letové způsobilosti, doklad o pojištění za škody způsobené provozem SLZ, lékařský posudek o zdravotní způsobilosti",
+                "C": "průkaz totožnosti, pilotní průkaz nebo doklad žáka, technický průkaz SLZ, doklad o pojištění za škody způsobené provozem SLZ"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Prahy nezpevněné VPD mohou být vyznačeny plochými značkami ve tvaru písmene „L\":",
+            "moznosti": {
+                "A": "uprostřed se základnou směřující ven",
+                "B": "umístěného v rozích prahu se základnou směřující ven",
+                "C": "v rozích prahu se základnou směřující dovnitř"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Hustota vzduchu v zemské atmosféře s výškou:",
+            "moznosti": {
+                "A": "se nemění",
+                "B": "klesá",
+                "C": "vzrůstá"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Ploška na výškovém kormidle, která se automaticky vychyluje v závislosti na výchylce výškovky v opačném smyslu se nazývá:",
+            "moznosti": {
+                "A": "jen vyvažovací",
+                "B": "odlehčovací ploška, jejímž účelem je zmenšení sil v řízení",
+                "C": "osové odlehčení"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Zeměkoule je:",
+            "moznosti": {
+                "A": "rotační elipsoid na pólech zploštělý",
+                "B": "síť souřadnicových čar",
+                "C": "ideální koule"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
+        },
+        {
+            "text_otazky": "Jak bude ovlivněna délka vzletu motorového letadla, jestliže se bude po celou jeho dobu pohybovat na vysokém úhlu náběhu v blízkosti kritického?",
             "moznosti": {
                 "A": "délka vzletu se výrazně zkrátí neboť letadlo dosáhne velkého součinitele vztlaku",
-                "B": "letadlo v důsledku značného součinitele odporu bude velice pomalu zrychlovat, takže",
+                "B": "letadlo v důsledku značného součinitele odporu bude velice pomalu zrychlovat, takže délka vzletu se výrazně prodlouží",
                 "C": "délka vzletu se nepatrně prodlouží"
             },
             "spravna_odpoved": "B",
             "body": 3
         },
         {
-            "text_otazky": "Záporný násobek zatížení znamená:",
+            "text_otazky": "Má vliv na chlazení motoru tvar krytu motoru a velikosti otvorů v tomto krytu?",
             "moznosti": {
-                "A": "pilot je tažen ze sedačky a vztlak ohýbá křídlo letadla směrem nahoru (vztaženo k",
-                "B": "pilot je tažen ze sedačky a vztlak ohýbá křídlo letadla směrem dolů (vztaženo k",
-                "C": "pilot je tlačen do sedačky a vztlak ohýbá křídlo letadla směrem dolů (vztaženo k"
+                "A": "nemá",
+                "B": "ano má",
+                "C": "má jen při určité rychlosti"
             },
             "spravna_odpoved": "B",
-            "body": 1
+            "body": 3
         },
         {
-            "text_otazky": "Osa zemská je myšlená přímka středem země kolmá na rovník. Místa, kde protíná povrch",
+            "text_otazky": "Nejspodnější vrstvu atmosféry nazýváme:",
+            "moznosti": {
+                "A": "mezosféra",
+                "B": "troposféra",
+                "C": "stratosféra"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "V okamžiku vlétnutí do klesavého proudu se úhel náběhu:",
+            "moznosti": {
+                "A": "nezmění",
+                "B": "zvětší",
+                "C": "zmenší"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Co je hlavní příčinou krutu a ohybu trupu letounu za letu?",
+            "moznosti": {
+                "A": "účinek hmotových sil, které působí jako jednotlivé osamělé síly",
+                "B": "otáčivé pohyby letounu",
+                "C": "především kombinovaná zatížení přejímaná od ocasních ploch"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Osa zemská je myšlená přímka středem země kolmá na rovník. Místa, kde protíná povrch země se nazývají póly (točny). Jsou to póly:",
             "moznosti": {
                 "A": "zeměpisné",
                 "B": "magnetické",
@@ -302,21 +322,11 @@
             "body": 3
         },
         {
-            "text_otazky": "Jestliže se instrukce předané letadlu narušiteli pomocí radiového spojení z jakýchkoliv zdrojů",
+            "text_otazky": "Vlhkostí vzduchu rozumíme:",
             "moznosti": {
-                "A": "okamžitě žádat o vyjasnění a přitom se nadále řídit vizuálními instrukcemi",
-                "B": "vzdálit se od zakázaného prostoru",
-                "C": "zatočit do sledovaného směru a kývat křídly"
-            },
-            "spravna_odpoved": "A",
-            "body": 3
-        },
-        {
-            "text_otazky": "U podvozku příďového typu je hlavní podvozek umístěn:",
-            "moznosti": {
-                "A": "před těžištěm letadla",
-                "B": "za těžištěm letadla",
-                "C": "v těžišti letadla"
+                "A": "vypadávání srážek",
+                "B": "množství vodních par v ovzduší",
+                "C": "sněžení"
             },
             "spravna_odpoved": "B",
             "body": 1
@@ -332,24 +342,54 @@
             "body": 1
         },
         {
-            "text_otazky": "Prahy nezpevněné VPD mohou být vyznačeny plochými značkami ve tvaru písmene „L\":",
+            "text_otazky": "Při laminárním proudění:",
             "moznosti": {
-                "A": "uprostřed se základnou směřující ven",
-                "B": "umístěného v rozích prahu se základnou směřující ven",
-                "C": "v rozích prahu se základnou směřující dovnitř"
+                "A": "nedochází k vzájemnému promíchávání proudnic",
+                "B": "dochází k vzájemnému promíchávání proudnic, ale na konci sledovaného průřezu (profilu) se v proudu netvoří víry",
+                "C": "dochází k vzájemnému promíchávání proudnic"
             },
-            "spravna_odpoved": "B",
+            "spravna_odpoved": "A",
             "body": 1
         },
         {
-            "text_otazky": "Je neprovedení údržby na letadle důvodem k dočasné ztrátě letové způsobilosti letadla?",
+            "text_otazky": "Rozdíl mezi UTC a letním středoevropským (SELČ) časem je:",
             "moznosti": {
-                "A": "ano",
-                "B": "není to důvod k dočasné ztrátě letové způsobilosti",
-                "C": "jen při neprovedení roční nebo vyšší prohlídky"
+                "A": "2 hodiny",
+                "B": "není žádný",
+                "C": "1 hodina"
             },
             "spravna_odpoved": "A",
             "body": 3
+        },
+        {
+            "text_otazky": "Jak se pohybují vzduchové hmoty na teplé frontě?",
+            "moznosti": {
+                "A": "Teplý vzduch se nasunuje nad hmoty studeného vzduchu",
+                "B": "Teplý vzduch se nasunuje pod hmoty studeného vzduchu",
+                "C": "Studený vzduch se nasunuje nad hmoty teplého vzduchu"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Při zvážení letadla s posádkou a nákladem se zjistí, že je letadlo přetíženo. Jaká opatření je nutno provést před vzletem?",
+            "moznosti": {
+                "A": "odebrat náklad",
+                "B": "před vzletem vyvážit „těžký na ocas“",
+                "C": "před vzletem vyvážit „těžký na hlavu“"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Dekarbonizací motoru se rozumí:",
+            "moznosti": {
+                "A": "očištění vnější částí motoru od karbonu a usazenin",
+                "B": "odstranění karbonu ze spalovacího prostoru",
+                "C": "odstranění karbonu z tlumiče výfuku"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
         },
         {
             "text_otazky": "Letištní provoz je:",
@@ -362,63 +402,23 @@
             "body": 3
         },
         {
-            "text_otazky": "Jaké je povoleno maximální úmyslné vychýlení UL letounu kolem příčné osy za letu ve",
+            "text_otazky": "U podvozku příďového typu je hlavní podvozek umístěn:",
             "moznosti": {
-                "A": "30.0",
-                "B": "45.0",
-                "C": "60.0"
-            },
-            "spravna_odpoved": "A",
-            "body": 1
-        },
-        {
-            "text_otazky": "Námraza na vrtuli letounu může mít následující následky:",
-            "moznosti": {
-                "A": "nevyváženost vrtule, nebezpečí vibrací, odlétávající kusy ledu ohrožující další části",
-                "B": "odlétávající kusy ledu ohrožující další části letadla a motoru",
-                "C": "jen velmi obtížně rozeznatelné při provozu"
-            },
-            "spravna_odpoved": "A",
-            "body": 1
-        },
-        {
-            "text_otazky": "Pádová rychlost letadla v zatáčce:",
-            "moznosti": {
-                "A": "je nižší než v přímém ustáleném letu",
-                "B": "je konstantní, nesmí být vyšší než 65 km/h",
-                "C": "je vyšší než v přímém ustáleném letu a závisí na náklonu letadla"
-            },
-            "spravna_odpoved": "C",
-            "body": 3
-        },
-        {
-            "text_otazky": "Nejspodnější vrstvu atmosféry nazýváme:",
-            "moznosti": {
-                "A": "mezosféra",
-                "B": "troposféra",
-                "C": "stratosféra"
+                "A": "před těžištěm letadla",
+                "B": "za těžištěm letadla",
+                "C": "v těžišti letadla"
             },
             "spravna_odpoved": "B",
-            "body": 3
+            "body": 1
         },
         {
-            "text_otazky": "Při zvážení letadla s posádkou a nákladem se zjistí, že je letadlo přetíženo. Jaká opatření je",
+            "text_otazky": "Prostor typu LKP sahá",
             "moznosti": {
-                "A": "odebrat náklad",
-                "B": "před vzletem vyvážit „těžký na ocas“",
-                "C": "před vzletem vyvážit „těžký na hlavu“"
+                "A": "od 150m AGL do 1500m AMSL",
+                "B": "od země do různých výšek (viz AIP nebo platná letecká mapa)",
+                "C": "od země do FL 125"
             },
-            "spravna_odpoved": "A",
-            "body": 3
-        },
-        {
-            "text_otazky": "Kritický bod je:",
-            "moznosti": {
-                "A": "místo na trati plánované, ze kterého je stejná časová vzdálenost do místa startu i do",
-                "B": "místo na trati kam až letadlo může doletět, aby se za současného stavu paliva mohlo",
-                "C": "bod na plánované trati nejvíce vzdálený od VBT"
-            },
-            "spravna_odpoved": "A",
+            "spravna_odpoved": "B",
             "body": 1
         }
     ]

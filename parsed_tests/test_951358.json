@@ -2,57 +2,17 @@
     "datum_testu": "02.05.2025",
     "prehled_otazek": [
         {
-            "text_otazky": "Násobek zatížení udává:",
+            "text_otazky": "Kritický bod je:",
             "moznosti": {
-                "A": "o kolik je v daném okamžiku vztlak větší než vztlak, jaký má při stejné rychlosti v",
-                "B": "kolikrát je v daném okamžiku letu vztlak větší než tíha",
-                "C": "o kolik je plošné zatížení větší než horní hranice povoleného rozpětí plošného zatížení"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "Při zvýšení úhlu náběhu se dopředná rychlost letu:",
-            "moznosti": {
-                "A": "zvýší",
-                "B": "zůstane stejná",
-                "C": "sníží"
-            },
-            "spravna_odpoved": "C",
-            "body": 0
-        },
-        {
-            "text_otazky": "Zvláštní lety VFR pro letouny v řízeném okrsku se smí provádět mimo mraky, za stálé",
-            "moznosti": {
-                "A": "1 km letouny a 0,5 km vrtulníky",
-                "B": "1,5 km letouny a 0,8 km vrtulníky",
-                "C": "1 km letouny a 0,8 km vrtulníky"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "Pojem „přistávací zařízení“ je definován v souladu s technickými normami takto:",
-            "moznosti": {
-                "A": "část letadla umožňující pohyb po zemi, vzlet, přistání a pojíždění",
-                "B": "část letadla, na které jsou připevněna kola",
-                "C": "soustava kol na letadle"
+                "A": "místo na trati plánované, ze kterého je stejná časová vzdálenost do místa startu i do místa přistání",
+                "B": "místo na trati kam až letadlo může doletět, aby se za současného stavu paliva mohlo vrátit",
+                "C": "bod na plánované trati nejvíce vzdálený od VBT"
             },
             "spravna_odpoved": "A",
             "body": 0
         },
         {
-            "text_otazky": "Odtržením proudnic rozumíme:",
-            "moznosti": {
-                "A": "proudnice opustí profil, po tom co opíšou jeho tvar",
-                "B": "proud vzduchu přestane sledovat tvar profilu",
-                "C": "skokový přechod od turbulentního proudění nad horní plochou křídla k absolutní"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "S výjimkou zvláštních letů VFR se lety VFR musí provádět tak, aby letadlo ve vzdušném",
+            "text_otazky": "S výjimkou zvláštních letů VFR se lety VFR musí provádět tak, aby letadlo ve vzdušném prostoru třídy C pod FL 100 letělo při stejné nebo větší letové dohlednosti než:",
             "moznosti": {
                 "A": "3 km",
                 "B": "5 km",
@@ -62,43 +22,23 @@
             "body": 0
         },
         {
-            "text_otazky": "Vrtulový list je na své délce zkroucen, protože:",
+            "text_otazky": "V jaké výšce dosahuje barometrický tlak přibližně poloviční hodnoty tlaku na střední hladině moře:",
             "moznosti": {
-                "A": "všechny profily listu vrtule potom pracují zhruba na stejném úhlu náběhu",
-                "B": "se tak sníží hlučnost vrtule",
-                "C": "je tak zachován stejný úhel nastavení všech jeho profilů"
+                "A": "5500 m MSL",
+                "B": "3000 m MSL",
+                "C": "7000 m MSL"
             },
             "spravna_odpoved": "A",
             "body": 0
         },
         {
-            "text_otazky": "Je-li dáván příkaz letadlu za letu orgánem letištní služby řízení světelným návěstím, potom",
+            "text_otazky": "Poloha těžiště letadla za letu má významný vliv na letové vlastnosti. Jedná se zejména o tyto letové vlastnosti:",
             "moznosti": {
-                "A": "vrať se na přistání",
-                "B": "uvolněte cestu jinému letadlu a pokračujte v letu na okruhu",
-                "C": "letiště není bezpečné, nepřistávejte"
+                "A": "stoupavost",
+                "B": "rychlost letu",
+                "C": "stabilitu a ovladatelnost"
             },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "Ke vzletům a přistáním při nepravidelném provozu motorových SLZ může být použito",
-            "moznosti": {
-                "A": "jakékoliv plochy, vyslovil-li s využíváním plochy k tomuto účelu souhlas vlastník",
-                "B": "plochy trvale užívané ke vzletům a přistáním letadel a vymezené k tomuto účelu v",
-                "C": "plochy vymezené k tomuto účelu v územně plánovací dokumentaci nebo v územním"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Letadlo má v letové příručce a na štítku v kabině uvedenou max. vzletovou hmotnost 420 kg:",
-            "moznosti": {
-                "A": "pro vzlet musí být dodržena hmotnost 420 kg",
-                "B": "pro vzlet musí být dodržena hmotnost 420 kg. Tato hmotnost může být překročena o",
-                "C": "maimální vzletová hmotnost je 450 kg dle leteckého zákona."
-            },
-            "spravna_odpoved": "A",
+            "spravna_odpoved": "C",
             "body": 0
         },
         {
@@ -112,146 +52,6 @@
             "body": 0
         },
         {
-            "text_otazky": "Dříve než v Praze vychází slunce:",
-            "moznosti": {
-                "A": "v Londýně",
-                "B": "v Paříži",
-                "C": "v Moskvě"
-            },
-            "spravna_odpoved": "C",
-            "body": 0
-        },
-        {
-            "text_otazky": "V letním období ve střední Evropě v centrální části výrazné tlakové výše očekáváme:",
-            "moznosti": {
-                "A": "skoro jasno, slabý vítr, přes den vysoké teploty, slábnoucí termiku",
-                "B": "jasno, silný vítr, v noci chladno, ve dne teplo a silnou termiku",
-                "C": "inverzní mlhy, proměnlivý vítr, noční bouřky a ve dne silnou termiku"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Za dynamické zatížení draku letadla považujeme tato zatížení:",
-            "moznosti": {
-                "A": "zatížení od tíhy cestujících a zavazadel na palubě za letu",
-                "B": "zatížení od tíhy konstrukčních částí letadla hlavně při přistání",
-                "C": "zatížení způsobená vertikálními poryvy vzduchu, zatížení od manévrů a obratů,"
-            },
-            "spravna_odpoved": "C",
-            "body": 0
-        },
-        {
-            "text_otazky": "Nebezpečné jevy spojené s bouřkou:",
-            "moznosti": {
-                "A": "výstupné proudy a růst Cb - cumulonimbus oblaku",
-                "B": "silné výstupné proudy s maimem v horní polovině Cb – cumulonimbu, silná",
-                "C": "hustota oblaku, který je složen z kapalné i pevné fáze vody"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "Musí být na palubě SLZ při provádění výcviku vzletu a přistání platný technický průkaz?",
-            "moznosti": {
-                "A": "ne",
-                "B": "ano",
-                "C": "podle rozhodnutí pilota"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
-            "text_otazky": "Kritický bod je:",
-            "moznosti": {
-                "A": "místo na trati plánované, ze kterého je stejná časová vzdálenost do místa startu i do",
-                "B": "místo na trati kam až letadlo může doletět, aby se za současného stavu paliva mohlo",
-                "C": "bod na plánované trati nejvíce vzdálený od VBT"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "V jaké výšce dosahuje barometrický tlak přibližně poloviční hodnoty tlaku na střední hladině",
-            "moznosti": {
-                "A": "5500 m MSL",
-                "B": "3000 m MSL",
-                "C": "7000 m MSL"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Jaký pohyb řídící pákou musí pilot vykonat, aby letadlo přešlo do letu na větším úhlu náběhu,",
-            "moznosti": {
-                "A": "tlačit na řídící páku, výškové kormidlo se vychýlí dolů",
-                "B": "tlačit na řídící páku, výškové kormidlo se vychýlí nahoru",
-                "C": "přitáhnout řídící páku, výškové kormidlo se vychýlí nahoru"
-            },
-            "spravna_odpoved": "C",
-            "body": 0
-        },
-        {
-            "text_otazky": "Poloha těžiště letadla za letu má významný vliv na letové vlastnosti. Jedná se zejména o tyto",
-            "moznosti": {
-                "A": "stoupavost",
-                "B": "rychlost letu",
-                "C": "stabilitu a ovladatelnost"
-            },
-            "spravna_odpoved": "C",
-            "body": 0
-        },
-        {
-            "text_otazky": "Vzduchovou hmotou nazýváme instabilní, pokud v ní dochází k:",
-            "moznosti": {
-                "A": "konvektivním vertikálním pohybům",
-                "B": "inverzím",
-                "C": "tvorbě vrstevnaté oblačnosti"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Pro každý mezinárodní let musí být:",
-            "moznosti": {
-                "A": "povolení k přeletu hranic vydaném místním útvarem pohraniční policie",
-                "B": "předložené oznámení o letu",
-                "C": "předložený letový plán, pokud to dané státy vyžadují"
-            },
-            "spravna_odpoved": "C",
-            "body": 0
-        },
-        {
-            "text_otazky": "Při obtékání tělesa vznikají aerodynamické síly. Nazývají se:",
-            "moznosti": {
-                "A": "vztlak, tíha a odpor",
-                "B": "vztlak a podtlak",
-                "C": "výsledná aerodynamická síla, která se rozkládá na vztlak a odpor"
-            },
-            "spravna_odpoved": "C",
-            "body": 0
-        },
-        {
-            "text_otazky": "Přibližují-li se dvě nebo více letadel těžších vzduchu k jednomu letišti s úmyslem přistát a",
-            "moznosti": {
-                "A": "letadlo letící vlevo dát přednost letadlům přilétávajícím zprava",
-                "B": "pomalejší letadlo dát přednost rychlejšímu",
-                "C": "výše letící letadlo dát přednost letadlu letícímu níže"
-            },
-            "spravna_odpoved": "C",
-            "body": 0
-        },
-        {
-            "text_otazky": "Horizontální rychlost se udává:",
-            "moznosti": {
-                "A": "v uzlech",
-                "B": "v km/hod, v MPH, v uzlech (kts)",
-                "C": "ve stopách"
-            },
-            "spravna_odpoved": "B",
-            "body": 0
-        },
-        {
             "text_otazky": "Srovnávací navigace spočívá v:",
             "moznosti": {
                 "A": "srovnávání vypočtených časů se skutečností",
@@ -259,36 +59,6 @@
                 "C": "srovnávání terénu s mapou a opačně"
             },
             "spravna_odpoved": "C",
-            "body": 0
-        },
-        {
-            "text_otazky": "Vibrace přenášené od pohonné jednotky do draku letadla:",
-            "moznosti": {
-                "A": "jsou škodlivé a namáhají konstrukci letadla",
-                "B": "jsou škodlivé pouze pro motor",
-                "C": "jsou žádoucí, protože pomáhají promíchat palivo a olej (zvlášť u dvoudobých motorů)"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Nosnou složkou kompozitní letecké konstrukce je:",
-            "moznosti": {
-                "A": "tkanina nebo stejnosměrná skleněná vlákna, nebo vlákna z jiných k tomu určených",
-                "B": "jemná drátěná síť",
-                "C": "pryskyřice"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Na vstřícné trati letí letadla stejné kategorie. Opatření k vyhnutí provede:",
-            "moznosti": {
-                "A": "obě letadla změnou kurzu vpravo",
-                "B": "vy změnou kurzu vpravo, druhé letadlo vlevo",
-                "C": "změnou kurzu vlevo"
-            },
-            "spravna_odpoved": "A",
             "body": 0
         },
         {
@@ -302,53 +72,33 @@
             "body": 0
         },
         {
-            "text_otazky": "Terénní útvary jako jsou lesy, louky, jezera, hrady, silnice, železnice atd. nazýváme:",
+            "text_otazky": "Nebezpečné jevy spojené s bouřkou:",
             "moznosti": {
-                "A": "topografickou situací",
-                "B": "projekcí mapy",
-                "C": "topografickou plochou"
+                "A": "výstupné proudy a růst Cb - cumulonimbus oblaku",
+                "B": "silné výstupné proudy s maimem v horní polovině Cb – cumulonimbu, silná turbulence, sestupné proudy s maimem blízko základny, silná námraza, elektrické vlastnosti Cb - cumulonimbu",
+                "C": "hustota oblaku, který je složen z kapalné i pevné fáze vody"
             },
-            "spravna_odpoved": "A",
+            "spravna_odpoved": "B",
             "body": 0
         },
         {
-            "text_otazky": "Prostor třídy E sahá do výšky",
+            "text_otazky": "Horizontální červená čtvercová deska s jednou žlutou úhlopříčkou vyložená v signální (návěstní) ploše znamená?",
             "moznosti": {
-                "A": "FL 95 (2900 m)",
-                "B": "FL 85 (2600 m)",
-                "C": "FL 125 (3800 m)"
-            },
-            "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Nultý poledník je:",
-            "moznosti": {
-                "A": "poledník neprocházející hvězdárnou v Greenwich, ovšem pouze na malé kružnici",
-                "B": "poledník, na kterém se zeměpisná šířka i délka rovnají 0",
-                "C": "poledník, zvaný též základní, procházející hvězdárnou v Greenwich v Anglii"
+                "A": "vzhledem ke špatnému stavu provozní plochy nebo z jakékoliv jiné příčiny je přistání zakázano",
+                "B": "nezpůsobilost provozní plochy",
+                "C": "vzhledem ke špatnému stavu provozní plochy nebo z jakékoliv jiné příčiny se musí přiblížení na přistání a přistání provádět zvláště opatrně"
             },
             "spravna_odpoved": "C",
             "body": 0
         },
         {
-            "text_otazky": "Jak bude ovlivněna délka vzletu motorového letadla, jestliže se bude po celou jeho dobu",
+            "text_otazky": "Pojem „přistávací zařízení“ je definován v souladu s technickými normami takto:",
             "moznosti": {
-                "A": "letadlo v důsledku značného součinitele odporu bude velice pomalu zrychlovat, takže",
-                "B": "délka vzletu se výrazně zkrátí neboť letadlo dosáhne velkého součinitele vztlaku",
-                "C": "délka vzletu se nepatrně prodlouží"
+                "A": "část letadla umožňující pohyb po zemi, vzlet, přistání a pojíždění",
+                "B": "část letadla, na které jsou připevněna kola",
+                "C": "soustava kol na letadle"
             },
             "spravna_odpoved": "A",
-            "body": 0
-        },
-        {
-            "text_otazky": "Velikost násobku zatížení pilot nejvíc ovlivní:",
-            "moznosti": {
-                "A": "prudkým vyvážením „těžký na ocas“",
-                "B": "prudkým vyvážením „těžký na hlavu“",
-                "C": "rychlým zásahem do podélného řízení"
-            },
-            "spravna_odpoved": "C",
             "body": 0
         },
         {
@@ -362,21 +112,31 @@
             "body": 0
         },
         {
-            "text_otazky": "Při laminárním proudění:",
+            "text_otazky": "Je-li dáván příkaz letadlu za letu orgánem letištní služby řízení světelným návěstím, potom stálé červené světlo znamená:",
             "moznosti": {
-                "A": "dochází k vzájemnému promíchávání proudnic",
-                "B": "nedochází k vzájemnému promíchávání proudnic",
-                "C": "dochází k vzájemnému promíchávání proudnic, ale na konci sledovaného průřezu"
+                "A": "vrať se na přistání",
+                "B": "uvolněte cestu jinému letadlu a pokračujte v letu na okruhu",
+                "C": "letiště není bezpečné, nepřistávejte"
             },
             "spravna_odpoved": "B",
             "body": 0
         },
         {
-            "text_otazky": "Slot je:",
+            "text_otazky": "Prostor třídy E sahá do výšky",
             "moznosti": {
-                "A": "náběžná část křídla sklopná směrem dolů",
-                "B": "tvarové těleso před náběžnou hranou křídla, které zabraňuje odtržení proudu vzduchu",
-                "C": "horní část náběžné části křídla"
+                "A": "FL 95 (2900 m)",
+                "B": "FL 85 (2600 m)",
+                "C": "FL 125 (3800 m)"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Při laminárním proudění:",
+            "moznosti": {
+                "A": "dochází k vzájemnému promíchávání proudnic",
+                "B": "nedochází k vzájemnému promíchávání proudnic",
+                "C": "dochází k vzájemnému promíchávání proudnic, ale na konci sledovaného průřezu (profilu) se v proudu netvoří víry"
             },
             "spravna_odpoved": "B",
             "body": 0
@@ -402,11 +162,231 @@
             "body": 0
         },
         {
-            "text_otazky": "Horizontální červená čtvercová deska s jednou žlutou úhlopříčkou vyložená v signální",
+            "text_otazky": "Vibrace přenášené od pohonné jednotky do draku letadla:",
             "moznosti": {
-                "A": "vzhledem ke špatnému stavu provozní plochy nebo z jakékoliv jiné příčiny je přistání",
-                "B": "nezpůsobilost provozní plochy",
-                "C": "vzhledem ke špatnému stavu provozní plochy nebo z jakékoliv jiné příčiny se musí"
+                "A": "jsou škodlivé a namáhají konstrukci letadla",
+                "B": "jsou škodlivé pouze pro motor",
+                "C": "jsou žádoucí, protože pomáhají promíchat palivo a olej (zvlášť u dvoudobých motorů) a tím zlepší jeho výkon"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Ke vzletům a přistáním při nepravidelném provozu motorových SLZ může být použito",
+            "moznosti": {
+                "A": "jakékoliv plochy, vyslovil-li s využíváním plochy k tomuto účelu souhlas vlastník plochy, při splnění ostatních podmínek",
+                "B": "plochy trvale užívané ke vzletům a přistáním letadel a vymezené k tomuto účelu v územně plánovací dokumentaci nebo v územním rozhodnutí, za předpokladu souhlasu vlastníka nebo provozovatele plochy a obce, na jejímž území se plocha nalézá",
+                "C": "plochy vymezené k tomuto účelu v územně plánovací dokumentaci nebo v územním rozhodnutí"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Terénní útvary jako jsou lesy, louky, jezera, hrady, silnice, železnice atd. nazýváme:",
+            "moznosti": {
+                "A": "topografickou situací",
+                "B": "projekcí mapy",
+                "C": "topografickou plochou"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Musí být na palubě SLZ při provádění výcviku vzletu a přistání platný technický průkaz?",
+            "moznosti": {
+                "A": "ne",
+                "B": "ano",
+                "C": "podle rozhodnutí pilota"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Odtržením proudnic rozumíme:",
+            "moznosti": {
+                "A": "proudnice opustí profil, po tom co opíšou jeho tvar",
+                "B": "proud vzduchu přestane sledovat tvar profilu",
+                "C": "skokový přechod od turbulentního proudění nad horní plochou křídla k absolutní laminaritě"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Vrtulový list je na své délce zkroucen, protože:",
+            "moznosti": {
+                "A": "všechny profily listu vrtule potom pracují zhruba na stejném úhlu náběhu",
+                "B": "se tak sníží hlučnost vrtule",
+                "C": "je tak zachován stejný úhel nastavení všech jeho profilů"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "V letním období ve střední Evropě v centrální části výrazné tlakové výše očekáváme:",
+            "moznosti": {
+                "A": "skoro jasno, slabý vítr, přes den vysoké teploty, slábnoucí termiku",
+                "B": "jasno, silný vítr, v noci chladno, ve dne teplo a silnou termiku",
+                "C": "inverzní mlhy, proměnlivý vítr, noční bouřky a ve dne silnou termiku"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Vzduchovou hmotou nazýváme instabilní, pokud v ní dochází k:",
+            "moznosti": {
+                "A": "konvektivním vertikálním pohybům",
+                "B": "inverzím",
+                "C": "tvorbě vrstevnaté oblačnosti"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Při zvýšení úhlu náběhu se dopředná rychlost letu:",
+            "moznosti": {
+                "A": "zvýší",
+                "B": "zůstane stejná",
+                "C": "sníží"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Velikost násobku zatížení pilot nejvíc ovlivní:",
+            "moznosti": {
+                "A": "prudkým vyvážením „těžký na ocas“",
+                "B": "prudkým vyvážením „těžký na hlavu“",
+                "C": "rychlým zásahem do podélného řízení"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Na vstřícné trati letí letadla stejné kategorie. Opatření k vyhnutí provede:",
+            "moznosti": {
+                "A": "obě letadla změnou kurzu vpravo",
+                "B": "vy změnou kurzu vpravo, druhé letadlo vlevo",
+                "C": "změnou kurzu vlevo"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Letadlo má v letové příručce a na štítku v kabině uvedenou max. vzletovou hmotnost 420 kg:",
+            "moznosti": {
+                "A": "pro vzlet musí být dodržena hmotnost 420 kg",
+                "B": "pro vzlet musí být dodržena hmotnost 420 kg. Tato hmotnost může být překročena o hmotnost záchranného systému která se do ma. vzletové hmotnosti nezapočitává.",
+                "C": "maimální vzletová hmotnost je 450 kg dle leteckého zákona."
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Pro každý mezinárodní let musí být:",
+            "moznosti": {
+                "A": "povolení k přeletu hranic vydaném místním útvarem pohraniční policie",
+                "B": "předložené oznámení o letu",
+                "C": "předložený letový plán, pokud to dané státy vyžadují"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Násobek zatížení udává:",
+            "moznosti": {
+                "A": "o kolik je v daném okamžiku vztlak větší než vztlak, jaký má při stejné rychlosti v ustáleném klouzavém letu",
+                "B": "kolikrát je v daném okamžiku letu vztlak větší než tíha",
+                "C": "o kolik je plošné zatížení větší než horní hranice povoleného rozpětí plošného zatížení"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Jak bude ovlivněna délka vzletu motorového letadla, jestliže se bude po celou jeho dobu pohybovat na vysokém úhlu náběhu v blízkosti kritického?",
+            "moznosti": {
+                "A": "letadlo v důsledku značného součinitele odporu bude velice pomalu zrychlovat, takže délka vzletu se výrazně prodlouží",
+                "B": "délka vzletu se výrazně zkrátí neboť letadlo dosáhne velkého součinitele vztlaku",
+                "C": "délka vzletu se nepatrně prodlouží"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Přibližují-li se dvě nebo více letadel těžších vzduchu k jednomu letišti s úmyslem přistát a nevztahují-li se na ně pravidla pro vyhýbání, platí přednost pro přistání:",
+            "moznosti": {
+                "A": "letadlo letící vlevo dát přednost letadlům přilétávajícím zprava",
+                "B": "pomalejší letadlo dát přednost rychlejšímu",
+                "C": "výše letící letadlo dát přednost letadlu letícímu níže"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Dříve než v Praze vychází slunce:",
+            "moznosti": {
+                "A": "v Londýně",
+                "B": "v Paříži",
+                "C": "v Moskvě"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Zvláštní lety VFR pro letouny v řízeném okrsku se smí provádět mimo mraky, za stálé viditelnosti země při minimální přízemní i letové dohlednosti:",
+            "moznosti": {
+                "A": "1 km letouny a 0,5 km vrtulníky",
+                "B": "1,5 km letouny a 0,8 km vrtulníky",
+                "C": "1 km letouny a 0,8 km vrtulníky"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Jaký pohyb řídící pákou musí pilot vykonat, aby letadlo přešlo do letu na větším úhlu náběhu, jak se při tom vychýlí výškové kormidlo?",
+            "moznosti": {
+                "A": "tlačit na řídící páku, výškové kormidlo se vychýlí dolů",
+                "B": "tlačit na řídící páku, výškové kormidlo se vychýlí nahoru",
+                "C": "přitáhnout řídící páku, výškové kormidlo se vychýlí nahoru"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Nosnou složkou kompozitní letecké konstrukce je:",
+            "moznosti": {
+                "A": "tkanina nebo stejnosměrná skleněná vlákna, nebo vlákna z jiných k tomu určených materiálů",
+                "B": "jemná drátěná síť",
+                "C": "pryskyřice"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Horizontální rychlost se udává:",
+            "moznosti": {
+                "A": "v uzlech",
+                "B": "v km/hod, v MPH, v uzlech (kts)",
+                "C": "ve stopách"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Za dynamické zatížení draku letadla považujeme tato zatížení:",
+            "moznosti": {
+                "A": "zatížení od tíhy cestujících a zavazadel na palubě za letu",
+                "B": "zatížení od tíhy konstrukčních částí letadla hlavně při přistání",
+                "C": "zatížení způsobená vertikálními poryvy vzduchu, zatížení od manévrů a obratů, zatížení od sil při vzletu a přistání"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Při obtékání tělesa vznikají aerodynamické síly. Nazývají se:",
+            "moznosti": {
+                "A": "vztlak, tíha a odpor",
+                "B": "vztlak a podtlak",
+                "C": "výsledná aerodynamická síla, která se rozkládá na vztlak a odpor"
             },
             "spravna_odpoved": "C",
             "body": 0
@@ -419,6 +399,26 @@
                 "C": "odstranění karbonu z tlumiče výfuku"
             },
             "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Nultý poledník je:",
+            "moznosti": {
+                "A": "poledník neprocházející hvězdárnou v Greenwich, ovšem pouze na malé kružnici",
+                "B": "poledník, na kterém se zeměpisná šířka i délka rovnají 0",
+                "C": "poledník, zvaný též základní, procházející hvězdárnou v Greenwich v Anglii"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Slot je:",
+            "moznosti": {
+                "A": "náběžná část křídla sklopná směrem dolů",
+                "B": "tvarové těleso před náběžnou hranou křídla, které zabraňuje odtržení proudu vzduchu při větších úhlech náběhu",
+                "C": "horní část náběžné části křídla"
+            },
+            "spravna_odpoved": "B",
             "body": 0
         }
     ]
