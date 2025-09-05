@@ -1,30 +1,47 @@
-# Analýza otázek z testů
+# Analýza četnosti otázek v testech
 
-__POCHOPITELNĚ NENÍ TOTO OFICIÁLNÍ STATISTIKA KTERÉ BY SE JAKKOLIV DALA ZNEUŽÍT K ZJEDNDODUŠENÍ NEBO ZKRESLENÍ VÝSLEDKŮ TESTŮ, BERTE TO JAKO INFROMATIVNÍ STATISTIKU!__
+> [!WARNING]
+> **Upozornění:** Tato analýza je čistě informativní a je vytvořena z veřejně dostupných dat. V žádném případě neslouží jako oficiální statistika a neměla by být zneužita k jakémukoliv ovlivňování či zkreslování výsledků reálných testů.
 
+---
 
-Data jsou z testů vykonaných v datech: **2025-04-15_to_2025-09-05**
-Celkem bylo zpracováno **4755** testů.
-které obsahovaly dohromady **198694** otázek.
-Jedinečných otázek je **998**.
-Počet otázek, které se vyskytly u kterých není jasno za kolik jsou bodů: **19**.
+## Souhrnné statistiky
 
-## nejčastější otázky celkově:
-![Top 50 nejčastějších otázek celkově](top_50_overall_questions.png)
+*   **Analyzované období:** 2025-04-15_to_2025-09-05
+*   **Celkový počet zpracovaných testů:** 4755
+*   **Celkový počet otázek v datech:** 198694
+*   **Počet unikátních otázek:** 998
+*   **Počet unikátních otázek s nulovým bodovým hodnocením:** 19
 
+---
 
-## Seznam nejčastějších otázek z nejnovějšího týdne:
-![Top 50 otázek z nejnovějšího týdne](histogram_weeks/top50_questions_2025-35.png)
+## Top 50 nejčastějších otázek (celkově)
+Graf ukazuje 50 otázek, které se nejčastěji vyskytovaly napříč všemi zpracovanými testy.
 
+![Top 50 nejčastějších otázek celkově](./top_50_overall_questions.png)
 
-## Seznam nejčastějších otázek z nejnovějšího Měsíce:
+## Top 50 nejčastějších otázek (poslední celý týden)
+Četnost otázek v posledním týdnu, pro který byla nalezena data.
 
-![Top 50 otázek z nejnovějšího týdne](histogram_month/top50_questions_2025-09.png)
+![Top 50 otázek z nejnovějšího týdne](./histogram_weeks/top50_questions_2025-35.png)
 
-## Seznam nječastějších otázek za 3 body z nejnovějšího Měsíce:
+## Top 50 nejčastějších otázek (poslední měsíc)
+Četnost otázek v posledním měsíci, pro který byla nalezena data.
 
-![Top 50 otázek za 3 body z nejnovějšího měsíce](histogram_month_3_points/top50_questions_2025-09.png)
+![Top 50 otázek z nejnovějšího měsíce](./histogram_month/top50_questions_2025-09.png)
 
-## Seznam nejčastějších otázek z posledních 30 dní:
-![Top 50 otázek z posledních 30 dní](histogram_last_30_days/top50_questions_newsest.png)
+## Top 50 nejčastějších otázek za 3 body (poslední měsíc)
+Stejná analýza jako výše, ale aplikovaná pouze na otázky s bodovým hodnocením 3.
+
+![Top 50 otázek za 3 body z nejnovějšího měsíce](./histogram_month_3_points/top50_questions_2025-09.png)
+
+## Top 50 nejčastějších otázek (posledních 30 dní)
+Graf ukazuje četnost otázek v plovoucím okně posledních 30 dní od data generování reportu.
+
+![Top 50 otázek z posledních 30 dní](./histogram_last_30_days/top50_questions_newsest.png)
+
+## Porovnání četnosti Top 20 otázek (poslední 4 měsíce)
+Tento graf ukazuje vývoj četnosti 20 nejčastějších otázek z posledního měsíce v čase. Umožňuje sledovat, zda se některé otázky stávají více či méně frekventované.
+
+![Porovnání četnosti Top 20 otázek za poslední 4 měsíce](./histogram_comparative/comparative_top20_2025-09.png)
 
