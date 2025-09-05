@@ -1,0 +1,445 @@
+{
+    "datum_testu": "03.09.2025",
+    "prehled_otazek": [
+        {
+            "text_otazky": "Poloha zeměpisného a magnetického pólu:",
+            "moznosti": {
+                "A": "magnetický pól je vždy na východ od zeměpisného",
+                "B": "není shodná",
+                "C": "totožná"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Režim autorotace vrtulníku znamená, že:",
+            "moznosti": {
+                "A": "rotor vrtulníku je poháněn pouze aerodynamickými silami, které vznikají při jeho",
+                "B": "v důsledku prudkého přitažení páky cykliky a vyšlápnutí nožního řízení dojde",
+                "C": "rotor vrtulníku není poháněn a jeho otáčky neustále klesají"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Osa zemská je myšlená přímka středem země kolmá na rovník. Místa, kde protíná povrch",
+            "moznosti": {
+                "A": "totožné",
+                "B": "magnetické",
+                "C": "zeměpisné"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Co znamená zkratka CTR?",
+            "moznosti": {
+                "A": "koncová řízená oblast",
+                "B": "prostor, kde není možné provádět lety VFR",
+                "C": "řízený okrsek letiště"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "V letadle musí být umístěny předepsané štítky s provozním omezením. Tyto štítky musí být",
+            "moznosti": {
+                "A": "na levém křídle ze spodu",
+                "B": "v kabině letadla a v zorném poli pilota",
+                "C": "na libovolné pevné části konstrukce"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Letadlo za letu nebo pohybující se na zemi musí dát přednost letadlu, které:",
+            "moznosti": {
+                "A": "dostalo povolení pro přiblížení na přistání",
+                "B": "nemá spojení se službou řízeného letového provozu",
+                "C": "přistává nebo je v poslední fázi přiblížení na přistání"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "K čemu slouží relativní příčný sklonoměr?",
+            "moznosti": {
+                "A": "ke zjištění polohy příčné osy letadla v přímém letu nebo k informaci o skluzech nebo",
+                "B": "k informaci o stoupání nebo klesání letadla v přímém letu i v zatáčkách",
+                "C": "k informaci, jestli letadlo zatáčí nebo nezatáčí"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Zákon o civilním letectví, zdravotní prohlídku od pilota:",
+            "moznosti": {
+                "A": "nevyžaduje",
+                "B": "vyžaduje, a to určeným leteckým lékařem",
+                "C": "vyžaduje, a to sportovním lékařem"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Obálka obratů:",
+            "moznosti": {
+                "A": "vymezuje vzdušný prostor v kterém se může letadlo pohybovat",
+                "B": "obsahuje seznam dovolených manévrů letu",
+                "C": "vymezuje oblast možných a dovolených provozních násobků při dané rychlosti letu"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Stanovení, dodržení a kontrola polohy těžiště letadla je:",
+            "moznosti": {
+                "A": "součástí procesu údržby letadla před vzletem",
+                "B": "v plné zodpovědnosti majitele letadla, nikoli však pilota",
+                "C": "jedním ze základních předpokladů bezpečnosti letu"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Letištní provoz je:",
+            "moznosti": {
+                "A": "všechna letadla za letu nebo pohybující se na provozní ploše",
+                "B": "veškerý provoz na provozní ploše letiště a všechna letadla letící v blízkosti letiště",
+                "C": "provoz vozidel a osob na provozní ploše letiště"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Náhlé odlehčení , způsobené prudkým potlačením páky cykliky může vést k záporným",
+            "moznosti": {
+                "A": "z důvodů možného selhání palivové a olejové instalace, která není na tyto násobky",
+                "B": "z důvodu možnosti nárazu hrany rotorové hlavy do hlavního hřídele a tím jeho",
+                "C": "z důvodu rapidního nárůstu sil v řízení"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Pilot, nebo žák oprávněný k samostatným letům musí být v kabině za řízením:",
+            "moznosti": {
+                "A": "od okamžiku, kdy se začne rotor roztáčet pomocí motoru, až do jeho úplného",
+                "B": "kdykoli se otáčí rotor, může však vystoupit po vypnutí motoru, když se rotor otáčí jen",
+                "C": "kdykoli se otáčí rotor. Může však vystoupit kdykoli, není-li nablízku inspektor ULH"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Na ULL je instalována dřevěná vrtule. Tato je připevněna pomocí šroubů, které jsou:",
+            "moznosti": {
+                "A": "dotaženy přes samostatné podložky",
+                "B": "dotaženy bez podložek",
+                "C": "dotaženy přes jednu centrální podložku"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "S jakou vrtulí dosáhne letadlo největší zrychlení při vzletu?",
+            "moznosti": {
+                "A": "zrychlení při rozjezdu nezávisí na úhlu nastavení vrtule ani na jejich otáčkách",
+                "B": "s vrtulí s velkým úhlem nastavení",
+                "C": "s vrtulí s malým úhlem nastavení"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Při roztáčení rotoru před startem musí být páka kolektivu:",
+            "moznosti": {
+                "A": "na spodním dorazu",
+                "B": "v poloze předpokládaného úhlu nastavení listů pro vis",
+                "C": "na horním dorazu"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Při zvětšování úhlu náběhu:",
+            "moznosti": {
+                "A": "klesá součinitel vztlaku a odporu",
+                "B": "roste součinitel vztlaku a odporu",
+                "C": "roste součinitel vztlaku, součinitel odporu klesá"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Informace o poloze CTR, TMA, LKR, LKP je možno získat",
+            "moznosti": {
+                "A": "v mapě ADAC",
+                "B": "v oficiální navigační mapě ÚCL",
+                "C": "v AIP ČR nebo platné letecké mapě"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Rozdíl mezi UTC a letním středoevropským (SELČ) časem je:",
+            "moznosti": {
+                "A": "2 hodiny",
+                "B": "není žádný",
+                "C": "1 hodina"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Které druhy oblaků jsou typické pro oblačný systém teplé fronty:",
+            "moznosti": {
+                "A": "Ns – nimbostratus, As – altostratus, Cs – cirostratus",
+                "B": "Sc – stratocumulus, Ac – altocumulus, Cc – cirocumulus",
+                "C": "Cu – cumulus, Ac – altocumulus, Cb – cumulonimbus"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Dříve než v Praze vychází slunce:",
+            "moznosti": {
+                "A": "v Paříži",
+                "B": "v Londýně",
+                "C": "v Moskvě"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Odtržení proudu na horní straně profilu má za následek:",
+            "moznosti": {
+                "A": "náhlý pokles součinitele vztlaku, žádnou změnu součinitele klopivého momentu a",
+                "B": "náhlý vzrůst součinitele vztlaku, žádnou změnu součinitele klopivého momentu a",
+                "C": "náhlý pokles součinitele vztlaku, změnu součinitele klopivého momentu a vzrůst"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "V praxi převádíme rychlosti větru z m/s na kt vztahem:",
+            "moznosti": {
+                "A": "1 m/s ~ 3 kt",
+                "B": "1 m/s ~ 2 kt",
+                "C": "1 m/s ~ 1 kt"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Průměrná spotřeba = 11 l/h, doba letu 1°30‘:",
+            "moznosti": {
+                "A": "spotřebujete 17,5 l",
+                "B": "spotřebujete 18,5 l",
+                "C": "spotřebujete 16,5 l"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Pojíždí-li dvě letadla proti nebo přibližně proti sobě, piloti obou letadel jsou povinni zastavit,",
+            "moznosti": {
+                "A": "vlevo tak, aby mezi letadly byla zajištěna dostatečná vzdálenost",
+                "B": "vpravo tak, aby mezi letadly byla zajištěna dostatečná vzdálenost",
+                "C": "vpravo tak, aby vzdálenost mezi konci křídel byla nejméně 15 m"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Před letem s další osobou na palubě musí pilot SLZ provést minimálně:",
+            "moznosti": {
+                "A": "3 vzlety a přistání za posledních 90 dní na typu, se kterým bude let proveden",
+                "B": "3 vzlety a přistání za poslední 1 rok na typu, se kterým bude let proveden",
+                "C": "zaškolení s instruktorem"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Hustota vzduchu:",
+            "moznosti": {
+                "A": "roste s klesající teplotou vzduchu",
+                "B": "snižuje se s klesající teplotou",
+                "C": "roste s rostoucí teplotou"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Klouzavost vůči zemi se:",
+            "moznosti": {
+                "A": "změní, fouká-li vítr",
+                "B": "fouká-li vítr nezmění, protože efektivní nosná plocha zůstává stejná",
+                "C": "změní při změně hmotnosti"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Za stav SLZ před letem zodpovídá:",
+            "moznosti": {
+                "A": "majitel",
+                "B": "pilot",
+                "C": "inspektor technik mající toto SLZ v evidenci"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Za dynamické zatížení draku letadla považujeme tato zatížení:",
+            "moznosti": {
+                "A": "zatížení způsobená vertikálními poryvy vzduchu, zatížení od manévrů a obratů,",
+                "B": "zatížení od tíhy konstrukčních částí letadla hlavně při přistání",
+                "C": "zatížení od tíhy cestujících a zavazadel na palubě za letu"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Jaký je správný sled činnosti čtyřdobého motoru?",
+            "moznosti": {
+                "A": "sání, komprese, epanze, výfuk",
+                "B": "sání, komprese, výfuk, epanze",
+                "C": "komprese, sání, epanze, výfuk"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Z hlediska bezpečnosti letu je u vrtulníku obecně nejdůležitější:",
+            "moznosti": {
+                "A": "udržení otáček nosného rotoru v předepsaném rozmezí",
+                "B": "udržení potřebné dopředné rychlosti",
+                "C": "udržení stanovených otáček motoru"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Doklady potřebné pro let SLZ musí mít pilot u sebe:",
+            "moznosti": {
+                "A": "jen při přeletu",
+                "B": "jen při mimoletištním letu",
+                "C": "při každém letu"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Výrobcem letadel jsou udávány výkony, obsluha a provozní rozsah centráží příslušného typu",
+            "moznosti": {
+                "A": "provozním bulletinu",
+                "B": "letové příručce",
+                "C": "palubním deníku"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Zobrazit zemský povrch v rovině bez zkreslení:",
+            "moznosti": {
+                "A": "není možné",
+                "B": "je možné",
+                "C": "jen na mapě plochojevné"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Kontroly a výměny svíček u zážehových motorů jsou:",
+            "moznosti": {
+                "A": "prováděny pouze u certifikovaných leteckých motorů",
+                "B": "z hlediska bezpečnosti nevýznamné",
+                "C": "nutné z hlediska zajištění správného chodu motoru a provádí se v předepsaných"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Hustota vzduchu v zemské atmosféře s výškou:",
+            "moznosti": {
+                "A": "se nemění",
+                "B": "klesá",
+                "C": "vzrůstá"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Mezi oblačnost kupovitou patří:",
+            "moznosti": {
+                "A": "Cu - cumulus",
+                "B": "As - altostratus",
+                "C": "St - stratus"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Do variometru je zapojen:",
+            "moznosti": {
+                "A": "celkový tlak",
+                "B": "statický tlak",
+                "C": "celkový tlak a statický tlak"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Maximální vzletová hmotnost letadla je:",
+            "moznosti": {
+                "A": "největší hmotnost naloženého letadla připraveného ke vzletu bez ohledu na omezení",
+                "B": "největší hmotnost, při které letadlo vyhovuje technickým a zákonným omezením pro",
+                "C": "největší hmotnost uvažovaná pro pojíždění letadla před vzletem"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Během letu zjistíte, že cílového letiště dosáhnete za 45 minut, zbytek LPH 10 l, průměrná",
+            "moznosti": {
+                "A": "ano",
+                "B": "ne",
+                "C": "ano, ale nezbude žádná rezerva paliva"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Letecká mapa by měla být věrohodná především:",
+            "moznosti": {
+                "A": "v plochách",
+                "B": "v úhlech a vzdálenostech",
+                "C": "v tratích a plochách"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "V režimu dopředného letu je list rotoru během otáčení o 360 stupňů kolem osy rotoru:",
+            "moznosti": {
+                "A": "obtékán tak, že se nemění rychlost proudnic ani úhel náběhu",
+                "B": "obtékán tak,že se mění se rychlost proudnic ale úhel náběhu se nemění",
+                "C": "obtékán tak, že se mění rychlost proudnic a úhel náběhu"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Jaké jsou kromě sil způsobující výstup vzduchu další dvě podmínky nutné pro vytvoření",
+            "moznosti": {
+                "A": "Nestabilní podmínky a nízký tlak vzduchu",
+                "B": "Nestabilní podmínky a vysoký obsah vlhkosti",
+                "C": "Stabilní podmínky a vysoký tlak vzduchu"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        }
+    ]
+}

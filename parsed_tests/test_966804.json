@@ -1,0 +1,525 @@
+{
+    "datum_testu": "31.08.2025",
+    "prehled_otazek": [
+        {
+            "text_otazky": "Klikový mechanismus slouží pro:",
+            "moznosti": {
+                "A": "převod pohybu přímočarého – vratného na pohyb otáčivý",
+                "B": "roztáčení motoru (startování)",
+                "C": "otvírání klikové skříně"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Při ustáleném stoupání musí být výkon motoru při zachování stejné dopředné ryhlosti:",
+            "moznosti": {
+                "A": "větší než pro let v horizontu",
+                "B": "stejně velký jako když letadlo letí stejnou rychlostí v horizontu",
+                "C": "vždy maimální"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Suchá adiabata je stavová křivka znázorňující změnu teploty s výškou o hodnotu:",
+            "moznosti": {
+                "A": "0,60 °C/100 m výšky",
+                "B": "0,65 °C/100 m výšky",
+                "C": "1,00 °C/100 m výšky"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Změny polohy vírníku kolem svislé osy docílíme:",
+            "moznosti": {
+                "A": "výchylkou řídící páky vlevo nebo vpravo",
+                "B": "směrovým kormidlem, stejně jako u aerodynamicky řízených letadel",
+                "C": "výchylkou řídící páky vpřed nebo vzad"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Tlumič podvozku je konstrukční část podvozku, která:",
+            "moznosti": {
+                "A": "přejímá většinu kinetické energie při pojíždění",
+                "B": "přejímá většinu kinetické energie nárazů při vzletu, přistání a pojíždění",
+                "C": "přejímá většinu potenciální energie nárazů při vzletu, přistání a pojíždění"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Vyšší účinnost má vrtule:",
+            "moznosti": {
+                "A": "3 listá",
+                "B": "4 listá",
+                "C": "2 listá"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Pro odlepení vírníku od země je třeba:",
+            "moznosti": {
+                "A": "Udržovat konstantní úhel náběhu rotorových listů",
+                "B": "Vrácením řídící páky do neutrální polohy odlehčit rotor a tím snížit celkový odpor",
+                "C": "Přitažením řídící páky nastavit potřebný úhel stoupání"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Provádíte-li zatáčku na východ podle magnetického kompasu, zatáčku:",
+            "moznosti": {
+                "A": "přetočíte",
+                "B": "nedotočíte",
+                "C": "zastavíte přesně na zamýšleném kursu"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Jaká musí být minimální vzdálenost od nezúčastněných osob při provozu SLZ podle zákona č.",
+            "moznosti": {
+                "A": "30 metrů",
+                "B": "Není stanovena",
+                "C": "50 metrů"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Reduktor slouží (mimo jiné)?",
+            "moznosti": {
+                "A": "ke snížení otáček vrtule oproti motoru",
+                "B": "ke zvýšení otáček vrtule oproti motoru",
+                "C": "ke správnému nastavení listů vrtule a tím k jejímu správnému aerodynamickému"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Které faktory společně nejvíce prodlužují délku vzletu:",
+            "moznosti": {
+                "A": "vyšší letová hmotnost, nižší teplota ovzduší, přistávací dráha proti svahu, vítr do zad",
+                "B": "nižší letová hmotnost, vyšší teplota ovzduší, přistávací dráha proti svahu, vítr do zad",
+                "C": "vyšší letová hmotnost, vyšší teplota ovzduší, vzletová dráha proti svahu, vítr do zad"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Předletová prohlídka listů rotoru spočívá v:",
+            "moznosti": {
+                "A": "Kontrole statického a dynamického vyvážení rotoru",
+                "B": "Kontrole listů, zda nejsou mechanicky poškozeny, čistota listů není rozhodující při",
+                "C": "Kontrole neporušeného povrchu a čistoty listů"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Doba východu a západu slunce se mění:",
+            "moznosti": {
+                "A": "intensitou slunečního záření",
+                "B": "působením magnetického pole zeměkoule",
+                "C": "s roční dobou"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Horizontální \"bílá činka\" vyložená na návěstní ploše znamená?",
+            "moznosti": {
+                "A": "navijákový provoz",
+                "B": "že se od letadel nepožaduje, aby přistávala, vzlétávala a pojížděla pouze na drahách",
+                "C": "že se od letadel požaduje, aby přistávala, vzlétávala a pojížděla pouze na drahách a"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Dekarbonizací motoru se rozumí:",
+            "moznosti": {
+                "A": "očištění vnější částí motoru od karbonu a usazenin",
+                "B": "odstranění karbonu z tlumiče výfuku",
+                "C": "odstranění karbonu ze spalovacího prostoru"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Řízení provedené tuhým přenosem je provedeno:",
+            "moznosti": {
+                "A": "pomocí bovdenů a lan",
+                "B": "pomocí lan",
+                "C": "pomocí pák a táhel"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Zatáčka po větru, provedená vírníkem v malé výšce a na malé rychlosti je nebezpečná",
+            "moznosti": {
+                "A": "pro možnost přechodu vírníku do pádu",
+                "B": "proto,že není možno vírník nad zemí podrovnat, nelze-li v důsledku nedostatečného",
+                "C": "pro možnost přechodu vírníku do vývrtky"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Mezi povinnosti velitele letadla/SLZ mimo jiné patří:",
+            "moznosti": {
+                "A": "kontrolovat technika při provádění prohlídky.",
+                "B": "provádět prohlídky v souladu s letovou a provozní příručkou pouze v autorizovaném",
+                "C": "provádět předletové prohlídky v souladu s letovou a provozní příručkou, vést v"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Velká kružnice je:",
+            "moznosti": {
+                "A": "největší kružnice na zeměkouli",
+                "B": "kružnice jejíž rovina prochází středem zeměkoule",
+                "C": "pouze rovník a nultý poledník"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Zmenší-li se vztlak na rotoru, otáčejícím se v autorotačním režimu, potom se otáčky rotoru:",
+            "moznosti": {
+                "A": "zvětší",
+                "B": "zmenší",
+                "C": "zůstávají stálé"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Rozkmit rotoru až k dorazům při pojíždění či rozjezdu vírníku je známkou:",
+            "moznosti": {
+                "A": "příliš nízkých otáček rotoru",
+                "B": "příliš nízké rychlosti pojíždění vírníku",
+                "C": "příliš vysokých otáček rotoru"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Konvekční aktivita ve středních zeměpisných šířkách je největší:",
+            "moznosti": {
+                "A": "v zimě v poledne",
+                "B": "v létě odpoledne",
+                "C": "v poledne"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Horizontální červená čtvercová deska se žlutými úhlopříčkami vyložená na návěstní ploše",
+            "moznosti": {
+                "A": "že přistání na dotyčném letišti je zakázáno a zákaz se pravděpodobně prodlouží",
+                "B": "nebezpečí při přistání",
+                "C": "nezpůsobilost provozní plochy"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Nosnou složkou kompozitní letecké konstrukce je:",
+            "moznosti": {
+                "A": "jemná drátěná síť",
+                "B": "pryskyřice",
+                "C": "tkanina nebo stejnosměrná skleněná vlákna, nebo vlákna z jiných k tomu určených"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Nasycená adiabata je stavová křivka znázorňující změnu teploty s výškou o hodnotu:",
+            "moznosti": {
+                "A": "1,00 °C/100 m výšky",
+                "B": "0,65 °C/100 m výšky",
+                "C": "0,60 °C/100 m výšky"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Při zvětšování úhlu náběhu:",
+            "moznosti": {
+                "A": "roste součinitel vztlaku, součinitel odporu klesá",
+                "B": "klesá součinitel vztlaku a odporu",
+                "C": "roste součinitel vztlaku a odporu"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Zvýší-li se teplota u kompozitní konstrukce nad stanovenou hranici:",
+            "moznosti": {
+                "A": "zvýší se její pevnost",
+                "B": "její pevnost zůstane nezměněna",
+                "C": "sníží se její pevnost"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Kvalifikace řízené lety VFR:",
+            "moznosti": {
+                "A": "je potřeba pro lety do zahraničí",
+                "B": "je potřeba pro každý let, který je předmětem letového povolení",
+                "C": "není potřeba pro průlet TMA nebo CTR"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Variometr nám udává:",
+            "moznosti": {
+                "A": "stoupání letadla",
+                "B": "stoupání i klesání letadla",
+                "C": "klesání letadla"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Platnost pilotního průkazu je:",
+            "moznosti": {
+                "A": "5 let od vystavení nebo posledního prodloužení platnosti pro všechny druhy SLZ",
+                "B": "neomezená",
+                "C": "2 roky od vystavení nebo posledního prodloužení platnosti pro všechny druhy SLZ"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Jaký je správný sled činnosti čtyřdobého motoru?",
+            "moznosti": {
+                "A": "sání, komprese, výfuk, epanze",
+                "B": "sání, komprese, epanze, výfuk",
+                "C": "komprese, sání, epanze, výfuk"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Jaké charakteristické příznaky má počasí na závětrné straně hor při föhnu:",
+            "moznosti": {
+                "A": "proměnlivá oblačnost, občasné přeháňky, mírný nebo žádný vítr",
+                "B": "malá oblačnost, neobvyklý vzrůst teploty, malá vlhkost, často silný vítr",
+                "C": "velká oblačnost, srážky, dobrá dohlednost"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Štíhlost křídla:",
+            "moznosti": {
+                "A": "udává vztah mezi rozpětím a tloušťkou profilu",
+                "B": "udává vztah mezi druhou mocninou rozpětí a plochou křídla",
+                "C": "udává vztah mezi hloubkou a tloušťkou profilu"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Výrobcem letadel jsou udávány výkony, obsluha a provozní rozsah centráží příslušného typu",
+            "moznosti": {
+                "A": "letové příručce",
+                "B": "provozním bulletinu",
+                "C": "palubním deníku"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Úhel snosu je:",
+            "moznosti": {
+                "A": "rozdíl ve stupních mezi Kz a směrem větru",
+                "B": "úhlový rozdíl mezi severem zeměpisným a magnetickým",
+                "C": "úhel mezi podélnou osou letadla a tratí letěnou"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Je neprovedení údržby na letadle důvodem k dočasné ztrátě letové způsobilosti letadla?",
+            "moznosti": {
+                "A": "ano",
+                "B": "není to důvod k dočasné ztrátě letové způsobilosti",
+                "C": "jen při neprovedení roční nebo vyšší prohlídky"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Zeměkoule je:",
+            "moznosti": {
+                "A": "síť souřadnicových čar",
+                "B": "rotační elipsoid na pólech zploštělý",
+                "C": "ideální koule"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Kurz měříme od severu ve stupních:",
+            "moznosti": {
+                "A": "ve směru otáčení hodinových ručiček",
+                "B": "na východ po směru, na západ proti směru hodinových ručiček",
+                "C": "proti směru otáčení hodinových ručiček"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Obsahuje letová příručka provozní omezení?",
+            "moznosti": {
+                "A": "podle rozhodnutí provozovatele",
+                "B": "ano",
+                "C": "ne"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Převodní nadmořská výška, mimo horské oblasti nad 4000 ft (1200 m) je v ČR:",
+            "moznosti": {
+                "A": "FL50",
+                "B": "10 000 ft (3050 m)",
+                "C": "5000 ft (1500 m)"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Brzdu rotoru používáme:",
+            "moznosti": {
+                "A": "po přistání k dobrždění pomalu se otáčejícího rotoru",
+                "B": "kdykoliv, potřebujeme-li snížit otáčky rotoru",
+                "C": "za letu, chceme-li snížit otáčky rotoru"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Kritický bod je:",
+            "moznosti": {
+                "A": "místo na trati kam až letadlo může doletět, aby se za současného stavu paliva mohlo",
+                "B": "bod na plánované trati nejvíce vzdálený od VBT",
+                "C": "místo na trati plánované, ze kterého je stejná časová vzdálenost do místa startu i do"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Nejspodnější vrstvu atmosféry nazýváme:",
+            "moznosti": {
+                "A": "troposféra",
+                "B": "stratosféra",
+                "C": "mezosféra"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Jak se pohybují vzduchové hmoty na teplé frontě?",
+            "moznosti": {
+                "A": "Teplý vzduch se nasunuje pod hmoty studeného vzduchu",
+                "B": "Teplý vzduch se nasunuje nad hmoty studeného vzduchu",
+                "C": "Studený vzduch se nasunuje nad hmoty teplého vzduchu"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Podvozek s pružnou nohou je:",
+            "moznosti": {
+                "A": "podvozek, jehož noha tvoří výkyvnou poloosu pro kolo",
+                "B": "podvozek tvořený pružnou nohou nesoucí na konci podvozkové kolo",
+                "C": "podvozek umístěný zpravidla na konci křídla nebo na zádi trupu, chránící uvedené"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "S jakou vrtulí dosáhne letadlo největší zrychlení při vzletu?",
+            "moznosti": {
+                "A": "s vrtulí s velkým úhlem nastavení",
+                "B": "zrychlení při rozjezdu nezávisí na úhlu nastavení vrtule ani na jejich otáčkách",
+                "C": "s vrtulí s malým úhlem nastavení"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Velitelé letadel letících po letištním okruhu jsou povinni:",
+            "moznosti": {
+                "A": "vždy provádět všechny zatáčky doprava",
+                "B": "při přiblížení na přistání nebo po vzletu provádět všechny zatáčky doleva, pokud není",
+                "C": "postupovat podle letového plánu"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Je možné z rychlostní poláry odečíst rychlost nejlepšího klouzání při protivětru?",
+            "moznosti": {
+                "A": "ne",
+                "B": "jen pro vítr do zad",
+                "C": "ano"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Při laminárním proudění:",
+            "moznosti": {
+                "A": "dochází k vzájemnému promíchávání proudnic, ale na konci sledovaného průřezu",
+                "B": "dochází k vzájemnému promíchávání proudnic",
+                "C": "nedochází k vzájemnému promíchávání proudnic"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Sever magnetický je směr, který:",
+            "moznosti": {
+                "A": "určuje magnetka kompasu, na kterou nepůsobí žádné vedlejší rušivé vlivy",
+                "B": "je určený myšlenou přímkou, která vede středem země a protíná její povrch",
+                "C": "změříme na mapě"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Rychloměr připojený k Pitotově trubici je zapojen na:",
+            "moznosti": {
+                "A": "celkový tlak a statický tlak",
+                "B": "statický tlak a dynamický tlak",
+                "C": "celkový tlak a dynamický tlak"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Nebezpečný prostor (LK D) je vymezený vzdušný prostor, ve kterém je ve vyhlášené době",
+            "moznosti": {
+                "A": "nebezpečná",
+                "B": "zakázaná",
+                "C": "omezená"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        }
+    ]
+}

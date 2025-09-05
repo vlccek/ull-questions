@@ -1,0 +1,445 @@
+{
+    "datum_testu": "05.09.2025",
+    "prehled_otazek": [
+        {
+            "text_otazky": "Zvýšená netěsnost palivového potrubí mezi nádrží a nízkotlakým čerpadlem se projeví:",
+            "moznosti": {
+                "A": "ucpáním palivového potrubí v důsledku proniknutí nečistot do tohoto potrubí",
+                "B": "přerušením dodávky paliva a v případě, že netěsnost je níže než hladina paliva v",
+                "C": "vytékáním paliva za chodu motoru"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Letíme kursem 030°, točíme pravou zatáčku o náklonu 15 st. Na jakém kursu musíme srovnat",
+            "moznosti": {
+                "A": "na 210°",
+                "B": "na 150°",
+                "C": "na 180°"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Klouzavost vůči zemi se:",
+            "moznosti": {
+                "A": "změní, fouká-li vítr",
+                "B": "změní při změně hmotnosti",
+                "C": "fouká-li vítr nezmění, protože efektivní nosná plocha zůstává stejná"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Velikost násobku zatížení pilot nejvíc ovlivní:",
+            "moznosti": {
+                "A": "prudkým vyvážením „těžký na hlavu“",
+                "B": "prudkým vyvážením „těžký na ocas“",
+                "C": "rychlým zásahem do podélného řízení"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Doba východu a západu slunce se mění:",
+            "moznosti": {
+                "A": "intensitou slunečního záření",
+                "B": "působením magnetického pole zeměkoule",
+                "C": "s roční dobou"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "V praxi převádíme rychlosti větru z m/s na kt vztahem:",
+            "moznosti": {
+                "A": "1 m/s ~ 2 kt",
+                "B": "1 m/s ~ 1 kt",
+                "C": "1 m/s ~ 3 kt"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Isobary jsou čáry na přízemních meteorologických mapách, které spojují místa:",
+            "moznosti": {
+                "A": "se stejnou teplotou přepočtenou na hladinu moře",
+                "B": "se stejným tlakem přepočteným na hladinu moře",
+                "C": "se stejnou vlhkostí"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Platnost technického průkazu \"P\" je stanovena na dobu:",
+            "moznosti": {
+                "A": "1",
+                "B": "pro MPK tři roky nebo čtyři roky od první registrace, pro ostatní druhy SLZ dva roky.",
+                "C": "maimálně na jeden rok pro ZK, PK, MPK a MZK; pro ostatní druhy SLZ maimálně"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Maximální nepřekročitelná rychlost letu značená jako Vne:",
+            "moznosti": {
+                "A": "může být překročena v sestupném letu",
+                "B": "může být překročena pouze v cestovním režimu za klidného ovzduší",
+                "C": "nesmí být překročena"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Letadlo má v letové příručce a na štítku v kabině uvedenou max. vzletovou hmotnost 420 kg:",
+            "moznosti": {
+                "A": "pro vzlet musí být dodržena hmotnost 420 kg. Tato hmotnost může být překročena o",
+                "B": "pro vzlet musí být dodržena hmotnost 420 kg",
+                "C": "maimální vzletová hmotnost je 450 kg dle leteckého zákona."
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Kde začíná na profilu odtrhávání proudu?",
+            "moznosti": {
+                "A": "v mezní vrstvě na sací straně profilu u náběžné hrany",
+                "B": "v mezní vrstvě na sací straně profilu od odtokové hrany",
+                "C": "v úplavu na sací straně profilu u náběžné hrany"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Hlavní příčinou odtržení proudu je vždy:",
+            "moznosti": {
+                "A": "snížení rychlosti letu pod hodnotu minimální dopředné rychlosti vůči zemi v ustáleném",
+                "B": "překročení kritického úhlu náběhu",
+                "C": "počátek přechodu laminárního proudění na povrchu PK v turbulentní"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Reakční moment motorem poháněného rotoru způsobuje:",
+            "moznosti": {
+                "A": "nutnost používání hrubších výchylek řídící páky, než u letounů",
+                "B": "tendenci vrtulníku zatáčet na opačnou stranu, než se otáčí nosný rotor",
+                "C": "tendenci vrtulníku klonit se na ustupující stranu rotoru"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Mezi oblačnost s mohutným vertikálním vývojem řadíme:",
+            "moznosti": {
+                "A": "Ac – altocumulus",
+                "B": "Cc – cirocumulus",
+                "C": "Cb – cumulonimbus"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Při zvážení letadla s posádkou a nákladem se zjistí, že je letadlo přetíženo. Jaká opatření je",
+            "moznosti": {
+                "A": "odebrat náklad",
+                "B": "před vzletem vyvážit „těžký na hlavu“",
+                "C": "před vzletem vyvážit „těžký na ocas“"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Odtržením proudnic rozumíme:",
+            "moznosti": {
+                "A": "proud vzduchu přestane sledovat tvar profilu",
+                "B": "skokový přechod od turbulentního proudění nad horní plochou křídla k absolutní",
+                "C": "proudnice opustí profil, po tom co opíšou jeho tvar"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Osa zemská je myšlená přímka středem země kolmá na rovník. Místa, kde protíná povrch",
+            "moznosti": {
+                "A": "totožné",
+                "B": "magnetické",
+                "C": "zeměpisné"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Mezi povinnosti velitele letadla/SLZ mimo jiné patří:",
+            "moznosti": {
+                "A": "provádět prohlídky v souladu s letovou a provozní příručkou pouze v autorizovaném",
+                "B": "kontrolovat technika při provádění prohlídky.",
+                "C": "provádět předletové prohlídky v souladu s letovou a provozní příručkou, vést v"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Se studenou frontu I. druhu jsou obvykle spojeny nebezpečné jevy:",
+            "moznosti": {
+                "A": "oblaka Cb - cumulonimbus na čele fronty ukrytá v nízké vrstevnaté oblačnosti,",
+                "B": "silný nárazovitý přízemní vítr",
+                "C": "pouze nízká oblačnost vrstevnatého typu"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Účinnost pevné vrtule navržené pro cestovní let je nejhorší:",
+            "moznosti": {
+                "A": "ve stoupání",
+                "B": "v cestovním režimu",
+                "C": "při rozjezdu"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "V případě přeplnění nádrže palivového systému přebytečným palivem, nesmí mít toto palivo",
+            "moznosti": {
+                "A": "nesmí",
+                "B": "může",
+                "C": "nadbytečný požadavek u většiny paliv"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Při kritickém úhlu náběhu:",
+            "moznosti": {
+                "A": "dochází k prudkému nárůstu součinitele vztlaku",
+                "B": "dosahuje součinitel vztlaku maimální hodnoty, při dalším zvyšování úhlu náběhu",
+                "C": "dochází k náhlému poklesu součinitele odporu"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Zatížení letadla za letu může být:",
+            "moznosti": {
+                "A": "pouze statické",
+                "B": "pouze dynamické",
+                "C": "statické a dynamické"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Vibrace přenášené od pohonné jednotky do draku letadla:",
+            "moznosti": {
+                "A": "jsou žádoucí, protože pomáhají promíchat palivo a olej (zvlášť u dvoudobých motorů)",
+                "B": "jsou škodlivé pouze pro motor",
+                "C": "jsou škodlivé a namáhají konstrukci letadla"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "9 cm na mapě 1 : 500 000 odpovídá ve skutečnosti:",
+            "moznosti": {
+                "A": "60 km",
+                "B": "50 km",
+                "C": "45 km"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Vyšlápnutím pravého pedálu směrového řízení:",
+            "moznosti": {
+                "A": "se v principu vyvolá větší tah ocasní vrtulky doprava, vrtulník zatočí doprava",
+                "B": "se v principu vyvolá větší tah ocasní vrtulky doleva, vrtulník zatočí doprava",
+                "C": "se v principu vyvolá větší tah ocasní vrtulky doprava, vrtulník zatočí doleva"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Před letem nastavíme ručičku výškoměru na nadmořskou výšku místa vzletu. Co čteme",
+            "moznosti": {
+                "A": "tlak vzduchu vztažený k hladině moře",
+                "B": "tlak standardní atmosféry",
+                "C": "tlak vzduchu na zemi"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Může při výrazném překročení maximálních přípustných otáček vrtule dojít k její destrukci?",
+            "moznosti": {
+                "A": "ano",
+                "B": "ne",
+                "C": "pouze u vícelistých kompozitových vrtulí"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "O stabilní vzduchové hmotě mluvíme tehdy, platí-li:",
+            "moznosti": {
+                "A": "jsou v ní nepříznivé podmínky pro vznik výstupných proudů",
+                "B": "jsou v ní příznivé podmínky pro vznik výstupných pohybů",
+                "C": "dochází v ní ke vzniku konvekce"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Horizontální rychlost se udává:",
+            "moznosti": {
+                "A": "ve stopách",
+                "B": "v uzlech",
+                "C": "v km/hod, v MPH, v uzlech (kts)"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Letištní provoz je:",
+            "moznosti": {
+                "A": "všechna letadla za letu nebo pohybující se na provozní ploše",
+                "B": "provoz vozidel a osob na provozní ploše letiště",
+                "C": "veškerý provoz na provozní ploše letiště a všechna letadla letící v blízkosti letiště"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Provozovatel musí vést záznamy o zjištěných závadách (poruchách) a poškozeních a o jejich",
+            "moznosti": {
+                "A": "jen o opravách a bulletinech",
+                "B": "ano – jednoznačně, prokazatelně a závazně",
+                "C": "pouze u závažných závad, poruch a poškození"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Hustota vzduchu:",
+            "moznosti": {
+                "A": "snižuje se s klesající teplotou",
+                "B": "roste s rostoucí teplotou",
+                "C": "roste s klesající teplotou vzduchu"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "045 stupňů je vedlejší světová strana:",
+            "moznosti": {
+                "A": "jihozápad",
+                "B": "severozápad",
+                "C": "severovýchod"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Pilot musí mít za letu u sebe vždy:",
+            "moznosti": {
+                "A": "průkaz totožnosti, pilotní průkaz nebo doklad žáka, osvědčení letové způsobilosti,",
+                "B": "průkaz totožnosti, pilotní průkaz nebo doklad žáka, technický průkaz SLZ, doklad o",
+                "C": "pilotní průkaz nebo doklad žáka, osvědčení letové způsobilosti, doklad o pojištění za"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Je neprovedení údržby na letadle důvodem k dočasné ztrátě letové způsobilosti letadla?",
+            "moznosti": {
+                "A": "není to důvod k dočasné ztrátě letové způsobilosti",
+                "B": "jen při neprovedení roční nebo vyšší prohlídky",
+                "C": "ano"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "V případě nehody letounu, při níž došlo k těžkému zranění nebo smrti některé osoby nebo k",
+            "moznosti": {
+                "A": "účastník nebo svědek letecké nehody nebo incidentu může co nejdříve událost",
+                "B": "účastník letecké nehody nebo incidentu je povinen co nejdříve událost oznámit majiteli",
+                "C": "je velitel letadla odpovědný za podání zprávy nejrychlejší možnou cestou nejbližšímu"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Prostor třídy G sahá v ČR do výšky mimo jiné:",
+            "moznosti": {
+                "A": "300 m AGL",
+                "B": "300 m AMSL",
+                "C": "300 m STD"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Je povinností pilota, mít při mimoletištním letu na palubě mapu?",
+            "moznosti": {
+                "A": "je",
+                "B": "není",
+                "C": "není když má GPS"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Dynamické zatížení určitého prvku nebo části letadla je definováno následovně:",
+            "moznosti": {
+                "A": "je to zatížení, jehož velikost se s časem mění pomalu",
+                "B": "je to zatížení, jehož velikost se mění s časem rychle",
+                "C": "je to zatížení, jehož velikost se s časem nemění"
+            },
+            "spravna_odpoved": "B",
+            "body": 0
+        },
+        {
+            "text_otazky": "Letecká mapa by měla být věrohodná především:",
+            "moznosti": {
+                "A": "v tratích a plochách",
+                "B": "v úhlech a vzdálenostech",
+                "C": "v plochách"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Letadlo pojíždějící po provozní ploše (před vzletem) musí dát přednost letadlu:",
+            "moznosti": {
+                "A": "které vzlétá nebo se nachází v poloze pro vzlet",
+                "B": "rychlejšímu",
+                "C": "většímu"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Poloha zeměpisného a magnetického pólu:",
+            "moznosti": {
+                "A": "není shodná",
+                "B": "magnetický pól je vždy na východ od zeměpisného",
+                "C": "totožná"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Lety VFR ve vzdušném prostoru třídy G ve výšce 900 m (3000 ft) nad střední",
+            "moznosti": {
+                "A": "vně oblaků za stálé dohlednosti země",
+                "B": "při stejné nebo větší vzdálenosti od oblaku než - horizontálně 5 km, vertikálně 300 m",
+                "C": "při stejné nebo větší vzdálenosti od oblaku než - horizontálně 1,5 km, vertikálně 300"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        }
+    ]
+}
