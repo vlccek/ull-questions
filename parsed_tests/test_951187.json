@@ -1,0 +1,455 @@
+{
+    "datum_testu": "02.05.2025",
+    "prehled_otazek": [
+        {
+            "text_otazky": "Vyberte správné tvrzení týkající se polohy postiženého se závažným úrazem:",
+            "moznosti": {
+                "A": "pokud je postižený v bezvědomí, měl by být vždy umístěn do „protišokové“ polohy s",
+                "B": "pokud postižený sám aktivně zaujímá nějakou polohu, nebráníme mu",
+                "C": "pokud postižený komunikuje, měl by být vždy umístěn do polohy na boku (do"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Při silném větru pilot zaletěl do místa, odkud se proti větru neprosazuje:",
+            "moznosti": {
+                "A": "sešlápne speed a k tomu přidá \"velké uši\"",
+                "B": "otočí se po větru nebo alespoň co nejvíce bokem na vítr, jak terén dovolí a z místa",
+                "C": "zůstane natočený proti větru ve směru, kam chce letět a vyklesá na zem do terénu"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Kdo je oprávněn kontrolovat pilotní průkaz nebo doklad žáka",
+            "moznosti": {
+                "A": "inspektor provozu LAA ČR, osoba pověřená MD ČR, příslušník Policie ČR, nebo",
+                "B": "inspektor provozu a techniky LAA ČR, osoba pověřená MD ČR nebo ÚCL, příslušník",
+                "C": "inspektor provozu LAA ČR, příslušník Policie ČR, inspektor ÚCL, osoba pověřená"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Do zakázaného prostoru (LK P) pilot:",
+            "moznosti": {
+                "A": "nesmí vletět pokud příslušný úřad nevydá zvláštní povolení",
+                "B": "může vletět, nesmí jej však opustit",
+                "C": "může vletět v rámci prostoru třídy G a E avšak nejvýše rychlostí 460 km/hod IAS"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Spodní hranici řízeného okrsku (CTR) tvoří:",
+            "moznosti": {
+                "A": "horní hranice třídy G",
+                "B": "povrch země",
+                "C": "stanovená výška nad mořem"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Při uvolnění speed systému se rychlost PK",
+            "moznosti": {
+                "A": "nezmění, pouze se zvětší úhel náběhu",
+                "B": "zvýší",
+                "C": "sníží"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Pokud je k dispozici, má pilot mobilní telefon při letu:",
+            "moznosti": {
+                "A": "na snadno dostupném místě z pozice za letu",
+                "B": "v úložné zadní kapse sedačky",
+                "C": "za letu se netelefonuje, takže je jedno, kam ho dáte"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
+        },
+        {
+            "text_otazky": "Zeměkoule je:",
+            "moznosti": {
+                "A": "ideální koule",
+                "B": "rotační elipsoid na pólech zploštělý",
+                "C": "síť souřadnicových čar"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Čas se udává:",
+            "moznosti": {
+                "A": "v hod, min, sec s tím, že minuta začíná ve 30.sec předchozí minuty a končí ve 30.sec",
+                "B": "ve stupních",
+                "C": "v hod, min, sec s tím, že minuta začíná 1.sec a končí 60.sec"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Přechod studené fronty s aktivními bouřkovými projevy se v poli teploty, tlaku, přízemního",
+            "moznosti": {
+                "A": "poklesem teploty, silným poklesem tlaku a jeho následným vzestupem, silným",
+                "B": "teplota se nemění, tlak slabě klesá, vítr mírně zesílí bez nárazů",
+                "C": "teplota klesá a později stoupá, tlak se nemění, vítr slábne"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Schématem „A-B-C“ se má v rámci prvotního vyšetření na mysli:",
+            "moznosti": {
+                "A": "ověření průchodnosti dýchacích cest (A), ověření stavu dýchání (B) a ověření známek",
+                "B": "provedení záklonu hlavy (A), zahájení umělého dýchání (B) a zahájení kompresí",
+                "C": "zjištění anamnézy (A), bolestivosti (B) a cílené vyšetření postižené oblasti (C)"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Zvětšující se vzdálenost mezi izobarami znamená, že v dané oblasti bude rychlost proudění",
+            "moznosti": {
+                "A": "menší",
+                "B": "vzdálenost mezi izobarami nevypovídá nic o rychlosti proudění",
+                "C": "větší"
+            },
+            "spravna_odpoved": "A",
+            "body": 0
+        },
+        {
+            "text_otazky": "Co znamená zkratka SLZ",
+            "moznosti": {
+                "A": "stálé letové zabezpečení",
+                "B": "společná letová zóna",
+                "C": "sportovní létající zařízení"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Mezi tzv. únikové manévry patří",
+            "moznosti": {
+                "A": "spirála, zaklopení stabilizátorů (uši) a b-stall",
+                "B": "spirála, negativní zatáčka a b-stall",
+                "C": "spirála, full-stall a b-stall"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Instabilním zvrstvením při nenasyceném vzduchu nazýváme zvrstvení, kdy:",
+            "moznosti": {
+                "A": "nenasycená částice se po ukončení působení vnější síly vrací do své původní polohy",
+                "B": "nenasycená vzduchová částice při svém výstupu z rovnovážné polohy dále stoupá i",
+                "C": "nenasycená částice se zastaví v hladině, ve které přestala vnější síla působit"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Přistání na vodní hladině provádí pilot PK",
+            "moznosti": {
+                "A": "proti větru",
+                "B": "po větru",
+                "C": "bokem na vítr"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Technický průkaz PK vystavuje",
+            "moznosti": {
+                "A": "kategorii \"P\" pověřený inspektor - technik výrobce, kategorii \"Z\" LAA ČR",
+                "B": "vždy inspektor techniky LAA ČR",
+                "C": "vždy pověřený provozní inspektor"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Spirálu docílíme tak, že",
+            "moznosti": {
+                "A": "plynulým přechodem ze zatáčky do stále ostřejší zatáčky jemným stahováním řídičky",
+                "B": "nejprve zabrzdíme obě řídičky , uvolníme na jedné straně řidičku zcela nahoru a na",
+                "C": "vykloníme se na stranu, na kterou chceme spirálou zatáčet, stáhneme plynule řidičku"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "„Lapavými dechy“ se rozumí:",
+            "moznosti": {
+                "A": "nápadně hlučné nádechy v rychlém tempu; tyto nádechy jsou typické pro rozvíjející se",
+                "B": "jednotlivé nádechy v nápadně dlouhých intervalech u postiženého v bezvědomí; tyto",
+                "C": "nápadně rychlé, ale mělké a tiché dýchání, typické pro pacienta s překážkou v"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Maximální doba, na kterou může být prodloužen Technický průkaz PK je",
+            "moznosti": {
+                "A": "1 rok",
+                "B": "6 měsíců",
+                "C": "2 roky"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Pilot během svahování po zaklapnutí asi 10 m nad zemí dopadl tvrdě na levý bok, zjevně",
+            "moznosti": {
+                "A": "Uložíme jej do protišokové polohy s nohama nahoru, přikryjeme a přivoláme",
+                "B": "Uložíme jej do stínu, do polosedu, během létání jej občas kontrolujeme. Pokud by se",
+                "C": "Snažíme se jej uklidnit, ponecháme jej v poloze, jaká mu nejlépe vyhovuje, přikryjeme"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Prvotní vyšetření zahrnuje",
+            "moznosti": {
+                "A": "kontrolu stavu životních funkcí podle schématu A-B-C",
+                "B": "rychlou kontrolu postiženého „od hlavy k patě“ s důrazem na známky úrazu",
+                "C": "zjištění okolností úrazu, potíží nemocného a případných nemocí, kterými dlouhodobě"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Při vlétnutí do klesavého proudu",
+            "moznosti": {
+                "A": "vrchlík se nakloní do strany a hrozí asymetrické zaklopení",
+                "B": "vrchlík kývne dozadu a následně může dojít k předstřelu",
+                "C": "vrchlík předstřelí dopředu a hrozí čelní zaklopení vrchlíku"
+            },
+            "spravna_odpoved": "C",
+            "body": 1
+        },
+        {
+            "text_otazky": "Letí-li dvě SLZ na protínajících se tratích ve volném prostoru má přednost SLZ letící",
+            "moznosti": {
+                "A": "které letí proti slunci",
+                "B": "zprava",
+                "C": "leva"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Letištní provozní zóna (ATZ) má tyto rozměry:",
+            "moznosti": {
+                "A": "kruh o poloměru 3 NM (5,5 km), vertikálně od země do nadmořské výšky 4000ft",
+                "B": "kruh o průměru 3NM (5,5 km) do nadmořské výšky 4000ft (1200 m)",
+                "C": "kružnice 5,5 NM (10 km) do nadmořské výšky 4 000 ft (1200 m)"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
+        },
+        {
+            "text_otazky": "Poloha zeměpisného a magnetického pólu:",
+            "moznosti": {
+                "A": "není shodná",
+                "B": "magnetický pól je vždy na východ od zeměpisného",
+                "C": "totožná"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Do předstartovní kontroly patří",
+            "moznosti": {
+                "A": "kontrola opotřebení PK a postroje,všech švů, kontrola karabin, přilby a přístrojů",
+                "B": "kontrola postroje, šňůr, vrchlíku, počasí, prostoru",
+                "C": "kontrola PK ,upnutí, počasí, prostoru ve směru letu a místa přistání"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Při silnějším větru startuji",
+            "moznosti": {
+                "A": "na vrcholu kopce",
+                "B": "v dostatečné vzdálenosti pod vrcholem kopce",
+                "C": "tak, aby vrchlík byl zároveň s vrcholem kopce"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Při pozemním nácviku v silnějším větru vrchlík pilota nečekaně nadzvedne nad zem. Správný",
+            "moznosti": {
+                "A": "prudce stáhnout řídící šňůry",
+                "B": "stáhnout a uvolnit řídící šňůry, tzv. \"pumpovat\" a tím dosednout na zem",
+                "C": "uvolnit řízení a počkat, až dosedne zpět na zem"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Když za letu vypadne záložní padák a naplní se:",
+            "moznosti": {
+                "A": "nedělám nic, už nic dělat stějně nelze",
+                "B": "mám-li dostatečnou výšku, snažím se stáhnout vrchlík za zadní popruhy k sobě, aby",
+                "C": "snažím se stahováním šňůr zrušit záložní padák a přitáhnout ho k sobě"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Směr větru před přistáním v neznámém místě, kde není větrný rukáv, nejsnáze poznáme podle",
+            "moznosti": {
+                "A": "vlnění trávy, pohybu dýmu, ohýbání stromů, poletování chmýří",
+                "B": "polohy rozložených PK, které zde přistály před námi",
+                "C": "kroužení dravců, směru pohybu stínů na zemi, vln na vodních plochách"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
+        },
+        {
+            "text_otazky": "Předstartovní kontrola je",
+            "moznosti": {
+                "A": "tříbodová",
+                "B": "pětibodová",
+                "C": "sedmibodová"
+            },
+            "spravna_odpoved": "B",
+            "body": 1
+        },
+        {
+            "text_otazky": "Jak se změní rychlost proudění a statický tlak v něm, když v nějakém místě dojde ke zhuštění",
+            "moznosti": {
+                "A": "rychlost klesne, statický tlak klesne",
+                "B": "rychlost se zvýší, statický tlak se zvýší",
+                "C": "rychlost se zvýší, statický tlak klesne"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Kurz zeměpisný měříme:",
+            "moznosti": {
+                "A": "od nultého poledníku",
+                "B": "od směrníku",
+                "C": "od severu zeměpisného místního poledníku"
+            },
+            "spravna_odpoved": "C",
+            "body": 0
+        },
+        {
+            "text_otazky": "Tětiva profilu je:",
+            "moznosti": {
+                "A": "přímka spojující střed náběžné hrany profilu s odtokovou hranou profilu",
+                "B": "přímka rozdělující profil v polovině jeho tloušťky na dvě stejně velké části",
+                "C": "čára spojující středy kružnic vepsaných do profilu"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Směr letu a směr pohybu PK vůči zemi je",
+            "moznosti": {
+                "A": "shodný za bezvětří a při větru vanoucím přesně ve směru nebo přesně proti směru",
+                "B": "vždy shodný",
+                "C": "shodný za bezvětří nebo při větru vanoucím přesně kolmo na směr letu"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Spirála je letový režim, při kterém:",
+            "moznosti": {
+                "A": "dochází k odtržení proudění na straně křídla uvnitř zatáčky",
+                "B": "nedochází k odtržení proudění",
+                "C": "dochází k odtržení proudění na straně křídla vně zatáčky"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Klouzavost vůči zemi se:",
+            "moznosti": {
+                "A": "změní, fouká-li vítr",
+                "B": "změní při změně hmotnosti",
+                "C": "fouká-li vítr nezmění, protože efektivní nosná plocha zůstává stejná"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Svahování praktikujeme tak, že",
+            "moznosti": {
+                "A": "létáme souběžně se svahem, těsně nad jeho závětrnou stranou a otáčíme se zásadně",
+                "B": "létáme souběžně se svahem na jeho návětrné straně a v místě obratu se otáčíme",
+                "C": "létáme přímo nad hřebenem a otáčet se lze podle situace proti i po větru"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Při zvětšování úhlu náběhu:",
+            "moznosti": {
+                "A": "klesá součinitel vztlaku a odporu",
+                "B": "roste součinitel vztlaku, součinitel odporu klesá",
+                "C": "roste součinitel vztlaku a odporu"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        },
+        {
+            "text_otazky": "Sportovní létající zařízení může řídit",
+            "moznosti": {
+                "A": "pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo pilotní",
+                "B": "pilot, který je držitelem platného posudku o zdravotní způsobilosti, nebo pilotní žák za",
+                "C": "pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo osoba"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "TMA (koncová řízená oblast)",
+            "moznosti": {
+                "A": "se dá podletět",
+                "B": "dá se podletět pouze při vzájemné komunikaci radiostanicí s příslušným stanovištěm",
+                "C": "nedá se podletět ani nadletět"
+            },
+            "spravna_odpoved": "A",
+            "body": 3
+        },
+        {
+            "text_otazky": "Hranice mezi troposférou a stratosférou se nazývá:",
+            "moznosti": {
+                "A": "ionosféra",
+                "B": "tropopauza",
+                "C": "atmosféra"
+            },
+            "spravna_odpoved": "B",
+            "body": 3
+        },
+        {
+            "text_otazky": "Terénní útvary jako jsou lesy, louky, jezera, hrady, silnice, železnice atd. nazýváme:",
+            "moznosti": {
+                "A": "topografickou situací",
+                "B": "topografickou plochou",
+                "C": "projekcí mapy"
+            },
+            "spravna_odpoved": "A",
+            "body": 1
+        },
+        {
+            "text_otazky": "Který z jevů vznikající na studené frontě II. druhu je zvláště nebezpečný pro nízko letící",
+            "moznosti": {
+                "A": "silný pokles tlaku a teploty",
+                "B": "snížení základny oblačnosti, někdy až k zemi",
+                "C": "silná turbulence omezená na úzký prostor víru – húlavy, s osou přibližně v úrovni"
+            },
+            "spravna_odpoved": "C",
+            "body": 3
+        }
+    ]
+}
