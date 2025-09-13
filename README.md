@@ -7,11 +7,11 @@
 
 ## Souhrnné statistiky
 
-*   **Analyzované období:** 2025-04-15_to_2025-08-22
-*   **Celkový počet zpracovaných testů:** 17770
-*   **Celkový počet otázek v datech:** 377412
-*   **Počet unikátních otázek:** 565
-*   **Počet unikátních otázek s neznámým počtem bodů:** 0
+*   **Analyzované období:** 2025-04-15_to_2025-09-08
+*   **Celkový počet zpracovaných testů:** 17923
+*   **Celkový počet otázek v datech:** 383838
+*   **Počet unikátních otázek:** 663
+*   **Počet unikátních otázek s neznámým počtem bodů:** 5
 
 ---
 
@@ -23,17 +23,17 @@ Graf ukazuje 50 otázek, které se nejčastěji vyskytovaly napříč všemi zpr
 ## Top 50 nejčastějších otázek (poslední celý týden)
 Četnost otázek v posledním týdnu, pro který byla nalezena data.
 
-![Top 50 otázek z nejnovějšího týdne](./histogram_weeks/top50_questions_2025-33.png)
+![Top 50 otázek z nejnovějšího týdne](./histogram_weeks/top50_questions_2025-36.png)
 
 ## Top 50 nejčastějších otázek (poslední měsíc)
 Četnost otázek v posledním měsíci, pro který byla nalezena data.
 
-![Top 50 otázek z nejnovějšího měsíce](./histogram_month/top50_questions_2025-08.png)
+![Top 50 otázek z nejnovějšího měsíce](./histogram_month/top50_questions_2025-09.png)
 
 ## Top 50 nejčastějších otázek za 3 body (poslední měsíc)
 Stejná analýza jako výše, ale aplikovaná pouze na otázky s bodovým hodnocením 3.
 
-![Top 50 otázek za 3 body z nejnovějšího měsíce](./histogram_month_3_points/top50_questions_2025-08.png)
+![Top 50 otázek za 3 body z nejnovějšího měsíce](./histogram_month_3_points/top50_questions_2025-09.png)
 
 ## Top 50 nejčastějších otázek (posledních 30 dní)
 Graf ukazuje četnost otázek v plovoucím okně posledních 30 dní od data generování reportu.
@@ -43,7 +43,7 @@ Graf ukazuje četnost otázek v plovoucím okně posledních 30 dní od data gen
 ## Porovnání četnosti Top 20 otázek (poslední 4 měsíce)
 Tento graf ukazuje vývoj četnosti 20 nejčastějších otázek z posledního měsíce v čase. Umožňuje sledovat, zda se některé otázky stávají více či méně frekventované.
 
-![Porovnání četnosti Top 20 otázek za poslední 4 měsíce](./histogram_comparative/comparative_top20_2025-08.png)
+![Porovnání četnosti Top 20 otázek za poslední 4 měsíce](./histogram_comparative/comparative_top20_2025-09.png)
 
 
 Všechny otázky jsou v [souboru](All_questions.md)
