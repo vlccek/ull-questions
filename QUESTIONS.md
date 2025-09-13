@@ -373,21 +373,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Rozdíl mezi UTC a letním středoevropským (SELČ) časem je:
-*Body: 3 | Počet výskytů: 1536*
-
-- A) 2 hodiny
-- B) není žádný
-- C) 1 hodina
-
----
-
 ### Sportovní létající zařízení může řídit
 *Body: 3 | Počet výskytů: 1536*
 
 - A) pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo osoba oprávněná provozovatelem SLZ za přítomnosti pilota, pilotní žák za podmínek stanovených výcvikovou osnovou
 - B) pilot, který je držitelem platného posudku o zdravotní způsobilosti, nebo pilotní žák za podmínek stanovených výcvikovou osnovou
 - C) pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo pilotní žák za podmínek stanovených výcvikovou osnovou
+
+---
+
+### Rozdíl mezi UTC a letním středoevropským (SELČ) časem je:
+*Body: 3 | Počet výskytů: 1536*
+
+- A) 2 hodiny
+- B) není žádný
+- C) 1 hodina
 
 ---
 
@@ -1111,21 +1111,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Jaká je maximální vzletová hmotnost u dvoumístného SLZ bez integrovaného záchranného systému:
-*Body: 3 | Počet výskytů: 917*
-
-- A) 480 kg
-- B) 400 kg
-- C) 450 kg
-
----
-
 ### Maximální vzletovou hmotnost sportovního létajícího zařízení lze překročit pouze o
 *Body: 3 | Počet výskytů: 917*
 
 - A) hmotnost padákového záchranného systému, maimálně však o 35kg
 - B) hmotnost integrovaného záchranného systému v případě jeho zástavby
 - C) hmotnost padákového záchranného systému a hmotnost plováků v případě jejich zástavby
+
+---
+
+### Jaká je maximální vzletová hmotnost u dvoumístného SLZ bez integrovaného záchranného systému:
+*Body: 3 | Počet výskytů: 917*
+
+- A) 480 kg
+- B) 400 kg
+- C) 450 kg
 
 ---
 
@@ -1363,21 +1363,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Ploška na výškovém kormidle, která se automaticky vychyluje v závislosti na výchylce výškovky v opačném smyslu se nazývá:
-*Body: 3 | Počet výskytů: 838*
-
-- A) jen vyvažovací
-- B) odlehčovací ploška, jejímž účelem je zmenšení sil v řízení
-- C) osové odlehčení
-
----
-
 ### Jaký účinek má vychýlení řídící páky doprava?
 *Body: 3 | Počet výskytů: 838*
 
 - A) letadlo se nakloní doprava, začne bočit doleva a v důsledku toho začne zatáčet doprava
 - B) letadlo se nakloní doprava, začne bočit doprava a v důsledku toho začne zatáčet doleva
 - C) letadlo se nakloní doprava, začne bočit doprava a v důsledku toho začne zatáčet doprava
+
+---
+
+### Ploška na výškovém kormidle, která se automaticky vychyluje v závislosti na výchylce výškovky v opačném smyslu se nazývá:
+*Body: 3 | Počet výskytů: 838*
+
+- A) jen vyvažovací
+- B) odlehčovací ploška, jejímž účelem je zmenšení sil v řízení
+- C) osové odlehčení
 
 ---
 
@@ -1426,15 +1426,6 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Během letu zjistíte, že cílového letiště dosáhnete za 45 minut, zbytek LPH 10 l, průměrná spotřeba činí 15 l/h. Doletíte bez doplnění LPH na cílové letiště ?
-*Body: 3 | Počet výskytů: 817*
-
-- A) ne
-- B) ano, ale nezbude žádná rezerva paliva
-- C) ano
-
----
-
 ### Jaké je povoleno maximální úmyslné vychýlení UL letounu kolem podélné osy za letu ve stupních:
 *Body: 1 | Počet výskytů: 817*
 
@@ -1444,12 +1435,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Statické zatížení konstrukce letadla je definováno následovně:
-*Body: 3 | Počet výskytů: 816*
+### Během letu zjistíte, že cílového letiště dosáhnete za 45 minut, zbytek LPH 10 l, průměrná spotřeba činí 15 l/h. Doletíte bez doplnění LPH na cílové letiště ?
+*Body: 3 | Počet výskytů: 817*
 
-- A) je to zatížení, jehož velikost se s časem nemění nebo se mění poměrně pomalu (vliv jeho časového průběhu je zanedbatelný)
-- B) je to zatížení při dlouhodobém stání letadla na zemi
-- C) je to zatížení, jehož velikost se z časem mění náhle, nebo skokově
+- A) ne
+- B) ano, ale nezbude žádná rezerva paliva
+- C) ano
 
 ---
 
@@ -1459,6 +1450,15 @@ Celkem unikátních otázek: **663**
 - A) plocha ležící mimo území národního parku, chráněné krajinné oblasti, národní přírodní rezervace, přírodní rezervace, národní přírodní památky a přírodní památky a nejméně 300 m od obytných budov
 - B) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 300 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 100 m od SLZ osoby nezúčastněné na provozu
 - C) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 100 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 50 m od SLZ osoby nezúčastněné na provozu
+
+---
+
+### Statické zatížení konstrukce letadla je definováno následovně:
+*Body: 3 | Počet výskytů: 816*
+
+- A) je to zatížení, jehož velikost se s časem nemění nebo se mění poměrně pomalu (vliv jeho časového průběhu je zanedbatelný)
+- B) je to zatížení při dlouhodobém stání letadla na zemi
+- C) je to zatížení, jehož velikost se z časem mění náhle, nebo skokově
 
 ---
 
@@ -1588,6 +1588,15 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Obálka obratů:
+*Body: 3 | Počet výskytů: 769*
+
+- A) vymezuje vzdušný prostor v kterém se může letadlo pohybovat
+- B) obsahuje seznam dovolených manévrů letu
+- C) vymezuje oblast možných a dovolených provozních násobků při dané rychlosti letu
+
+---
+
 ### Zatížení letadla za letu může být:
 *Body: 3 | Počet výskytů: 769*
 
@@ -1606,15 +1615,6 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Obálka obratů:
-*Body: 3 | Počet výskytů: 769*
-
-- A) vymezuje vzdušný prostor v kterém se může letadlo pohybovat
-- B) obsahuje seznam dovolených manévrů letu
-- C) vymezuje oblast možných a dovolených provozních násobků při dané rychlosti letu
-
----
-
 ### Terénní útvary jako jsou lesy, louky, jezera, hrady, silnice, železnice atd. nazýváme:
 *Body: 1 | Počet výskytů: 767*
 
@@ -1624,21 +1624,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Za dynamické zatížení draku letadla považujeme tato zatížení:
-*Body: 3 | Počet výskytů: 764*
-
-- A) zatížení způsobená vertikálními poryvy vzduchu, zatížení od manévrů a obratů, zatížení od sil při vzletu a přistání
-- B) zatížení od tíhy konstrukčních částí letadla hlavně při přistání
-- C) zatížení od tíhy cestujících a zavazadel na palubě za letu
-
----
-
 ### Maximální provozní zatížení letadlové konstrukce nebo její části je:
 *Body: 3 | Počet výskytů: 764*
 
 - A) maimální zatížení, při kterém napětí v konstrukci právě stačí k udržení rovnovážného stavu
 - B) zatížení používané při pevnostním průkazu jako maimální hodnota, která se u letadla za provozu může vyskytnout
 - C) početní zatížení násobené požadovaným součinitelem bezpečnosti
+
+---
+
+### Za dynamické zatížení draku letadla považujeme tato zatížení:
+*Body: 3 | Počet výskytů: 764*
+
+- A) zatížení způsobená vertikálními poryvy vzduchu, zatížení od manévrů a obratů, zatížení od sil při vzletu a přistání
+- B) zatížení od tíhy konstrukčních částí letadla hlavně při přistání
+- C) zatížení od tíhy cestujících a zavazadel na palubě za letu
 
 ---
 
@@ -1741,21 +1741,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Pro zabránění srážce dvou letadel na pohybové ploše letiště platí, že křižují-li se dráhy pojíždějících letadel, letadlo musí dát přednost letadlu:
-*Body: 3 | Počet výskytů: 653*
-
-- A) pojíždějícímu na vzlet
-- B) pojíždějícímu zleva
-- C) pojíždějícímu zprava
-
----
-
 ### Vliv reakčního momentu vrtule se bude nejvýrazněji projevovat:
 *Body: 3 | Počet výskytů: 653*
 
 - A) když letadlo poletí malou rychlostí při stažené přípusti
 - B) v zatáčkách při přechodu do stoupání nebo klesání
 - C) když letadlo poletí malou rychlostí a pilot náhle zvýší výkon motoru
+
+---
+
+### Pro zabránění srážce dvou letadel na pohybové ploše letiště platí, že křižují-li se dráhy pojíždějících letadel, letadlo musí dát přednost letadlu:
+*Body: 3 | Počet výskytů: 653*
+
+- A) pojíždějícímu na vzlet
+- B) pojíždějícímu zleva
+- C) pojíždějícímu zprava
 
 ---
 
@@ -1822,15 +1822,6 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Letí-li dvě SLZ na protínajících se tratích ve volném prostoru má přednost SLZ letící
-*Body: 3 | Počet výskytů: 625*
-
-- A) zprava
-- B) leva
-- C) které letí proti slunci
-
----
-
 ### Letadlo, které je podle pravidel povinno dát přednost jinému letadlu se musí:
 *Body: 3 | Počet výskytů: 625*
 
@@ -1840,12 +1831,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Účinnost pevné vrtule navržené pro cestovní let je nejhorší:
-*Body: 3 | Počet výskytů: 620*
+### Letí-li dvě SLZ na protínajících se tratích ve volném prostoru má přednost SLZ letící
+*Body: 3 | Počet výskytů: 625*
 
-- A) při rozjezdu
-- B) ve stoupání
-- C) v cestovním režimu
+- A) zprava
+- B) leva
+- C) které letí proti slunci
 
 ---
 
@@ -1855,6 +1846,15 @@ Celkem unikátních otázek: **663**
 - A) od severu zeměpisného místního poledníku
 - B) od směrníku
 - C) od nultého poledníku
+
+---
+
+### Účinnost pevné vrtule navržené pro cestovní let je nejhorší:
+*Body: 3 | Počet výskytů: 620*
+
+- A) při rozjezdu
+- B) ve stoupání
+- C) v cestovním režimu
 
 ---
 
@@ -2011,21 +2011,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Pojíždí-li dvě letadla proti nebo přibližně proti sobě, piloti obou letadel jsou povinni zastavit, nebo je-li to proveditelné, vyhnout se:
-*Body: 3 | Počet výskytů: 590*
-
-- A) vpravo tak, aby vzdálenost mezi konci křídel byla nejméně 15 m
-- B) vlevo tak, aby mezi letadly byla zajištěna dostatečná vzdálenost
-- C) vpravo tak, aby mezi letadly byla zajištěna dostatečná vzdálenost
-
----
-
 ### Prahy nezpevněné VPD mohou být vyznačeny plochými značkami ve tvaru písmene „L":
 *Body: 1 | Počet výskytů: 590*
 
 - A) umístěného v rozích prahu se základnou směřující ven
 - B) uprostřed se základnou směřující ven
 - C) v rozích prahu se základnou směřující dovnitř
+
+---
+
+### Pojíždí-li dvě letadla proti nebo přibližně proti sobě, piloti obou letadel jsou povinni zastavit, nebo je-li to proveditelné, vyhnout se:
+*Body: 3 | Počet výskytů: 590*
+
+- A) vpravo tak, aby vzdálenost mezi konci křídel byla nejméně 15 m
+- B) vlevo tak, aby mezi letadly byla zajištěna dostatečná vzdálenost
+- C) vpravo tak, aby mezi letadly byla zajištěna dostatečná vzdálenost
 
 ---
 
@@ -2047,21 +2047,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Letové hladiny zvolené pro daný let:
-*Body: 1 | Počet výskytů: 584*
-
-- A) musí být v souladu s Tabulkou cestovních hladin v UL 1
-- B) by měly být v souladu s Tabulkou cestovních hladin v UL 1
-- C) nemusí být v souladu s Tabulkou cestovních hladin v UL 1
-
----
-
 ### Letadlo nesmí letět v takové vzdálenosti od jiného letadla, která by:
 *Body: 3 | Počet výskytů: 584*
 
 - A) byla menší než 150m
 - B) mohla omezit jiné letadlo
 - C) vytvářela nebezpečí srážky
+
+---
+
+### Letové hladiny zvolené pro daný let:
+*Body: 1 | Počet výskytů: 584*
+
+- A) musí být v souladu s Tabulkou cestovních hladin v UL 1
+- B) by měly být v souladu s Tabulkou cestovních hladin v UL 1
+- C) nemusí být v souladu s Tabulkou cestovních hladin v UL 1
 
 ---
 
@@ -2182,21 +2182,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Je-li dáván příkaz letadlu za letu orgánem letištní služby řízení světelným návěstím, potom řada bílých záblesků znamená:
-*Body: 1 | Počet výskytů: 556*
-
-- A) uvolněte cestu jinému letadlu a pokračujte v letu po okruhu
-- B) vraťte se na přistání
-- C) přistaňte na tomto letišti a přijeďte na odbavovací plochu
-
----
-
 ### Před zahájením letu je velitel letadla povinen seznámit se:
 *Body: 3 | Počet výskytů: 556*
 
 - A) jen s leteckou informační příručkou
 - B) pouze s letovou a provozní příručkou
 - C) se všemi informacemi, potřebnými k provedení zamýšleného letu, které jsou k dosažení
+
+---
+
+### Je-li dáván příkaz letadlu za letu orgánem letištní služby řízení světelným návěstím, potom řada bílých záblesků znamená:
+*Body: 1 | Počet výskytů: 556*
+
+- A) uvolněte cestu jinému letadlu a pokračujte v letu po okruhu
+- B) vraťte se na přistání
+- C) přistaňte na tomto letišti a přijeďte na odbavovací plochu
 
 ---
 
@@ -2290,21 +2290,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Lety VFR ve třídách vzdušného prostoru C, D a E se smějí provádět ve vzdálenosti od oblaků:
-*Body: 3 | Počet výskytů: 538*
-
-- A) nejméně 1500 m horizontálně a 300 m vertikálně
-- B) do oblaku smí vletět pouze pilot, který první dosáhne základny
-- C) vně oblaků a za viditelnosti země
-
----
-
 ### Po průletu převodní výškou se pro udávání výšky přejde z nastavení hodnoty QNH:
 *Body: 3 | Počet výskytů: 538*
 
 - A) na nastavení údaje QFE cílového letiště a vertikální polohy letadla se vyjadřují jako výšky nad cílovým letištěm
 - B) na nastavení údaje QFE a vertikální polohy letadla se vyjadřují jako výšky nad zemí
 - C) na nastavení výškoměru na hodnotu 1013,2 hPa a vertikální polohy letadla se vyjadřují v letových hladinách
+
+---
+
+### Lety VFR ve třídách vzdušného prostoru C, D a E se smějí provádět ve vzdálenosti od oblaků:
+*Body: 3 | Počet výskytů: 538*
+
+- A) nejméně 1500 m horizontálně a 300 m vertikálně
+- B) do oblaku smí vletět pouze pilot, který první dosáhne základny
+- C) vně oblaků a za viditelnosti země
 
 ---
 
@@ -2362,15 +2362,6 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Pilot letadla nevybaveného radiostanicí, který má v úmyslu přiletět na neřízené letiště nebo z něho odletět, je povinen
-*Body: 3 | Počet výskytů: 524*
-
-- A) předem zkoordinovat svůj přílet nebo odlet s majitelem letiště
-- B) dodržet pro odlet nebo přílet pravidla vyhýbání
-- C) předem zkoordinovat svůj přílet nebo odlet se stanovištěm AFIS nebo provozovatelem letiště
-
----
-
 ### Letí-li dvě letadla na protínajících se tratích v přibližně stejné hladině, musí se letadlo, které má po své pravé straně jiné letadlo vyhnout, vyjma tyto případy:
 *Body: 3 | Počet výskytů: 524*
 
@@ -2380,12 +2371,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Rosný bod je:
-*Body: 3 | Počet výskytů: 522*
+### Pilot letadla nevybaveného radiostanicí, který má v úmyslu přiletět na neřízené letiště nebo z něho odletět, je povinen
+*Body: 3 | Počet výskytů: 524*
 
-- A) místo, nad kterým vznikne mrak
-- B) teplota, na kterou musí být ochlazen vzduch, aby nastala kondenzace
-- C) výška nulové izotermy
+- A) předem zkoordinovat svůj přílet nebo odlet s majitelem letiště
+- B) dodržet pro odlet nebo přílet pravidla vyhýbání
+- C) předem zkoordinovat svůj přílet nebo odlet se stanovištěm AFIS nebo provozovatelem letiště
 
 ---
 
@@ -2395,6 +2386,15 @@ Celkem unikátních otázek: **663**
 - A) na letišti se provádějí výsadky
 - B) na letišti je kombinovaný provoz
 - C) na letišti je provoz kluzáků
+
+---
+
+### Rosný bod je:
+*Body: 3 | Počet výskytů: 522*
+
+- A) místo, nad kterým vznikne mrak
+- B) teplota, na kterou musí být ochlazen vzduch, aby nastala kondenzace
+- C) výška nulové izotermy
 
 ---
 
@@ -2416,21 +2416,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Hustota vzduchu v zemské atmosféře s výškou:
-*Body: 3 | Počet výskytů: 520*
-
-- A) klesá
-- B) vzrůstá
-- C) se nemění
-
----
-
 ### Horizontální bílé nebo oranžové přistávací „T" určuje směr, který má být použit pro:
 *Body: 3 | Počet výskytů: 520*
 
 - A) přistání i vzlet letadla
 - B) jen vzlet
 - C) jen přistání
+
+---
+
+### Hustota vzduchu v zemské atmosféře s výškou:
+*Body: 3 | Počet výskytů: 520*
+
+- A) klesá
+- B) vzrůstá
+- C) se nemění
 
 ---
 
@@ -2443,15 +2443,6 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Definice dohlednosti zní:
-*Body: 1 | Počet výskytů: 517*
-
-- A) schopnost vidět a rozeznávat význačné neosvětlené předměty ve dne a světla v noci z kabiny letadla za letu
-- B) dohlednost dopředu z kabiny letadla za letu daná meteorologickými podmínkami a vyjádřená v jednotkách délkové míry
-- C) schopnost vidět a rozeznávat význačné neosvětlené předměty ve dne a světla v noci určená atmosférickými podmínkami a vyjádřená jednotkami vzdálenosti
-
----
-
 ### Vzlety nebo přistání letadel letících podle VFR, včetně jejich zařazování do letištního OKRUH_IDu nebo letu po něm, na letišti uvnitř řízeného okrsku, se smí provádět, není-li základna oblačnosti nižší než:
 *Body: 1 | Počet výskytů: 517*
 
@@ -2461,12 +2452,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Kdo je oprávněn kontrolovat pilotní průkaz nebo doklad žáka
-*Body: 1 | Počet výskytů: 516*
+### Definice dohlednosti zní:
+*Body: 1 | Počet výskytů: 517*
 
-- A) inspektor provozu LAA ČR, příslušník Policie ČR, inspektor ÚCL, osoba pověřená provozovatelem letiště nebo majitelem pozemku
-- B) inspektor provozu a techniky LAA ČR, osoba pověřená MD ČR nebo ÚCL, příslušník Policie ČR
-- C) inspektor provozu LAA ČR, osoba pověřená MD ČR, příslušník Policie ČR, nebo pracovník městského úřadu obce, na jehož pozemcích je letiště, nebo plocha SLZ
+- A) schopnost vidět a rozeznávat význačné neosvětlené předměty ve dne a světla v noci z kabiny letadla za letu
+- B) dohlednost dopředu z kabiny letadla za letu daná meteorologickými podmínkami a vyjádřená v jednotkách délkové míry
+- C) schopnost vidět a rozeznávat význačné neosvětlené předměty ve dne a světla v noci určená atmosférickými podmínkami a vyjádřená jednotkami vzdálenosti
 
 ---
 
@@ -2476,6 +2467,15 @@ Celkem unikátních otázek: **663**
 - A) provozovatel
 - B) mechanik
 - C) velitel letadla (pilot)
+
+---
+
+### Kdo je oprávněn kontrolovat pilotní průkaz nebo doklad žáka
+*Body: 1 | Počet výskytů: 516*
+
+- A) inspektor provozu LAA ČR, příslušník Policie ČR, inspektor ÚCL, osoba pověřená provozovatelem letiště nebo majitelem pozemku
+- B) inspektor provozu a techniky LAA ČR, osoba pověřená MD ČR nebo ÚCL, příslušník Policie ČR
+- C) inspektor provozu LAA ČR, osoba pověřená MD ČR, příslušník Policie ČR, nebo pracovník městského úřadu obce, na jehož pozemcích je letiště, nebo plocha SLZ
 
 ---
 
@@ -2587,21 +2587,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Za vykonávání činnosti leteckého personálu bez platného průkazu způsobilosti může být pilotovi SLZ:
-*Body: 1 | Počet výskytů: 482*
-
-- A) uložena pokuta až do výše 5.000,- Kč
-- B) uložena pokuta až do výše 500.000,-- Kč
-- C) nemůže být uložena žádná sankce
-
----
-
 ### Jaká je bezpečná poloha těžiště letounu za letu?
 *Body: 3 | Počet výskytů: 482*
 
 - A) těžiště je v 15% až 18%
 - B) těžiště je v 38% až 45%
 - C) těžiště je v rozsahu dle letové příručky
+
+---
+
+### Za vykonávání činnosti leteckého personálu bez platného průkazu způsobilosti může být pilotovi SLZ:
+*Body: 1 | Počet výskytů: 482*
+
+- A) uložena pokuta až do výše 5.000,- Kč
+- B) uložena pokuta až do výše 500.000,-- Kč
+- C) nemůže být uložena žádná sankce
 
 ---
 
@@ -2677,21 +2677,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Stanovení, dodržení a kontrola polohy těžiště letadla je:
-*Body: 3 | Počet výskytů: 469*
-
-- A) jedním ze základních předpokladů bezpečnosti letu
-- B) v plné zodpovědnosti majitele letadla, nikoli však pilota
-- C) součástí procesu údržby letadla před vzletem
-
----
-
 ### Přízemní projevy aktivní bouřky nebezpečné pro letecký provoz:
 *Body: 3 | Počet výskytů: 469*
 
 - A) snížení základny oblačnosti, snižování dohlednosti
 - B) vypadávání trvalých srážek
 - C) húlava na čele bouřky, eistence silného vzestupného proudu před húlavou, silný sestupný proud za húlavou v oblasti vypadávajících srážek, silné nárazy větru
+
+---
+
+### Stanovení, dodržení a kontrola polohy těžiště letadla je:
+*Body: 3 | Počet výskytů: 469*
+
+- A) jedním ze základních předpokladů bezpečnosti letu
+- B) v plné zodpovědnosti majitele letadla, nikoli však pilota
+- C) součástí procesu údržby letadla před vzletem
 
 ---
 
@@ -3028,21 +3028,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### V případě, že těžiště letadla leží za zadní povolenou polohou (za zadní mezní centráž), tak se:
-*Body: 3 | Počet výskytů: 421*
-
-- A) neúměrně zvětšují síly v řízení při vzletu i přistání
-- B) neúměrně prodlužuje délka vzletu
-- C) výrazně zhoršuje podélná stabilita letadla
-
----
-
 ### Jaký kompas je nejčastěji používán v SLZ:
 *Body: 3 | Počet výskytů: 421*
 
 - A) radiokompas
 - B) magnetický
 - C) setrvačníkový
+
+---
+
+### V případě, že těžiště letadla leží za zadní povolenou polohou (za zadní mezní centráž), tak se:
+*Body: 3 | Počet výskytů: 421*
+
+- A) neúměrně zvětšují síly v řízení při vzletu i přistání
+- B) neúměrně prodlužuje délka vzletu
+- C) výrazně zhoršuje podélná stabilita letadla
 
 ---
 
@@ -3181,15 +3181,6 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Je nutné před letem provádět kontrolu motoru a doplnění médií?
-*Body: 3 | Počet výskytů: 390*
-
-- A) ano, vždy na začátku letového dne
-- B) ano, jednou za dva měsíce
-- C) ano, jednou měsíčně
-
----
-
 ### Před letem nastavíme ručičku výškoměru na 0 m. Co čteme v okénku tlakové stupnice?
 *Body: 3 | Počet výskytů: 390*
 
@@ -3199,12 +3190,30 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Je nutné před letem provádět kontrolu motoru a doplnění médií?
+*Body: 3 | Počet výskytů: 390*
+
+- A) ano, vždy na začátku letového dne
+- B) ano, jednou za dva měsíce
+- C) ano, jednou měsíčně
+
+---
+
 ### Co je to kompenzace kompasu?
 *Body: 3 | Počet výskytů: 388*
 
 - A) odstraňování chyb kompasu způsobených třením přístroje
 - B) odstraňování chyb kompasu vzniklých vlivem rušivých magnetický nebo elektromagnetických polí v letadle.
 - C) odstraňování chyb kompasu způsobených špatným upevněním v letadle.
+
+---
+
+### Letíme kursem 150° , točíme pravou zatáčku o náklonu 15°. Na jakém kursu musíme srovnat zatáčku, abychom letěli kursem „W“?
+*Body: 3 | Počet výskytů: 387*
+
+- A) 260 °
+- B) 280 °
+- C) 270 °
 
 ---
 
@@ -3223,15 +3232,6 @@ Celkem unikátních otázek: **663**
 - A) zatáčkoměr je setrvačníkový přístroj, který ukazuje relativní úhlovou rychlost letadla kolem svislé osy (zatáčení)
 - B) zatáčkoměr je setrvačníkový přístroj, který ukazuje relativní úhlovou rychlost letadla kolem příčné osy (naklánění)
 - C) zatáčkoměr je setrvačníkový přístroj, který ukazuje úhlovou rychlost, stoupání nebo klesání letadla
-
----
-
-### Letíme kursem 150° , točíme pravou zatáčku o náklonu 15°. Na jakém kursu musíme srovnat zatáčku, abychom letěli kursem „W“?
-*Body: 3 | Počet výskytů: 387*
-
-- A) 260 °
-- B) 280 °
-- C) 270 °
 
 ---
 
@@ -3289,21 +3289,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### V oblasti tlakové výše vane na severní polokouli vítr při zemi:
-*Body: 3 | Počet výskytů: 374*
-
-- A) rovně ze středu výše v celé její oblasti
-- B) proti směru pohybu hodinových ručiček
-- C) ve směru pohybu hodinových ručiček
-
----
-
 ### Základní příčinou vzniku oblačnosti v atmosféře je:
 *Body: 3 | Počet výskytů: 374*
 
 - A) dosažení stavu nasycení
 - B) pokles teploty vzduchu s výškou
 - C) dosažení stavu nasycení s následnou kondenzací vodních par
+
+---
+
+### V oblasti tlakové výše vane na severní polokouli vítr při zemi:
+*Body: 3 | Počet výskytů: 374*
+
+- A) rovně ze středu výše v celé její oblasti
+- B) proti směru pohybu hodinových ručiček
+- C) ve směru pohybu hodinových ručiček
 
 ---
 
@@ -3370,21 +3370,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### V pouzdru přístroje barometrického výškoměru je tlakoměrná krabice.
-*Body: 3 | Počet výskytů: 366*
-
-- A) do které je přiveden celkový tlak
-- B) která je vzduchotěsně uzavřená
-- C) do které je přiveden statický tlak
-
----
-
 ### Co znamená náhlý vzrůst teploty chladící kapaliny a vzápětí náhlý pokles teploty chladící kapaliny a toto se stále opakuje?
 *Body: 3 | Počet výskytů: 366*
 
 - A) velké rozdíly teploty prolétávaného vzduchu
 - B) poškozený teploměr
 - C) málo chladící kapaliny v systému, nebo náhlá netěsnost chladícího systému
+
+---
+
+### V pouzdru přístroje barometrického výškoměru je tlakoměrná krabice.
+*Body: 3 | Počet výskytů: 366*
+
+- A) do které je přiveden celkový tlak
+- B) která je vzduchotěsně uzavřená
+- C) do které je přiveden statický tlak
 
 ---
 
@@ -3433,15 +3433,6 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Jakou rychlost měří rychloměr?
-*Body: 3 | Počet výskytů: 359*
-
-- A) rychlost pohybu letadla vůči ovzduší
-- B) skutečnou
-- C) absolutní
-
----
-
 ### Srážky vypadávající z oblačných soustav výrazných teplých front jsou převážně:
 *Body: 3 | Počet výskytů: 359*
 
@@ -3451,12 +3442,30 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Jakou rychlost měří rychloměr?
+*Body: 3 | Počet výskytů: 359*
+
+- A) rychlost pohybu letadla vůči ovzduší
+- B) skutečnou
+- C) absolutní
+
+---
+
 ### Který z oblaků tvořící se na čele studené fronty je pro letový provoz nejnebezpečnější:
 *Body: 3 | Počet výskytů: 355*
 
 - A) Ns – nimbostratus
 - B) Cb – cumulonimbus
 - C) As – altostratus
+
+---
+
+### Které druhy oblaků jsou typické pro oblačný systém teplé fronty:
+*Body: 3 | Počet výskytů: 354*
+
+- A) Cu – cumulus, Ac – altocumulus, Cb – cumulonimbus
+- B) Sc – stratocumulus, Ac – altocumulus, Cc – cirocumulus
+- C) Ns – nimbostratus, As – altostratus, Cs – cirostratus
 
 ---
 
@@ -3478,12 +3487,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Které druhy oblaků jsou typické pro oblačný systém teplé fronty:
-*Body: 3 | Počet výskytů: 354*
+### Vibrace přenášené od pohonné jednotky do draku letadla:
+*Body: 3 | Počet výskytů: 353*
 
-- A) Cu – cumulus, Ac – altocumulus, Cb – cumulonimbus
-- B) Sc – stratocumulus, Ac – altocumulus, Cc – cirocumulus
-- C) Ns – nimbostratus, As – altostratus, Cs – cirostratus
+- A) jsou škodlivé pouze pro motor
+- B) jsou škodlivé a namáhají konstrukci letadla
+- C) jsou žádoucí, protože pomáhají promíchat palivo a olej (zvlášť u dvoudobých motorů) a tím zlepší jeho výkon
 
 ---
 
@@ -3496,30 +3505,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Vibrace přenášené od pohonné jednotky do draku letadla:
-*Body: 3 | Počet výskytů: 353*
-
-- A) jsou škodlivé pouze pro motor
-- B) jsou škodlivé a namáhají konstrukci letadla
-- C) jsou žádoucí, protože pomáhají promíchat palivo a olej (zvlášť u dvoudobých motorů) a tím zlepší jeho výkon
-
----
-
 ### Olej do paliva se přidává u motoru?
 *Body: 3 | Počet výskytů: 352*
 
 - A) čtyřdobého s rozvodem OHV
 - B) čtyřdobého
 - C) dvoudobého
-
----
-
-### Je stanoven limit pro výměny oleje u čtyřdobých motorů?
-*Body: 3 | Počet výskytů: 351*
-
-- A) ne
-- B) pouze při zimním provozu
-- C) ano
 
 ---
 
@@ -3541,6 +3532,15 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Je stanoven limit pro výměny oleje u čtyřdobých motorů?
+*Body: 3 | Počet výskytů: 351*
+
+- A) ne
+- B) pouze při zimním provozu
+- C) ano
+
+---
+
 ### Musí se motor před vzletem ohřívat na předepsané teploty?
 *Body: 3 | Počet výskytů: 350*
 
@@ -3559,15 +3559,6 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Tlaková níže – cyklona – je oblastí:
-*Body: 3 | Počet výskytů: 344*
-
-- A) nízkého tlaku s nejnižší hodnotou ve svém středu
-- B) se snižující se hodnotou tlaku směrem od středu
-- C) nízkého tlaku s nejnižší hodnotou po okrajích oblasti
-
----
-
 ### Pro vznik vertikálních pohybů v troposféře je příznivé zvrstvení:
 *Body: 3 | Počet výskytů: 344*
 
@@ -3583,6 +3574,15 @@ Celkem unikátních otázek: **663**
 - A) dusíku
 - B) kyslíku
 - C) vodní páry
+
+---
+
+### Tlaková níže – cyklona – je oblastí:
+*Body: 3 | Počet výskytů: 344*
+
+- A) nízkého tlaku s nejnižší hodnotou ve svém středu
+- B) se snižující se hodnotou tlaku směrem od středu
+- C) nízkého tlaku s nejnižší hodnotou po okrajích oblasti
 
 ---
 
@@ -3649,6 +3649,15 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Srážky vypadávající z oblačnosti typu Cb - cumulonimbus, jsou charakteru:
+*Body: 3 | Počet výskytů: 338*
+
+- A) mrholení
+- B) silných přeháněk
+- C) trvalých srážek
+
+---
+
 ### Centroplán je:
 *Body: 3 | Počet výskytů: 338*
 
@@ -3673,15 +3682,6 @@ Celkem unikátních otázek: **663**
 - A) SE
 - B) NW
 - C) SW
-
----
-
-### Srážky vypadávající z oblačnosti typu Cb - cumulonimbus, jsou charakteru:
-*Body: 3 | Počet výskytů: 338*
-
-- A) mrholení
-- B) silných přeháněk
-- C) trvalých srážek
 
 ---
 
@@ -3766,15 +3766,6 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Torzní skříň křídla je:
-*Body: 3 | Počet výskytů: 324*
-
-- A) část konstrukce křídla zachycující smyková zatížení. Je tvořena nosným potahem a stojinami nosníků
-- B) část konstrukce křídla zachycující ohybové momenty. Je tvořena nosným potahem a stojinami nosníků
-- C) část konstrukce křídla zachycující převážně kroutící momenty a posouvající síly (smyková napětí), popř. část ohybových momentů. Je tvořena nosným potahem a stojinami nosníků
-
----
-
 ### Rychlost větru obvykle s rostoucí výškou:
 *Body: 3 | Počet výskytů: 324*
 
@@ -3784,12 +3775,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Výhodou letadel s podvozkem ostruhového typu je:
-*Body: 1 | Počet výskytů: 323*
+### Torzní skříň křídla je:
+*Body: 3 | Počet výskytů: 324*
 
-- A) nízká citlivost na boční vítr
-- B) dobrý výhled z kabiny při pojíždění
-- C) nížší hmotnost a nížší aerodynamický odpor
+- A) část konstrukce křídla zachycující smyková zatížení. Je tvořena nosným potahem a stojinami nosníků
+- B) část konstrukce křídla zachycující ohybové momenty. Je tvořena nosným potahem a stojinami nosníků
+- C) část konstrukce křídla zachycující převážně kroutící momenty a posouvající síly (smyková napětí), popř. část ohybových momentů. Je tvořena nosným potahem a stojinami nosníků
 
 ---
 
@@ -3802,12 +3793,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Bouřky z tepla se tvoří:
-*Body: 1 | Počet výskytů: 321*
+### Výhodou letadel s podvozkem ostruhového typu je:
+*Body: 1 | Počet výskytů: 323*
 
-- A) nejčastěji odpoledne a večer, v hodinách nejvyšších přízemních teplot
-- B) nejčastěji během noci
-- C) kdykoli
+- A) nízká citlivost na boční vítr
+- B) dobrý výhled z kabiny při pojíždění
+- C) nížší hmotnost a nížší aerodynamický odpor
+
+---
+
+### Vítr je určen:
+*Body: 3 | Počet výskytů: 321*
+
+- A) rychlostí
+- B) směrem ze kterého vane a rychlostí
+- C) směrem kam vane a rychlostí
 
 ---
 
@@ -3820,12 +3820,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Vítr je určen:
-*Body: 3 | Počet výskytů: 321*
+### Bouřky z tepla se tvoří:
+*Body: 1 | Počet výskytů: 321*
 
-- A) rychlostí
-- B) směrem ze kterého vane a rychlostí
-- C) směrem kam vane a rychlostí
+- A) nejčastěji odpoledne a večer, v hodinách nejvyšších přízemních teplot
+- B) nejčastěji během noci
+- C) kdykoli
 
 ---
 
@@ -3847,21 +3847,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Základní příčinou vzniku mechanické turbulence je:
-*Body: 3 | Počet výskytů: 318*
-
-- A) vlhkost a teplota vzduchu
-- B) zvrstvení vzduchu
-- C) vítr a uspořádání terénu
-
----
-
 ### Tlumič podvozku je konstrukční část podvozku, která:
 *Body: 1 | Počet výskytů: 318*
 
 - A) přejímá většinu kinetické energie nárazů při vzletu, přistání a pojíždění
 - B) přejímá většinu potenciální energie nárazů při vzletu, přistání a pojíždění
 - C) přejímá většinu kinetické energie při pojíždění
+
+---
+
+### Základní příčinou vzniku mechanické turbulence je:
+*Body: 3 | Počet výskytů: 318*
+
+- A) vlhkost a teplota vzduchu
+- B) zvrstvení vzduchu
+- C) vítr a uspořádání terénu
 
 ---
 
@@ -3910,12 +3910,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Nosná část draku, která vystupuje z konstrukce většinou nahoru a slouží k uchycení motoru se nazývá?
-*Body: 1 | Počet výskytů: 311*
+### Oceli jsou materiálem pro značně namáhané části konstrukce letadel. Používají se hlavně pro:
+*Body: 3 | Počet výskytů: 311*
 
-- A) pylon
-- B) vzpěrač
-- C) závěsné kování
+- A) hlavní nosníky křídel a ocasních ploch
+- B) náběžné hrany křídel a ocasní plochy
+- C) závěsná kování, podvozky, čepy, šrouby, pružiny
 
 ---
 
@@ -3928,12 +3928,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Oceli jsou materiálem pro značně namáhané části konstrukce letadel. Používají se hlavně pro:
-*Body: 3 | Počet výskytů: 311*
+### Nosná část draku, která vystupuje z konstrukce většinou nahoru a slouží k uchycení motoru se nazývá?
+*Body: 1 | Počet výskytů: 311*
 
-- A) hlavní nosníky křídel a ocasních ploch
-- B) náběžné hrany křídel a ocasní plochy
-- C) závěsná kování, podvozky, čepy, šrouby, pružiny
+- A) pylon
+- B) vzpěrač
+- C) závěsné kování
 
 ---
 
@@ -3946,21 +3946,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Může se po přechodu studené fronty vytvořit mlha a ve které její oblasti?
-*Body: 1 | Počet výskytů: 310*
-
-- A) ano, za čárou fronty – mlha zafrontální
-- B) ano, před čarou fronty v oblasti vypadávajících srážek
-- C) ne
-
----
-
 ### Nosný potah křídla je:
 *Body: 3 | Počet výskytů: 310*
 
 - A) potah přenášející výhradně aerodynamické síly který je pevně spojen s ostatními konstrukčnímí prvky nosné plochy
 - B) potah, který se kromě tvarování povrchu a přenosu místního aerodynamického zatížení podílí též na přenosu zatížení působícího na křídlo
 - C) potah křídla vytvořený jako sendvič
+
+---
+
+### Může se po přechodu studené fronty vytvořit mlha a ve které její oblasti?
+*Body: 1 | Počet výskytů: 310*
+
+- A) ano, za čárou fronty – mlha zafrontální
+- B) ano, před čarou fronty v oblasti vypadávajících srážek
+- C) ne
 
 ---
 
@@ -4000,12 +4000,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Technický průkaz je doklad vydaný LAA ČR, kterým se potvrzuje, že letadlo konkrétní poznávací značky je způsobilé k leteckému provozu. Originál tohoto dokladu musí být při provozu:
-*Body: 3 | Počet výskytů: 304*
+### Motor je vždy uložen do draku letounu:
+*Body: 1 | Počet výskytů: 304*
 
-- A) v oddělení technické dokumentace provozovatele
-- B) u výrobce letadla
-- C) na palubě letadla za letu
+- A) volně
+- B) nehybně
+- C) pružně
 
 ---
 
@@ -4018,12 +4018,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Motor je vždy uložen do draku letounu:
-*Body: 1 | Počet výskytů: 304*
+### Technický průkaz je doklad vydaný LAA ČR, kterým se potvrzuje, že letadlo konkrétní poznávací značky je způsobilé k leteckému provozu. Originál tohoto dokladu musí být při provozu:
+*Body: 3 | Počet výskytů: 304*
 
-- A) volně
-- B) nehybně
-- C) pružně
+- A) v oddělení technické dokumentace provozovatele
+- B) u výrobce letadla
+- C) na palubě letadla za letu
 
 ---
 
@@ -4054,21 +4054,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### V praxi převádíme rychlosti větru z m/s na kt vztahem:
-*Body: 3 | Počet výskytů: 301*
-
-- A) 1 m/s ~ 3 kt
-- B) 1 m/s ~ 2 kt
-- C) 1 m/s ~ 1 kt
-
----
-
 ### Který z následujících druhů oblačnosti je považován za střední oblačnost v mírném pásu?
 *Body: 1 | Počet výskytů: 301*
 
 - A) As, Ac
 - B) St, Sc
 - C) Ns, Ci
+
+---
+
+### V praxi převádíme rychlosti větru z m/s na kt vztahem:
+*Body: 3 | Počet výskytů: 301*
+
+- A) 1 m/s ~ 3 kt
+- B) 1 m/s ~ 2 kt
+- C) 1 m/s ~ 1 kt
 
 ---
 
@@ -4117,21 +4117,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Řízení letadel je:
+### Slot je:
 *Body: 3 | Počet výskytů: 292*
 
-- A) soustava prvků které, umožňují vychylování kormidel na ocasních plochách a křídlech, vychylování prostředků pro zvýšení vztlaku, ovládání vyvažovacích plošek i brzd podvozku
-- B) řídící páka nebo volant v pilotní kabině
-- C) pedály v kabině pilota
-
----
-
-### Podle umístění nosných ploch rozdělujeme jednoplošná letadla na
-*Body: 1 | Počet výskytů: 292*
-
-- A) dolnoplošníky, středoplošníky, hornoplošníky, parasoly
-- B) jednoplošníky a dvouplošníky
-- C) jednoplošníky, středoplošníky a hornoplošníky
+- A) náběžná část křídla sklopná směrem dolů
+- B) horní část náběžné části křídla
+- C) tvarové těleso před náběžnou hranou křídla, které zabraňuje odtržení proudu vzduchu při větších úhlech náběhu
 
 ---
 
@@ -4144,12 +4135,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Slot je:
+### Podle umístění nosných ploch rozdělujeme jednoplošná letadla na
+*Body: 1 | Počet výskytů: 292*
+
+- A) dolnoplošníky, středoplošníky, hornoplošníky, parasoly
+- B) jednoplošníky a dvouplošníky
+- C) jednoplošníky, středoplošníky a hornoplošníky
+
+---
+
+### Řízení letadel je:
 *Body: 3 | Počet výskytů: 292*
 
-- A) náběžná část křídla sklopná směrem dolů
-- B) horní část náběžné části křídla
-- C) tvarové těleso před náběžnou hranou křídla, které zabraňuje odtržení proudu vzduchu při větších úhlech náběhu
+- A) soustava prvků které, umožňují vychylování kormidel na ocasních plochách a křídlech, vychylování prostředků pro zvýšení vztlaku, ovládání vyvažovacích plošek i brzd podvozku
+- B) řídící páka nebo volant v pilotní kabině
+- C) pedály v kabině pilota
 
 ---
 
@@ -4162,21 +4162,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Dlouhodobé působení paliva kompozitovou konstrukci
-*Body: 1 | Počet výskytů: 289*
-
-- A) nedegraduje vůbec
-- B) pevnostně degraduje
-- C) snižuje pouze stabilitu skořepiny
-
----
-
 ### Šrouby upevnění vrtule musí být vždy
 *Body: 3 | Počet výskytů: 289*
 
 - A) stačí pouze jeden šroub
 - B) zajištěny proti povolení
 - C) nemusejí být zajištěny
+
+---
+
+### Dlouhodobé působení paliva kompozitovou konstrukci
+*Body: 1 | Počet výskytů: 289*
+
+- A) nedegraduje vůbec
+- B) pevnostně degraduje
+- C) snižuje pouze stabilitu skořepiny
 
 ---
 
@@ -4207,21 +4207,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Z hlediska konstrukčních prvků a materiálového použití lze rozdělit konstrukce draků letadel na tyto druhy:
-*Body: 1 | Počet výskytů: 282*
-
-- A) konstrukce kovové, konstrukce dřevěné, konstrukce kompositní a konstrukce smíšené
-- B) konstrukce dřevěné a konstrukce kompositní
-- C) konstrukce kovové a konstrukce smíšené
-
----
-
 ### U skořepinové konstrukce trupu přenáší:
 *Body: 3 | Počet výskytů: 282*
 
 - A) veškeré síly potah
 - B) veškeré síly přepážky trupu
 - C) hlavní síly příhradová konstrukce
+
+---
+
+### Z hlediska konstrukčních prvků a materiálového použití lze rozdělit konstrukce draků letadel na tyto druhy:
+*Body: 1 | Počet výskytů: 282*
+
+- A) konstrukce kovové, konstrukce dřevěné, konstrukce kompositní a konstrukce smíšené
+- B) konstrukce dřevěné a konstrukce kompositní
+- C) konstrukce kovové a konstrukce smíšené
 
 ---
 
@@ -4252,21 +4252,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Záznamy o provozu a údržbě SLZ se vedou:
-*Body: 3 | Počet výskytů: 274*
-
-- A) v letové příručce
-- B) v letadlové knize
-- C) nemusí být vedeny
-
----
-
-### Zvrstvení vzduchu ve vrstvě inverze je:
+### Elektrický okruh vstřikování paliva u motoru musí
 *Body: 1 | Počet výskytů: 274*
 
-- A) indiferentní
-- B) stabilní
-- C) instabilní
+- A) Nezáleží na způsobu jištění
+- B) Může mít společné jištění s okruhem zapalování
+- C) Být jištěn bez závislosti na ostatních spotřebičích na palubě
 
 ---
 
@@ -4279,12 +4270,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Elektrický okruh vstřikování paliva u motoru musí
+### Zvrstvení vzduchu ve vrstvě inverze je:
 *Body: 1 | Počet výskytů: 274*
 
-- A) Nezáleží na způsobu jištění
-- B) Může mít společné jištění s okruhem zapalování
-- C) Být jištěn bez závislosti na ostatních spotřebičích na palubě
+- A) indiferentní
+- B) stabilní
+- C) instabilní
+
+---
+
+### Záznamy o provozu a údržbě SLZ se vedou:
+*Body: 3 | Počet výskytů: 274*
+
+- A) v letové příručce
+- B) v letadlové knize
+- C) nemusí být vedeny
 
 ---
 
@@ -4306,21 +4306,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### V jaké výšce dosahuje barometrický tlak přibližně poloviční hodnoty tlaku na střední hladině moře:
-*Body: 1 | Počet výskytů: 270*
-
-- A) 7000 m MSL
-- B) 5500 m MSL
-- C) 3000 m MSL
-
----
-
 ### Které bouřky postupují kupředu nejrychleji?
 *Body: 1 | Počet výskytů: 270*
 
 - A) Bouřky z tepla
 - B) Orografické bouřky
 - C) Frontální
+
+---
+
+### V jaké výšce dosahuje barometrický tlak přibližně poloviční hodnoty tlaku na střední hladině moře:
+*Body: 1 | Počet výskytů: 270*
+
+- A) 7000 m MSL
+- B) 5500 m MSL
+- C) 3000 m MSL
 
 ---
 
@@ -4333,15 +4333,6 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### K čemu slouží pevná ploška na odtokové hraně kormidla?
-*Body: 1 | Počet výskytů: 268*
-
-- A) k oddálení odtržení proudění při přetažení
-- B) k hmotovému vyvážení kormidla (vyvažovací hmota)
-- C) k odstranění nežádoucí tíživosti a aerodynamické nesymetrie
-
----
-
 ### Samonosné křídlo je:
 *Body: 3 | Počet výskytů: 268*
 
@@ -4351,12 +4342,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Řízení provedené tuhým přenosem je provedeno:
-*Body: 1 | Počet výskytů: 265*
+### K čemu slouží pevná ploška na odtokové hraně kormidla?
+*Body: 1 | Počet výskytů: 268*
 
-- A) pomocí bovdenů a lan
-- B) pomocí lan
-- C) pomocí pák a táhel
+- A) k oddálení odtržení proudění při přetažení
+- B) k hmotovému vyvážení kormidla (vyvažovací hmota)
+- C) k odstranění nežádoucí tíživosti a aerodynamické nesymetrie
 
 ---
 
@@ -4366,6 +4357,15 @@ Celkem unikátních otázek: **663**
 - A) se nemění
 - B) roste a dosahuje ve výšce 5,5 km dvojnásobné hodnoty, než při hladině moře
 - C) klesá a dosahuje ve výšce 5,5 km poloviční hodnoty, než při hladině moře
+
+---
+
+### Řízení provedené tuhým přenosem je provedeno:
+*Body: 1 | Počet výskytů: 265*
+
+- A) pomocí bovdenů a lan
+- B) pomocí lan
+- C) pomocí pák a táhel
 
 ---
 
@@ -4405,21 +4405,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Účelem potahu v konstrukci křídla je:
-*Body: 1 | Počet výskytů: 255*
-
-- A) spojit všechny části křídla v jeden celek
-- B) přijímat zatížení od tlakových změn na povrchu křídla a vytvořit vnější povrch křídla s nejmenšími odchylkami od teoretických tvarů
-- C) přenášet ohybové zatížení křídla na nosníky
-
----
-
 ### Nezbytným předpokladem pro kondenzaci nasycených vodních par v troposféře je přítomnost kondenzačních jader, kterými jsou:
 *Body: 1 | Počet výskytů: 255*
 
 - A) kapalné i pevné částice
 - B) kapalné částice
 - C) pevné částice
+
+---
+
+### Účelem potahu v konstrukci křídla je:
+*Body: 1 | Počet výskytů: 255*
+
+- A) spojit všechny části křídla v jeden celek
+- B) přijímat zatížení od tlakových změn na povrchu křídla a vytvořit vnější povrch křídla s nejmenšími odchylkami od teoretických tvarů
+- C) přenášet ohybové zatížení křídla na nosníky
 
 ---
 
@@ -4531,21 +4531,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Odtržení proudu na horní straně profilu má za následek:
-*Body: 3 | Počet výskytů: 222*
-
-- A) náhlý pokles součinitele vztlaku, žádnou změnu součinitele klopivého momentu a pokles součinitele odporu
-- B) náhlý vzrůst součinitele vztlaku, žádnou změnu součinitele klopivého momentu a pokles součinitele odporu
-- C) náhlý pokles součinitele vztlaku, změnu součinitele klopivého momentu a vzrůst součinitele odporu
-
----
-
 ### Vztlak na profilu vzniká v důsledku:
 *Body: 3 | Počet výskytů: 222*
 
 - A) zhuštění proudnic pod profilem, tím se pod profilem vytvoří přetlak, nad profilem se proudnice rozšíří a tím se nad profilem vytvoří podtlak
 - B) zhuštění proudnic nad profilem, tím se nad profilem vytvoří podtlak, pod profilem se proudnice rozšíří a tím se pod profilem vytvoří přetlak
 - C) náporu vzduchu na spodní stranu profilu (při kladném úhlu náběhu)
+
+---
+
+### Odtržení proudu na horní straně profilu má za následek:
+*Body: 3 | Počet výskytů: 222*
+
+- A) náhlý pokles součinitele vztlaku, žádnou změnu součinitele klopivého momentu a pokles součinitele odporu
+- B) náhlý vzrůst součinitele vztlaku, žádnou změnu součinitele klopivého momentu a pokles součinitele odporu
+- C) náhlý pokles součinitele vztlaku, změnu součinitele klopivého momentu a vzrůst součinitele odporu
 
 ---
 
@@ -4612,6 +4612,15 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Část cyklóny mezi teplou a studenou frontou se jmenuje:
+*Body: 1 | Počet výskytů: 214*
+
+- A) přední linie
+- B) teplý sektor
+- C) výběžek tlaku
+
+---
+
 ### Pohyb letadla, při kterém se otáčí kolem své podélné osy se nazývá:
 *Body: 3 | Počet výskytů: 214*
 
@@ -4630,15 +4639,6 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Část cyklóny mezi teplou a studenou frontou se jmenuje:
-*Body: 1 | Počet výskytů: 214*
-
-- A) přední linie
-- B) teplý sektor
-- C) výběžek tlaku
-
----
-
 ### Co způsobuje vznik vztlaku?
 *Body: 3 | Počet výskytů: 212*
 
@@ -4648,12 +4648,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Indukovaný odpor lze zmenšit:
-*Body: 3 | Počet výskytů: 210*
+### Co zabraňuje tomu, aby vzduch proudil z oblastí vysokého tlaku přímo do oblastí nízkého tlaku vzduchu?
+*Body: 1 | Počet výskytů: 210*
 
-- A) štíhlostí křídla a vhodným zakončením křídla
-- B) šípem křídla a tloušťkou profilu
-- C) tloušťkou profilu a koncovými tělěsy na koncích křídla
+- A) Tření o zemský povrch
+- B) Coriolisova síla
+- C) Síla způsobená gradientem tlaku
 
 ---
 
@@ -4666,12 +4666,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Co zabraňuje tomu, aby vzduch proudil z oblastí vysokého tlaku přímo do oblastí nízkého tlaku vzduchu?
-*Body: 1 | Počet výskytů: 210*
+### Indukovaný odpor lze zmenšit:
+*Body: 3 | Počet výskytů: 210*
 
-- A) Tření o zemský povrch
-- B) Coriolisova síla
-- C) Síla způsobená gradientem tlaku
+- A) štíhlostí křídla a vhodným zakončením křídla
+- B) šípem křídla a tloušťkou profilu
+- C) tloušťkou profilu a koncovými tělěsy na koncích křídla
 
 ---
 
@@ -4729,21 +4729,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Jaké meteorologické podmínky lze očekávat v mírných zeměpisných šířkách v létě nad pevninou ve středu stacionární oblasti vysokého tlaku vzduchu?
-*Body: 1 | Počet výskytů: 200*
-
-- A) Bouřky, průzračný vzduch a silný vítr.
-- B) Slabý vítr, kouřmo.
-- C) Oblačnost typu Ns
-
----
-
 ### Při obtékání tělesa vznikají aerodynamické síly. Nazývají se:
 *Body: 3 | Počet výskytů: 200*
 
 - A) výsledná aerodynamická síla, která se rozkládá na vztlak a odpor
 - B) vztlak, tíha a odpor
 - C) vztlak a podtlak
+
+---
+
+### Jaké meteorologické podmínky lze očekávat v mírných zeměpisných šířkách v létě nad pevninou ve středu stacionární oblasti vysokého tlaku vzduchu?
+*Body: 1 | Počet výskytů: 200*
+
+- A) Bouřky, průzračný vzduch a silný vítr.
+- B) Slabý vítr, kouřmo.
+- C) Oblačnost typu Ns
 
 ---
 
@@ -4756,21 +4756,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Větší část vztlaku vzniká:
+*Body: 3 | Počet výskytů: 198*
+
+- A) nad 2/3 profilu, asi 55%
+- B) nad profilem, asi 2/3
+- C) pod profilem, asi 2/3
+
+---
+
 ### Vysunutí vztlakových klapek převážně způsobí:
 *Body: 3 | Počet výskytů: 198*
 
 - A) součinitele vztlaku, snížení součinitele odporu a zvýšení ma. klouzavosti
 - B) vzrůst součinitele vztlaku, odpor se nezmění
 - C) vzrůst součinitele vztlaku a odporu, mimo to se projeví klopivý moment ve smyslu „těžký na hlavu“
-
----
-
-### Minimální rychlost letu v ustálené zatáčce:
-*Body: 3 | Počet výskytů: 198*
-
-- A) je tím vyšší, čím je větší náklon
-- B) je dána letovou příručkou a platí pro všechny režimy letu
-- C) je tím menší, čím je zatáčka ostřejší
 
 ---
 
@@ -4783,12 +4783,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Větší část vztlaku vzniká:
+### Minimální rychlost letu v ustálené zatáčce:
 *Body: 3 | Počet výskytů: 198*
 
-- A) nad 2/3 profilu, asi 55%
-- B) nad profilem, asi 2/3
-- C) pod profilem, asi 2/3
+- A) je tím vyšší, čím je větší náklon
+- B) je dána letovou příručkou a platí pro všechny režimy letu
+- C) je tím menší, čím je zatáčka ostřejší
 
 ---
 
@@ -4927,21 +4927,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Které základní parametry a jevy určují počasí uvnitř vzduchové hmoty:
-*Body: 1 | Počet výskytů: 162*
-
-- A) srážky, dohlednost
-- B) tlak, oblačnost, hustota vzduchu
-- C) teplota, vlhkost, vertikální teplotní gradient
-
----
-
 ### Zhuštěné isobary na synoptické mapě značí:
 *Body: 1 | Počet výskytů: 162*
 
 - A) větší rozdíl tlaku a tedy i silnější vítr
 - B) vysoký teplotní rozdíl
 - C) barický stupeň dané oblasti
+
+---
+
+### Které základní parametry a jevy určují počasí uvnitř vzduchové hmoty:
+*Body: 1 | Počet výskytů: 162*
+
+- A) srážky, dohlednost
+- B) tlak, oblačnost, hustota vzduchu
+- C) teplota, vlhkost, vertikální teplotní gradient
 
 ---
 
@@ -4954,21 +4954,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Co rozumíme pojmem „čistá termika“:
-*Body: 1 | Počet výskytů: 159*
-
-- A) termický vzestupný proud který není provázen kupovitou oblačností
-- B) turbulenci ve spojení se střihem větru
-- C) silný nárazovitý vítr v bezoblačném prostředí
-
----
-
 ### Při stabilním teplotním zvrstvení a silném větru, který s výškou dále sílí, vzniká za terénní překážkou proudění:
 *Body: 1 | Počet výskytů: 159*
 
 - A) vlnové
 - B) vírové
 - C) turbulentní
+
+---
+
+### Co rozumíme pojmem „čistá termika“:
+*Body: 1 | Počet výskytů: 159*
+
+- A) termický vzestupný proud který není provázen kupovitou oblačností
+- B) turbulenci ve spojení se střihem větru
+- C) silný nárazovitý vítr v bezoblačném prostředí
 
 ---
 
@@ -5017,21 +5017,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Mezi vysoká oblaka patří:
-*Body: 1 | Počet výskytů: 141*
-
-- A) Cc – cirrocumulus, Cs – cirrostratus
-- B) St – stratus, Sc – stratocumulus
-- C) Cu – cumulus, Ac – altocumulus
-
----
-
 ### Koncentrace kondenzačních jader je největší:
 *Body: 1 | Počet výskytů: 141*
 
 - A) v blízkosti velkých městských aglomerací (průmyslové oblasti)
 - B) nad oceány
 - C) nad pohořími
+
+---
+
+### Mezi vysoká oblaka patří:
+*Body: 1 | Počet výskytů: 141*
+
+- A) Cc – cirrocumulus, Cs – cirrostratus
+- B) St – stratus, Sc – stratocumulus
+- C) Cu – cumulus, Ac – altocumulus
 
 ---
 
@@ -5107,6 +5107,15 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Horizontální "bílá činka" s černými pruhy kolmo k podélné ose na obou kruhových koncích činky vyložená na návěstní ploše znamená?
+*Body: 1 | Počet výskytů: 20*
+
+- A) že letadla mohou vzlétat a přistávat i mimo VPD, rovněž i jiné pohyby nemusí být omezeny jen na pojedové dráhy
+- B) že letadla mohou vzlétat a přistávat podle meteorologické situace vždy proti větru
+- C) že letadla mohou vzlétat a přistávat jen na VPD, jiné pohyby nemusí být omezeny jen na VPD a pojedové dráhy
+
+---
+
 ### Horizontální "bílá činka" vyložená na návěstní ploše znamená?
 *Body: 1 | Počet výskytů: 20*
 
@@ -5122,24 +5131,6 @@ Celkem unikátních otázek: **663**
 - A) vyžaduje, a to určeným leteckým lékařem
 - B) vyžaduje, a to sportovním lékařem
 - C) nevyžaduje
-
----
-
-### Horizontální "bílá činka" s černými pruhy kolmo k podélné ose na obou kruhových koncích činky vyložená na návěstní ploše znamená?
-*Body: 1 | Počet výskytů: 20*
-
-- A) že letadla mohou vzlétat a přistávat i mimo VPD, rovněž i jiné pohyby nemusí být omezeny jen na pojedové dráhy
-- B) že letadla mohou vzlétat a přistávat podle meteorologické situace vždy proti větru
-- C) že letadla mohou vzlétat a přistávat jen na VPD, jiné pohyby nemusí být omezeny jen na VPD a pojedové dráhy
-
----
-
-### Horizontální červená čtvercová deska s jednou žlutou úhlopříčkou vyložená na návěstní ploše znamená?
-*Body: 1 | Počet výskytů: 19*
-
-- A) vzhledem ke špatnému stavu provozní plochy nebo z jakékoliv jiné příčiny se musí přiblížení na přistání a přistání provádět zvláště opatrně
-- B) nezpůsobilost provozní plochy
-- C) vzhledem ke špatnému stavu provozní plochy nebo z jakékoliv jiné příčiny je přistání zakázano
 
 ---
 
@@ -5161,12 +5152,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Jaká je maximální vzletová hmotnost SLZ?
-*Body: 3 | Počet výskytů: 18*
+### Horizontální červená čtvercová deska s jednou žlutou úhlopříčkou vyložená na návěstní ploše znamená?
+*Body: 1 | Počet výskytů: 19*
 
-- A) Je daná letovou příručkou
-- B) 450 kg
-- C) 550 kg
+- A) vzhledem ke špatnému stavu provozní plochy nebo z jakékoliv jiné příčiny se musí přiblížení na přistání a přistání provádět zvláště opatrně
+- B) nezpůsobilost provozní plochy
+- C) vzhledem ke špatnému stavu provozní plochy nebo z jakékoliv jiné příčiny je přistání zakázano
 
 ---
 
@@ -5179,12 +5170,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Minimální dosažená výška při vzletu ULL s maximální vzletovou hmotností 600 kg dle UL2 část I. je:
-*Body: 3 | Počet výskytů: 17*
+### Jaká je maximální vzletová hmotnost SLZ?
+*Body: 3 | Počet výskytů: 18*
 
-- A) 15 metrů po 450 metrech délky vzletu
-- B) 15 metrů po 350 metrech vzletu
-- C) 15 metrů po 300 metrech délky vzletu
+- A) Je daná letovou příručkou
+- B) 450 kg
+- C) 550 kg
+
+---
+
+### Ve vzdušném prostoru třídy G, pokud se nenachází v prostoru RMZ, se požadavek na spojení?
+*Body: 1 | Počet výskytů: 17*
+
+- A) vyžaduje, musí být stálé obousměrné
+- B) nevyžaduje
+- C) vyžaduje se nad 150 m nad terénem
 
 ---
 
@@ -5197,12 +5197,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Ve vzdušném prostoru třídy G, pokud se nenachází v prostoru RMZ, se požadavek na spojení?
-*Body: 1 | Počet výskytů: 17*
+### Minimální dosažená výška při vzletu ULL s maximální vzletovou hmotností 600 kg dle UL2 část I. je:
+*Body: 3 | Počet výskytů: 17*
 
-- A) vyžaduje, musí být stálé obousměrné
-- B) nevyžaduje
-- C) vyžaduje se nad 150 m nad terénem
+- A) 15 metrů po 450 metrech délky vzletu
+- B) 15 metrů po 350 metrech vzletu
+- C) 15 metrů po 300 metrech délky vzletu
 
 ---
 
@@ -5233,21 +5233,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Vzdušný prostor TRA GA je třídy:
+*Body: 1 | Počet výskytů: 14*
+
+- A) E
+- B) D
+- C) G
+
+---
+
 ### Prostor typu LKP sahá:
 *Body: 1 | Počet výskytů: 14*
 
 - A) od země do FL 125
 - B) od země do různých výšek (viz AIP nebo platná letecká mapa)
 - C) od 150m AGL do 1500m AMSL
-
----
-
-### Musí být na palubě letadla při všech letech doklad o pojištění odpovědnosti?
-*Body: 3 | Počet výskytů: 14*
-
-- A) ne při letištním letu
-- B) ano
-- C) ne
 
 ---
 
@@ -5269,12 +5269,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Vzdušný prostor TRA GA je třídy:
-*Body: 1 | Počet výskytů: 14*
+### Musí být na palubě letadla při všech letech doklad o pojištění odpovědnosti?
+*Body: 3 | Počet výskytů: 14*
 
-- A) E
-- B) D
-- C) G
+- A) ne při letištním letu
+- B) ano
+- C) ne
 
 ---
 
@@ -5287,12 +5287,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Zajistit seznámení druhé osoby na palubě s umístěním a způsobem použití bezpečnostních pásů musí:
-*Body: 1 | Počet výskytů: 13*
+### Platnost technického průkazu "A" je stanovena na dobu:
+*Body: 3 | Počet výskytů: 13*
 
-- A) provozovatel
-- B) majitel letadla
-- C) velitel letadla
+- A) maimálně na jeden rok pro ZK, PK, MPK a MZK; pro ostatní druhy SLZ maimálně na tři roky.
+- B) maimálně dva roky.
+- C) 1
 
 ---
 
@@ -5305,21 +5305,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Zajistit seznámení druhé osoby na palubě s umístěním a způsobem použití bezpečnostních pásů musí:
+*Body: 1 | Počet výskytů: 13*
+
+- A) provozovatel
+- B) majitel letadla
+- C) velitel letadla
+
+---
+
 ### Trať letu letounu křižuje zleva doprava kluzák. Opatření k vyhnutí provede:
 *Body: 3 | Počet výskytů: 13*
 
 - A) pilot kluzáku
 - B) pilot letadla s větší rychlostí nebo výškou
 - C) pilot letounu
-
----
-
-### Platnost technického průkazu "A" je stanovena na dobu:
-*Body: 3 | Počet výskytů: 13*
-
-- A) maimálně na jeden rok pro ZK, PK, MPK a MZK; pro ostatní druhy SLZ maimálně na tři roky.
-- B) maimálně dva roky.
-- C) 1
 
 ---
 
@@ -5332,21 +5332,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Sportovním létajícím zařízením je maximálně dvoumístné letadlo určené k létání pro vlastní potřebu nebo potřebu jiných osob za účelem rekreace, individuální osobní dopravy, sportu nebo výcviku pilotů a
-*Body: 3 | Počet výskytů: 12*
-
-- A) které může být uskutečňováno za účelem dosažení zisku i mimo výcvik pilotů a půjčování SLZ
-- B) které není uskutečňováno za účelem dosažení zisku, s výjimkou výcviku pilotů, letů závěsných a padákových kluzáků s pasažérem
-- C) které může být uskutečňováno za účelem dosažení zisku i mimo výcvik pilotů
-
----
-
 ### Prostor třídy E sahá do výšky:
 *Body: 3 | Počet výskytů: 12*
 
 - A) FL 125 (3800 m)
 - B) FL 95 (2900 m)
 - C) FL 85 (2600 m)
+
+---
+
+### Sportovním létajícím zařízením je maximálně dvoumístné letadlo určené k létání pro vlastní potřebu nebo potřebu jiných osob za účelem rekreace, individuální osobní dopravy, sportu nebo výcviku pilotů a
+*Body: 3 | Počet výskytů: 12*
+
+- A) které může být uskutečňováno za účelem dosažení zisku i mimo výcvik pilotů a půjčování SLZ
+- B) které není uskutečňováno za účelem dosažení zisku, s výjimkou výcviku pilotů, letů závěsných a padákových kluzáků s pasažérem
+- C) které může být uskutečňováno za účelem dosažení zisku i mimo výcvik pilotů
 
 ---
 
@@ -5368,57 +5368,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Který předpis se týká výcvikové osnovy pilota ULL?
-*Body: 1 | Počet výskytů: 10*
-
-- A) UL3
-- B) UL2
-- C) UL1
-
----
-
-### Velitelé letadel letících po letištním okruhu jsou povinni:
-*Body: 3 | Počet výskytů: 10*
-
-- A) vždy provádět všechny zatáčky doprava
-- B) postupovat podle letového plánu
-- C) při přiblížení na přistání nebo po vzletu provádět všechny zatáčky doleva, pokud není přikázáno jinak
-
----
-
-### Kvalifikace řízené lety VFR:
-*Body: 3 | Počet výskytů: 10*
-
-- A) je potřeba pro lety do zahraničí
-- B) není potřeba pro průlet TMA nebo CTR
-- C) je potřeba pro každý let, který je předmětem letového povolení
-
----
-
-### Při ručním spouštění motoru SLZ musí být splněny mimo jiné následující podmínky:
-*Body: 1 | Počet výskytů: 10*
-
-- A) stačí na sebe pokřiknout
-- B) zapnout nebo vypnout zapalování motoru může pilot pouze na jednoznačný pokyn spouštějícího
-- C) zapnout nebo vypnout zapalování motoru může pilot pouze na pokynu spouštějícího pokývnutím hlavy
-
----
-
 ### Půjčování SLZ za úplatu je vázáno na:
 *Body: 1 | Počet výskytů: 10*
 
 - A) Oprávnění půjčovny SLZ vydané LAA ČR
 - B) není nijak omezeno
 - C) souhlas majitele / provozovatele SLZ
-
----
-
-### Jaká je nejmenší délka VPD pro vzlety a přistání SLZ?
-*Body: 1 | Počet výskytů: 10*
-
-- A) 300 m
-- B) 500 m
-- C) 150 m
 
 ---
 
@@ -5431,12 +5386,57 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Velitelé letadel letících po letištním okruhu jsou povinni:
+*Body: 3 | Počet výskytů: 10*
+
+- A) vždy provádět všechny zatáčky doprava
+- B) postupovat podle letového plánu
+- C) při přiblížení na přistání nebo po vzletu provádět všechny zatáčky doleva, pokud není přikázáno jinak
+
+---
+
+### Který předpis se týká výcvikové osnovy pilota ULL?
+*Body: 1 | Počet výskytů: 10*
+
+- A) UL3
+- B) UL2
+- C) UL1
+
+---
+
+### Kvalifikace řízené lety VFR:
+*Body: 3 | Počet výskytů: 10*
+
+- A) je potřeba pro lety do zahraničí
+- B) není potřeba pro průlet TMA nebo CTR
+- C) je potřeba pro každý let, který je předmětem letového povolení
+
+---
+
 ### Kdy nesmí pilot letadla/SLZ a členové posádky zahájit let?
 *Body: 1 | Počet výskytů: 10*
 
 - A) Jestliže je u člena posádky letadla/ SLZ obsah alkoholu v dechu více než 0,5 promile.
 - B) Jestliže u pilota letadla/ SLZ je obsah alkoholu v dechu více než 0,5 promile.
 - C) Je-li jejich schopnost snížena zejména vlivem alkoholického nápoje, omamného prostředku, léku, únavou, nevolností, úrazem nebo nemocí.
+
+---
+
+### Při ručním spouštění motoru SLZ musí být splněny mimo jiné následující podmínky:
+*Body: 1 | Počet výskytů: 10*
+
+- A) stačí na sebe pokřiknout
+- B) zapnout nebo vypnout zapalování motoru může pilot pouze na jednoznačný pokyn spouštějícího
+- C) zapnout nebo vypnout zapalování motoru může pilot pouze na pokynu spouštějícího pokývnutím hlavy
+
+---
+
+### Jaká je nejmenší délka VPD pro vzlety a přistání SLZ?
+*Body: 1 | Počet výskytů: 10*
+
+- A) 300 m
+- B) 500 m
+- C) 150 m
 
 ---
 
@@ -5449,12 +5449,39 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Letadla nesmí provádět skupinový let:
+### S výjimkou vzletu nebo přistání nebo s výjimkou povolení vydaného leteckým úřadem, musí být VFR let prováděn nad hustě zastavenými oblastmi měst, vesnic a jiných obydlených míst nebo nad shromážděním osob na volném prostranství ve výšce, která nesmí být menší než:
+*Body: 3 | Počet výskytů: 8*
+
+- A) 300 m (1000 ft) nad nejvyšší překážkou v okruhu 600 m od letadla
+- B) 300 m nad nejvyšší překážkou v okruhu 300 m od letadla
+- C) 150 m nad nejvyšší překážkou v okruhu 600 m od letadla
+
+---
+
+### Ke vzletům a přistáním při nepravidelném provozu motorových SLZ může být použita:
 *Body: 1 | Počet výskytů: 8*
 
-- A) při skupinovém letu v řízeném vzdušném prostoru bez radiospojení
-- B) s výjimkou předchozí dohody mezi veliteli letadel účastnících se letu. Při skupinovém letu v řízeném vzdušném prostoru se musí dodržet podmínky předepsané příslušným úřadem (úřady) ATS.
-- C) bez předchozí dohody mezi veliteli letadel účastnících se letu. Při skupinovém letu v řízeném vzdušném prostoru se nemusí dodržet podmínky předepsané příslušným úřadem (úřady) ATS.
+- A) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 100 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 50 m od SLZ osoby nezúčastněné na provozu
+- B) plocha ležící mimo území národního parku, chráněné krajinné oblasti, národní přírodní rezervace, přírodní rezervace, národní přírodní památky a přírodní památky a nejméně 300 m od obytných budov
+- C) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 300 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 100 m od SLZ osoby nezúčastněné na provozu
+
+---
+
+### Doba platnosti lékařského posudku o zdravotní způsobilosti pro piloty SLZ je:
+*Body: 1 | Počet výskytů: 8*
+
+- A) 60 měsíců u osob do 40 let
+- B) 24 měsíců u osob od 20 do 60 let
+- C) neomezená u osob do 60 let
+
+---
+
+### Ověřovat platnost technického průkazu SLZ je povinností:
+*Body: 3 | Počet výskytů: 8*
+
+- A) vedoucího směny
+- B) velitele SLZ
+- C) vedoucího letového provozu
 
 ---
 
@@ -5485,84 +5512,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### S výjimkou vzletu nebo přistání nebo s výjimkou povolení vydaného leteckým úřadem, musí být VFR let prováděn nad hustě zastavenými oblastmi měst, vesnic a jiných obydlených míst nebo nad shromážděním osob na volném prostranství ve výšce, která nesmí být menší než:
-*Body: 3 | Počet výskytů: 8*
-
-- A) 300 m (1000 ft) nad nejvyšší překážkou v okruhu 600 m od letadla
-- B) 300 m nad nejvyšší překážkou v okruhu 300 m od letadla
-- C) 150 m nad nejvyšší překážkou v okruhu 600 m od letadla
-
----
-
-### Ke vzletům a přistáním při nepravidelném provozu motorových SLZ může být použita:
+### Letadla nesmí provádět skupinový let:
 *Body: 1 | Počet výskytů: 8*
 
-- A) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 100 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 50 m od SLZ osoby nezúčastněné na provozu
-- B) plocha ležící mimo území národního parku, chráněné krajinné oblasti, národní přírodní rezervace, přírodní rezervace, národní přírodní památky a přírodní památky a nejméně 300 m od obytných budov
-- C) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 300 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 100 m od SLZ osoby nezúčastněné na provozu
-
----
-
-### Ověřovat platnost technického průkazu SLZ je povinností:
-*Body: 3 | Počet výskytů: 8*
-
-- A) vedoucího směny
-- B) velitele SLZ
-- C) vedoucího letového provozu
-
----
-
-### Doba platnosti lékařského posudku o zdravotní způsobilosti pro piloty SLZ je:
-*Body: 1 | Počet výskytů: 8*
-
-- A) 60 měsíců u osob do 40 let
-- B) 24 měsíců u osob od 20 do 60 let
-- C) neomezená u osob do 60 let
-
----
-
-### Za rozestupy mezi letadly při skupinovém letu:
-*Body: 3 | Počet výskytů: 7*
-
-- A) odpovídá pouze vedoucí skupiny
-- B) odpovídají pouze velitelé ostatních letadel ve skupině
-- C) odpovídá vedoucí skupiny a velitelé ostatních letadel ve skupině
-
----
-
-### Pilot nebo pilotní žák je povinen při provozu sportovního létajícího zařízení dbát pokynů:
-*Body: 1 | Počet výskytů: 7*
-
-- A) druhé osoby na palubě
-- B) inspektora provozu, inspektora techniky nebo osob vykonávajících státní dozor podle leteckého zákona
-- C) služby radio tj. osoby poskytující informace
-
----
-
-### Je dovoleno provést akrobatický let s UL?
-*Body: 3 | Počet výskytů: 7*
-
-- A) Ano
-- B) Ano, ale za určitých stanovených podmínek
-- C) Ne
-
----
-
-### Pilot nesmí spouštět motor SLZ spouštěčem, pokud:
-*Body: 1 | Počet výskytů: 7*
-
-- A) se nepřesvědčil, že má aktivovanou ruční brzdu a zapnutá poziční světla
-- B) se nepřesvědčil, že před letounem je dostatečný prostor pro zastavení případného nežádoucího pohybu SLZ a je dostatečný volný prostor v blízkosti vrtule
-- C) se nepřesvědčil, že před letounem je dostatečný prostor pro zastavení případného nežádoucího pohybu SLZ
-
----
-
-### S výjimkou vzletu a přistání nebo s výjimkou povolení vydaného příslušným úřadem, mimo prostory pro nácvik a soutěžní létání MPK, nesmí být let VFR mimo jiné prováděn:
-*Body: 3 | Počet výskytů: 7*
-
-- A) ve výšce nižší než 100 m nad zemí nebo vodou nebo 150 m nad nejvyšší překážkou v okruhu 100 m od letadla
-- B) ve výšce, která by neumožnila provést nouzové přistání v případě poklesu nebo úplné ztráty výkonu pohonné jednotky
-- C) ve výšce, která by neumožnila provést bezpečné nouzové přistání na vhodnou plochu uprostřed hustě zastavěných oblastí v případě poklesu nebo úplné ztráty výkonu pohonné jednotky
+- A) při skupinovém letu v řízeném vzdušném prostoru bez radiospojení
+- B) s výjimkou předchozí dohody mezi veliteli letadel účastnících se letu. Při skupinovém letu v řízeném vzdušném prostoru se musí dodržet podmínky předepsané příslušným úřadem (úřady) ATS.
+- C) bez předchozí dohody mezi veliteli letadel účastnících se letu. Při skupinovém letu v řízeném vzdušném prostoru se nemusí dodržet podmínky předepsané příslušným úřadem (úřady) ATS.
 
 ---
 
@@ -5575,12 +5530,57 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Za rozestupy mezi letadly při skupinovém letu:
+*Body: 3 | Počet výskytů: 7*
+
+- A) odpovídá pouze vedoucí skupiny
+- B) odpovídají pouze velitelé ostatních letadel ve skupině
+- C) odpovídá vedoucí skupiny a velitelé ostatních letadel ve skupině
+
+---
+
 ### Jak se nazývá důležité sdělení vydávané nejen leteckými úřady, které informuje piloty a provozovatele letadel o dočasných změnách nebo událostech, které mohou ovlivnit bezpečnost letového provozu a tyto informace nejsou běžně zahrnuty v AIP, protože jsou krátkodobé nebo mimořádné?
 *Body: 3 | Počet výskytů: 7*
 
 - A) Letecká informační příručka
 - B) AIP
 - C) NOTAM
+
+---
+
+### Je dovoleno provést akrobatický let s UL?
+*Body: 3 | Počet výskytů: 7*
+
+- A) Ano
+- B) Ano, ale za určitých stanovených podmínek
+- C) Ne
+
+---
+
+### Pilot nebo pilotní žák je povinen při provozu sportovního létajícího zařízení dbát pokynů:
+*Body: 1 | Počet výskytů: 7*
+
+- A) druhé osoby na palubě
+- B) inspektora provozu, inspektora techniky nebo osob vykonávajících státní dozor podle leteckého zákona
+- C) služby radio tj. osoby poskytující informace
+
+---
+
+### S výjimkou vzletu a přistání nebo s výjimkou povolení vydaného příslušným úřadem, mimo prostory pro nácvik a soutěžní létání MPK, nesmí být let VFR mimo jiné prováděn:
+*Body: 3 | Počet výskytů: 7*
+
+- A) ve výšce nižší než 100 m nad zemí nebo vodou nebo 150 m nad nejvyšší překážkou v okruhu 100 m od letadla
+- B) ve výšce, která by neumožnila provést nouzové přistání v případě poklesu nebo úplné ztráty výkonu pohonné jednotky
+- C) ve výšce, která by neumožnila provést bezpečné nouzové přistání na vhodnou plochu uprostřed hustě zastavěných oblastí v případě poklesu nebo úplné ztráty výkonu pohonné jednotky
+
+---
+
+### Pilot nesmí spouštět motor SLZ spouštěčem, pokud:
+*Body: 1 | Počet výskytů: 7*
+
+- A) se nepřesvědčil, že má aktivovanou ruční brzdu a zapnutá poziční světla
+- B) se nepřesvědčil, že před letounem je dostatečný prostor pro zastavení případného nežádoucího pohybu SLZ a je dostatečný volný prostor v blízkosti vrtule
+- C) se nepřesvědčil, že před letounem je dostatečný prostor pro zastavení případného nežádoucího pohybu SLZ
 
 ---
 
@@ -5593,48 +5593,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Létat se SLZ vyjma kluzáků bez odpovídače sekundárního radaru je možno do výšky:
-*Body: 3 | Počet výskytů: 6*
-
-- A) FL 95
-- B) FL 60
-- C) 2200 m
-
----
-
-### Létat nad shromážděním osob, pokud není ve výšce, která by v případě vzniklé nouze umožnila přistání bez ohrožení osob nebo majetku na povrchu země:
-*Body: 3 | Počet výskytů: 6*
-
-- A) je povoleno
-- B) je možné pouze na veřejném leteckém vystoupení s vydaným platným oprávněním
-- C) se nesmí
-
----
-
-### Na návěst zakročujícího letadla „Jste narušitel, následujte mě" (kývání letadlem a záblesky polohovými světly v nepravidelných intervalech prováděné v poloze mírně nad a před letadlem a zpravidla vlevo od narušitele) odpovídá narušitel:
-*Body: 3 | Počet výskytů: 6*
-
-- A) kýváním letadla a záblesky polohovými světly v nepravidelných intervalech a následováním zakročujícího letadla
-- B) pohybováním křidélek a směrového kormidla
-- C) kýváním letadlem a točením na druhou stranu než zakročující letadlo, které zatáčí směrem do středu zakázaného prostoru
-
----
-
-### Při letech na neřízené letiště nebo když se nepodaří navázat radiospojení se stanovištěm AFIS nebo stanovištěm poskytování informací známému provozu daného letiště, je velitel letadla vybaveného radiostanicí povinen:
+### Piloti ztrácejí způsobilost k výkonu pilotní činnosti:
 *Body: 1 | Počet výskytů: 6*
 
-- A) odletět na náhradní letiště
-- B) vysílat hlášení na příslušném kmitočtu daného letiště zprávu obsahující značku letadla, výšku, místo vstupu do ATZ, místo zařazení do okruhu a polohy na okruhu
-- C) přistát na daném letišti bez spojení
-
----
-
-### Velitel výsadkového SLZ při výsadcích musí být držitelem:
-*Body: 1 | Počet výskytů: 6*
-
-- A) pilotního průkazu PPL či LAPL s kvalifikací vysazovač
-- B) pouze platného pilotního průkazu s předchozí zkušeností vysazovače
-- C) platného pilotního průkazu s kvalifikací vysazovač
+- A) uplynutím doby platnosti průkazu, zadržením nebo odejmutím pilotního průkazu podle ustanovení § 84a zákona č. 49/1997Sb. ve znění pozdějších předpisů
+- B) pouze po uplynutí doby platnosti pilotního průkazu
+- C) pouze po uplynutí doby platnosti osvědčení o zdravotní způsobilosti
 
 ---
 
@@ -5647,6 +5611,15 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Velitel výsadkového SLZ při výsadcích musí být držitelem:
+*Body: 1 | Počet výskytů: 6*
+
+- A) pilotního průkazu PPL či LAPL s kvalifikací vysazovač
+- B) pouze platného pilotního průkazu s předchozí zkušeností vysazovače
+- C) platného pilotního průkazu s kvalifikací vysazovač
+
+---
+
 ### Při letu v nebo pod převodní nadmořskou výškou musí být na výškoměrech nastaven pro let v ATZ ležící kompletně nebo i částečně pod TMA, ale přímo se TMA nedotýkající:
 *Body: 3 | Počet výskytů: 6*
 
@@ -5656,12 +5629,39 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Piloti ztrácejí způsobilost k výkonu pilotní činnosti:
+### Na návěst zakročujícího letadla „Jste narušitel, následujte mě" (kývání letadlem a záblesky polohovými světly v nepravidelných intervalech prováděné v poloze mírně nad a před letadlem a zpravidla vlevo od narušitele) odpovídá narušitel:
+*Body: 3 | Počet výskytů: 6*
+
+- A) kýváním letadla a záblesky polohovými světly v nepravidelných intervalech a následováním zakročujícího letadla
+- B) pohybováním křidélek a směrového kormidla
+- C) kýváním letadlem a točením na druhou stranu než zakročující letadlo, které zatáčí směrem do středu zakázaného prostoru
+
+---
+
+### Létat se SLZ vyjma kluzáků bez odpovídače sekundárního radaru je možno do výšky:
+*Body: 3 | Počet výskytů: 6*
+
+- A) FL 95
+- B) FL 60
+- C) 2200 m
+
+---
+
+### Při letech na neřízené letiště nebo když se nepodaří navázat radiospojení se stanovištěm AFIS nebo stanovištěm poskytování informací známému provozu daného letiště, je velitel letadla vybaveného radiostanicí povinen:
 *Body: 1 | Počet výskytů: 6*
 
-- A) uplynutím doby platnosti průkazu, zadržením nebo odejmutím pilotního průkazu podle ustanovení § 84a zákona č. 49/1997Sb. ve znění pozdějších předpisů
-- B) pouze po uplynutí doby platnosti pilotního průkazu
-- C) pouze po uplynutí doby platnosti osvědčení o zdravotní způsobilosti
+- A) odletět na náhradní letiště
+- B) vysílat hlášení na příslušném kmitočtu daného letiště zprávu obsahující značku letadla, výšku, místo vstupu do ATZ, místo zařazení do okruhu a polohy na okruhu
+- C) přistát na daném letišti bez spojení
+
+---
+
+### Létat nad shromážděním osob, pokud není ve výšce, která by v případě vzniklé nouze umožnila přistání bez ohrožení osob nebo majetku na povrchu země:
+*Body: 3 | Počet výskytů: 6*
+
+- A) je povoleno
+- B) je možné pouze na veřejném leteckém vystoupení s vydaným platným oprávněním
+- C) se nesmí
 
 ---
 
@@ -5674,30 +5674,21 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Jaká musí být minimální vzdálenost od nezúčastněných osob při provozu SLZ podle zákona č. 49/1997 Sb.?
-*Body: 1 | Počet výskytů: 5*
-
-- A) 30 metrů
-- B) Není stanovena
-- C) 50 metrů
-
----
-
-### Maximální výška letu bez použití kyslíkového přístroje nebo přetlakové kabiny je:
-*Body: 3 | Počet výskytů: 5*
-
-- A) 10 000 ft AMSL
-- B) 4500 m AMSL
-- C) 6000 m AMSL
-
----
-
 ### Bude letadlu poskytována pohotovostní služba když nemá velitel letadla podaný letový plán a letí v CTR?
 *Body: 1 | Počet výskytů: 5*
 
 - A) jen na žádost velitele letadla
 - B) ne
 - C) ano
+
+---
+
+### Jaká musí být minimální vzdálenost od nezúčastněných osob při provozu SLZ podle zákona č. 49/1997 Sb.?
+*Body: 1 | Počet výskytů: 5*
+
+- A) 30 metrů
+- B) Není stanovena
+- C) 50 metrů
 
 ---
 
@@ -5710,39 +5701,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Letadlo mající přednost musí udržovat svůj kurz a rychlost:
-*Body: 3 | Počet výskytů: 4*
+### Maximální výška letu bez použití kyslíkového přístroje nebo přetlakové kabiny je:
+*Body: 3 | Počet výskytů: 5*
 
-- A) toto pravidlo však nezbavuje velitele letadla odpovědnosti provést takové opatření, které nejlépe zabrání srážce
-- B) nesmí měnit kurz, rychlost však ano
-- C) tyto podmínky nesmí měnit
-
----
-
-### Převodní nadmořská výška, mimo horské oblasti nad 4000 ft (1200 m) je v ČR:
-*Body: 1 | Počet výskytů: 4*
-
-- A) 10 000 ft (3050 m)
-- B) 5000 ft (1500 m)
-- C) FL50
-
----
-
-### Letadlo nesmí letět v takové vzdálenosti od jiného letadla, aby:
-*Body: 3 | Počet výskytů: 4*
-
-- A) vytvářelo nebezpečí srážky
-- B) způsobilo rušení radiové komunikace
-- C) nebylo viditelné ze země
-
----
-
-### Je před použitím plochy pro vzlet nebo přistání při nepravidelném provozu sportovních létajících zařízení nutný souhlas vlastníka této plochy?
-*Body: 1 | Počet výskytů: 4*
-
-- A) Ne, pokud je plocha mimo obytné území.
-- B) Ne, pokud je provoz oznámen místnímu úřadu.
-- C) Ano, souhlas vlastníka je nutný.
+- A) 10 000 ft AMSL
+- B) 4500 m AMSL
+- C) 6000 m AMSL
 
 ---
 
@@ -5755,12 +5719,48 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Minimální výška letu nad vodou:
+*Body: 1 | Počet výskytů: 4*
+
+- A) je omezena
+- B) může být libovolná
+- C) není omezena
+
+---
+
+### Letadlo nesmí letět v takové vzdálenosti od jiného letadla, aby:
+*Body: 3 | Počet výskytů: 4*
+
+- A) vytvářelo nebezpečí srážky
+- B) způsobilo rušení radiové komunikace
+- C) nebylo viditelné ze země
+
+---
+
 ### Mezi povinnosti velitele letadla/SLZ mimo jiné patří:
 *Body: 3 | Počet výskytů: 4*
 
 - A) kontrolovat technika při provádění prohlídky.
 - B) provádět předletové prohlídky v souladu s letovou a provozní příručkou, vést v letadlové knize přehled nalétaných hodin a záznam o údržbě SLZ
 - C) provádět prohlídky v souladu s letovou a provozní příručkou pouze v autorizovaném servise.
+
+---
+
+### Převodní nadmořská výška, mimo horské oblasti nad 4000 ft (1200 m) je v ČR:
+*Body: 1 | Počet výskytů: 4*
+
+- A) 10 000 ft (3050 m)
+- B) 5000 ft (1500 m)
+- C) FL50
+
+---
+
+### Je před použitím plochy pro vzlet nebo přistání při nepravidelném provozu sportovních létajících zařízení nutný souhlas vlastníka této plochy?
+*Body: 1 | Počet výskytů: 4*
+
+- A) Ne, pokud je plocha mimo obytné území.
+- B) Ne, pokud je provoz oznámen místnímu úřadu.
+- C) Ano, souhlas vlastníka je nutný.
 
 ---
 
@@ -5782,102 +5782,12 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Minimální výška letu nad vodou:
-*Body: 1 | Počet výskytů: 4*
+### Letadlo mající přednost musí udržovat svůj kurz a rychlost:
+*Body: 3 | Počet výskytů: 4*
 
-- A) je omezena
-- B) může být libovolná
-- C) není omezena
-
----
-
-### Řízený let je:
-*Body: 0 | Počet výskytů: 3*
-
-- A) jakýkoliv let, na který je podaný letový plán
-- B) jakýkoliv let, který je předmětem letového povolení
-- C) jakýkoliv let vykonán pouze za účelem vzletu a přistání na řízeném letišti
-
----
-
-### Letadlo/SLZ, které má právo přednosti musí:
-*Body: 1 | Počet výskytů: 3*
-
-- A) zpomalit a provést zatáčku od provozou
-- B) udržovat výšku
-- C) udržovat kurz a rychlost
-
----
-
-### Přibližují-li se dvě nebo více letadel těžších vzduchu k letišti, za účelem přistání, musí letadlo ve vyšší hladině dát přednost letadlu nižší hladině,
-*Body: 3 | Počet výskytů: 3*
-
-- A) ale letadlo letící vpravo musí dát přednost letadlům přilétávajícím zleva
-- B) ale pomalejší letadlo musí dát přednost rychlejšímu
-- C) ale letadlo v nižší hladině nesmí využít tohoto pravidla k tomu, aby se zařadilo před letadlo, které je v poslední fázi přiblížení na přistání, nebo aby takové letadlo předletělo.
-
----
-
-### Převodní vrstva je:
-*Body: 1 | Počet výskytů: 3*
-
-- A) vzdušný prostor mezi převodní nadmořskou výškou a převodní hladinou
-- B) mezi horní hranicí ATZ a spodní hranicí TMA
-- C) mezi troposférou a stratosférou
-
----
-
-### Odpovědnost velitele letadla za dodržování pravidel provozu SLZ:
-*Body: 3 | Počet výskytů: 3*
-
-- A) velitel letadla neodpovídá za provedení letu v případě, když obdržel povolení ke vzletu od služeb řízení letového provozu
-- B) velitel letadla, bez ohledu na to, ať už řídí letadlo či nikoli, odpovídá za daný let v souladu s pravidly létání, vyjma případů, kdy velitel letadla se smí odchýlit od těchto pravidel za absolutně nezbytných okolností v zájmu bezpečnosti
-- C) velitel letadla nemá právo s konečnou platností rozhodnout o provedení letu
-
----
-
-### Vzlety nebo přistání letadel letících podle VFR na letišti uvnitř řízeného okrsku, včetně jejich zařazování do letištního okruhu nebo letu po něm, se smí provádět, není-li základna oblačnosti nižší než:
-*Body: 0 | Počet výskytů: 3*
-
-- A) 300 m (1000 ft)
-- B) 450 m (1500 ft)
-- C) 150 m (500 ft)
-
----
-
-### Pravomoc velitele letadla:
-*Body: 1 | Počet výskytů: 3*
-
-- A) velitel letadla nemá právo s konečnou platností rozhodnout o provedení letu
-- B) provozovatel letadla má právo rozhodnout s konečnou platností o provedení letu
-- C) velitel letadla má právo rozhodnout s konečnou platností o provedení letu
-
----
-
-### S výjimkou vzletu nebo přistání nebo s výjimkou povolení vydaného úřadem musí být let VFR prováděn nad zemí nebo vodou nebo 150 m (500 ft) nad nejvyšší překážkou v okruhu 150 m (500 ft) od letadla ve výšce ne menší než:
-*Body: 3 | Počet výskytů: 3*
-
-- A) 150 m (500 ft)
-- B) 300 m
-- C) není stanovena
-
----
-
-### Kdo je oprávněn kontrolovat pilotní průkaz nebo doklad žáka?
-*Body: 1 | Počet výskytů: 3*
-
-- A) Inspektor provozu LAA ČR, příslušník Policie ČR, inspektor ÚCL, osoba pověřená provozovatelem letiště nebo majitelem pozemku
-- B) Inspektor provozu LAA ČR, osoba pověřená MD ČR, příslušník Policie ČR, nebo pracovník městského úřadu obce, na jehož pozemcích je letiště, nebo plocha SLZ
-- C) Inspektor provozu a techniky LAA ČR, osoba pověřená MD ČR, příslušník Policie ČR
-
----
-
-### Pilot letadla nevybaveného radiostanicí, který má v úmyslu přiletět na neřízené letiště nebo z něho odletět, je povinen:
-*Body: 3 | Počet výskytů: 3*
-
-- A) předem zkoordinovat svůj přílet nebo odlet s majitelem letiště
-- B) předem zkoordinovat svůj přílet nebo odlet se stanovištěm AFIS nebo službou poskytující informace známému provozu nebo provozovatelem letiště
-- C) dodržet pro odlet nebo přílet pravidla vyhýbání
+- A) toto pravidlo však nezbavuje velitele letadla odpovědnosti provést takové opatření, které nejlépe zabrání srážce
+- B) nesmí měnit kurz, rychlost však ano
+- C) tyto podmínky nesmí měnit
 
 ---
 
@@ -5890,12 +5800,102 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Převodní vrstva je:
+*Body: 1 | Počet výskytů: 3*
+
+- A) vzdušný prostor mezi převodní nadmořskou výškou a převodní hladinou
+- B) mezi horní hranicí ATZ a spodní hranicí TMA
+- C) mezi troposférou a stratosférou
+
+---
+
+### Letadlo/SLZ, které má právo přednosti musí:
+*Body: 1 | Počet výskytů: 3*
+
+- A) zpomalit a provést zatáčku od provozou
+- B) udržovat výšku
+- C) udržovat kurz a rychlost
+
+---
+
+### Řízený let je:
+*Body: 0 | Počet výskytů: 3*
+
+- A) jakýkoliv let, na který je podaný letový plán
+- B) jakýkoliv let, který je předmětem letového povolení
+- C) jakýkoliv let vykonán pouze za účelem vzletu a přistání na řízeném letišti
+
+---
+
+### S výjimkou vzletu nebo přistání nebo s výjimkou povolení vydaného úřadem musí být let VFR prováděn nad zemí nebo vodou nebo 150 m (500 ft) nad nejvyšší překážkou v okruhu 150 m (500 ft) od letadla ve výšce ne menší než:
+*Body: 3 | Počet výskytů: 3*
+
+- A) 150 m (500 ft)
+- B) 300 m
+- C) není stanovena
+
+---
+
+### Pilot letadla nevybaveného radiostanicí, který má v úmyslu přiletět na neřízené letiště nebo z něho odletět, je povinen:
+*Body: 3 | Počet výskytů: 3*
+
+- A) předem zkoordinovat svůj přílet nebo odlet s majitelem letiště
+- B) předem zkoordinovat svůj přílet nebo odlet se stanovištěm AFIS nebo službou poskytující informace známému provozu nebo provozovatelem letiště
+- C) dodržet pro odlet nebo přílet pravidla vyhýbání
+
+---
+
+### Vzlety nebo přistání letadel letících podle VFR na letišti uvnitř řízeného okrsku, včetně jejich zařazování do letištního okruhu nebo letu po něm, se smí provádět, není-li základna oblačnosti nižší než:
+*Body: 0 | Počet výskytů: 3*
+
+- A) 300 m (1000 ft)
+- B) 450 m (1500 ft)
+- C) 150 m (500 ft)
+
+---
+
+### Kdo je oprávněn kontrolovat pilotní průkaz nebo doklad žáka?
+*Body: 1 | Počet výskytů: 3*
+
+- A) Inspektor provozu LAA ČR, příslušník Policie ČR, inspektor ÚCL, osoba pověřená provozovatelem letiště nebo majitelem pozemku
+- B) Inspektor provozu LAA ČR, osoba pověřená MD ČR, příslušník Policie ČR, nebo pracovník městského úřadu obce, na jehož pozemcích je letiště, nebo plocha SLZ
+- C) Inspektor provozu a techniky LAA ČR, osoba pověřená MD ČR, příslušník Policie ČR
+
+---
+
+### Pravomoc velitele letadla:
+*Body: 1 | Počet výskytů: 3*
+
+- A) velitel letadla nemá právo s konečnou platností rozhodnout o provedení letu
+- B) provozovatel letadla má právo rozhodnout s konečnou platností o provedení letu
+- C) velitel letadla má právo rozhodnout s konečnou platností o provedení letu
+
+---
+
+### Odpovědnost velitele letadla za dodržování pravidel provozu SLZ:
+*Body: 3 | Počet výskytů: 3*
+
+- A) velitel letadla neodpovídá za provedení letu v případě, když obdržel povolení ke vzletu od služeb řízení letového provozu
+- B) velitel letadla, bez ohledu na to, ať už řídí letadlo či nikoli, odpovídá za daný let v souladu s pravidly létání, vyjma případů, kdy velitel letadla se smí odchýlit od těchto pravidel za absolutně nezbytných okolností v zájmu bezpečnosti
+- C) velitel letadla nemá právo s konečnou platností rozhodnout o provedení letu
+
+---
+
 ### Ze SLZ za letu se nesmí nic shazovat nebo rozprašovat, s výjimkou:
 *Body: 1 | Počet výskytů: 3*
 
 - A) dodržení podmínek předepsaných příslušným úřadem
 - B) dodržení podmínek určených majitelem plochy
 - C) dodržení podmínek určených provozovatelem SLZ
+
+---
+
+### Přibližují-li se dvě nebo více letadel těžších vzduchu k letišti, za účelem přistání, musí letadlo ve vyšší hladině dát přednost letadlu nižší hladině,
+*Body: 3 | Počet výskytů: 3*
+
+- A) ale letadlo letící vpravo musí dát přednost letadlům přilétávajícím zleva
+- B) ale pomalejší letadlo musí dát přednost rychlejšímu
+- C) ale letadlo v nižší hladině nesmí využít tohoto pravidla k tomu, aby se zařadilo před letadlo, které je v poslední fázi přiblížení na přistání, nebo aby takové letadlo předletělo.
 
 ---
 
@@ -5917,15 +5917,6 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Dvojitý bílý kříž, umístěný horizontálně na návěstní ploše znamená, že:
-*Body: 1 | Počet výskytů: 1*
-
-- A) na letišti se provádějí výsadky
-- B) na letišti je provoz kluzáků
-- C) na letišti je kombinovaný provoz
-
----
-
 ### TMA (koncová řízená oblast):
 *Body: 0 | Počet výskytů: 1*
 
@@ -5944,6 +5935,15 @@ Celkem unikátních otázek: **663**
 
 ---
 
+### Dvojitý bílý kříž, umístěný horizontálně na návěstní ploše znamená, že:
+*Body: 1 | Počet výskytů: 1*
+
+- A) na letišti se provádějí výsadky
+- B) na letišti je provoz kluzáků
+- C) na letišti je kombinovaný provoz
+
+---
+
 ### Traťové lety VFR prováděné nad 900 m (3000ft) nad střední hladinou moře ve směru od 180 stupňů do 359 stupňů musí být prováděny v cestovních hladinách, resp. nad převodní výškou ve FL:
 *Body: 1 | Počet výskytů: 1*
 
@@ -5953,18 +5953,18 @@ Celkem unikátních otázek: **663**
 
 ---
 
-### Je-li na návěstní ploše nebo na konci vzletové a přistávací dráhy a nebo na pásu v používání horizontálně umístěn doprava lomený šíp nápadné barvy, znamená to, že zatáčky před přistáním nebo po vzletu se:
-*Body: 1 | Počet výskytů: 1*
-
-- A) mohou provádět vpravo
-- B) mohou provádět i vpravo
-- C) musí provádět vpravo
-
----
-
 ### Co znamená zkratka AIP?
 *Body: 0 | Počet výskytů: 1*
 
 - A) Letecká informační příručka
 - B) Automatický informační portál
 - C) Publikace pro letectví a kosmonautiku
+
+---
+
+### Je-li na návěstní ploše nebo na konci vzletové a přistávací dráhy a nebo na pásu v používání horizontálně umístěn doprava lomený šíp nápadné barvy, znamená to, že zatáčky před přistáním nebo po vzletu se:
+*Body: 1 | Počet výskytů: 1*
+
+- A) mohou provádět vpravo
+- B) mohou provádět i vpravo
+- C) musí provádět vpravo
