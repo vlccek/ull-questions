@@ -7,9 +7,9 @@
 
 ## Souhrnné statistiky
 
-*   **Analyzované období:** 2025-04-15_to_2025-09-13
-*   **Celkový počet zpracovaných testů:** 20318
-*   **Celkový počet otázek v datech:** 463974
+*   **Analyzované období:** 2025-04-15_to_2025-09-18
+*   **Celkový počet zpracovaných testů:** 21851
+*   **Celkový počet otázek v datech:** 528360
 *   **Počet unikátních otázek:** 664
 *   **Počet unikátních otázek s neznámým počtem bodů:** 0
 
@@ -23,7 +23,7 @@ Graf ukazuje 50 otázek, které se nejčastěji vyskytovaly napříč všemi zpr
 ## Top 50 nejčastějších otázek (poslední celý týden)
 Četnost otázek v posledním týdnu, pro který byla nalezena data.
 
-![Top 50 otázek z nejnovějšího týdne](./histogram_weeks/top50_questions_2025-36.png)
+![Top 50 otázek z nejnovějšího týdne](./histogram_weeks/top50_questions_2025-37.png)
 
 ## Top 50 nejčastějších otázek (poslední měsíc)
 Četnost otázek v posledním měsíci, pro který byla nalezena data.
