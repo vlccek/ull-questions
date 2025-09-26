@@ -7,9 +7,9 @@
 
 ## Souhrnné statistiky
 
-*   **Analyzované období:** 2025-04-15_to_2025-09-24
-*   **Celkový počet zpracovaných testů:** 22240
-*   **Celkový počet otázek v datech:** 544698
+*   **Analyzované období:** 2025-04-15_to_2025-09-26
+*   **Celkový počet zpracovaných testů:** 22400
+*   **Celkový počet otázek v datech:** 551418
 *   **Počet unikátních otázek:** 664
 *   **Počet unikátních otázek s neznámým počtem bodů:** 0
 
