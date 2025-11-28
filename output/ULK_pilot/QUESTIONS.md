@@ -1,15 +1,24 @@
 # List of All Unique Questions: ULK pilot
 
-Total unique questions: **322**
+Total unique questions: **350**
 
 ---
 
-### Zeměpisný poledník je:
-*Points: 3 | Count: 5 | First Seen: 25.04.2025 | Last Seen: 16.11.2025*
+### Pro výpočet doby letu z VBT (výchozí bod trati) do KBT (koncový bod trati) použijeme:
+*Points: 3 | Count: 5 | First Seen: 09.04.2025 | Last Seen: 16.11.2025*
 
-- a) část kružnice, jejíž rovina je kolmá na zemskou osu
-- b) kružnice kolem zeměkoule
-- c) polovina poledníkové kružnice
+- a) traťovou rychlost – W (TR)
+- b) indikovanou vzdušnou rychlost - IAS
+- c) pravou vzdušnou rychlost - TAS
+
+---
+
+### Provozovatel musí vést záznamy o zjištěných závadách (poruchách) a poškozeních a o jejich odstranění, o provedených opravách i splnění požadavků závazných bulletinů a příkazů k zachování letové způsobilosti:
+*Points: 3 | Count: 3 | First Seen: 09.04.2025 | Last Seen: 16.11.2025*
+
+- a) ano – jednoznačně, prokazatelně a závazně
+- b) jen o opravách a bulletinech
+- c) pouze u závažných závad, poruch a poškození
 
 ---
 
@@ -31,17 +40,8 @@ Total unique questions: **322**
 
 ---
 
-### Nejspodnější vrstvu atmosféry nazýváme:
-*Points: 3 | Count: 11 | First Seen: 07.04.2025 | Last Seen: 16.11.2025*
-
-- a) mezosféra
-- b) troposféra
-- c) stratosféra
-
----
-
 ### Dotažení vrtule instalované na SLZ je provedeno:
-*Points: 3 | Count: 4 | First Seen: 18.04.2025 | Last Seen: 16.11.2025*
+*Points: 3 | Count: 5 | First Seen: 09.04.2025 | Last Seen: 16.11.2025*
 
 - a) podle citu
 - b) předepsaným utahovacím momentem daným výrobcem vrtule
@@ -50,7 +50,7 @@ Total unique questions: **322**
 ---
 
 ### Jaký účinek má vychýlení řídící páky doprava?
-*Points: 3 | Count: 11 | First Seen: 07.04.2025 | Last Seen: 16.11.2025*
+*Points: 3 | Count: 13 | First Seen: 06.04.2025 | Last Seen: 16.11.2025*
 
 - a) letadlo se nakloní doprava, začne bočit doprava a v důsledku toho začne zatáčet doprava
 - b) letadlo se nakloní doprava, začne bočit doprava a v důsledku toho začne zatáčet doleva
@@ -58,35 +58,17 @@ Total unique questions: **322**
 
 ---
 
-### Při zvětšování úhlu náběhu:
-*Points: 3 | Count: 10 | First Seen: 07.04.2025 | Last Seen: 16.11.2025*
+### Nejspodnější vrstvu atmosféry nazýváme:
+*Points: 3 | Count: 12 | First Seen: 07.04.2025 | Last Seen: 16.11.2025*
 
-- a) roste součinitel vztlaku a odporu
-- b) klesá součinitel vztlaku a odporu
-- c) roste součinitel vztlaku, součinitel odporu klesá
-
----
-
-### Pro výpočet doby letu z VBT (výchozí bod trati) do KBT (koncový bod trati) použijeme:
-*Points: 3 | Count: 4 | First Seen: 20.04.2025 | Last Seen: 16.11.2025*
-
-- a) traťovou rychlost – W (TR)
-- b) indikovanou vzdušnou rychlost - IAS
-- c) pravou vzdušnou rychlost - TAS
-
----
-
-### Hlavní příčinou odtržení proudu je vždy:
-*Points: 3 | Count: 2 | First Seen: 13.05.2025 | Last Seen: 16.11.2025*
-
-- a) snížení rychlosti letu pod hodnotu minimální dopředné rychlosti vůči zemi v ustáleném přímočarém letu
-- b) počátek přechodu laminárního proudění na povrchu PK v turbulentní
-- c) překročení kritického úhlu náběhu
+- a) mezosféra
+- b) troposféra
+- c) stratosféra
 
 ---
 
 ### Srovnávací navigace spočívá v:
-*Points: 3 | Count: 5 | First Seen: 19.04.2025 | Last Seen: 16.11.2025*
+*Points: 3 | Count: 6 | First Seen: 06.04.2025 | Last Seen: 16.11.2025*
 
 - a) srovnávání vypočtených časů se skutečností
 - b) srovnávání terénu s mapou a opačně
@@ -94,17 +76,26 @@ Total unique questions: **322**
 
 ---
 
-### Je neprovedení údržby na letadle důvodem k dočasné ztrátě letové způsobilosti letadla?
-*Points: 3 | Count: 8 | First Seen: 07.04.2025 | Last Seen: 16.11.2025*
+### Hlavní příčinou odtržení proudu je vždy:
+*Points: 3 | Count: 3 | First Seen: 28.03.2025 | Last Seen: 16.11.2025*
 
-- a) ano
-- b) jen při neprovedení roční nebo vyšší prohlídky
-- c) není to důvod k dočasné ztrátě letové způsobilosti
+- a) snížení rychlosti letu pod hodnotu minimální dopředné rychlosti vůči zemi v ustáleném přímočarém letu
+- b) počátek přechodu laminárního proudění na povrchu PK v turbulentní
+- c) překročení kritického úhlu náběhu
+
+---
+
+### Při zvětšování úhlu náběhu:
+*Points: 3 | Count: 11 | First Seen: 07.04.2025 | Last Seen: 16.11.2025*
+
+- a) roste součinitel vztlaku a odporu
+- b) klesá součinitel vztlaku a odporu
+- c) roste součinitel vztlaku, součinitel odporu klesá
 
 ---
 
 ### Odtržením proudnic rozumíme:
-*Points: 3 | Count: 5 | First Seen: 04.05.2025 | Last Seen: 16.11.2025*
+*Points: 3 | Count: 6 | First Seen: 11.04.2025 | Last Seen: 16.11.2025*
 
 - a) proud vzduchu přestane sledovat tvar profilu
 - b) skokový přechod od turbulentního proudění nad horní plochou křídla k absolutní laminaritě
@@ -112,8 +103,26 @@ Total unique questions: **322**
 
 ---
 
+### Zeměpisný poledník je:
+*Points: 3 | Count: 5 | First Seen: 25.04.2025 | Last Seen: 16.11.2025*
+
+- a) část kružnice, jejíž rovina je kolmá na zemskou osu
+- b) kružnice kolem zeměkoule
+- c) polovina poledníkové kružnice
+
+---
+
+### Je neprovedení údržby na letadle důvodem k dočasné ztrátě letové způsobilosti letadla?
+*Points: 3 | Count: 10 | First Seen: 06.04.2025 | Last Seen: 16.11.2025*
+
+- a) ano
+- b) jen při neprovedení roční nebo vyšší prohlídky
+- c) není to důvod k dočasné ztrátě letové způsobilosti
+
+---
+
 ### Jaké jsou fáze vzletu motorového letadla?
-*Points: 3 | Count: 6 | First Seen: 18.04.2025 | Last Seen: 16.11.2025*
+*Points: 3 | Count: 9 | First Seen: 28.03.2025 | Last Seen: 16.11.2025*
 
 - a) rozjezd, nadzdvihnutí, rozlet přechodový oblouk, stoupání až do doby než je dosažena cestovní rychlost
 - b) rozjezd, odtržení, mírné stoupání, strmé stoupání až do předepsané výšky
@@ -121,44 +130,8 @@ Total unique questions: **322**
 
 ---
 
-### Při laminárním proudění:
-*Points: 1 | Count: 16 | First Seen: 07.04.2025 | Last Seen: 16.11.2025*
-
-- a) dochází k vzájemnému promíchávání proudnic
-- b) nedochází k vzájemnému promíchávání proudnic
-- c) dochází k vzájemnému promíchávání proudnic, ale na konci sledovaného průřezu (profilu) se v proudu netvoří víry
-
----
-
-### Kritický bod je:
-*Points: 1 | Count: 12 | First Seen: 07.04.2025 | Last Seen: 16.11.2025*
-
-- a) místo na trati plánované, ze kterého je stejná časová vzdálenost do místa startu i do místa přistání
-- b) bod na plánované trati nejvíce vzdálený od VBT
-- c) místo na trati kam až letadlo může doletět, aby se za současného stavu paliva mohlo vrátit
-
----
-
-### Nosnou složkou kompozitní letecké konstrukce je:
-*Points: 1 | Count: 11 | First Seen: 18.04.2025 | Last Seen: 16.11.2025*
-
-- a) tkanina nebo stejnosměrná skleněná vlákna, nebo vlákna z jiných k tomu určených materiálů
-- b) pryskyřice
-- c) jemná drátěná síť
-
----
-
-### Letí-li letadlo klouzavým letem při takovém úhlu náběhu, že jeho klouzavost je např. 10, pak to znamená, že:
-*Points: 1 | Count: 21 | First Seen: 07.04.2025 | Last Seen: 16.11.2025*
-
-- a) doletí z výšky 1 km do vzdálenosti 10 km ( při bezvětří)
-- b) letí k zemi pod úhlem 10°
-- c) za dobu 10 s uletí 1 km
-
----
-
 ### U podvozku příďového typu je hlavní podvozek umístěn:
-*Points: 1 | Count: 7 | First Seen: 07.04.2025 | Last Seen: 16.11.2025*
+*Points: 1 | Count: 8 | First Seen: 07.04.2025 | Last Seen: 16.11.2025*
 
 - a) v těžišti letadla
 - b) před těžištěm letadla
@@ -166,8 +139,44 @@ Total unique questions: **322**
 
 ---
 
+### Letí-li letadlo klouzavým letem při takovém úhlu náběhu, že jeho klouzavost je např. 10, pak to znamená, že:
+*Points: 1 | Count: 26 | First Seen: 28.03.2025 | Last Seen: 16.11.2025*
+
+- a) doletí z výšky 1 km do vzdálenosti 10 km ( při bezvětří)
+- b) letí k zemi pod úhlem 10°
+- c) za dobu 10 s uletí 1 km
+
+---
+
+### Při laminárním proudění:
+*Points: 1 | Count: 20 | First Seen: 06.04.2025 | Last Seen: 16.11.2025*
+
+- a) dochází k vzájemnému promíchávání proudnic
+- b) nedochází k vzájemnému promíchávání proudnic
+- c) dochází k vzájemnému promíchávání proudnic, ale na konci sledovaného průřezu (profilu) se v proudu netvoří víry
+
+---
+
+### Nosnou složkou kompozitní letecké konstrukce je:
+*Points: 1 | Count: 12 | First Seen: 28.03.2025 | Last Seen: 16.11.2025*
+
+- a) tkanina nebo stejnosměrná skleněná vlákna, nebo vlákna z jiných k tomu určených materiálů
+- b) pryskyřice
+- c) jemná drátěná síť
+
+---
+
+### Kritický bod je:
+*Points: 1 | Count: 13 | First Seen: 07.04.2025 | Last Seen: 16.11.2025*
+
+- a) místo na trati plánované, ze kterého je stejná časová vzdálenost do místa startu i do místa přistání
+- b) bod na plánované trati nejvíce vzdálený od VBT
+- c) místo na trati kam až letadlo může doletět, aby se za současného stavu paliva mohlo vrátit
+
+---
+
 ### Který z následujícíh procesů ve vrstvě vzduchu může vést k tvorbě oblačnosti typu kumulus a kumulonimbus?
-*Points: 0 | Count: 2 | First Seen: 13.05.2025 | Last Seen: 16.11.2025*
+*Points: 0 | Count: 3 | First Seen: 28.03.2025 | Last Seen: 16.11.2025*
 
 - a) Subsidence
 - b) Konvekce
@@ -175,12 +184,21 @@ Total unique questions: **322**
 
 ---
 
-### V definici standardní atmosféry jsou hodnoty tlaku a teploty na střední hladině moře:
+### Ke vzletům a přistáním při nepravidelném provozu motorových SLZ může být použita:
 *Points: 0 | Count: 1 | First Seen: 16.11.2025 | Last Seen: 16.11.2025*
 
-- a) 1015 hPa, +10°C
-- b) 1013,25 hPa, +15°C
-- c) 1013,25 hPa, 0°C
+- a) plocha ležící mimo území národního parku, chráněné krajinné oblasti, národní přírodní rezervace, přírodní rezervace, národní přírodní památky a přírodní památky a nejméně 300 m od obytných budov
+- b) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 100 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 50 m od SLZ osoby nezúčastněné na provozu
+- c) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 300 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 100 m od SLZ osoby nezúčastněné na provozu
+
+---
+
+### S výjimkou zvláštních letů VFR se lety VFR musí provádět tak, aby letadlo ve vzdušném prostoru třídy C pod FL 100 letělo při stejné nebo větší letové dohlednosti než:
+*Points: 0 | Count: 3 | First Seen: 22.05.2025 | Last Seen: 16.11.2025*
+
+- a) 5 km
+- b) 8 km
+- c) 3 km
 
 ---
 
@@ -202,93 +220,21 @@ Total unique questions: **322**
 
 ---
 
-### Olej do paliva se přidává u motoru?
+### Maximální pádová rychlost ULK s maximální vzletovou hmotností dle UL2 část VI je:
+*Points: 0 | Count: 2 | First Seen: 11.11.2025 | Last Seen: 16.11.2025*
+
+- a) 65 km/h
+- b) 75 km/h
+- c) 83 km/h
+
+---
+
+### V definici standardní atmosféry jsou hodnoty tlaku a teploty na střední hladině moře:
 *Points: 0 | Count: 1 | First Seen: 16.11.2025 | Last Seen: 16.11.2025*
 
-- a) čtyřdobého
-- b) čtyřdobého s rozvodem OHV
-- c) dvoudobého
-
----
-
-### Zvrstvení vzduchu ve vrstvě inverze je:
-*Points: 0 | Count: 1 | First Seen: 16.11.2025 | Last Seen: 16.11.2025*
-
-- a) instabilní
-- b) indiferentní
-- c) stabilní
-
----
-
-### Provozovatel musí vést záznamy o zjištěných závadách (poruchách) a poškozeních a o jejich odstranění, o provedených opravách i splnění požadavků závazných bulletinů a příkazů k zachování letové způsobilosti:
-*Points: 0 | Count: 2 | First Seen: 22.05.2025 | Last Seen: 16.11.2025*
-
-- a) ano – jednoznačně, prokazatelně a závazně
-- b) jen o opravách a bulletinech
-- c) pouze u závažných závad, poruch a poškození
-
----
-
-### Agona je:
-*Points: 0 | Count: 1 | First Seen: 16.11.2025 | Last Seen: 16.11.2025*
-
-- a) čára spojující místa se zápornou deklinací
-- b) čára spojující místa s kladnou deklinací
-- c) čára spojující místa s nulovou deklinací
-
----
-
-### Pilot nebo pilotní žák je povinen při provozu sportovního létajícího zařízení dbát pokynů:
-*Points: 0 | Count: 1 | First Seen: 16.11.2025 | Last Seen: 16.11.2025*
-
-- a) druhé osoby na palubě
-- b) inspektora provozu, inspektora techniky nebo osob vykonávajících státní dozor podle leteckého zákona
-- c) služby radio tj. osoby poskytující informace
-
----
-
-### Letí-li dvě letadla na vstřícných tratích nebo přibližně takových, každé z nich se vyhne změnou kurzu:
-*Points: 0 | Count: 2 | First Seen: 13.05.2025 | Last Seen: 16.11.2025*
-
-- a) učiní taková opatření, která nejlépe zabrání srážce
-- b) vlevo
-- c) vpravo
-
----
-
-### Jaká je maximální vzletová hmotnost SLZ?
-*Points: 0 | Count: 1 | First Seen: 16.11.2025 | Last Seen: 16.11.2025*
-
-- a) 550 kg
-- b) Je daná letovou příručkou
-- c) 450 kg
-
----
-
-### Za dynamické zatížení draku letadla považujeme tato zatížení:
-*Points: 0 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 16.11.2025*
-
-- a) zatížení od tíhy konstrukčních částí letadla hlavně při přistání
-- b) zatížení od tíhy cestujících a zavazadel na palubě za letu
-- c) zatížení způsobená vertikálními poryvy vzduchu, zatížení od manévrů a obratů, zatížení od sil při vzletu a přistání
-
----
-
-### Velitel letadla je povinen přistávat a vzlétat proti větru, pokud bezpečnost, konfigurace vzletové a přistávací dráhy nebo provozní situace neurčí, že je výhodný jiný směr, přičemž přistání nebo vzlet s bočním nebo zadním větrem může být proveden:
-*Points: 0 | Count: 1 | First Seen: 16.11.2025 | Last Seen: 16.11.2025*
-
-- a) pokud má pilot platnou kvalifikaci pro vzlety za nepříznivých meteorologických podmínek
-- b) v limitu stanoveném v provozní příručce pro daný typ letadla
-- c) pokud je výkon motoru větší než 80 HP
-
----
-
-### S výjimkou zvláštních letů VFR se lety VFR musí provádět tak, aby letadlo ve vzdušném prostoru třídy C pod FL 100 letělo při stejné nebo větší letové dohlednosti než:
-*Points: 0 | Count: 3 | First Seen: 22.05.2025 | Last Seen: 16.11.2025*
-
-- a) 5 km
-- b) 8 km
-- c) 3 km
+- a) 1015 hPa, +10°C
+- b) 1013,25 hPa, +15°C
+- c) 1013,25 hPa, 0°C
 
 ---
 
@@ -301,57 +247,75 @@ Total unique questions: **322**
 
 ---
 
-### Ke vzletům a přistáním při nepravidelném provozu motorových SLZ může být použita:
+### Jaká je maximální vzletová hmotnost SLZ?
 *Points: 0 | Count: 1 | First Seen: 16.11.2025 | Last Seen: 16.11.2025*
 
-- a) plocha ležící mimo území národního parku, chráněné krajinné oblasti, národní přírodní rezervace, přírodní rezervace, národní přírodní památky a přírodní památky a nejméně 300 m od obytných budov
-- b) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 100 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 50 m od SLZ osoby nezúčastněné na provozu
-- c) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 300 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 100 m od SLZ osoby nezúčastněné na provozu
+- a) 550 kg
+- b) Je daná letovou příručkou
+- c) 450 kg
 
 ---
 
-### Maximální pádová rychlost ULK s maximální vzletovou hmotností dle UL2 část VI je:
-*Points: 0 | Count: 2 | First Seen: 11.11.2025 | Last Seen: 16.11.2025*
+### Olej do paliva se přidává u motoru?
+*Points: 0 | Count: 1 | First Seen: 16.11.2025 | Last Seen: 16.11.2025*
 
-- a) 65 km/h
-- b) 75 km/h
-- c) 83 km/h
-
----
-
-### Letadlo nesmí letět v takové vzdálenosti od jiného letadla, aby:
-*Points: 3 | Count: 1 | First Seen: 11.11.2025 | Last Seen: 11.11.2025*
-
-- a) způsobilo rušení radiové komunikace
-- b) vytvářelo nebezpečí srážky
-- c) nebylo viditelné ze země
+- a) čtyřdobého
+- b) čtyřdobého s rozvodem OHV
+- c) dvoudobého
 
 ---
 
-### Jaký tlak je pod a nad profilem křídla a jaký je při běžných úhlech náběhu poměr jejich velikosti?
-*Points: 3 | Count: 2 | First Seen: 25.04.2025 | Last Seen: 11.11.2025*
+### Pilot nebo pilotní žák je povinen při provozu sportovního létajícího zařízení dbát pokynů:
+*Points: 0 | Count: 1 | First Seen: 16.11.2025 | Last Seen: 16.11.2025*
 
-- a) pod profilem vzniká přetlak, nad profilem podtlak, který je velký jako jedna třetina přetlaku
-- b) pod profilem vzniká přetlak, nad profilem podtlak, který vytváří asi 2/3 vztlakové síly
-- c) pod profilem vzniká podtlak, nad profilem přetlak, který je asi třikrát větší, než podtlak
-
----
-
-### Co rozumíme v meteorologii pojmem bouřka:
-*Points: 3 | Count: 2 | First Seen: 28.05.2025 | Last Seen: 11.11.2025*
-
-- a) nejvýraznější projev konvekce ve volné atmosféře
-- b) jev totožný s pojmem „studená fronta“
-- c) přírodní jev doprovázený intenzivními srážkami a elektrickými výboji
+- a) druhé osoby na palubě
+- b) inspektora provozu, inspektora techniky nebo osob vykonávajících státní dozor podle leteckého zákona
+- c) služby radio tj. osoby poskytující informace
 
 ---
 
-### Při provádění srovnávací orientace je vždy spolehlivější:
-*Points: 3 | Count: 3 | First Seen: 24.04.2025 | Last Seen: 11.11.2025*
+### Agona je:
+*Points: 0 | Count: 2 | First Seen: 06.04.2025 | Last Seen: 16.11.2025*
 
-- a) pozorně prohlížet terén pod letadlem
-- b) soustředit pozornost na jeden orientační bod
-- c) vyhledat a určit několik orientačních bodů
+- a) čára spojující místa se zápornou deklinací
+- b) čára spojující místa s kladnou deklinací
+- c) čára spojující místa s nulovou deklinací
+
+---
+
+### Za dynamické zatížení draku letadla považujeme tato zatížení:
+*Points: 0 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 16.11.2025*
+
+- a) zatížení od tíhy konstrukčních částí letadla hlavně při přistání
+- b) zatížení od tíhy cestujících a zavazadel na palubě za letu
+- c) zatížení způsobená vertikálními poryvy vzduchu, zatížení od manévrů a obratů, zatížení od sil při vzletu a přistání
+
+---
+
+### Letí-li dvě letadla na vstřícných tratích nebo přibližně takových, každé z nich se vyhne změnou kurzu:
+*Points: 0 | Count: 2 | First Seen: 13.05.2025 | Last Seen: 16.11.2025*
+
+- a) učiní taková opatření, která nejlépe zabrání srážce
+- b) vlevo
+- c) vpravo
+
+---
+
+### Zvrstvení vzduchu ve vrstvě inverze je:
+*Points: 0 | Count: 1 | First Seen: 16.11.2025 | Last Seen: 16.11.2025*
+
+- a) instabilní
+- b) indiferentní
+- c) stabilní
+
+---
+
+### Velitel letadla je povinen přistávat a vzlétat proti větru, pokud bezpečnost, konfigurace vzletové a přistávací dráhy nebo provozní situace neurčí, že je výhodný jiný směr, přičemž přistání nebo vzlet s bočním nebo zadním větrem může být proveden:
+*Points: 0 | Count: 1 | First Seen: 16.11.2025 | Last Seen: 16.11.2025*
+
+- a) pokud má pilot platnou kvalifikaci pro vzlety za nepříznivých meteorologických podmínek
+- b) v limitu stanoveném v provozní příručce pro daný typ letadla
+- c) pokud je výkon motoru větší než 80 HP
 
 ---
 
@@ -364,53 +328,8 @@ Total unique questions: **322**
 
 ---
 
-### Výškoměr nastavený na hodnotu QFE letiště ukazuje po přistání na letišti:
-*Points: 3 | Count: 5 | First Seen: 19.04.2025 | Last Seen: 11.11.2025*
-
-- a) nadmořskou výšku prahu VPD tohoto letiště
-- b) nulovou výšku
-- c) nadmořskou výšku vztažného bodu letiště
-
----
-
-### Jaká je maximální vzletová hmotnost SLZ:
-*Points: 3 | Count: 1 | First Seen: 11.11.2025 | Last Seen: 11.11.2025*
-
-- a) 400 kg
-- b) 600 kg
-- c) 480 kg
-
----
-
-### V praxi převádíme rychlosti větru z m/s na kt vztahem:
-*Points: 3 | Count: 3 | First Seen: 19.04.2025 | Last Seen: 11.11.2025*
-
-- a) 1 m/s ~ 2 kt
-- b) 1 m/s ~ 1 kt
-- c) 1 m/s ~ 3 kt
-
----
-
-### Hustota vzduchu v zemské atmosféře s výškou:
-*Points: 3 | Count: 3 | First Seen: 27.04.2025 | Last Seen: 11.11.2025*
-
-- a) klesá
-- b) vzrůstá
-- c) se nemění
-
----
-
-### Během letu zjistíte, že Vám zbývá 17 l LPH při průměrné spotřebě 11 l/h. Toto množství LPH Vám vystačí na:
-*Points: 3 | Count: 2 | First Seen: 19.04.2025 | Last Seen: 11.11.2025*
-
-- a) 1° 10‘
-- b) 1° 50‘
-- c) 1° 30‘
-
----
-
 ### V letové příručce letadla je uvedena minimální hmotnost pilota 70 kg. Pilot s hmotností 65 kg:
-*Points: 3 | Count: 7 | First Seen: 20.04.2025 | Last Seen: 11.11.2025*
+*Points: 3 | Count: 8 | First Seen: 28.03.2025 | Last Seen: 11.11.2025*
 
 - a) může letět, krajní poloha centráže nebude překročena
 - b) nemůže letět, krajní poloha centráže by byla překročena
@@ -418,39 +337,12 @@ Total unique questions: **322**
 
 ---
 
-### Jak mají být barevně označeny přístroje?
-*Points: 3 | Count: 1 | First Seen: 11.11.2025 | Last Seen: 11.11.2025*
-
-- a) jen všechny maimální hodnoty pro bezpečný provoz musí být označeny červenou radiální čárou
-- b) všechny maimální a pokud jsou dány i minimální hodnoty pro bezpečný provoz musí být označeny červenou radiální čárou
-- c) žádné hodnoty pro bezpečný provoz nemusí být označeny červenou radiální čárou
-
----
-
-### Menší množství oleje v benzínu u dvoudobého motoru, než předepsané:
-*Points: 3 | Count: 4 | First Seen: 19.04.2025 | Last Seen: 11.11.2025*
-
-- a) způsobí nedostatečné mazání motoru a může dojít k jeho následné poruše
-- b) je žádoucí pro snížení hmotnosti
-- c) snižuje tření v motoru a tím zvýší jeho výkon
-
----
-
 ### Obálka obratů:
-*Points: 3 | Count: 6 | First Seen: 19.04.2025 | Last Seen: 11.11.2025*
+*Points: 3 | Count: 7 | First Seen: 06.04.2025 | Last Seen: 11.11.2025*
 
 - a) vymezuje vzdušný prostor v kterém se může letadlo pohybovat
 - b) obsahuje seznam dovolených manévrů letu
 - c) vymezuje oblast možných a dovolených provozních násobků při dané rychlosti letu
-
----
-
-### Plné výchylky řízení kormidel lze použít do rychlosti
-*Points: 3 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 11.11.2025*
-
-- a) VA - Obratová rychlost
-- b) VNE - Nepřekročitelná rychlost
-- c) VH - rychlost v horizontu
 
 ---
 
@@ -463,8 +355,116 @@ Total unique questions: **322**
 
 ---
 
+### Při provádění srovnávací orientace je vždy spolehlivější:
+*Points: 3 | Count: 3 | First Seen: 24.04.2025 | Last Seen: 11.11.2025*
+
+- a) pozorně prohlížet terén pod letadlem
+- b) soustředit pozornost na jeden orientační bod
+- c) vyhledat a určit několik orientačních bodů
+
+---
+
+### Jaká je maximální vzletová hmotnost SLZ:
+*Points: 3 | Count: 1 | First Seen: 11.11.2025 | Last Seen: 11.11.2025*
+
+- a) 400 kg
+- b) 600 kg
+- c) 480 kg
+
+---
+
+### Menší množství oleje v benzínu u dvoudobého motoru, než předepsané:
+*Points: 3 | Count: 4 | First Seen: 19.04.2025 | Last Seen: 11.11.2025*
+
+- a) způsobí nedostatečné mazání motoru a může dojít k jeho následné poruše
+- b) je žádoucí pro snížení hmotnosti
+- c) snižuje tření v motoru a tím zvýší jeho výkon
+
+---
+
+### Během letu zjistíte, že Vám zbývá 17 l LPH při průměrné spotřebě 11 l/h. Toto množství LPH Vám vystačí na:
+*Points: 3 | Count: 2 | First Seen: 19.04.2025 | Last Seen: 11.11.2025*
+
+- a) 1° 10‘
+- b) 1° 50‘
+- c) 1° 30‘
+
+---
+
+### Jaký tlak je pod a nad profilem křídla a jaký je při běžných úhlech náběhu poměr jejich velikosti?
+*Points: 3 | Count: 2 | First Seen: 25.04.2025 | Last Seen: 11.11.2025*
+
+- a) pod profilem vzniká přetlak, nad profilem podtlak, který je velký jako jedna třetina přetlaku
+- b) pod profilem vzniká přetlak, nad profilem podtlak, který vytváří asi 2/3 vztlakové síly
+- c) pod profilem vzniká podtlak, nad profilem přetlak, který je asi třikrát větší, než podtlak
+
+---
+
+### Hustota vzduchu v zemské atmosféře s výškou:
+*Points: 3 | Count: 4 | First Seen: 28.03.2025 | Last Seen: 11.11.2025*
+
+- a) klesá
+- b) vzrůstá
+- c) se nemění
+
+---
+
+### Jak mají být barevně označeny přístroje?
+*Points: 3 | Count: 1 | First Seen: 11.11.2025 | Last Seen: 11.11.2025*
+
+- a) jen všechny maimální hodnoty pro bezpečný provoz musí být označeny červenou radiální čárou
+- b) všechny maimální a pokud jsou dány i minimální hodnoty pro bezpečný provoz musí být označeny červenou radiální čárou
+- c) žádné hodnoty pro bezpečný provoz nemusí být označeny červenou radiální čárou
+
+---
+
+### V praxi převádíme rychlosti větru z m/s na kt vztahem:
+*Points: 3 | Count: 4 | First Seen: 09.04.2025 | Last Seen: 11.11.2025*
+
+- a) 1 m/s ~ 2 kt
+- b) 1 m/s ~ 1 kt
+- c) 1 m/s ~ 3 kt
+
+---
+
+### Letadlo nesmí letět v takové vzdálenosti od jiného letadla, aby:
+*Points: 3 | Count: 1 | First Seen: 11.11.2025 | Last Seen: 11.11.2025*
+
+- a) způsobilo rušení radiové komunikace
+- b) vytvářelo nebezpečí srážky
+- c) nebylo viditelné ze země
+
+---
+
+### Plné výchylky řízení kormidel lze použít do rychlosti
+*Points: 3 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 11.11.2025*
+
+- a) VA - Obratová rychlost
+- b) VNE - Nepřekročitelná rychlost
+- c) VH - rychlost v horizontu
+
+---
+
+### Výškoměr nastavený na hodnotu QFE letiště ukazuje po přistání na letišti:
+*Points: 3 | Count: 5 | First Seen: 19.04.2025 | Last Seen: 11.11.2025*
+
+- a) nadmořskou výšku prahu VPD tohoto letiště
+- b) nulovou výšku
+- c) nadmořskou výšku vztažného bodu letiště
+
+---
+
+### Co rozumíme v meteorologii pojmem bouřka:
+*Points: 3 | Count: 2 | First Seen: 28.05.2025 | Last Seen: 11.11.2025*
+
+- a) nejvýraznější projev konvekce ve volné atmosféře
+- b) jev totožný s pojmem „studená fronta“
+- c) přírodní jev doprovázený intenzivními srážkami a elektrickými výboji
+
+---
+
 ### Může dojít k odtržení proudu při laminárním proudění v mezní vrstvě?
-*Points: 1 | Count: 5 | First Seen: 20.04.2025 | Last Seen: 11.11.2025*
+*Points: 1 | Count: 6 | First Seen: 09.04.2025 | Last Seen: 11.11.2025*
 
 - a) ne, protože proudění nejprve musí přejít do turbulentního
 - b) ano, jde o nežádoucí jev, kdy odtržením proudu vzniká rozsáhlý úplav
@@ -472,12 +472,12 @@ Total unique questions: **322**
 
 ---
 
-### Je-li na návěstní ploše nebo na konci vzletové a přistávací dráhy a nebo na pásu v používání horizontálně umístěn doprava lomený šíp nápadné barvy, znamená to, že zatáčky před přistáním nebo po vzletu se:
+### Vzdušný prostor TRA GA je třídy:
 *Points: 1 | Count: 1 | First Seen: 11.11.2025 | Last Seen: 11.11.2025*
 
-- a) mohou provádět i vpravo
-- b) musí provádět vpravo
-- c) mohou provádět vpravo
+- a) G
+- b) E
+- c) D
 
 ---
 
@@ -487,6 +487,24 @@ Total unique questions: **322**
 - a) 7000 m MSL
 - b) 5500 m MSL
 - c) 3000 m MSL
+
+---
+
+### Údržba letadla je:
+*Points: 1 | Count: 14 | First Seen: 06.04.2025 | Last Seen: 11.11.2025*
+
+- a) souhrn činností zajišťující pevnost letadla systémem prohlídek, ošetření a oprav
+- b) souhrn činností zajišťujících zachování způsobilosti k leteckému provozu systémem prohlídek, ošetření a oprav
+- c) souhrn činností zajišťujících čistotu všech částí letadla
+
+---
+
+### Je-li na návěstní ploše nebo na konci vzletové a přistávací dráhy a nebo na pásu v používání horizontálně umístěn doprava lomený šíp nápadné barvy, znamená to, že zatáčky před přistáním nebo po vzletu se:
+*Points: 1 | Count: 1 | First Seen: 11.11.2025 | Last Seen: 11.11.2025*
+
+- a) mohou provádět i vpravo
+- b) musí provádět vpravo
+- c) mohou provádět vpravo
 
 ---
 
@@ -500,29 +518,11 @@ Total unique questions: **322**
 ---
 
 ### Zeměkoule je:
-*Points: 1 | Count: 11 | First Seen: 19.04.2025 | Last Seen: 11.11.2025*
+*Points: 1 | Count: 12 | First Seen: 11.04.2025 | Last Seen: 11.11.2025*
 
 - a) síť souřadnicových čar
 - b) ideální koule
 - c) rotační elipsoid na pólech zploštělý
-
----
-
-### Vzdušný prostor TRA GA je třídy:
-*Points: 1 | Count: 1 | First Seen: 11.11.2025 | Last Seen: 11.11.2025*
-
-- a) G
-- b) E
-- c) D
-
----
-
-### Údržba letadla je:
-*Points: 1 | Count: 11 | First Seen: 19.04.2025 | Last Seen: 11.11.2025*
-
-- a) souhrn činností zajišťující pevnost letadla systémem prohlídek, ošetření a oprav
-- b) souhrn činností zajišťujících zachování způsobilosti k leteckému provozu systémem prohlídek, ošetření a oprav
-- c) souhrn činností zajišťujících čistotu všech částí letadla
 
 ---
 
@@ -535,35 +535,8 @@ Total unique questions: **322**
 
 ---
 
-### Zeměpisné souřadnice nám udávají:
-*Points: 3 | Count: 5 | First Seen: 20.04.2025 | Last Seen: 03.06.2025*
-
-- a) název určitého místa
-- b) zeměpisnou polohu určitého místa
-- c) polohu časového pásma
-
----
-
-### Co znamená zkratka CTR?
-*Points: 3 | Count: 3 | First Seen: 25.04.2025 | Last Seen: 03.06.2025*
-
-- a) řízený okrsek letiště
-- b) prostor, kde není možné provádět lety VFR
-- c) koncová řízená oblast
-
----
-
-### Vyšlápnutím pravého pedálu směrového řízení:
-*Points: 3 | Count: 7 | First Seen: 19.04.2025 | Last Seen: 03.06.2025*
-
-- a) se vychýlí směrové kormidlo doprava, letadlo zatočí doleva
-- b) se vychýlí směrové kormidlo doleva, letadlo zatočí doprava
-- c) se vychýlí směrové kormidlo doprava, letadlo zatočí doprava
-
----
-
 ### Velikost násobku zatížení pilot nejvíc ovlivní:
-*Points: 3 | Count: 7 | First Seen: 19.04.2025 | Last Seen: 03.06.2025*
+*Points: 3 | Count: 8 | First Seen: 06.04.2025 | Last Seen: 03.06.2025*
 
 - a) prudkým vyvážením „těžký na ocas“
 - b) rychlým zásahem do podélného řízení
@@ -571,30 +544,12 @@ Total unique questions: **322**
 
 ---
 
-### Zeměpisný sever a jih:
-*Points: 3 | Count: 6 | First Seen: 19.04.2025 | Last Seen: 03.06.2025*
+### Zeměpisné souřadnice nám udávají:
+*Points: 3 | Count: 8 | First Seen: 06.04.2025 | Last Seen: 03.06.2025*
 
-- a) nemění polohu
-- b) mění se v závislosti na roční době
-- c) působí na něj magnetismus země
-
----
-
-### Letadlo má v letové příručce a na štítku v kabině uvedenou max. vzletovou hmotnost 420 kg:
-*Points: 3 | Count: 4 | First Seen: 20.04.2025 | Last Seen: 03.06.2025*
-
-- a) pro vzlet musí být dodržena hmotnost 420 kg
-- b) maimální vzletová hmotnost je 450 kg dle leteckého zákona.
-- c) pro vzlet musí být dodržena hmotnost 420 kg. Tato hmotnost může být překročena o hmotnost záchranného systému která se do ma. vzletové hmotnosti nezapočitává.
-
----
-
-### Lety VFR ve třídách vzdušného prostoru C, D a E se smějí provádět ve vzdálenosti od oblaků:
-*Points: 3 | Count: 4 | First Seen: 02.05.2025 | Last Seen: 03.06.2025*
-
-- a) do oblaku smí vletět pouze pilot, který první dosáhne základny
-- b) nejméně 1500 m horizontálně a 300 m vertikálně
-- c) vně oblaků a za viditelnosti země
+- a) název určitého místa
+- b) zeměpisnou polohu určitého místa
+- c) polohu časového pásma
 
 ---
 
@@ -607,57 +562,12 @@ Total unique questions: **322**
 
 ---
 
-### Průměrná spotřeba = 21 l/h, doba letu 2°10‘:
-*Points: 3 | Count: 2 | First Seen: 25.04.2025 | Last Seen: 03.06.2025*
+### Úhel nastavení za letu stavitelné vrtule v cestovním režimu letu je:
+*Points: 3 | Count: 3 | First Seen: 11.04.2025 | Last Seen: 03.06.2025*
 
-- a) spotřebujete 45,5 l
-- b) spotřebujete 52 l
-- c) spotřebujete 42 l
-
----
-
-### Musí být na palubě SLZ při provádění výcviku vzletu a přistání platný technický průkaz?
-*Points: 3 | Count: 5 | First Seen: 19.04.2025 | Last Seen: 03.06.2025*
-
-- a) ne
-- b) podle rozhodnutí pilota
-- c) ano
-
----
-
-### Klouzavost vůči zemi se:
-*Points: 3 | Count: 5 | First Seen: 18.04.2025 | Last Seen: 03.06.2025*
-
-- a) změní, fouká-li vítr
-- b) změní při změně hmotnosti
-- c) fouká-li vítr nezmění, protože efektivní nosná plocha zůstává stejná
-
----
-
-### V okamžiku vlétnutí do klesavého proudu se úhel náběhu:
-*Points: 3 | Count: 3 | First Seen: 27.04.2025 | Last Seen: 03.06.2025*
-
-- a) zvětší
-- b) nezmění
-- c) zmenší
-
----
-
-### Kde začíná na profilu odtrhávání proudu?
-*Points: 3 | Count: 4 | First Seen: 19.04.2025 | Last Seen: 03.06.2025*
-
-- a) v úplavu na sací straně profilu u náběžné hrany
-- b) v mezní vrstvě na sací straně profilu od odtokové hrany
-- c) v mezní vrstvě na sací straně profilu u náběžné hrany
-
----
-
-### Z vertikálně vyvinutých oblaků typu Cb - cumulonimbus vypadávají převážně srážky ve formě:
-*Points: 3 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 03.06.2025*
-
-- a) déšť a kroupy
-- b) slabý dešť
-- c) mrholení
+- a) stejný jako při vzletu
+- b) menší než při vzletu
+- c) větší než při vzletu
 
 ---
 
@@ -670,12 +580,84 @@ Total unique questions: **322**
 
 ---
 
-### Úhel nastavení za letu stavitelné vrtule v cestovním režimu letu je:
-*Points: 3 | Count: 2 | First Seen: 13.05.2025 | Last Seen: 03.06.2025*
+### V okamžiku vlétnutí do klesavého proudu se úhel náběhu:
+*Points: 3 | Count: 5 | First Seen: 28.03.2025 | Last Seen: 03.06.2025*
 
-- a) stejný jako při vzletu
-- b) menší než při vzletu
-- c) větší než při vzletu
+- a) zvětší
+- b) nezmění
+- c) zmenší
+
+---
+
+### Klouzavost vůči zemi se:
+*Points: 3 | Count: 7 | First Seen: 06.04.2025 | Last Seen: 03.06.2025*
+
+- a) změní, fouká-li vítr
+- b) změní při změně hmotnosti
+- c) fouká-li vítr nezmění, protože efektivní nosná plocha zůstává stejná
+
+---
+
+### Musí být na palubě SLZ při provádění výcviku vzletu a přistání platný technický průkaz?
+*Points: 3 | Count: 5 | First Seen: 19.04.2025 | Last Seen: 03.06.2025*
+
+- a) ne
+- b) podle rozhodnutí pilota
+- c) ano
+
+---
+
+### Letadlo má v letové příručce a na štítku v kabině uvedenou max. vzletovou hmotnost 420 kg:
+*Points: 3 | Count: 6 | First Seen: 06.04.2025 | Last Seen: 03.06.2025*
+
+- a) pro vzlet musí být dodržena hmotnost 420 kg
+- b) maimální vzletová hmotnost je 450 kg dle leteckého zákona.
+- c) pro vzlet musí být dodržena hmotnost 420 kg. Tato hmotnost může být překročena o hmotnost záchranného systému která se do ma. vzletové hmotnosti nezapočitává.
+
+---
+
+### Kde začíná na profilu odtrhávání proudu?
+*Points: 3 | Count: 5 | First Seen: 06.04.2025 | Last Seen: 03.06.2025*
+
+- a) v úplavu na sací straně profilu u náběžné hrany
+- b) v mezní vrstvě na sací straně profilu od odtokové hrany
+- c) v mezní vrstvě na sací straně profilu u náběžné hrany
+
+---
+
+### Z vertikálně vyvinutých oblaků typu Cb - cumulonimbus vypadávají převážně srážky ve formě:
+*Points: 3 | Count: 3 | First Seen: 06.04.2025 | Last Seen: 03.06.2025*
+
+- a) déšť a kroupy
+- b) slabý dešť
+- c) mrholení
+
+---
+
+### Zeměpisný sever a jih:
+*Points: 3 | Count: 6 | First Seen: 19.04.2025 | Last Seen: 03.06.2025*
+
+- a) nemění polohu
+- b) mění se v závislosti na roční době
+- c) působí na něj magnetismus země
+
+---
+
+### Průměrná spotřeba = 21 l/h, doba letu 2°10‘:
+*Points: 3 | Count: 3 | First Seen: 11.04.2025 | Last Seen: 03.06.2025*
+
+- a) spotřebujete 45,5 l
+- b) spotřebujete 52 l
+- c) spotřebujete 42 l
+
+---
+
+### Co znamená zkratka CTR?
+*Points: 3 | Count: 4 | First Seen: 06.04.2025 | Last Seen: 03.06.2025*
+
+- a) řízený okrsek letiště
+- b) prostor, kde není možné provádět lety VFR
+- c) koncová řízená oblast
 
 ---
 
@@ -688,12 +670,48 @@ Total unique questions: **322**
 
 ---
 
+### Lety VFR ve třídách vzdušného prostoru C, D a E se smějí provádět ve vzdálenosti od oblaků:
+*Points: 3 | Count: 4 | First Seen: 02.05.2025 | Last Seen: 03.06.2025*
+
+- a) do oblaku smí vletět pouze pilot, který první dosáhne základny
+- b) nejméně 1500 m horizontálně a 300 m vertikálně
+- c) vně oblaků a za viditelnosti země
+
+---
+
+### Vyšlápnutím pravého pedálu směrového řízení:
+*Points: 3 | Count: 10 | First Seen: 28.03.2025 | Last Seen: 03.06.2025*
+
+- a) se vychýlí směrové kormidlo doprava, letadlo zatočí doleva
+- b) se vychýlí směrové kormidlo doleva, letadlo zatočí doprava
+- c) se vychýlí směrové kormidlo doprava, letadlo zatočí doprava
+
+---
+
 ### Jaká je maximální vzletová hmotnost u dvoumístného SLZ bez integrovaného záchranného systému:
-*Points: 3 | Count: 3 | First Seen: 07.04.2025 | Last Seen: 03.06.2025*
+*Points: 3 | Count: 4 | First Seen: 06.04.2025 | Last Seen: 03.06.2025*
 
 - a) 480 kg
 - b) 400 kg
 - c) 450 kg
+
+---
+
+### Počáteční fáze bouřky je charakterizována:
+*Points: 1 | Count: 2 | First Seen: 18.04.2025 | Last Seen: 03.06.2025*
+
+- a) Trvalými vzestupnými proudy
+- b) Častými blesky
+- c) Začínajícím deštěm na povrchu země
+
+---
+
+### Velká kružnice je:
+*Points: 1 | Count: 3 | First Seen: 28.03.2025 | Last Seen: 03.06.2025*
+
+- a) kružnice jejíž rovina prochází středem zeměkoule
+- b) pouze rovník a nultý poledník
+- c) největší kružnice na zeměkouli
 
 ---
 
@@ -703,15 +721,6 @@ Total unique questions: **322**
 - a) 60.0
 - b) 45.0
 - c) 30.0
-
----
-
-### Velká kružnice je:
-*Points: 1 | Count: 2 | First Seen: 28.05.2025 | Last Seen: 03.06.2025*
-
-- a) kružnice jejíž rovina prochází středem zeměkoule
-- b) pouze rovník a nultý poledník
-- c) největší kružnice na zeměkouli
 
 ---
 
@@ -733,12 +742,12 @@ Total unique questions: **322**
 
 ---
 
-### Počáteční fáze bouřky je charakterizována:
-*Points: 1 | Count: 2 | First Seen: 18.04.2025 | Last Seen: 03.06.2025*
+### V klouzavém ustáleném letu je rovnováha mezi:
+*Points: 0 | Count: 3 | First Seen: 11.04.2025 | Last Seen: 03.06.2025*
 
-- a) Trvalými vzestupnými proudy
-- b) Častými blesky
-- c) Začínajícím deštěm na povrchu země
+- a) tíhou letadla a výslednou aerodynamiclou silou,
+- b) tíhovou silou, vztlakem a rychlostí
+- c) tíhou letadla a vztlakem
 
 ---
 
@@ -751,30 +760,12 @@ Total unique questions: **322**
 
 ---
 
-### V klouzavém ustáleném letu je rovnováha mezi:
-*Points: 0 | Count: 2 | First Seen: 07.05.2025 | Last Seen: 03.06.2025*
+### Hustota vzduchu:
+*Points: 3 | Count: 7 | First Seen: 28.03.2025 | Last Seen: 28.05.2025*
 
-- a) tíhou letadla a výslednou aerodynamiclou silou,
-- b) tíhovou silou, vztlakem a rychlostí
-- c) tíhou letadla a vztlakem
-
----
-
-### Je-li dáván příkaz letadlu na zemi orgánem letištní služby řízení světelným návěstím, potom stálé červené světlo znamená:
-*Points: 3 | Count: 5 | First Seen: 24.04.2025 | Last Seen: 28.05.2025*
-
-- a) stůjte
-- b) vraťte se na místo odkud jste vyjel
-- c) opusťte přistávací plochu
-
----
-
-### Na návěst zakročujícího letadla „Jste narušitel, následujte mě" (kývání letadlem a záblesky navigačních světel v nepravidelných intervalech prováděné v poloze mírně nad a před letadlem a zpravidla vlevo od narušitele) odpovídá narušitel:
-*Points: 3 | Count: 4 | First Seen: 18.04.2025 | Last Seen: 28.05.2025*
-
-- a) kýváním letadlem a záblesky navigačních světel v nepravidelných intervalech a následováním zakročujícího letadla
-- b) kýváním letadlem a točením na druhou stranu než zakročující letadlo, které zatáčí směrem do středu zakázaného prostoru
-- c) pohybováním křidélek a směrového kormidla
+- a) roste s rostoucí teplotou
+- b) roste s klesající teplotou vzduchu
+- c) snižuje se s klesající teplotou
 
 ---
 
@@ -787,6 +778,15 @@ Total unique questions: **322**
 
 ---
 
+### Na návěst zakročujícího letadla „Jste narušitel, následujte mě" (kývání letadlem a záblesky navigačních světel v nepravidelných intervalech prováděné v poloze mírně nad a před letadlem a zpravidla vlevo od narušitele) odpovídá narušitel:
+*Points: 3 | Count: 4 | First Seen: 18.04.2025 | Last Seen: 28.05.2025*
+
+- a) kýváním letadlem a záblesky navigačních světel v nepravidelných intervalech a následováním zakročujícího letadla
+- b) kýváním letadlem a točením na druhou stranu než zakročující letadlo, které zatáčí směrem do středu zakázaného prostoru
+- c) pohybováním křidélek a směrového kormidla
+
+---
+
 ### Kurz měříme od severu ve stupních:
 *Points: 3 | Count: 5 | First Seen: 18.04.2025 | Last Seen: 28.05.2025*
 
@@ -796,17 +796,8 @@ Total unique questions: **322**
 
 ---
 
-### Hustota vzduchu:
-*Points: 3 | Count: 5 | First Seen: 19.04.2025 | Last Seen: 28.05.2025*
-
-- a) roste s rostoucí teplotou
-- b) roste s klesající teplotou vzduchu
-- c) snižuje se s klesající teplotou
-
----
-
 ### Musí být na palubě letadla při všech letech doklad o pojištění zákonné odpovědnosti?
-*Points: 3 | Count: 5 | First Seen: 20.04.2025 | Last Seen: 28.05.2025*
+*Points: 3 | Count: 7 | First Seen: 28.03.2025 | Last Seen: 28.05.2025*
 
 - a) ano
 - b) ne při letištním letu
@@ -814,8 +805,26 @@ Total unique questions: **322**
 
 ---
 
+### Které faktory společně nejvíce prodlužují délku vzletu:
+*Points: 3 | Count: 17 | First Seen: 28.03.2025 | Last Seen: 28.05.2025*
+
+- a) vyšší letová hmotnost, nižší teplota ovzduší, přistávací dráha proti svahu, vítr do zad
+- b) vyšší letová hmotnost, vyšší teplota ovzduší, vzletová dráha proti svahu, vítr do zad
+- c) nižší letová hmotnost, vyšší teplota ovzduší, přistávací dráha proti svahu, vítr do zad
+
+---
+
+### Je-li dáván příkaz letadlu na zemi orgánem letištní služby řízení světelným návěstím, potom stálé červené světlo znamená:
+*Points: 3 | Count: 5 | First Seen: 24.04.2025 | Last Seen: 28.05.2025*
+
+- a) stůjte
+- b) vraťte se na místo odkud jste vyjel
+- c) opusťte přistávací plochu
+
+---
+
 ### Při kritickém úhlu náběhu:
-*Points: 3 | Count: 9 | First Seen: 19.04.2025 | Last Seen: 28.05.2025*
+*Points: 3 | Count: 10 | First Seen: 11.04.2025 | Last Seen: 28.05.2025*
 
 - a) dochází k prudkému nárůstu součinitele vztlaku
 - b) dosahuje součinitel vztlaku maimální hodnoty, při dalším zvyšování úhlu náběhu prudce klesá
@@ -832,12 +841,30 @@ Total unique questions: **322**
 
 ---
 
-### Které faktory společně nejvíce prodlužují délku vzletu:
-*Points: 3 | Count: 15 | First Seen: 19.04.2025 | Last Seen: 28.05.2025*
+### Ke vzletům a přistáním při nepravidelném provozu motorových SLZ může být použita
+*Points: 1 | Count: 4 | First Seen: 19.04.2025 | Last Seen: 28.05.2025*
 
-- a) vyšší letová hmotnost, nižší teplota ovzduší, přistávací dráha proti svahu, vítr do zad
-- b) vyšší letová hmotnost, vyšší teplota ovzduší, vzletová dráha proti svahu, vítr do zad
-- c) nižší letová hmotnost, vyšší teplota ovzduší, přistávací dráha proti svahu, vítr do zad
+- a) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 100 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 50 m od SLZ osoby nezúčastněné na provozu
+- b) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 300 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 100 m od SLZ osoby nezúčastněné na provozu
+- c) plocha ležící mimo území národního parku, chráněné krajinné oblasti, národní přírodní rezervace, přírodní rezervace, národní přírodní památky a přírodní památky a nejméně 300 m od obytných budov
+
+---
+
+### Za vykonávání činnosti leteckého personálu bez platného průkazu způsobilosti může být pilotovi SLZ:
+*Points: 1 | Count: 2 | First Seen: 11.04.2025 | Last Seen: 28.05.2025*
+
+- a) uložena pokuta až do výše 500.000,-- Kč
+- b) uložena pokuta až do výše 5.000,- Kč
+- c) nemůže být uložena žádná sankce
+
+---
+
+### Horizontální "bílá činka" s černými pruhy kolmo k podélné ose na obou kruhových koncích činky vyložená v signální (návěstní) ploše znamená?
+*Points: 1 | Count: 5 | First Seen: 19.04.2025 | Last Seen: 28.05.2025*
+
+- a) že letadla mohou vzlétat a přistávat podle meteorologické situace vždy proti větru
+- b) že letadla mohou vzlétat a přistávat jen na VPD, jiné pohyby nemusí být omezeny jen na VPD a pojedové dráhy
+- c) že letadla mohou vzlétat a přistávat i mimo VPD, rovněž i jiné pohyby nemusí být omezeny jen na pojedové dráhy
 
 ---
 
@@ -851,47 +878,11 @@ Total unique questions: **322**
 ---
 
 ### Dlouhodobé působení paliva kompozitovou konstrukci
-*Points: 1 | Count: 4 | First Seen: 07.04.2025 | Last Seen: 28.05.2025*
+*Points: 1 | Count: 5 | First Seen: 06.04.2025 | Last Seen: 28.05.2025*
 
 - a) snižuje pouze stabilitu skořepiny
 - b) nedegraduje vůbec
 - c) pevnostně degraduje
-
----
-
-### Horizontální "bílá činka" s černými pruhy kolmo k podélné ose na obou kruhových koncích činky vyložená v signální (návěstní) ploše znamená?
-*Points: 1 | Count: 5 | First Seen: 19.04.2025 | Last Seen: 28.05.2025*
-
-- a) že letadla mohou vzlétat a přistávat podle meteorologické situace vždy proti větru
-- b) že letadla mohou vzlétat a přistávat jen na VPD, jiné pohyby nemusí být omezeny jen na VPD a pojedové dráhy
-- c) že letadla mohou vzlétat a přistávat i mimo VPD, rovněž i jiné pohyby nemusí být omezeny jen na pojedové dráhy
-
----
-
-### Ke vzletům a přistáním při nepravidelném provozu motorových SLZ může být použita
-*Points: 1 | Count: 4 | First Seen: 19.04.2025 | Last Seen: 28.05.2025*
-
-- a) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 100 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 50 m od SLZ osoby nezúčastněné na provozu
-- b) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 300 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 100 m od SLZ osoby nezúčastněné na provozu
-- c) plocha ležící mimo území národního parku, chráněné krajinné oblasti, národní přírodní rezervace, přírodní rezervace, národní přírodní památky a přírodní památky a nejméně 300 m od obytných budov
-
----
-
-### Za vykonávání činnosti leteckého personálu bez platného průkazu způsobilosti může být pilotovi SLZ:
-*Points: 0 | Count: 1 | First Seen: 28.05.2025 | Last Seen: 28.05.2025*
-
-- a) uložena pokuta až do výše 500.000,-- Kč
-- b) uložena pokuta až do výše 5.000,- Kč
-- c) nemůže být uložena žádná sankce
-
----
-
-### Létat nad shromážděním osob v takové výšce, která by nedovolila v případě vzniklého nebezpečí přistát bez ohrožení pilota či osob na zemi je:
-*Points: 0 | Count: 2 | First Seen: 25.04.2025 | Last Seen: 28.05.2025*
-
-- a) zakázáno
-- b) povoleno
-- c) možné pouze na veřejném leteckém vystoupení s vydaným platným oprávněním
 
 ---
 
@@ -904,44 +895,8 @@ Total unique questions: **322**
 
 ---
 
-### Které druhy oblaků jsou typické pro oblačný systém teplé fronty:
-*Points: 0 | Count: 1 | First Seen: 28.05.2025 | Last Seen: 28.05.2025*
-
-- a) Sc – stratocumulus, Ac – altocumulus, Cc – cirocumulus
-- b) Cu – cumulus, Ac – altocumulus, Cb – cumulonimbus
-- c) Ns – nimbostratus, As – altostratus, Cs – cirostratus
-
----
-
-### Pohyb letadla, při kterém se otáčí kolem své svislé (kolmé) osy se nazývá:
-*Points: 0 | Count: 2 | First Seen: 17.05.2025 | Last Seen: 28.05.2025*
-
-- a) zatáčení
-- b) klopení
-- c) klonění
-
----
-
-### Násobek zatížení udává:
-*Points: 0 | Count: 3 | First Seen: 19.04.2025 | Last Seen: 28.05.2025*
-
-- a) kolikrát je v daném okamžiku letu vztlak větší než tíha
-- b) o kolik je v daném okamžiku vztlak větší než vztlak, jaký má při stejné rychlosti v ustáleném klouzavém letu
-- c) o kolik je plošné zatížení větší než horní hranice povoleného rozpětí plošného zatížení
-
----
-
-### Který z následujících druhů oblačnosti je považován za střední oblačnost v mírném pásu?
-*Points: 0 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 28.05.2025*
-
-- a) Ns, Ci
-- b) As, Ac
-- c) St, Sc
-
----
-
 ### Maximální provozní zatížení letadlové konstrukce nebo její části je:
-*Points: 0 | Count: 1 | First Seen: 28.05.2025 | Last Seen: 28.05.2025*
+*Points: 0 | Count: 2 | First Seen: 06.04.2025 | Last Seen: 28.05.2025*
 
 - a) početní zatížení násobené požadovaným součinitelem bezpečnosti
 - b) zatížení používané při pevnostním průkazu jako maimální hodnota, která se u letadla za provozu může vyskytnout
@@ -958,12 +913,66 @@ Total unique questions: **322**
 
 ---
 
-### Násobek zatížení letadla je:
-*Points: 3 | Count: 8 | First Seen: 18.04.2025 | Last Seen: 25.05.2025*
+### Létat nad shromážděním osob v takové výšce, která by nedovolila v případě vzniklého nebezpečí přistát bez ohrožení pilota či osob na zemi je:
+*Points: 0 | Count: 2 | First Seen: 25.04.2025 | Last Seen: 28.05.2025*
 
-- a) poměr vztlaku a odporu na letadle
-- b) poměr výsledné aerodynamické síly ku velikosti tíhy letadla
-- c) poměr statického a dynamického zatížení na letadle
+- a) zakázáno
+- b) povoleno
+- c) možné pouze na veřejném leteckém vystoupení s vydaným platným oprávněním
+
+---
+
+### Násobek zatížení udává:
+*Points: 0 | Count: 3 | First Seen: 19.04.2025 | Last Seen: 28.05.2025*
+
+- a) kolikrát je v daném okamžiku letu vztlak větší než tíha
+- b) o kolik je v daném okamžiku vztlak větší než vztlak, jaký má při stejné rychlosti v ustáleném klouzavém letu
+- c) o kolik je plošné zatížení větší než horní hranice povoleného rozpětí plošného zatížení
+
+---
+
+### Pohyb letadla, při kterém se otáčí kolem své svislé (kolmé) osy se nazývá:
+*Points: 0 | Count: 2 | First Seen: 17.05.2025 | Last Seen: 28.05.2025*
+
+- a) zatáčení
+- b) klopení
+- c) klonění
+
+---
+
+### Který z následujících druhů oblačnosti je považován za střední oblačnost v mírném pásu?
+*Points: 0 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 28.05.2025*
+
+- a) Ns, Ci
+- b) As, Ac
+- c) St, Sc
+
+---
+
+### Které druhy oblaků jsou typické pro oblačný systém teplé fronty:
+*Points: 0 | Count: 1 | First Seen: 28.05.2025 | Last Seen: 28.05.2025*
+
+- a) Sc – stratocumulus, Ac – altocumulus, Cc – cirocumulus
+- b) Cu – cumulus, Ac – altocumulus, Cb – cumulonimbus
+- c) Ns – nimbostratus, As – altostratus, Cs – cirostratus
+
+---
+
+### Jaká je maximální vzletová hmotnost u jednomístného SLZ bez integrovaného záchranného systému:
+*Points: 3 | Count: 2 | First Seen: 06.04.2025 | Last Seen: 25.05.2025*
+
+- a) 280 kg
+- b) 300 kg
+- c) 450 kg
+
+---
+
+### Středovým poledníkem nultého časového pásma je:
+*Points: 3 | Count: 3 | First Seen: 11.04.2025 | Last Seen: 25.05.2025*
+
+- a) poledník, procházející hvězdárnou v Greenwich v Anglii
+- b) poledník procházející severním zeměpisným pólem
+- c) poledník, procházející městem Oford v Anglii
 
 ---
 
@@ -976,57 +985,12 @@ Total unique questions: **322**
 
 ---
 
-### Reduktor slouží (mimo jiné)?
-*Points: 3 | Count: 1 | First Seen: 25.05.2025 | Last Seen: 25.05.2025*
-
-- a) ke snížení otáček vrtule oproti motoru
-- b) ke správnému nastavení listů vrtule a tím k jejímu správnému aerodynamickému vyvážení
-- c) ke zvýšení otáček vrtule oproti motoru
-
----
-
-### Letadlo mající přednost musí udržovat svůj kurs a rychlost:
-*Points: 3 | Count: 1 | First Seen: 25.05.2025 | Last Seen: 25.05.2025*
-
-- a) nesmí měnit kurz, rychlost však ano
-- b) tyto podmínky nesmí měnit
-- c) toto pravidlo však nezbavuje velitele letadla odpovědnosti provést takové opatření, které nejlépe zabrání srážce
-
----
-
 ### Základní příčinou vzniku oblačnosti v atmosféře je:
 *Points: 3 | Count: 1 | First Seen: 25.05.2025 | Last Seen: 25.05.2025*
 
 - a) dosažení stavu nasycení
 - b) dosažení stavu nasycení s následnou kondenzací vodních par
 - c) pokles teploty vzduchu s výškou
-
----
-
-### 10 cm na mapě 1 : 200 000 odpovídá ve skutečnosti:
-*Points: 3 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 25.05.2025*
-
-- a) 20 km
-- b) 50 km
-- c) 200 km
-
----
-
-### Ověřovat zda je technický průkaz SLZ platný je povinností:
-*Points: 3 | Count: 3 | First Seen: 18.04.2025 | Last Seen: 25.05.2025*
-
-- a) vedoucího letového provozu
-- b) velitele SLZ (pilota)
-- c) provozovatele
-
----
-
-### Středovým poledníkem nultého časového pásma je:
-*Points: 3 | Count: 2 | First Seen: 13.05.2025 | Last Seen: 25.05.2025*
-
-- a) poledník, procházející hvězdárnou v Greenwich v Anglii
-- b) poledník procházející severním zeměpisným pólem
-- c) poledník, procházející městem Oford v Anglii
 
 ---
 
@@ -1039,21 +1003,66 @@ Total unique questions: **322**
 
 ---
 
+### Letadlo mající přednost musí udržovat svůj kurs a rychlost:
+*Points: 3 | Count: 2 | First Seen: 28.03.2025 | Last Seen: 25.05.2025*
+
+- a) nesmí měnit kurz, rychlost však ano
+- b) tyto podmínky nesmí měnit
+- c) toto pravidlo však nezbavuje velitele letadla odpovědnosti provést takové opatření, které nejlépe zabrání srážce
+
+---
+
+### Ověřovat zda je technický průkaz SLZ platný je povinností:
+*Points: 3 | Count: 3 | First Seen: 18.04.2025 | Last Seen: 25.05.2025*
+
+- a) vedoucího letového provozu
+- b) velitele SLZ (pilota)
+- c) provozovatele
+
+---
+
+### Násobek zatížení letadla je:
+*Points: 3 | Count: 8 | First Seen: 18.04.2025 | Last Seen: 25.05.2025*
+
+- a) poměr vztlaku a odporu na letadle
+- b) poměr výsledné aerodynamické síly ku velikosti tíhy letadla
+- c) poměr statického a dynamického zatížení na letadle
+
+---
+
+### Zobrazit zemský povrch v rovině bez zkreslení:
+*Points: 3 | Count: 3 | First Seen: 06.04.2025 | Last Seen: 25.05.2025*
+
+- a) není možné
+- b) jen na mapě plochojevné
+- c) je možné
+
+---
+
+### 10 cm na mapě 1 : 200 000 odpovídá ve skutečnosti:
+*Points: 3 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 25.05.2025*
+
+- a) 20 km
+- b) 50 km
+- c) 200 km
+
+---
+
+### Reduktor slouží (mimo jiné)?
+*Points: 3 | Count: 1 | First Seen: 25.05.2025 | Last Seen: 25.05.2025*
+
+- a) ke snížení otáček vrtule oproti motoru
+- b) ke správnému nastavení listů vrtule a tím k jejímu správnému aerodynamickému vyvážení
+- c) ke zvýšení otáček vrtule oproti motoru
+
+---
+
 ### Vzduchovou hmotou nazýváme instabilní, pokud v ní dochází k:
 *Points: 3 | Count: 2 | First Seen: 04.05.2025 | Last Seen: 25.05.2025*
 
 - a) tvorbě vrstevnaté oblačnosti
 - b) konvektivním vertikálním pohybům
 - c) inverzím
-
----
-
-### Studená fronta postupuje rychleji než teplá, postupně se při zemi zužuje teplý sektor a teplý vzduch z této oblasti je vytlačován do vyšších vrstev. Tento proces se nazývá:
-*Points: 1 | Count: 1 | First Seen: 25.05.2025 | Last Seen: 25.05.2025*
-
-- a) vyplňování cyklony
-- b) zánik cyklony
-- c) okluze
 
 ---
 
@@ -1066,21 +1075,12 @@ Total unique questions: **322**
 
 ---
 
-### Horizontální červená čtvercová deska se žlutými úhlopříčkami vyložená v signální (návěstní) ploše znamená:
-*Points: 1 | Count: 3 | First Seen: 24.04.2025 | Last Seen: 25.05.2025*
-
-- a) nebezpečí při přistání
-- b) že přistání na dotyčném letišti je zakázáno a zákaz se pravděpodobně prodlouží
-- c) nezpůsobilost provozní plochy
-
----
-
-### Štíhlost křídla:
+### Studená fronta postupuje rychleji než teplá, postupně se při zemi zužuje teplý sektor a teplý vzduch z této oblasti je vytlačován do vyšších vrstev. Tento proces se nazývá:
 *Points: 1 | Count: 1 | First Seen: 25.05.2025 | Last Seen: 25.05.2025*
 
-- a) udává vztah mezi hloubkou a tloušťkou profilu
-- b) udává vztah mezi rozpětím a tloušťkou profilu
-- c) udává vztah mezi druhou mocninou rozpětí a plochou křídla
+- a) vyplňování cyklony
+- b) zánik cyklony
+- c) okluze
 
 ---
 
@@ -1093,21 +1093,39 @@ Total unique questions: **322**
 
 ---
 
+### Horizontální červená čtvercová deska se žlutými úhlopříčkami vyložená v signální (návěstní) ploše znamená:
+*Points: 1 | Count: 3 | First Seen: 24.04.2025 | Last Seen: 25.05.2025*
+
+- a) nebezpečí při přistání
+- b) že přistání na dotyčném letišti je zakázáno a zákaz se pravděpodobně prodlouží
+- c) nezpůsobilost provozní plochy
+
+---
+
+### Technický průkaz SLZ platí na dobu:
+*Points: 1 | Count: 4 | First Seen: 28.03.2025 | Last Seen: 25.05.2025*
+
+- a) neomezenou
+- b) maimálně 2 roky
+- c) maimálně na dobu 5ti let
+
+---
+
+### Štíhlost křídla:
+*Points: 1 | Count: 1 | First Seen: 25.05.2025 | Last Seen: 25.05.2025*
+
+- a) udává vztah mezi hloubkou a tloušťkou profilu
+- b) udává vztah mezi rozpětím a tloušťkou profilu
+- c) udává vztah mezi druhou mocninou rozpětí a plochou křídla
+
+---
+
 ### Je-li v signální (návěstní) ploše nebo na konci vzletové a přistávací dráhy a nebo na pásu v používání horizontálně umístěn doprava lomený šíp nápadné barvy, znamená to, že zatáčky před přistáním nebo po vzletu se:
 *Points: 1 | Count: 1 | First Seen: 25.05.2025 | Last Seen: 25.05.2025*
 
 - a) mohou provádět vpravo
 - b) musí provádět vpravo
 - c) mohou provádět i vpravo
-
----
-
-### Technický průkaz SLZ platí na dobu:
-*Points: 1 | Count: 2 | First Seen: 25.04.2025 | Last Seen: 25.05.2025*
-
-- a) neomezenou
-- b) maimálně 2 roky
-- c) maimálně na dobu 5ti let
 
 ---
 
@@ -1120,39 +1138,12 @@ Total unique questions: **322**
 
 ---
 
-### Zobrazit zemský povrch v rovině bez zkreslení:
-*Points: 0 | Count: 2 | First Seen: 22.05.2025 | Last Seen: 25.05.2025*
-
-- a) není možné
-- b) jen na mapě plochojevné
-- c) je možné
-
----
-
-### Jaká je maximální vzletová hmotnost u jednomístného SLZ bez integrovaného záchranného systému:
-*Points: 0 | Count: 1 | First Seen: 25.05.2025 | Last Seen: 25.05.2025*
-
-- a) 280 kg
-- b) 300 kg
-- c) 450 kg
-
----
-
 ### Ke vzletům a přistáním při nepravidelném provozu motorových SLZ může být použito
 *Points: 0 | Count: 2 | First Seen: 13.05.2025 | Last Seen: 25.05.2025*
 
 - a) plochy trvale užívané ke vzletům a přistáním letadel a vymezené k tomuto účelu v územně plánovací dokumentaci nebo v územním rozhodnutí, za předpokladu souhlasu vlastníka nebo provozovatele plochy a obce, na jejímž území se plocha nalézá
 - b) plochy vymezené k tomuto účelu v územně plánovací dokumentaci nebo v územním rozhodnutí
 - c) jakékoliv plochy, vyslovil-li s využíváním plochy k tomuto účelu souhlas vlastník plochy, při splnění ostatních podmínek
-
----
-
-### Úhel snosu je:
-*Points: 3 | Count: 2 | First Seen: 18.04.2025 | Last Seen: 22.05.2025*
-
-- a) úhel mezi podélnou osou letadla a tratí letěnou
-- b) úhlový rozdíl mezi severem zeměpisným a magnetickým
-- c) rozdíl ve stupních mezi Kz a směrem větru
 
 ---
 
@@ -1165,30 +1156,12 @@ Total unique questions: **322**
 
 ---
 
-### Spirála je letový režim, při kterém:
-*Points: 3 | Count: 8 | First Seen: 07.04.2025 | Last Seen: 22.05.2025*
-
-- a) dochází k odtržení proudění na straně křídla uvnitř zatáčky
-- b) nedochází k odtržení proudění
-- c) dochází k odtržení proudění na straně křídla vně zatáčky
-
----
-
 ### Je povinností pilota, mít při mimoletištním letu na palubě mapu?
 *Points: 3 | Count: 6 | First Seen: 18.04.2025 | Last Seen: 22.05.2025*
 
 - a) je
 - b) není když má GPS
 - c) není
-
----
-
-### Venturiho trubice se používá u letadel létajících velkou rychlostí:
-*Points: 3 | Count: 3 | First Seen: 19.04.2025 | Last Seen: 22.05.2025*
-
-- a) ano
-- b) ne
-- c) pro malou i velkou rychlost
 
 ---
 
@@ -1201,24 +1174,6 @@ Total unique questions: **322**
 
 ---
 
-### Isobary jsou čáry na přízemních meteorologických mapách, které spojují místa:
-*Points: 3 | Count: 2 | First Seen: 04.05.2025 | Last Seen: 22.05.2025*
-
-- a) se stejnou teplotou přepočtenou na hladinu moře
-- b) se stejným tlakem přepočteným na hladinu moře
-- c) se stejnou vlhkostí
-
----
-
-### Velitel letadla, kterému je známo, že jiné letadlo je nuceno nouzově přistát:
-*Points: 3 | Count: 2 | First Seen: 18.04.2025 | Last Seen: 22.05.2025*
-
-- a) může přistát s tím, že okamžitě uvolní dráhu
-- b) musí dát tomuto letadlu přednost
-- c) může přistát, je-li v poslední fázi přiblížení na přistání
-
----
-
 ### Pilot musí mít za letu u sebe vždy
 *Points: 3 | Count: 3 | First Seen: 19.04.2025 | Last Seen: 22.05.2025*
 
@@ -1228,30 +1183,48 @@ Total unique questions: **322**
 
 ---
 
-### Dekarbonizací motoru se rozumí:
-*Points: 1 | Count: 2 | First Seen: 27.04.2025 | Last Seen: 22.05.2025*
+### Spirála je letový režim, při kterém:
+*Points: 3 | Count: 9 | First Seen: 07.04.2025 | Last Seen: 22.05.2025*
 
-- a) odstranění karbonu z tlumiče výfuku
-- b) očištění vnější částí motoru od karbonu a usazenin
-- c) odstranění karbonu ze spalovacího prostoru
-
----
-
-### Horizontální "bílá činka" vyložená v signální (návěstní) ploše znamená?
-*Points: 1 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 22.05.2025*
-
-- a) že se od letadel nepožaduje, aby přistávala, vzlétávala a pojížděla pouze na drahách a pojezdových drahách
-- b) navijákový provoz
-- c) že se od letadel požaduje, aby přistávala, vzlétávala a pojížděla pouze na drahách a pojezdových drahách
+- a) dochází k odtržení proudění na straně křídla uvnitř zatáčky
+- b) nedochází k odtržení proudění
+- c) dochází k odtržení proudění na straně křídla vně zatáčky
 
 ---
 
-### Jaké meteorologické podmínky lze očekávat v mírných zeměpisných šířkách v létě nad pevninou ve středu stacionární oblasti vysokého tlaku vzduchu?
-*Points: 1 | Count: 2 | First Seen: 07.05.2025 | Last Seen: 22.05.2025*
+### Velitel letadla, kterému je známo, že jiné letadlo je nuceno nouzově přistát:
+*Points: 3 | Count: 3 | First Seen: 09.04.2025 | Last Seen: 22.05.2025*
 
-- a) Slabý vítr, kouřmo.
-- b) Oblačnost typu Ns
-- c) Bouřky, průzračný vzduch a silný vítr.
+- a) může přistát s tím, že okamžitě uvolní dráhu
+- b) musí dát tomuto letadlu přednost
+- c) může přistát, je-li v poslední fázi přiblížení na přistání
+
+---
+
+### Venturiho trubice se používá u letadel létajících velkou rychlostí:
+*Points: 3 | Count: 3 | First Seen: 19.04.2025 | Last Seen: 22.05.2025*
+
+- a) ano
+- b) ne
+- c) pro malou i velkou rychlost
+
+---
+
+### Isobary jsou čáry na přízemních meteorologických mapách, které spojují místa:
+*Points: 3 | Count: 2 | First Seen: 04.05.2025 | Last Seen: 22.05.2025*
+
+- a) se stejnou teplotou přepočtenou na hladinu moře
+- b) se stejným tlakem přepočteným na hladinu moře
+- c) se stejnou vlhkostí
+
+---
+
+### Úhel snosu je:
+*Points: 3 | Count: 2 | First Seen: 18.04.2025 | Last Seen: 22.05.2025*
+
+- a) úhel mezi podélnou osou letadla a tratí letěnou
+- b) úhlový rozdíl mezi severem zeměpisným a magnetickým
+- c) rozdíl ve stupních mezi Kz a směrem větru
 
 ---
 
@@ -1273,21 +1246,39 @@ Total unique questions: **322**
 
 ---
 
+### Dekarbonizací motoru se rozumí:
+*Points: 1 | Count: 2 | First Seen: 27.04.2025 | Last Seen: 22.05.2025*
+
+- a) odstranění karbonu z tlumiče výfuku
+- b) očištění vnější částí motoru od karbonu a usazenin
+- c) odstranění karbonu ze spalovacího prostoru
+
+---
+
+### Jaké meteorologické podmínky lze očekávat v mírných zeměpisných šířkách v létě nad pevninou ve středu stacionární oblasti vysokého tlaku vzduchu?
+*Points: 1 | Count: 2 | First Seen: 07.05.2025 | Last Seen: 22.05.2025*
+
+- a) Slabý vítr, kouřmo.
+- b) Oblačnost typu Ns
+- c) Bouřky, průzračný vzduch a silný vítr.
+
+---
+
+### Horizontální "bílá činka" vyložená v signální (návěstní) ploše znamená?
+*Points: 1 | Count: 3 | First Seen: 07.04.2025 | Last Seen: 22.05.2025*
+
+- a) že se od letadel nepožaduje, aby přistávala, vzlétávala a pojížděla pouze na drahách a pojezdových drahách
+- b) navijákový provoz
+- c) že se od letadel požaduje, aby přistávala, vzlétávala a pojížděla pouze na drahách a pojezdových drahách
+
+---
+
 ### Pro označení kurzu používáme zásadně skupinu čísel:
 *Points: 0 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 22.05.2025*
 
 - a) podle potřeby
 - b) třímístnou
 - c) dvoumístnou
-
----
-
-### Indukovaný odpor:
-*Points: 0 | Count: 4 | First Seen: 20.04.2025 | Last Seen: 22.05.2025*
-
-- a) vzniká jako důsledek indukce u zadní části profilu
-- b) vzniká jako důsledek vzájemného ovlivnění obtékání různých částí
-- c) vzniká jako důsledek přefukování vzduchu na koncích křídla ze spodní strany na horní
 
 ---
 
@@ -1300,12 +1291,21 @@ Total unique questions: **322**
 
 ---
 
-### Stanovení, dodržení a kontrola polohy těžiště letadla je:
-*Points: 0 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 22.05.2025*
+### Pro správnou činnost motoru je zapotřebí, aby motor měl předepsanou teplotu:
+*Points: 0 | Count: 2 | First Seen: 25.04.2025 | Last Seen: 22.05.2025*
 
-- a) součástí procesu údržby letadla před vzletem
-- b) jedním ze základních předpokladů bezpečnosti letu
-- c) v plné zodpovědnosti majitele letadla, nikoli však pilota
+- a) ne
+- b) ano
+- c) jen při startu
+
+---
+
+### Indukovaný odpor:
+*Points: 0 | Count: 4 | First Seen: 20.04.2025 | Last Seen: 22.05.2025*
+
+- a) vzniká jako důsledek indukce u zadní části profilu
+- b) vzniká jako důsledek vzájemného ovlivnění obtékání různých částí
+- c) vzniká jako důsledek přefukování vzduchu na koncích křídla ze spodní strany na horní
 
 ---
 
@@ -1318,12 +1318,30 @@ Total unique questions: **322**
 
 ---
 
-### Pro správnou činnost motoru je zapotřebí, aby motor měl předepsanou teplotu:
-*Points: 0 | Count: 2 | First Seen: 25.04.2025 | Last Seen: 22.05.2025*
+### Stanovení, dodržení a kontrola polohy těžiště letadla je:
+*Points: 0 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 22.05.2025*
 
-- a) ne
-- b) ano
-- c) jen při startu
+- a) součástí procesu údržby letadla před vzletem
+- b) jedním ze základních předpokladů bezpečnosti letu
+- c) v plné zodpovědnosti majitele letadla, nikoli však pilota
+
+---
+
+### Každá závada (porucha) mající vliv na letovou způsobilost, která byla zjištěna na letadle, jeho výstroji a pohonné jednotce musí být odstraněna před zahájením dalšího letu:
+*Points: 3 | Count: 9 | First Seen: 28.03.2025 | Last Seen: 18.05.2025*
+
+- a) nemusí být odstraněna před zahájením letištního letu
+- b) musí být odstraněna pouze při provozu ve středisku pilotního výcviku
+- c) ano – musí být odstraněna před zahájením dalšího letu
+
+---
+
+### Sportovní létající zařízení může řídit
+*Points: 3 | Count: 9 | First Seen: 06.04.2025 | Last Seen: 18.05.2025*
+
+- a) pilot, který je držitelem platného posudku o zdravotní způsobilosti, nebo pilotní žák za podmínek stanovených výcvikovou osnovou
+- b) pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo pilotní žák za podmínek stanovených výcvikovou osnovou
+- c) pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo osoba oprávněná provozovatelem SLZ za přítomnosti pilota, pilotní žák za podmínek stanovených výcvikovou osnovou
 
 ---
 
@@ -1333,24 +1351,6 @@ Total unique questions: **322**
 - a) ne
 - b) ano, ale nezbude žádná rezerva paliva
 - c) ano
-
----
-
-### Sportovní létající zařízení může řídit
-*Points: 3 | Count: 6 | First Seen: 24.04.2025 | Last Seen: 18.05.2025*
-
-- a) pilot, který je držitelem platného posudku o zdravotní způsobilosti, nebo pilotní žák za podmínek stanovených výcvikovou osnovou
-- b) pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo pilotní žák za podmínek stanovených výcvikovou osnovou
-- c) pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo osoba oprávněná provozovatelem SLZ za přítomnosti pilota, pilotní žák za podmínek stanovených výcvikovou osnovou
-
----
-
-### Každá závada (porucha) mající vliv na letovou způsobilost, která byla zjištěna na letadle, jeho výstroji a pohonné jednotce musí být odstraněna před zahájením dalšího letu:
-*Points: 3 | Count: 8 | First Seen: 18.04.2025 | Last Seen: 18.05.2025*
-
-- a) nemusí být odstraněna před zahájením letištního letu
-- b) musí být odstraněna pouze při provozu ve středisku pilotního výcviku
-- c) ano – musí být odstraněna před zahájením dalšího letu
 
 ---
 
@@ -1364,11 +1364,20 @@ Total unique questions: **322**
 ---
 
 ### Doba východu a západu slunce se mění:
-*Points: 3 | Count: 6 | First Seen: 18.04.2025 | Last Seen: 18.05.2025*
+*Points: 3 | Count: 7 | First Seen: 28.03.2025 | Last Seen: 18.05.2025*
 
 - a) intensitou slunečního záření
 - b) s roční dobou
 - c) působením magnetického pole zeměkoule
+
+---
+
+### V letové příručce letadla je uvedena minimální hmotnost pilota 70 kg a maximální hmotnost pilota 110 kg. Pilot s hmotností 59 kg pro provedení letu provede:
+*Points: 3 | Count: 4 | First Seen: 06.04.2025 | Last Seen: 18.05.2025*
+
+- a) let bez dalších úprav
+- b) dovážení své hmotnosti tak, aby na jeho sedačce byla hmotnost 110 kg.
+- c) dovážení své hmotnosti na 70 kg
 
 ---
 
@@ -1381,6 +1390,15 @@ Total unique questions: **322**
 
 ---
 
+### Pilot letadla vybaveného radiostanicí proti němuž je zakročováno je povinen na tísňové frekvenci 121,5 MHz:
+*Points: 1 | Count: 2 | First Seen: 11.04.2025 | Last Seen: 18.05.2025*
+
+- a) udržovat radiový klid
+- b) pokusit se navázat spojení se zakročujícím letadlem a ohlásit svou identifikaci a povahu letu
+- c) vysílat v intervalech 30ti sekund svou výšku a kurz letu
+
+---
+
 ### Celkový aerodynamický odpor se skládá z odporu:
 *Points: 1 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 18.05.2025*
 
@@ -1390,57 +1408,12 @@ Total unique questions: **322**
 
 ---
 
-### Rozhraní dvou vzduchových hmot s počasím výrazně se lišícím od počasí v jedné i druhé vzduchové hmotě se nazývá:
-*Points: 0 | Count: 1 | First Seen: 18.05.2025 | Last Seen: 18.05.2025*
+### Variometr nám udává:
+*Points: 1 | Count: 3 | First Seen: 28.03.2025 | Last Seen: 18.05.2025*
 
-- a) rozhraní vzduchových hmot
-- b) fronta
-- c) rozhraní počasí
-
----
-
-### Letadlo letí za velmi teplého dne přes Alpy. Počasí je dobré a v dané oblasti je tlaková výše. Letadlo prolétává kolem hory ve výšce jejího vrcholku. Co ukazuje výškoměr v porovnání s nadmořskou výškou vrcholku?
-*Points: 0 | Count: 1 | First Seen: 18.05.2025 | Last Seen: 18.05.2025*
-
-- a) Stejnou výšku jako je nadmořksá výška vrcholku
-- b) Větší výšku než je nadmořská výška vrcholku
-- c) Menší výšku než je nadmořská výška vrcholku
-
----
-
-### V letové příručce letadla je uvedena minimální hmotnost pilota 70 kg a maximální hmotnost pilota 110 kg. Pilot s hmotností 59 kg pro provedení letu provede:
-*Points: 0 | Count: 2 | First Seen: 17.05.2025 | Last Seen: 18.05.2025*
-
-- a) let bez dalších úprav
-- b) dovážení své hmotnosti tak, aby na jeho sedačce byla hmotnost 110 kg.
-- c) dovážení své hmotnosti na 70 kg
-
----
-
-### Lety VFR letadel, musí být prováděny za stálé viditelnosti země, přičemž let nad oblaky může být proveden, je-li možno provádět srovnávací orientaci a není-li celkové pokrytí oblohy oblačností větší než:
-*Points: 0 | Count: 1 | First Seen: 18.05.2025 | Last Seen: 18.05.2025*
-
-- a) 5/8
-- b) 4/8
-- c) 3/8
-
----
-
-### Pilot letadla vybaveného radiostanicí proti němuž je zakročováno je povinen na tísňové frekvenci 121,5 MHz:
-*Points: 0 | Count: 1 | First Seen: 18.05.2025 | Last Seen: 18.05.2025*
-
-- a) udržovat radiový klid
-- b) pokusit se navázat spojení se zakročujícím letadlem a ohlásit svou identifikaci a povahu letu
-- c) vysílat v intervalech 30ti sekund svou výšku a kurz letu
-
----
-
-### Letadlo za letu nebo pohybující se na zemi musí dát přednost letadlu, které:
-*Points: 0 | Count: 1 | First Seen: 18.05.2025 | Last Seen: 18.05.2025*
-
-- a) nemá spojení se službou řízeného letového provozu
-- b) dostalo povolení pro přiblížení na přistání
-- c) přistává nebo je v poslední fázi přiblížení na přistání
+- a) klesání letadla
+- b) stoupání i klesání letadla
+- c) stoupání letadla
 
 ---
 
@@ -1453,39 +1426,30 @@ Total unique questions: **322**
 
 ---
 
-### Co znamená zkratka SLZ
+### Letadlo za letu nebo pohybující se na zemi musí dát přednost letadlu, které:
 *Points: 0 | Count: 1 | First Seen: 18.05.2025 | Last Seen: 18.05.2025*
 
-- a) stálé letové zabezpečení
-- b) sportovní létající zařízení
-- c) společná letová zóna
+- a) nemá spojení se službou řízeného letového provozu
+- b) dostalo povolení pro přiblížení na přistání
+- c) přistává nebo je v poslední fázi přiblížení na přistání
 
 ---
 
-### Kdy je ve střední Evropě největší pravděpodobnost výskytu bouřek z tepla?
-*Points: 0 | Count: 2 | First Seen: 13.05.2025 | Last Seen: 18.05.2025*
-
-- a) Poledne, odpoledne
-- b) Okolo půlnoci
-- c) Pozdě ráno
-
----
-
-### Variometr nám udává:
-*Points: 0 | Count: 2 | First Seen: 19.04.2025 | Last Seen: 18.05.2025*
-
-- a) klesání letadla
-- b) stoupání i klesání letadla
-- c) stoupání letadla
-
----
-
-### Vyhláška k zákonu o civilním letectví, zdravotní prohlídku od pilota
+### Letadlo letí za velmi teplého dne přes Alpy. Počasí je dobré a v dané oblasti je tlaková výše. Letadlo prolétává kolem hory ve výšce jejího vrcholku. Co ukazuje výškoměr v porovnání s nadmořskou výškou vrcholku?
 *Points: 0 | Count: 1 | First Seen: 18.05.2025 | Last Seen: 18.05.2025*
 
-- a) vyžaduje, a to sportovním lékařem
-- b) nevyžaduje
-- c) vyžaduje, a to určeným leteckým lékařem
+- a) Stejnou výšku jako je nadmořksá výška vrcholku
+- b) Větší výšku než je nadmořská výška vrcholku
+- c) Menší výšku než je nadmořská výška vrcholku
+
+---
+
+### Informace o poloze CTR, TMA, LKR, LKP je možno získat
+*Points: 0 | Count: 3 | First Seen: 28.03.2025 | Last Seen: 18.05.2025*
+
+- a) v AIP ČR nebo platné letecké mapě
+- b) v oficiální navigační mapě ÚCL
+- c) v mapě ADAC
 
 ---
 
@@ -1498,6 +1462,15 @@ Total unique questions: **322**
 
 ---
 
+### Vyhláška k zákonu o civilním letectví, zdravotní prohlídku od pilota
+*Points: 0 | Count: 1 | First Seen: 18.05.2025 | Last Seen: 18.05.2025*
+
+- a) vyžaduje, a to sportovním lékařem
+- b) nevyžaduje
+- c) vyžaduje, a to určeným leteckým lékařem
+
+---
+
 ### Rychloměr připojený k Pitotově trubici je zapojen na:
 *Points: 0 | Count: 1 | First Seen: 18.05.2025 | Last Seen: 18.05.2025*
 
@@ -1507,30 +1480,39 @@ Total unique questions: **322**
 
 ---
 
-### Informace o poloze CTR, TMA, LKR, LKP je možno získat
+### Co znamená zkratka SLZ
+*Points: 0 | Count: 1 | First Seen: 18.05.2025 | Last Seen: 18.05.2025*
+
+- a) stálé letové zabezpečení
+- b) sportovní létající zařízení
+- c) společná letová zóna
+
+---
+
+### Lety VFR letadel, musí být prováděny za stálé viditelnosti země, přičemž let nad oblaky může být proveden, je-li možno provádět srovnávací orientaci a není-li celkové pokrytí oblohy oblačností větší než:
+*Points: 0 | Count: 1 | First Seen: 18.05.2025 | Last Seen: 18.05.2025*
+
+- a) 5/8
+- b) 4/8
+- c) 3/8
+
+---
+
+### Rozhraní dvou vzduchových hmot s počasím výrazně se lišícím od počasí v jedné i druhé vzduchové hmotě se nazývá:
+*Points: 0 | Count: 1 | First Seen: 18.05.2025 | Last Seen: 18.05.2025*
+
+- a) rozhraní vzduchových hmot
+- b) fronta
+- c) rozhraní počasí
+
+---
+
+### Kdy je ve střední Evropě největší pravděpodobnost výskytu bouřek z tepla?
 *Points: 0 | Count: 2 | First Seen: 13.05.2025 | Last Seen: 18.05.2025*
 
-- a) v AIP ČR nebo platné letecké mapě
-- b) v oficiální navigační mapě ÚCL
-- c) v mapě ADAC
-
----
-
-### Základní příčinou vzniku mechanické turbulence je:
-*Points: 3 | Count: 2 | First Seen: 19.04.2025 | Last Seen: 17.05.2025*
-
-- a) zvrstvení vzduchu
-- b) vlhkost a teplota vzduchu
-- c) vítr a uspořádání terénu
-
----
-
-### Rozdíl mezi UTC a letním středoevropským (SELČ) časem je:
-*Points: 3 | Count: 6 | First Seen: 07.04.2025 | Last Seen: 17.05.2025*
-
-- a) není žádný
-- b) 2 hodiny
-- c) 1 hodina
+- a) Poledne, odpoledne
+- b) Okolo půlnoci
+- c) Pozdě ráno
 
 ---
 
@@ -1543,21 +1525,39 @@ Total unique questions: **322**
 
 ---
 
-### Šrouby upevnění vrtule musí být vždy
-*Points: 3 | Count: 3 | First Seen: 20.04.2025 | Last Seen: 17.05.2025*
+### Rozdíl mezi UTC a letním středoevropským (SELČ) časem je:
+*Points: 3 | Count: 6 | First Seen: 07.04.2025 | Last Seen: 17.05.2025*
 
-- a) nemusejí být zajištěny
-- b) zajištěny proti povolení
-- c) stačí pouze jeden šroub
+- a) není žádný
+- b) 2 hodiny
+- c) 1 hodina
 
 ---
 
 ### Na spodní straně křídla za letu působí:
-*Points: 3 | Count: 4 | First Seen: 07.04.2025 | Last Seen: 17.05.2025*
+*Points: 3 | Count: 5 | First Seen: 06.04.2025 | Last Seen: 17.05.2025*
 
 - a) přetlak
 - b) žádný tlak
 - c) podtlak
+
+---
+
+### Letecké navigaci vyhovují nejlépe mapy, které:
+*Points: 3 | Count: 5 | First Seen: 06.04.2025 | Last Seen: 17.05.2025*
+
+- a) věrně zobrazují topografickou situaci a úhly
+- b) jsou v měřítku 1 : 500 000
+- c) mají přesné úhly
+
+---
+
+### Spodní hranici řízeného okrsku (CTR) tvoří:
+*Points: 3 | Count: 3 | First Seen: 28.03.2025 | Last Seen: 17.05.2025*
+
+- a) stanovená výška nad mořem
+- b) povrch země
+- c) horní hranice třídy G
 
 ---
 
@@ -1570,8 +1570,26 @@ Total unique questions: **322**
 
 ---
 
+### Základní příčinou vzniku mechanické turbulence je:
+*Points: 3 | Count: 2 | First Seen: 19.04.2025 | Last Seen: 17.05.2025*
+
+- a) zvrstvení vzduchu
+- b) vlhkost a teplota vzduchu
+- c) vítr a uspořádání terénu
+
+---
+
+### Šrouby upevnění vrtule musí být vždy
+*Points: 3 | Count: 4 | First Seen: 11.04.2025 | Last Seen: 17.05.2025*
+
+- a) nemusejí být zajištěny
+- b) zajištěny proti povolení
+- c) stačí pouze jeden šroub
+
+---
+
 ### Při změně plošného zatížení se aerodynamická klouzavost:
-*Points: 1 | Count: 4 | First Seen: 19.04.2025 | Last Seen: 17.05.2025*
+*Points: 1 | Count: 6 | First Seen: 28.03.2025 | Last Seen: 17.05.2025*
 
 - a) nezmění, protože vztah mezi součinitelem vztlaku a součinitelem odporu se nemění
 - b) změní, protože efektivní nosná plocha zůstává stejná
@@ -1579,44 +1597,8 @@ Total unique questions: **322**
 
 ---
 
-### Prostor typu LKP sahá
-*Points: 0 | Count: 1 | First Seen: 17.05.2025 | Last Seen: 17.05.2025*
-
-- a) od země do různých výšek (viz AIP nebo platná letecká mapa)
-- b) od země do FL 125
-- c) od 150m AGL do 1500m AMSL
-
----
-
-### Spodní hranici řízeného okrsku (CTR) tvoří:
-*Points: 0 | Count: 2 | First Seen: 20.04.2025 | Last Seen: 17.05.2025*
-
-- a) stanovená výška nad mořem
-- b) povrch země
-- c) horní hranice třídy G
-
----
-
-### Zhuštěné isobary na synoptické mapě značí:
-*Points: 0 | Count: 1 | First Seen: 17.05.2025 | Last Seen: 17.05.2025*
-
-- a) barický stupeň dané oblasti
-- b) vysoký teplotní rozdíl
-- c) větší rozdíl tlaku a tedy i silnější vítr
-
----
-
-### Je-li dáván příkaz letadlu na zemi orgánem letištní služby řízení světelným návěstím, potom řada bílých záblesků znamená:
-*Points: 0 | Count: 2 | First Seen: 13.05.2025 | Last Seen: 17.05.2025*
-
-- a) vraťte se na místo odkud jste vyjel
-- b) pojíždění povoleno
-- c) opusťte přistávací plochu
-
----
-
 ### Jak se změní rychlost proudu a statický tlak, když se rozšíří v určitém místě proudnice:
-*Points: 0 | Count: 1 | First Seen: 17.05.2025 | Last Seen: 17.05.2025*
+*Points: 1 | Count: 2 | First Seen: 06.04.2025 | Last Seen: 17.05.2025*
 
 - a) rychlost se sníží, statický tlak se zvýší
 - b) rychlost se sníží, statický tlak poklesne
@@ -1624,12 +1606,21 @@ Total unique questions: **322**
 
 ---
 
-### Předlétávající letadlo je to, které se přibližuje k předlétávanému letadlu zezadu na čáře svírající s rovinou souměrnosti předlétávaného letadla úhel menší než:
-*Points: 0 | Count: 3 | First Seen: 19.04.2025 | Last Seen: 17.05.2025*
+### Při předepsaném maximálním provozním zatížení (stanoveno v leteckých předpisech):
+*Points: 0 | Count: 3 | First Seen: 28.03.2025 | Last Seen: 17.05.2025*
 
-- a) 70 stupňů
-- b) 80 stupňů
-- c) 60 stupňů
+- a) může dojít k trvalým deformacím konstrukce letadla
+- b) musí správně fungovat všechny části nezbytné pro bezpečný provoz letadla
+- c) nemusí správně fungovat všechny části nezbytné pro bezpečný provoz letadla
+
+---
+
+### Je-li dáván příkaz letadlu na zemi orgánem letištní služby řízení světelným návěstím, potom řada bílých záblesků znamená:
+*Points: 0 | Count: 3 | First Seen: 06.04.2025 | Last Seen: 17.05.2025*
+
+- a) vraťte se na místo odkud jste vyjel
+- b) pojíždění povoleno
+- c) opusťte přistávací plochu
 
 ---
 
@@ -1642,21 +1633,30 @@ Total unique questions: **322**
 
 ---
 
-### Předlétáváte-li vrtulník, jaké opatření provedete?
+### Provádíte-li zatáčku na jih podle magnetického kompasu, zatáčku:
 *Points: 0 | Count: 1 | First Seen: 17.05.2025 | Last Seen: 17.05.2025*
 
-- a) změnu kurzu vlevo
-- b) vrtulník je zakázáno předletět
-- c) změnu kurzu vpravo
+- a) zastavíte přesně na zamýšleném kursu
+- b) nedotočíte
+- c) přetočíte
 
 ---
 
-### Při předepsaném maximálním provozním zatížení (stanoveno v leteckých předpisech):
-*Points: 0 | Count: 2 | First Seen: 25.04.2025 | Last Seen: 17.05.2025*
+### Prostor typu LKP sahá
+*Points: 0 | Count: 1 | First Seen: 17.05.2025 | Last Seen: 17.05.2025*
 
-- a) může dojít k trvalým deformacím konstrukce letadla
-- b) musí správně fungovat všechny části nezbytné pro bezpečný provoz letadla
-- c) nemusí správně fungovat všechny části nezbytné pro bezpečný provoz letadla
+- a) od země do různých výšek (viz AIP nebo platná letecká mapa)
+- b) od země do FL 125
+- c) od 150m AGL do 1500m AMSL
+
+---
+
+### Předlétávající letadlo je to, které se přibližuje k předlétávanému letadlu zezadu na čáře svírající s rovinou souměrnosti předlétávaného letadla úhel menší než:
+*Points: 0 | Count: 3 | First Seen: 19.04.2025 | Last Seen: 17.05.2025*
+
+- a) 70 stupňů
+- b) 80 stupňů
+- c) 60 stupňů
 
 ---
 
@@ -1669,192 +1669,21 @@ Total unique questions: **322**
 
 ---
 
-### Provádíte-li zatáčku na jih podle magnetického kompasu, zatáčku:
+### Předlétáváte-li vrtulník, jaké opatření provedete?
 *Points: 0 | Count: 1 | First Seen: 17.05.2025 | Last Seen: 17.05.2025*
 
-- a) zastavíte přesně na zamýšleném kursu
-- b) nedotočíte
-- c) přetočíte
+- a) změnu kurzu vlevo
+- b) vrtulník je zakázáno předletět
+- c) změnu kurzu vpravo
 
 ---
 
-### Letecké navigaci vyhovují nejlépe mapy, které:
-*Points: 0 | Count: 2 | First Seen: 19.04.2025 | Last Seen: 17.05.2025*
+### Zhuštěné isobary na synoptické mapě značí:
+*Points: 0 | Count: 1 | First Seen: 17.05.2025 | Last Seen: 17.05.2025*
 
-- a) věrně zobrazují topografickou situaci a úhly
-- b) jsou v měřítku 1 : 500 000
-- c) mají přesné úhly
-
----
-
-### Po průletu převodní výškou se pro udávání výšky přejde z nastavení hodnoty QNH:
-*Points: 3 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
-
-- a) na nastavení údaje QFE a vertikální polohy letadla se vyjadřují jako výšky nad zemí
-- b) na nastavení údaje QFE cílového letiště a vertikální polohy letadla se vyjadřují jako výšky nad cílovým letištěm
-- c) na nastavení výškoměru na hodnotu 1013,2 hPa a vertikální polohy letadla se vyjadřují v letových hladinách
-
----
-
-### Prostor třídy G sahá v ČR do výšky
-*Points: 3 | Count: 3 | First Seen: 18.04.2025 | Last Seen: 13.05.2025*
-
-- a) 300 m AGL
-- b) 300 m STD
-- c) 300 m AMSL
-
----
-
-### Doklady potřebné pro let SLZ musí mít pilot u sebe:
-*Points: 3 | Count: 3 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
-
-- a) při každém letu
-- b) jen při mimoletištním letu
-- c) jen při přeletu
-
----
-
-### Pilot letadla nevybaveného radiostanicí, který má v úmyslu přiletět na neřízené letiště nebo z něho odletět, je povinen
-*Points: 3 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
-
-- a) dodržet pro odlet nebo přílet pravidla vyhýbání
-- b) předem zkoordinovat svůj přílet nebo odlet se stanovištěm AFIS nebo provozovatelem letiště
-- c) předem zkoordinovat svůj přílet nebo odlet s majitelem letiště
-
----
-
-### Letadla u kterých je použito kompozitní konstrukce jsou provedena na horních plochách v bílé barvě. Ta je použita z důvodu:
-*Points: 3 | Count: 2 | First Seen: 18.04.2025 | Last Seen: 13.05.2025*
-
-- a) dobré viditelnosti letadla za snížení viditelnosti
-- b) ochrany konstrukce před ohřevem slunečním zářením
-- c) nižšího odporu při vyšších rychlostech letu
-
----
-
-### Prostor třídy E sahá do výšky
-*Points: 3 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
-
-- a) FL 95 (2900 m)
-- b) FL 125 (3800 m)
-- c) FL 85 (2600 m)
-
----
-
-### TMA (koncová řízená oblast)
-*Points: 3 | Count: 2 | First Seen: 19.04.2025 | Last Seen: 13.05.2025*
-
-- a) se dá podletět
-- b) nedá se podletět ani nadletět
-- c) dá se podletět pouze při vzájemné komunikaci radiostanicí s příslušným stanovištěm ATS
-
----
-
-### Pohyb letadla, při kterém se otáčí kolem své podélné osy se nazývá:
-*Points: 3 | Count: 2 | First Seen: 18.04.2025 | Last Seen: 13.05.2025*
-
-- a) klonění
-- b) klopení
-- c) zatáčení
-
----
-
-### Úhel náběhu je geometrický úhel, který:
-*Points: 3 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
-
-- a) svírá směr nabíhajícího proudu vzduchu s tětivou profilu
-- b) svírá tětiva profilu s vodorovnou rovinou (horizontem)
-- c) svírá směr nabíhajícího proudu s vodorovnou rovinou (horizontem), tj. nulový v horizontálním letu
-
----
-
-### Je-li dáván příkaz letadlu za letu orgánem letištní služby řízení světelným návěstím, potom stálé červené světlo znamená:
-*Points: 3 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
-
-- a) vrať se na přistání
-- b) letiště není bezpečné, nepřistávejte
-- c) uvolněte cestu jinému letadlu a pokračujte v letu na okruhu
-
----
-
-### 045 stupňů je vedlejší světová strana:
-*Points: 3 | Count: 2 | First Seen: 19.04.2025 | Last Seen: 13.05.2025*
-
-- a) jihozápad
-- b) severozápad
-- c) severovýchod
-
----
-
-### Dříve než v Praze vychází slunce:
-*Points: 3 | Count: 3 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
-
-- a) v Moskvě
-- b) v Paříži
-- c) v Londýně
-
----
-
-### Zvýšená netěsnost palivového potrubí mezi nádrží a nízkotlakým čerpadlem se projeví:
-*Points: 3 | Count: 3 | First Seen: 20.04.2025 | Last Seen: 13.05.2025*
-
-- a) vytékáním paliva za chodu motoru
-- b) ucpáním palivového potrubí v důsledku proniknutí nečistot do tohoto potrubí
-- c) přerušením dodávky paliva a v případě, že netěsnost je níže než hladina paliva v nádrži též vytékáním paliva
-
----
-
-### Osa zemská je myšlená přímka středem země kolmá na rovník. Místa, kde protíná povrch země se nazývají póly (točny). Jsou to póly:
-*Points: 3 | Count: 2 | First Seen: 04.05.2025 | Last Seen: 13.05.2025*
-
-- a) magnetické
-- b) zeměpisné
-- c) totožné
-
----
-
-### Jev nazývaný turbulence je definován jako:
-*Points: 3 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 13.05.2025*
-
-- a) síly, které působí na letadlo ve vertikálním směru
-- b) síly, které zvyšují rychlost letícího letadla
-- c) síly působící na letadlo v různých směrech a udělující tomuto letadlu různá přídavná zrychlení
-
----
-
-### V letadle musí být umístěny předepsané štítky s provozním omezením. Tyto štítky musí být umístěny:
-*Points: 3 | Count: 4 | First Seen: 19.04.2025 | Last Seen: 13.05.2025*
-
-- a) na libovolné pevné části konstrukce
-- b) na levém křídle ze spodu
-- c) v kabině letadla a v zorném poli pilota
-
----
-
-### Mezi oblačnost s mohutným vertikálním vývojem řadíme:
-*Points: 3 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
-
-- a) Cc – cirocumulus
-- b) Ac – altocumulus
-- c) Cb – cumulonimbus
-
----
-
-### Poloha těžiště letadla za letu má významný vliv na letové vlastnosti. Jedná se zejména o tyto letové vlastnosti:
-*Points: 3 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
-
-- a) rychlost letu
-- b) stoupavost
-- c) stabilitu a ovladatelnost
-
----
-
-### Jestliže se instrukce předané letadlu narušiteli pomocí radiového spojení z jakýchkoliv zdrojů liší od instrukcí předávaných zakročujícím letadlem pomocí vizuální návěsti,letadlo proti kterému je zakročováno musí:
-*Points: 3 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
-
-- a) vzdálit se od zakázaného prostoru
-- b) zatočit do sledovaného směru a kývat křídly
-- c) okamžitě žádat o vyjasnění a přitom se nadále řídit vizuálními instrukcemi předávanými zakročujícím letadlem
+- a) barický stupeň dané oblasti
+- b) vysoký teplotní rozdíl
+- c) větší rozdíl tlaku a tedy i silnější vítr
 
 ---
 
@@ -1867,51 +1696,6 @@ Total unique questions: **322**
 
 ---
 
-### Velitelé letadel letících po letištním OKRUH_IDu jsou povinni:
-*Points: 3 | Count: 2 | First Seen: 07.05.2025 | Last Seen: 13.05.2025*
-
-- a) postupovat podle letového plánu
-- b) vždy provádět všechny zatáčky doprava
-- c) při přiblížení na přistání nebo po vzletu provádět všechny zatáčky doleva, pokud není přikázáno jinak
-
----
-
-### Na základě čeho pracuje kompas?
-*Points: 3 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
-
-- a) na základě využití přitažlivosti severního pólu
-- b) na základě využití elektromagnetického pole
-- c) na základě využití zemského magnetického pole
-
----
-
-### Jak se změní rychlost proudění a statický tlak v něm, když v nějakém místě dojde ke zhuštění proudnic?
-*Points: 3 | Count: 5 | First Seen: 20.04.2025 | Last Seen: 13.05.2025*
-
-- a) rychlost klesne, statický tlak klesne
-- b) rychlost se zvýší, statický tlak klesne
-- c) rychlost se zvýší, statický tlak se zvýší
-
----
-
-### Za stav SLZ před letem zodpovídá:
-*Points: 3 | Count: 2 | First Seen: 07.05.2025 | Last Seen: 13.05.2025*
-
-- a) majitel
-- b) pilot
-- c) inspektor technik mající toto SLZ v evidenci
-
----
-
-### Nejčastější směr větru v údolí způsobený termickými efekty je směrem:
-*Points: 3 | Count: 2 | First Seen: 27.04.2025 | Last Seen: 13.05.2025*
-
-- a) Během dne ke kopci
-- b) Během noci z kopce
-- c) Během dne z kopce
-
----
-
 ### Čas se udává:
 *Points: 3 | Count: 4 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
 
@@ -1921,30 +1705,273 @@ Total unique questions: **322**
 
 ---
 
-### Při letech na neřízené letiště nebo když se nepodaří navázat radiospojení se stanovištěm AFIS daného letiště, je velitel letadla vybaveného radiostanicí povinen:
-*Points: 1 | Count: 4 | First Seen: 19.04.2025 | Last Seen: 13.05.2025*
+### Traťová rychlost (TR) je:
+*Points: 3 | Count: 3 | First Seen: 06.04.2025 | Last Seen: 13.05.2025*
 
-- a) vysílat hlášení na příslušném kmitočtu daného letiště zprávu obsahující značku letadla, výšku, místo vstupu do letové zóny ATZ, místo zařazení do okruhu a polohy na okruhu
-- b) odletět na náhradní letiště
-- c) přistát na daném letišti bez spojení
+- a) rychlost, kterou letadlo letí vůči zemi
+- b) rychlost, kterou nám udává rychloměr
+- c) rychlost vůči vzduchové hmotě
 
 ---
 
-### Definice zvláštního letu VFR zní?
-*Points: 1 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
+### Na základě čeho pracuje kompas?
+*Points: 3 | Count: 2 | First Seen: 09.04.2025 | Last Seen: 13.05.2025*
 
-- a) řízený let VFR povolený v řízeném okrsku letiště
-- b) let VFR povolený v okrsku letiště v meteorologických podmínkách horších než IMC
-- c) let VFR, kterému vydala služba řízení letového provozu povolení k letu v řízeném okrsku v meteorologických podmínkách horších než VMC
+- a) na základě využití přitažlivosti severního pólu
+- b) na základě využití elektromagnetického pole
+- c) na základě využití zemského magnetického pole
+
+---
+
+### Doklady potřebné pro let SLZ musí mít pilot u sebe:
+*Points: 3 | Count: 3 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
+
+- a) při každém letu
+- b) jen při mimoletištním letu
+- c) jen při přeletu
+
+---
+
+### Jak se změní rychlost proudění a statický tlak v něm, když v nějakém místě dojde ke zhuštění proudnic?
+*Points: 3 | Count: 6 | First Seen: 09.04.2025 | Last Seen: 13.05.2025*
+
+- a) rychlost klesne, statický tlak klesne
+- b) rychlost se zvýší, statický tlak klesne
+- c) rychlost se zvýší, statický tlak se zvýší
+
+---
+
+### Překročením maximálních přípustných otáček vrtule:
+*Points: 3 | Count: 2 | First Seen: 06.04.2025 | Last Seen: 13.05.2025*
+
+- a) dojde ke zvýšenému namáhání vrtule s následným možným poškozením
+- b) se sníží aerodynamický hluk
+- c) se zvýší její účinnost
+
+---
+
+### Nejčastější směr větru v údolí způsobený termickými efekty je směrem:
+*Points: 3 | Count: 3 | First Seen: 06.04.2025 | Last Seen: 13.05.2025*
+
+- a) Během dne ke kopci
+- b) Během noci z kopce
+- c) Během dne z kopce
+
+---
+
+### Jev nazývaný turbulence je definován jako:
+*Points: 3 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 13.05.2025*
+
+- a) síly, které působí na letadlo ve vertikálním směru
+- b) síly, které zvyšují rychlost letícího letadla
+- c) síly působící na letadlo v různých směrech a udělující tomuto letadlu různá přídavná zrychlení
+
+---
+
+### Mezi oblačnost s mohutným vertikálním vývojem řadíme:
+*Points: 3 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
+
+- a) Cc – cirocumulus
+- b) Ac – altocumulus
+- c) Cb – cumulonimbus
+
+---
+
+### Osa zemská je myšlená přímka středem země kolmá na rovník. Místa, kde protíná povrch země se nazývají póly (točny). Jsou to póly:
+*Points: 3 | Count: 2 | First Seen: 04.05.2025 | Last Seen: 13.05.2025*
+
+- a) magnetické
+- b) zeměpisné
+- c) totožné
+
+---
+
+### Za stav SLZ před letem zodpovídá:
+*Points: 3 | Count: 3 | First Seen: 06.04.2025 | Last Seen: 13.05.2025*
+
+- a) majitel
+- b) pilot
+- c) inspektor technik mající toto SLZ v evidenci
+
+---
+
+### 045 stupňů je vedlejší světová strana:
+*Points: 3 | Count: 3 | First Seen: 11.04.2025 | Last Seen: 13.05.2025*
+
+- a) jihozápad
+- b) severozápad
+- c) severovýchod
+
+---
+
+### Poloha těžiště letadla za letu má významný vliv na letové vlastnosti. Jedná se zejména o tyto letové vlastnosti:
+*Points: 3 | Count: 3 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
+
+- a) rychlost letu
+- b) stoupavost
+- c) stabilitu a ovladatelnost
+
+---
+
+### Po průletu převodní výškou se pro udávání výšky přejde z nastavení hodnoty QNH:
+*Points: 3 | Count: 3 | First Seen: 06.04.2025 | Last Seen: 13.05.2025*
+
+- a) na nastavení údaje QFE a vertikální polohy letadla se vyjadřují jako výšky nad zemí
+- b) na nastavení údaje QFE cílového letiště a vertikální polohy letadla se vyjadřují jako výšky nad cílovým letištěm
+- c) na nastavení výškoměru na hodnotu 1013,2 hPa a vertikální polohy letadla se vyjadřují v letových hladinách
+
+---
+
+### Jestliže se instrukce předané letadlu narušiteli pomocí radiového spojení z jakýchkoliv zdrojů liší od instrukcí předávaných zakročujícím letadlem pomocí vizuální návěsti,letadlo proti kterému je zakročováno musí:
+*Points: 3 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
+
+- a) vzdálit se od zakázaného prostoru
+- b) zatočit do sledovaného směru a kývat křídly
+- c) okamžitě žádat o vyjasnění a přitom se nadále řídit vizuálními instrukcemi předávanými zakročujícím letadlem
+
+---
+
+### Dříve než v Praze vychází slunce:
+*Points: 3 | Count: 4 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
+
+- a) v Moskvě
+- b) v Paříži
+- c) v Londýně
+
+---
+
+### Pohyb letadla, při kterém se otáčí kolem své podélné osy se nazývá:
+*Points: 3 | Count: 2 | First Seen: 18.04.2025 | Last Seen: 13.05.2025*
+
+- a) klonění
+- b) klopení
+- c) zatáčení
+
+---
+
+### 9 cm na mapě 1 : 500 000 odpovídá ve skutečnosti:
+*Points: 3 | Count: 2 | First Seen: 06.04.2025 | Last Seen: 13.05.2025*
+
+- a) 50 km
+- b) 60 km
+- c) 45 km
+
+---
+
+### Velitelé letadel letících po letištním OKRUH_IDu jsou povinni:
+*Points: 3 | Count: 2 | First Seen: 07.05.2025 | Last Seen: 13.05.2025*
+
+- a) postupovat podle letového plánu
+- b) vždy provádět všechny zatáčky doprava
+- c) při přiblížení na přistání nebo po vzletu provádět všechny zatáčky doleva, pokud není přikázáno jinak
+
+---
+
+### Prostor třídy E sahá do výšky
+*Points: 3 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
+
+- a) FL 95 (2900 m)
+- b) FL 125 (3800 m)
+- c) FL 85 (2600 m)
+
+---
+
+### Obsahuje letová příručka provozní omezení?
+*Points: 3 | Count: 2 | First Seen: 11.04.2025 | Last Seen: 13.05.2025*
+
+- a) podle rozhodnutí provozovatele
+- b) ne
+- c) ano
+
+---
+
+### Úhel náběhu je geometrický úhel, který:
+*Points: 3 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
+
+- a) svírá směr nabíhajícího proudu vzduchu s tětivou profilu
+- b) svírá tětiva profilu s vodorovnou rovinou (horizontem)
+- c) svírá směr nabíhajícího proudu s vodorovnou rovinou (horizontem), tj. nulový v horizontálním letu
+
+---
+
+### Prostor třídy G sahá v ČR do výšky
+*Points: 3 | Count: 4 | First Seen: 06.04.2025 | Last Seen: 13.05.2025*
+
+- a) 300 m AGL
+- b) 300 m STD
+- c) 300 m AMSL
+
+---
+
+### TMA (koncová řízená oblast)
+*Points: 3 | Count: 2 | First Seen: 19.04.2025 | Last Seen: 13.05.2025*
+
+- a) se dá podletět
+- b) nedá se podletět ani nadletět
+- c) dá se podletět pouze při vzájemné komunikaci radiostanicí s příslušným stanovištěm ATS
+
+---
+
+### V letadle musí být umístěny předepsané štítky s provozním omezením. Tyto štítky musí být umístěny:
+*Points: 3 | Count: 4 | First Seen: 19.04.2025 | Last Seen: 13.05.2025*
+
+- a) na libovolné pevné části konstrukce
+- b) na levém křídle ze spodu
+- c) v kabině letadla a v zorném poli pilota
+
+---
+
+### Letadla u kterých je použito kompozitní konstrukce jsou provedena na horních plochách v bílé barvě. Ta je použita z důvodu:
+*Points: 3 | Count: 3 | First Seen: 28.03.2025 | Last Seen: 13.05.2025*
+
+- a) dobré viditelnosti letadla za snížení viditelnosti
+- b) ochrany konstrukce před ohřevem slunečním zářením
+- c) nižšího odporu při vyšších rychlostech letu
+
+---
+
+### Pilot letadla nevybaveného radiostanicí, který má v úmyslu přiletět na neřízené letiště nebo z něho odletět, je povinen
+*Points: 3 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
+
+- a) dodržet pro odlet nebo přílet pravidla vyhýbání
+- b) předem zkoordinovat svůj přílet nebo odlet se stanovištěm AFIS nebo provozovatelem letiště
+- c) předem zkoordinovat svůj přílet nebo odlet s majitelem letiště
+
+---
+
+### Je-li dáván příkaz letadlu za letu orgánem letištní služby řízení světelným návěstím, potom stálé červené světlo znamená:
+*Points: 3 | Count: 2 | First Seen: 09.04.2025 | Last Seen: 13.05.2025*
+
+- a) vrať se na přistání
+- b) letiště není bezpečné, nepřistávejte
+- c) uvolněte cestu jinému letadlu a pokračujte v letu na okruhu
+
+---
+
+### Zvýšená netěsnost palivového potrubí mezi nádrží a nízkotlakým čerpadlem se projeví:
+*Points: 3 | Count: 3 | First Seen: 20.04.2025 | Last Seen: 13.05.2025*
+
+- a) vytékáním paliva za chodu motoru
+- b) ucpáním palivového potrubí v důsledku proniknutí nečistot do tohoto potrubí
+- c) přerušením dodávky paliva a v případě, že netěsnost je níže než hladina paliva v nádrži též vytékáním paliva
 
 ---
 
 ### Terénní útvary jako jsou lesy, louky, jezera, hrady, silnice, železnice atd. nazýváme:
-*Points: 1 | Count: 5 | First Seen: 18.04.2025 | Last Seen: 13.05.2025*
+*Points: 1 | Count: 6 | First Seen: 06.04.2025 | Last Seen: 13.05.2025*
 
 - a) topografickou plochou
 - b) topografickou situací
 - c) projekcí mapy
+
+---
+
+### Tlumič podvozku je konstrukční část podvozku, která:
+*Points: 1 | Count: 4 | First Seen: 09.04.2025 | Last Seen: 13.05.2025*
+
+- a) přejímá většinu potenciální energie nárazů při vzletu, přistání a pojíždění
+- b) přejímá většinu kinetické energie při pojíždění
+- c) přejímá většinu kinetické energie nárazů při vzletu, přistání a pojíždění
 
 ---
 
@@ -1954,15 +1981,6 @@ Total unique questions: **322**
 - a) vymezený vzdušný protstor se stálou informační službou
 - b) vymezený vzdušný prostor, který slouží k ochraně letištního provozu
 - c) vymezený vzdušný prostor se službou řízení letového provozu
-
----
-
-### Jaké je povoleno maximální úmyslné vychýlení UL letounu kolem příčné osy za letu ve stupních:
-*Points: 1 | Count: 4 | First Seen: 20.04.2025 | Last Seen: 13.05.2025*
-
-- a) 60.0
-- b) 45.0
-- c) 30.0
 
 ---
 
@@ -1984,12 +2002,21 @@ Total unique questions: **322**
 
 ---
 
-### Tlumič podvozku je konstrukční část podvozku, která:
-*Points: 1 | Count: 3 | First Seen: 27.04.2025 | Last Seen: 13.05.2025*
+### Definice zvláštního letu VFR zní?
+*Points: 1 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 13.05.2025*
 
-- a) přejímá většinu potenciální energie nárazů při vzletu, přistání a pojíždění
-- b) přejímá většinu kinetické energie při pojíždění
-- c) přejímá většinu kinetické energie nárazů při vzletu, přistání a pojíždění
+- a) řízený let VFR povolený v řízeném okrsku letiště
+- b) let VFR povolený v okrsku letiště v meteorologických podmínkách horších než IMC
+- c) let VFR, kterému vydala služba řízení letového provozu povolení k letu v řízeném okrsku v meteorologických podmínkách horších než VMC
+
+---
+
+### Při letech na neřízené letiště nebo když se nepodaří navázat radiospojení se stanovištěm AFIS daného letiště, je velitel letadla vybaveného radiostanicí povinen:
+*Points: 1 | Count: 4 | First Seen: 19.04.2025 | Last Seen: 13.05.2025*
+
+- a) vysílat hlášení na příslušném kmitočtu daného letiště zprávu obsahující značku letadla, výšku, místo vstupu do letové zóny ATZ, místo zařazení do okruhu a polohy na okruhu
+- b) odletět na náhradní letiště
+- c) přistát na daném letišti bez spojení
 
 ---
 
@@ -2002,66 +2029,12 @@ Total unique questions: **322**
 
 ---
 
-### Srážky vypadávající z oblačnosti typu Cb - cumulonimbus, jsou charakteru:
-*Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
+### Jaké je povoleno maximální úmyslné vychýlení UL letounu kolem příčné osy za letu ve stupních:
+*Points: 1 | Count: 4 | First Seen: 20.04.2025 | Last Seen: 13.05.2025*
 
-- a) mrholení
-- b) trvalých srážek
-- c) silných přeháněk
-
----
-
-### Zeměkoule se otočí o 1 stupeň zeměpisné délky za:
-*Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
-
-- a) 4 min
-- b) 6 min
-- c) 1 min
-
----
-
-### Kompozitová konstrukce musí být ochráněna světlou barvou
-*Points: 0 | Count: 2 | First Seen: 18.04.2025 | Last Seen: 13.05.2025*
-
-- a) nemusí být chráněna vůbec
-- b) z důvodu možnosti zahřátí kompozitu nad teplotu jeho sklovitosti
-- c) nemá vliv na její pevnost
-
----
-
-### Omezený prostor (LK R) je prostor, který pilot:
-*Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
-
-- a) nesmí proletět
-- b) může proletět za splnění stanovených podmínek
-- c) musí proletět
-
----
-
-### Obsahuje letová příručka provozní omezení?
-*Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
-
-- a) podle rozhodnutí provozovatele
-- b) ne
-- c) ano
-
----
-
-### Traťová rychlost (TR) je:
-*Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
-
-- a) rychlost, kterou letadlo letí vůči zemi
-- b) rychlost, kterou nám udává rychloměr
-- c) rychlost vůči vzduchové hmotě
-
----
-
-### Při přechodu aktivní studené fronty II. druhu se setkáváme s typickými nebezpečnými jevy:
-*Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
-
-- a) silnou turbulencí, silnou námrazou, aktivní bouřkovou činností, silnými přeháňkami, silným větrem
-- b) námrazou, trvalými srážkami, zhoršenou dohledností
-- c) nízkou oblačností, mohutnou vrstevnatou oblačností, silným trvalým deštěm
+- a) 60.0
+- b) 45.0
+- c) 30.0
 
 ---
 
@@ -2074,30 +2047,12 @@ Total unique questions: **322**
 
 ---
 
-### Co je to inklinace?
-*Points: 0 | Count: 2 | First Seen: 18.04.2025 | Last Seen: 13.05.2025*
-
-- a) je to úhel chyby kompasu
-- b) je to úhel, o který by se sklonila magnetka kompasu, pokud by na ní nebylo závažíčko
-- c) je to úhel mezi zeměpisným a magnetickým severem
-
----
-
-### Vítr je:
+### Znečištění vrtule hmyzem
 *Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
 
-- a) vertikální pohyb vzduchu
-- b) promíchávání vzduchových částic
-- c) horizontální proudění (přemísťování) vzduchu
-
----
-
-### Překročením maximálních přípustných otáček vrtule:
-*Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
-
-- a) dojde ke zvýšenému namáhání vrtule s následným možným poškozením
-- b) se sníží aerodynamický hluk
-- c) se zvýší její účinnost
+- a) nemá žádný významný vliv
+- b) je žádoucí z hlediska nižšího opotřebení vrtulových listů
+- c) je nežádoucí z důvodu snížení účinnosti vrtule
 
 ---
 
@@ -2110,12 +2065,12 @@ Total unique questions: **322**
 
 ---
 
-### Na jakém principu funguje zatáčkoměr?
+### Jakou rychlost měří rychloměr?
 *Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
 
-- a) na principu pevně upevněného setrvačníku.
-- b) na principu vychylování setrvačníku, tj. na precesním pohybu.
-- c) na principu vychylování závaží.
+- a) absolutní
+- b) rychlost pohybu letadla vůči ovzduší
+- c) skutečnou
 
 ---
 
@@ -2128,12 +2083,57 @@ Total unique questions: **322**
 
 ---
 
-### Jakou rychlost měří rychloměr?
+### Kompozitová konstrukce musí být ochráněna světlou barvou
+*Points: 0 | Count: 2 | First Seen: 18.04.2025 | Last Seen: 13.05.2025*
+
+- a) nemusí být chráněna vůbec
+- b) z důvodu možnosti zahřátí kompozitu nad teplotu jeho sklovitosti
+- c) nemá vliv na její pevnost
+
+---
+
+### Vítr je:
 *Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
 
-- a) absolutní
-- b) rychlost pohybu letadla vůči ovzduší
-- c) skutečnou
+- a) vertikální pohyb vzduchu
+- b) promíchávání vzduchových částic
+- c) horizontální proudění (přemísťování) vzduchu
+
+---
+
+### Na jakém principu funguje zatáčkoměr?
+*Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
+
+- a) na principu pevně upevněného setrvačníku.
+- b) na principu vychylování setrvačníku, tj. na precesním pohybu.
+- c) na principu vychylování závaží.
+
+---
+
+### Při přechodu aktivní studené fronty II. druhu se setkáváme s typickými nebezpečnými jevy:
+*Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
+
+- a) silnou turbulencí, silnou námrazou, aktivní bouřkovou činností, silnými přeháňkami, silným větrem
+- b) námrazou, trvalými srážkami, zhoršenou dohledností
+- c) nízkou oblačností, mohutnou vrstevnatou oblačností, silným trvalým deštěm
+
+---
+
+### Omezený prostor (LK R) je prostor, který pilot:
+*Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
+
+- a) nesmí proletět
+- b) může proletět za splnění stanovených podmínek
+- c) musí proletět
+
+---
+
+### Let musí být prováděn a s letadlem zacházeno tak, aby:
+*Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
+
+- a) nedošlo k letecké nehodě
+- b) nebyla ohrožena bezpečnost cestujících
+- c) nebyla ohrožena bezpečnost cestujících, nákladu, osob a majetku na zemi
 
 ---
 
@@ -2146,17 +2146,17 @@ Total unique questions: **322**
 
 ---
 
-### Znečištění vrtule hmyzem
+### Jaké jsou výhody vícelisté vrtule?
 *Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
 
-- a) nemá žádný významný vliv
-- b) je žádoucí z hlediska nižšího opotřebení vrtulových listů
-- c) je nežádoucí z důvodu snížení účinnosti vrtule
+- a) větší životnost
+- b) klidnější chod a může mít menší průměr
+- c) větší účinnost
 
 ---
 
 ### Kolik souřadných os má letoun a jak se nazývají ?
-*Points: 0 | Count: 2 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
+*Points: 0 | Count: 3 | First Seen: 28.03.2025 | Last Seen: 13.05.2025*
 
 - a) 3, podélná, stranová a zemská
 - b) 4, podélná, stranová, příčná a kolmá
@@ -2182,48 +2182,30 @@ Total unique questions: **322**
 
 ---
 
-### Jaké jsou výhody vícelisté vrtule?
+### Zeměkoule se otočí o 1 stupeň zeměpisné délky za:
+*Points: 0 | Count: 2 | First Seen: 06.04.2025 | Last Seen: 13.05.2025*
+
+- a) 4 min
+- b) 6 min
+- c) 1 min
+
+---
+
+### Co je to inklinace?
+*Points: 0 | Count: 3 | First Seen: 09.04.2025 | Last Seen: 13.05.2025*
+
+- a) je to úhel chyby kompasu
+- b) je to úhel, o který by se sklonila magnetka kompasu, pokud by na ní nebylo závažíčko
+- c) je to úhel mezi zeměpisným a magnetickým severem
+
+---
+
+### Srážky vypadávající z oblačnosti typu Cb - cumulonimbus, jsou charakteru:
 *Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
 
-- a) větší životnost
-- b) klidnější chod a může mít menší průměr
-- c) větší účinnost
-
----
-
-### 9 cm na mapě 1 : 500 000 odpovídá ve skutečnosti:
-*Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
-
-- a) 50 km
-- b) 60 km
-- c) 45 km
-
----
-
-### Let musí být prováděn a s letadlem zacházeno tak, aby:
-*Points: 0 | Count: 1 | First Seen: 13.05.2025 | Last Seen: 13.05.2025*
-
-- a) nedošlo k letecké nehodě
-- b) nebyla ohrožena bezpečnost cestujících
-- c) nebyla ohrožena bezpečnost cestujících, nákladu, osob a majetku na zemi
-
----
-
-### 225 stupňů je vedlejší světová strana:
-*Points: 3 | Count: 1 | First Seen: 07.05.2025 | Last Seen: 07.05.2025*
-
-- a) jihovýchod
-- b) jihozápad
-- c) severozápad
-
----
-
-### Které z následujících typů oblačnosti jsou známkou instabilní (nestabilní) vzduchové hmoty?
-*Points: 3 | Count: 1 | First Seen: 07.05.2025 | Last Seen: 07.05.2025*
-
-- a) Sc, Ns
-- b) Cu, Cb
-- c) St, Cs
+- a) mrholení
+- b) trvalých srážek
+- c) silných přeháněk
 
 ---
 
@@ -2236,15 +2218,6 @@ Total unique questions: **322**
 
 ---
 
-### V oblasti tlakové níže na severní polokouli vane vítr při zemi:
-*Points: 3 | Count: 1 | First Seen: 07.05.2025 | Last Seen: 07.05.2025*
-
-- a) rovně do středu níže v celé její oblasti
-- b) proti směru pohybu hodinových ručiček
-- c) ve směru pohybu hodinových ručiček
-
----
-
 ### Větší část vztlaku vzniká:
 *Points: 3 | Count: 2 | First Seen: 02.05.2025 | Last Seen: 07.05.2025*
 
@@ -2254,12 +2227,30 @@ Total unique questions: **322**
 
 ---
 
-### Kurz zeměpisný měříme:
-*Points: 1 | Count: 2 | First Seen: 20.04.2025 | Last Seen: 07.05.2025*
+### Které z následujících typů oblačnosti jsou známkou instabilní (nestabilní) vzduchové hmoty?
+*Points: 3 | Count: 1 | First Seen: 07.05.2025 | Last Seen: 07.05.2025*
 
-- a) od severu zeměpisného místního poledníku
-- b) od směrníku
-- c) od nultého poledníku
+- a) Sc, Ns
+- b) Cu, Cb
+- c) St, Cs
+
+---
+
+### V oblasti tlakové níže na severní polokouli vane vítr při zemi:
+*Points: 3 | Count: 2 | First Seen: 11.04.2025 | Last Seen: 07.05.2025*
+
+- a) rovně do středu níže v celé její oblasti
+- b) proti směru pohybu hodinových ručiček
+- c) ve směru pohybu hodinových ručiček
+
+---
+
+### 225 stupňů je vedlejší světová strana:
+*Points: 3 | Count: 2 | First Seen: 28.03.2025 | Last Seen: 07.05.2025*
+
+- a) jihovýchod
+- b) jihozápad
+- c) severozápad
 
 ---
 
@@ -2272,21 +2263,12 @@ Total unique questions: **322**
 
 ---
 
-### Součinitel vztlaku je nejvíce ovlivněn:
-*Points: 1 | Count: 1 | First Seen: 07.05.2025 | Last Seen: 07.05.2025*
+### Kurz zeměpisný měříme:
+*Points: 1 | Count: 2 | First Seen: 20.04.2025 | Last Seen: 07.05.2025*
 
-- a) zakřivením profilu
-- b) rychlostí proudění
-- c) hloubkou profilu
-
----
-
-### Řízení provedené tuhým přenosem je provedeno:
-*Points: 1 | Count: 3 | First Seen: 19.04.2025 | Last Seen: 07.05.2025*
-
-- a) pomocí pák a táhel
-- b) pomocí lan
-- c) pomocí bovdenů a lan
+- a) od severu zeměpisného místního poledníku
+- b) od směrníku
+- c) od nultého poledníku
 
 ---
 
@@ -2299,6 +2281,24 @@ Total unique questions: **322**
 
 ---
 
+### Řízení provedené tuhým přenosem je provedeno:
+*Points: 1 | Count: 4 | First Seen: 06.04.2025 | Last Seen: 07.05.2025*
+
+- a) pomocí pák a táhel
+- b) pomocí lan
+- c) pomocí bovdenů a lan
+
+---
+
+### Součinitel vztlaku je nejvíce ovlivněn:
+*Points: 1 | Count: 1 | First Seen: 07.05.2025 | Last Seen: 07.05.2025*
+
+- a) zakřivením profilu
+- b) rychlostí proudění
+- c) hloubkou profilu
+
+---
+
 ### V pouzdru přístroje barometrického výškoměru je tlakoměrná krabice.
 *Points: 0 | Count: 2 | First Seen: 25.04.2025 | Last Seen: 07.05.2025*
 
@@ -2308,12 +2308,12 @@ Total unique questions: **322**
 
 ---
 
-### Zkratka AGL u výškového údaje v letecké mapě znamená:
-*Points: 3 | Count: 2 | First Seen: 20.04.2025 | Last Seen: 04.05.2025*
+### Zvláštní lety VFR pro letadla v řízeném okrsku se smí provádět mimo mraky, za stálé viditelnosti země při minimální přízemní i letové dohlednosti:
+*Points: 3 | Count: 1 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
 
-- a) výšku vztaženou k oblastnímu tlaku
-- b) výšku na úrovni moře
-- c) výšku nad úrovní země
+- a) 500 m
+- b) 1 km
+- c) 1,5 km pro letouny a 0,8 km pro vrtulníky
 
 ---
 
@@ -2326,48 +2326,12 @@ Total unique questions: **322**
 
 ---
 
-### Platný pilotní průkaz musí mít pilot u sebe:
-*Points: 3 | Count: 2 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
-
-- a) při přeletu
-- b) při každém letu
-- c) při mimoletištním letu
-
----
-
-### Jaké letové a navigační přístroje musí být zabudovány v ULL či MZK?
-*Points: 3 | Count: 1 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
-
-- a) variometr, výškoměr, hodiny
-- b) rychloměr, výškoměr, kompas
-- c) umělý horizont, variometr, zatáčkoměr
-
----
-
-### O stabilní vzduchové hmotě mluvíme tehdy, platí-li:
-*Points: 3 | Count: 2 | First Seen: 18.04.2025 | Last Seen: 04.05.2025*
-
-- a) dochází v ní ke vzniku konvekce
-- b) jsou v ní nepříznivé podmínky pro vznik výstupných proudů
-- c) jsou v ní příznivé podmínky pro vznik výstupných pohybů
-
----
-
 ### Vztlak vzniká při obtékání profilu v důsledku vytvoření rozdílu tlaků nad a pod profilem. Jaký tlak je pod a nad profilem a jaký je při běžných úhlech náběhu poměr jejich velikostí?
 *Points: 3 | Count: 1 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
 
 - a) pod profilem vzniká podtlak, nad profilem přetlak, který je asi třikrát větší, než podtlak
 - b) pod profilem vzniká přetlak, nad profilem podtlak, jejichž velikosti jsou stejné
 - c) pod profilem vzniká přetlak , nad profilem podtlak, ve vzájemném poměru je 1/3 přetlaku a 2/3 podtlaku
-
----
-
-### Elektrické vedení procházející otvorem musí být chráněno zvýšenou izolací (např. gumovou průchodkou), která jej chrání před poškozením?
-*Points: 3 | Count: 2 | First Seen: 27.04.2025 | Last Seen: 04.05.2025*
-
-- a) ne
-- b) ano
-- c) jen u zapalování
 
 ---
 
@@ -2380,21 +2344,30 @@ Total unique questions: **322**
 
 ---
 
-### Letadlo, které je předjížděno jiným letadlem má přednost a pilot předjíždějícího letadla je povinen udržovat od předjížděného letadla:
-*Points: 3 | Count: 1 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
+### O stabilní vzduchové hmotě mluvíme tehdy, platí-li:
+*Points: 3 | Count: 2 | First Seen: 18.04.2025 | Last Seen: 04.05.2025*
 
-- a) dostatečnou vzdálenost
-- b) vzdálenost minimálně 5 m
-- c) vzdálenost minimálně 1/2 rozpětí křídel většího letadla
+- a) dochází v ní ke vzniku konvekce
+- b) jsou v ní nepříznivé podmínky pro vznik výstupných proudů
+- c) jsou v ní příznivé podmínky pro vznik výstupných pohybů
 
 ---
 
-### Účinnost pevné vrtule navržené pro cestovní let je nejhorší:
+### Na vstřícné trati letí letadla stejné kategorie. Opatření k vyhnutí provede:
 *Points: 3 | Count: 1 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
 
-- a) při rozjezdu
-- b) ve stoupání
-- c) v cestovním režimu
+- a) změnou kurzu vlevo
+- b) obě letadla změnou kurzu vpravo
+- c) vy změnou kurzu vpravo, druhé letadlo vlevo
+
+---
+
+### Platný pilotní průkaz musí mít pilot u sebe:
+*Points: 3 | Count: 2 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
+
+- a) při přeletu
+- b) při každém letu
+- c) při mimoletištním letu
 
 ---
 
@@ -2416,12 +2389,21 @@ Total unique questions: **322**
 
 ---
 
-### Na vstřícné trati letí letadla stejné kategorie. Opatření k vyhnutí provede:
+### Účinnost pevné vrtule navržené pro cestovní let je nejhorší:
 *Points: 3 | Count: 1 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
 
-- a) změnou kurzu vlevo
-- b) obě letadla změnou kurzu vpravo
-- c) vy změnou kurzu vpravo, druhé letadlo vlevo
+- a) při rozjezdu
+- b) ve stoupání
+- c) v cestovním režimu
+
+---
+
+### Zkratka AGL u výškového údaje v letecké mapě znamená:
+*Points: 3 | Count: 3 | First Seen: 09.04.2025 | Last Seen: 04.05.2025*
+
+- a) výšku vztaženou k oblastnímu tlaku
+- b) výšku na úrovni moře
+- c) výšku nad úrovní země
 
 ---
 
@@ -2434,8 +2416,17 @@ Total unique questions: **322**
 
 ---
 
+### Elektrické vedení procházející otvorem musí být chráněno zvýšenou izolací (např. gumovou průchodkou), která jej chrání před poškozením?
+*Points: 3 | Count: 2 | First Seen: 27.04.2025 | Last Seen: 04.05.2025*
+
+- a) ne
+- b) ano
+- c) jen u zapalování
+
+---
+
 ### Poloha zeměpisného a magnetického pólu:
-*Points: 3 | Count: 3 | First Seen: 19.04.2025 | Last Seen: 04.05.2025*
+*Points: 3 | Count: 4 | First Seen: 28.03.2025 | Last Seen: 04.05.2025*
 
 - a) totožná
 - b) magnetický pól je vždy na východ od zeměpisného
@@ -2443,12 +2434,21 @@ Total unique questions: **322**
 
 ---
 
-### Zvláštní lety VFR pro letadla v řízeném okrsku se smí provádět mimo mraky, za stálé viditelnosti země při minimální přízemní i letové dohlednosti:
+### Letadlo, které je předjížděno jiným letadlem má přednost a pilot předjíždějícího letadla je povinen udržovat od předjížděného letadla:
 *Points: 3 | Count: 1 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
 
-- a) 500 m
-- b) 1 km
-- c) 1,5 km pro letouny a 0,8 km pro vrtulníky
+- a) dostatečnou vzdálenost
+- b) vzdálenost minimálně 5 m
+- c) vzdálenost minimálně 1/2 rozpětí křídel většího letadla
+
+---
+
+### Jaké letové a navigační přístroje musí být zabudovány v ULL či MZK?
+*Points: 3 | Count: 1 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
+
+- a) variometr, výškoměr, hodiny
+- b) rychloměr, výškoměr, kompas
+- c) umělý horizont, variometr, zatáčkoměr
 
 ---
 
@@ -2461,8 +2461,26 @@ Total unique questions: **322**
 
 ---
 
+### Letíte-li směrem na sever nebo na jih a prudce změníte rychlost, magnetický kompas:
+*Points: 1 | Count: 2 | First Seen: 06.04.2025 | Last Seen: 04.05.2025*
+
+- a) ukáže změnu kurzu
+- b) se rozkolísá
+- c) bude ukazovat stále stejný kurs
+
+---
+
+### Nebezpečný prostor (LK D) je vymezený vzdušný prostor, ve kterém je ve vyhlášené době letecká činnost:
+*Points: 1 | Count: 2 | First Seen: 28.03.2025 | Last Seen: 04.05.2025*
+
+- a) omezená
+- b) nebezpečná
+- c) zakázaná
+
+---
+
 ### Vyšší účinnost má vrtule:
-*Points: 1 | Count: 1 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
+*Points: 1 | Count: 3 | First Seen: 06.04.2025 | Last Seen: 04.05.2025*
 
 - a) s vyššími otáčkami
 - b) otáčky na účinnost vrtule nemají vliv
@@ -2479,30 +2497,21 @@ Total unique questions: **322**
 
 ---
 
+### Lety VFR ve vzdušném prostoru třídy G se musí provádět tak, aby letadlo letělo:
+*Points: 0 | Count: 2 | First Seen: 11.04.2025 | Last Seen: 04.05.2025*
+
+- a) při stejné nebo větší vzdálenosti od oblaku než - horizontálně 1,5 km, vertikálně 300 m
+- b) při stejné nebo větší vzdálenosti od oblaku než - horizontálně 5 km, vertikálně 300 m
+- c) vně oblaků za stálé dohlednosti země
+
+---
+
 ### Čočkovité podlouhlé mraky:
 *Points: 0 | Count: 1 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
 
 - a) se vyskytují hlavně v tropech, u nás se objeví jen zřídka na jaře při prudké změně teploty
 - b) znamenají, že fouká ve výšce silný vítr, tudíž může hrozit nárazovitost větru
 - c) hlavně v létě znamenají, že se blíží nebezpečný druh okluzní fronty
-
----
-
-### Nebezpečný prostor (LK D) je vymezený vzdušný prostor, ve kterém je ve vyhlášené době letecká činnost:
-*Points: 0 | Count: 1 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
-
-- a) omezená
-- b) nebezpečná
-- c) zakázaná
-
----
-
-### Lety VFR ve vzdušném prostoru třídy G se musí provádět tak, aby letadlo letělo:
-*Points: 0 | Count: 1 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
-
-- a) při stejné nebo větší vzdálenosti od oblaku než - horizontálně 1,5 km, vertikálně 300 m
-- b) při stejné nebo větší vzdálenosti od oblaku než - horizontálně 5 km, vertikálně 300 m
-- c) vně oblaků za stálé dohlednosti země
 
 ---
 
@@ -2516,7 +2525,7 @@ Total unique questions: **322**
 ---
 
 ### Doba platnosti lékařského posudku o zdravotní způsobilosti je pro piloty
-*Points: 0 | Count: 4 | First Seen: 07.04.2025 | Last Seen: 04.05.2025*
+*Points: 0 | Count: 5 | First Seen: 06.04.2025 | Last Seen: 04.05.2025*
 
 - a) 12 měsíců u osob od 75 let
 - b) 36 měsíců u osob od 30 do 60 let
@@ -2524,12 +2533,21 @@ Total unique questions: **322**
 
 ---
 
-### Letíte-li směrem na sever nebo na jih a prudce změníte rychlost, magnetický kompas:
-*Points: 0 | Count: 1 | First Seen: 04.05.2025 | Last Seen: 04.05.2025*
+### Se studenou frontu I. druhu jsou obvykle spojeny nebezpečné jevy:
+*Points: 3 | Count: 2 | First Seen: 09.04.2025 | Last Seen: 02.05.2025*
 
-- a) ukáže změnu kurzu
-- b) se rozkolísá
-- c) bude ukazovat stále stejný kurs
+- a) pouze nízká oblačnost vrstevnatého typu
+- b) oblaka Cb - cumulonimbus na čele fronty ukrytá v nízké vrstevnaté oblačnosti, turbulence a námraza
+- c) silný nárazovitý přízemní vítr
+
+---
+
+### Letadlo, které je podle pravidel povinno dát přednost jinému letadlu se musí:
+*Points: 3 | Count: 2 | First Seen: 11.04.2025 | Last Seen: 02.05.2025*
+
+- a) vyhnout tak, aby byla mezi letadly dodržena vertikální vzdálenost 150 m
+- b) vyhnout tak, aby byla mezi letadly dodržena vodorovná vzdálenost 300 m
+- c) vyhnout tím, že nadletí, podletí nebo křižuje jeho trať v dostatečné vzdálenosti
 
 ---
 
@@ -2551,30 +2569,21 @@ Total unique questions: **322**
 
 ---
 
-### Letadlo, které je podle pravidel povinno dát přednost jinému letadlu se musí:
-*Points: 0 | Count: 1 | First Seen: 02.05.2025 | Last Seen: 02.05.2025*
-
-- a) vyhnout tak, aby byla mezi letadly dodržena vertikální vzdálenost 150 m
-- b) vyhnout tak, aby byla mezi letadly dodržena vodorovná vzdálenost 300 m
-- c) vyhnout tím, že nadletí, podletí nebo křižuje jeho trať v dostatečné vzdálenosti
-
----
-
-### Se studenou frontu I. druhu jsou obvykle spojeny nebezpečné jevy:
-*Points: 0 | Count: 1 | First Seen: 02.05.2025 | Last Seen: 02.05.2025*
-
-- a) pouze nízká oblačnost vrstevnatého typu
-- b) oblaka Cb - cumulonimbus na čele fronty ukrytá v nízké vrstevnaté oblačnosti, turbulence a námraza
-- c) silný nárazovitý přízemní vítr
-
----
-
 ### Na ULL je instalována dřevěná vrtule. Tato je připevněna pomocí šroubů, které jsou:
-*Points: 0 | Count: 1 | First Seen: 02.05.2025 | Last Seen: 02.05.2025*
+*Points: 0 | Count: 2 | First Seen: 28.03.2025 | Last Seen: 02.05.2025*
 
 - a) dotaženy přes jednu centrální podložku
 - b) dotaženy přes samostatné podložky
 - c) dotaženy bez podložek
+
+---
+
+### Je povinností velitele letadla vybaveného radiostanicí při příletu na neřízené letiště vysílat polohu "Finále"?
+*Points: 3 | Count: 2 | First Seen: 20.04.2025 | Last Seen: 27.04.2025*
+
+- a) Ano
+- b) Ne
+- c) jen když usoudí, že je to z hlediska bezpečnosti provozu potřebné
 
 ---
 
@@ -2588,20 +2597,11 @@ Total unique questions: **322**
 ---
 
 ### Zatížení letadla za letu může být:
-*Points: 3 | Count: 2 | First Seen: 24.04.2025 | Last Seen: 27.04.2025*
+*Points: 3 | Count: 3 | First Seen: 09.04.2025 | Last Seen: 27.04.2025*
 
 - a) statické a dynamické
 - b) pouze dynamické
 - c) pouze statické
-
----
-
-### Je povinností velitele letadla vybaveného radiostanicí při příletu na neřízené letiště vysílat polohu "Finále"?
-*Points: 3 | Count: 2 | First Seen: 20.04.2025 | Last Seen: 27.04.2025*
-
-- a) Ano
-- b) Ne
-- c) jen když usoudí, že je to z hlediska bezpečnosti provozu potřebné
 
 ---
 
@@ -2624,20 +2624,11 @@ Total unique questions: **322**
 ---
 
 ### Malá kružnice je:
-*Points: 1 | Count: 2 | First Seen: 24.04.2025 | Last Seen: 25.04.2025*
+*Points: 1 | Count: 3 | First Seen: 11.04.2025 | Last Seen: 25.04.2025*
 
 - a) jakákoliv kružnice na povrchu země neprocházející průsečíkem nultého poledníku a rovníku
 - b) kružnice, jejíž rovina neprochází středem zeměkoule
 - c) poledník, který prochází rovníkem na opačné straně
-
----
-
-### Maximální vzletovou hmotnost sportovního létajícího zařízení lze překročit pouze o
-*Points: 0 | Count: 1 | First Seen: 25.04.2025 | Last Seen: 25.04.2025*
-
-- a) hmotnost padákového záchranného systému, maimálně však o 35kg
-- b) hmotnost integrovaného záchranného systému v případě jeho zástavby
-- c) hmotnost padákového záchranného systému a hmotnost plováků v případě jejich zástavby
 
 ---
 
@@ -2650,15 +2641,6 @@ Total unique questions: **322**
 
 ---
 
-### Nezbytným předpokladem pro kondenzaci nasycených vodních par v troposféře je přítomnost kondenzačních jader, kterými jsou:
-*Points: 0 | Count: 1 | First Seen: 25.04.2025 | Last Seen: 25.04.2025*
-
-- a) kapalné částice
-- b) pevné částice
-- c) kapalné i pevné částice
-
----
-
 ### Může mít variometr dva vývody?
 *Points: 0 | Count: 1 | First Seen: 25.04.2025 | Last Seen: 25.04.2025*
 
@@ -2668,12 +2650,30 @@ Total unique questions: **322**
 
 ---
 
-### Pro vznik vertikálních pohybů v troposféře je příznivé zvrstvení:
-*Points: 3 | Count: 1 | First Seen: 24.04.2025 | Last Seen: 24.04.2025*
+### Maximální vzletovou hmotnost sportovního létajícího zařízení lze překročit pouze o
+*Points: 0 | Count: 1 | First Seen: 25.04.2025 | Last Seen: 25.04.2025*
 
-- a) indiferentní
-- b) instabilní
-- c) stabilní
+- a) hmotnost padákového záchranného systému, maimálně však o 35kg
+- b) hmotnost integrovaného záchranného systému v případě jeho zástavby
+- c) hmotnost padákového záchranného systému a hmotnost plováků v případě jejich zástavby
+
+---
+
+### Nezbytným předpokladem pro kondenzaci nasycených vodních par v troposféře je přítomnost kondenzačních jader, kterými jsou:
+*Points: 0 | Count: 1 | First Seen: 25.04.2025 | Last Seen: 25.04.2025*
+
+- a) kapalné částice
+- b) pevné částice
+- c) kapalné i pevné částice
+
+---
+
+### Barometrický výškoměr pracuje na základě
+*Points: 3 | Count: 2 | First Seen: 06.04.2025 | Last Seen: 24.04.2025*
+
+- a) změny dynamického tlaku s výškou
+- b) změny celkového tlaku s výškou
+- c) změny statického tlaku s výškou
 
 ---
 
@@ -2687,7 +2687,7 @@ Total unique questions: **322**
 ---
 
 ### Letadlo pojíždějící po provozní ploše (před vzletem) musí dát přednost letadlu:
-*Points: 3 | Count: 1 | First Seen: 24.04.2025 | Last Seen: 24.04.2025*
+*Points: 3 | Count: 2 | First Seen: 06.04.2025 | Last Seen: 24.04.2025*
 
 - a) rychlejšímu
 - b) které vzlétá nebo se nachází v poloze pro vzlet
@@ -2696,7 +2696,7 @@ Total unique questions: **322**
 ---
 
 ### Ověřit před provedením letu, zda byla na letadle provedena předepsaná údržba je povinen:
-*Points: 3 | Count: 1 | First Seen: 24.04.2025 | Last Seen: 24.04.2025*
+*Points: 3 | Count: 2 | First Seen: 09.04.2025 | Last Seen: 24.04.2025*
 
 - a) provozovatel
 - b) mechanik
@@ -2704,12 +2704,12 @@ Total unique questions: **322**
 
 ---
 
-### Barometrický výškoměr pracuje na základě
+### Pro vznik vertikálních pohybů v troposféře je příznivé zvrstvení:
 *Points: 3 | Count: 1 | First Seen: 24.04.2025 | Last Seen: 24.04.2025*
 
-- a) změny dynamického tlaku s výškou
-- b) změny celkového tlaku s výškou
-- c) změny statického tlaku s výškou
+- a) indiferentní
+- b) instabilní
+- c) stabilní
 
 ---
 
@@ -2740,21 +2740,21 @@ Total unique questions: **322**
 
 ---
 
-### Horizontální červená čtvercová deska s jednou žlutou úhlopříčkou vyložená v signální (návěstní) ploše znamená?
-*Points: 1 | Count: 1 | First Seen: 20.04.2025 | Last Seen: 20.04.2025*
-
-- a) nezpůsobilost provozní plochy
-- b) vzhledem ke špatnému stavu provozní plochy nebo z jakékoliv jiné příčiny je přistání zakázano
-- c) vzhledem ke špatnému stavu provozní plochy nebo z jakékoliv jiné příčiny se musí přiblížení na přistání a přistání provádět zvláště opatrně
-
----
-
 ### Bouřky z tepla se tvoří:
 *Points: 1 | Count: 1 | First Seen: 20.04.2025 | Last Seen: 20.04.2025*
 
 - a) nejčastěji během noci
 - b) nejčastěji odpoledne a večer, v hodinách nejvyšších přízemních teplot
 - c) kdykoli
+
+---
+
+### Horizontální červená čtvercová deska s jednou žlutou úhlopříčkou vyložená v signální (návěstní) ploše znamená?
+*Points: 1 | Count: 1 | First Seen: 20.04.2025 | Last Seen: 20.04.2025*
+
+- a) nezpůsobilost provozní plochy
+- b) vzhledem ke špatnému stavu provozní plochy nebo z jakékoliv jiné příčiny je přistání zakázano
+- c) vzhledem ke špatnému stavu provozní plochy nebo z jakékoliv jiné příčiny se musí přiblížení na přistání a přistání provádět zvláště opatrně
 
 ---
 
@@ -2768,11 +2768,20 @@ Total unique questions: **322**
 ---
 
 ### Letíte-li směrem na východ nebo na západ a prudce změníte rychlost, magnetický kompas: :
-*Points: 0 | Count: 1 | First Seen: 20.04.2025 | Last Seen: 20.04.2025*
+*Points: 0 | Count: 2 | First Seen: 28.03.2025 | Last Seen: 20.04.2025*
 
 - a) bude ukazovat stále stejný kurs
 - b) ukáže změnu kurzu
 - c) se rozkolísá
+
+---
+
+### Jaký je správný sled činnosti čtyřdobého motoru?
+*Points: 3 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 19.04.2025*
+
+- a) komprese, sání, epanze, výfuk
+- b) sání, komprese, epanze, výfuk
+- c) sání, komprese, výfuk, epanze
 
 ---
 
@@ -2786,29 +2795,11 @@ Total unique questions: **322**
 ---
 
 ### Ocasní plochy letadla jsou:
-*Points: 3 | Count: 1 | First Seen: 19.04.2025 | Last Seen: 19.04.2025*
+*Points: 3 | Count: 2 | First Seen: 06.04.2025 | Last Seen: 19.04.2025*
 
 - a) zařízení, které vyvozuje reakční moment
 - b) pohyblivé plochy, jimiž se mění za letu klopení a zatáčení
 - c) vodorovné i svislé plochy, v některých případfech motýlkovité, zpravidla na konci trupu, jak nepohyblivé tak pohyblivé
-
----
-
-### Jaký je správný sled činnosti čtyřdobého motoru?
-*Points: 3 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 19.04.2025*
-
-- a) komprese, sání, epanze, výfuk
-- b) sání, komprese, epanze, výfuk
-- c) sání, komprese, výfuk, epanze
-
----
-
-### Vertikální mohutnost troposféry je největší:
-*Points: 1 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 19.04.2025*
-
-- a) nad póly
-- b) nad rovníkovými oblastmi
-- c) v mírném pásu
 
 ---
 
@@ -2821,12 +2812,12 @@ Total unique questions: **322**
 
 ---
 
-### Klikový mechanismus slouží pro:
-*Points: 0 | Count: 1 | First Seen: 19.04.2025 | Last Seen: 19.04.2025*
+### Vertikální mohutnost troposféry je největší:
+*Points: 1 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 19.04.2025*
 
-- a) roztáčení motoru (startování)
-- b) otvírání klikové skříně
-- c) převod pohybu přímočarého – vratného na pohyb otáčivý
+- a) nad póly
+- b) nad rovníkovými oblastmi
+- c) v mírném pásu
 
 ---
 
@@ -2839,21 +2830,30 @@ Total unique questions: **322**
 
 ---
 
-### Minimální letová dohlednost ve vzdušném prostoru třídy E je:
-*Points: 0 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 19.04.2025*
-
-- a) 8 km
-- b) 1,5 km
-- c) 5 km
-
----
-
 ### Přibližují-li se dvě nebo více letadel těžších vzduchu k jednomu letišti s úmyslem přistát a nevztahují-li se na ně pravidla pro vyhýbání, platí přednost pro přistání:
 *Points: 0 | Count: 1 | First Seen: 19.04.2025 | Last Seen: 19.04.2025*
 
 - a) pomalejší letadlo dát přednost rychlejšímu
 - b) výše letící letadlo dát přednost letadlu letícímu níže
 - c) letadlo letící vlevo dát přednost letadlům přilétávajícím zprava
+
+---
+
+### Klikový mechanismus slouží pro:
+*Points: 0 | Count: 1 | First Seen: 19.04.2025 | Last Seen: 19.04.2025*
+
+- a) roztáčení motoru (startování)
+- b) otvírání klikové skříně
+- c) převod pohybu přímočarého – vratného na pohyb otáčivý
+
+---
+
+### Minimální letová dohlednost ve vzdušném prostoru třídy E je:
+*Points: 0 | Count: 2 | First Seen: 07.04.2025 | Last Seen: 19.04.2025*
+
+- a) 8 km
+- b) 1,5 km
+- c) 5 km
 
 ---
 
@@ -2866,21 +2866,21 @@ Total unique questions: **322**
 
 ---
 
-### Zajistit seznámení členů posádky s umístěním a způsobem použití bezpečnostních pásů musí:
-*Points: 1 | Count: 1 | First Seen: 18.04.2025 | Last Seen: 18.04.2025*
-
-- a) majitel letadla
-- b) velitel letadla (pilot)
-- c) provozovatel
-
----
-
 ### Ve vzdušném prostoru G se požadavek na spojení?
-*Points: 1 | Count: 1 | First Seen: 18.04.2025 | Last Seen: 18.04.2025*
+*Points: 1 | Count: 2 | First Seen: 11.04.2025 | Last Seen: 18.04.2025*
 
 - a) vyžaduje se nad 150 m nad terénem
 - b) nevyžaduje
 - c) vyžaduje, musí být stálé obousměrné
+
+---
+
+### Zajistit seznámení členů posádky s umístěním a způsobem použití bezpečnostních pásů musí:
+*Points: 1 | Count: 2 | First Seen: 06.04.2025 | Last Seen: 18.04.2025*
+
+- a) majitel letadla
+- b) velitel letadla (pilot)
+- c) provozovatel
 
 ---
 
@@ -2893,9 +2893,261 @@ Total unique questions: **322**
 
 ---
 
+### Statické zatížení konstrukce letadla je definováno následovně:
+*Points: 3 | Count: 1 | First Seen: 11.04.2025 | Last Seen: 11.04.2025*
+
+- a) je to zatížení, jehož velikost se z časem mění náhle, nebo skokově
+- b) je to zatížení při dlouhodobém stání letadla na zemi
+- c) je to zatížení, jehož velikost se s časem nemění nebo se mění poměrně pomalu (vliv jeho časového průběhu je zanedbatelný)
+
+---
+
+### Nebezpečné jevy spojené s bouřkou:
+*Points: 3 | Count: 2 | First Seen: 06.04.2025 | Last Seen: 11.04.2025*
+
+- a) hustota oblaku, který je složen z kapalné i pevné fáze vody
+- b) silné výstupné proudy s maimem v horní polovině Cb – cumulonimbu, silná turbulence, sestupné proudy s maimem blízko základny, silná námraza, elektrické vlastnosti Cb - cumulonimbu
+- c) výstupné proudy a růst Cb - cumulonimbus oblaku
+
+---
+
+### Zamrzání karburátoru je možno očekávat nejčastěji při těchto vlivech:
+*Points: 3 | Count: 1 | First Seen: 11.04.2025 | Last Seen: 11.04.2025*
+
+- a) vysoké vlhkosti vzduchu a teplotě přibližně pod + 5°C
+- b) v zimě, je-li počasí ovlivňováno tlakovou výší
+- c) při chybné regulaci složení palivové směsi
+
+---
+
+### Ze SLZ není dovoleno:
+*Points: 3 | Count: 1 | First Seen: 11.04.2025 | Last Seen: 11.04.2025*
+
+- a) nic shazovat nebo rozprašovat, s výjimkou dodržení určitých podmínek
+- b) pouze rozprašovat
+- c) shazovat předměty v době mezi východem a západem slunce
+
+---
+
+### Námraza na vrtuli letounu může mít následující následky:
+*Points: 1 | Count: 1 | First Seen: 11.04.2025 | Last Seen: 11.04.2025*
+
+- a) odlétávající kusy ledu ohrožující další části letadla a motoru
+- b) jen velmi obtížně rozeznatelné při provozu
+- c) nevyváženost vrtule, nebezpečí vibrací, odlétávající kusy ledu ohrožující další části letadla a motoru, snížení účinnosti vrtule
+
+---
+
+### Obvykle jaké přízemní počasí je spojeno se stálou oblastí vysokého tlaku vzduchu v zimě nad pevninou?
+*Points: 1 | Count: 1 | First Seen: 11.04.2025 | Last Seen: 11.04.2025*
+
+- a) Oblačnost typu Ns s trvalým deštěm
+- b) Tendence k mlze a nízké oblačnosti typu St
+- c) Bouřky
+
+---
+
+### Může se po přechodu studené fronty vytvořit mlha a ve které její oblasti?
+*Points: 1 | Count: 1 | First Seen: 09.04.2025 | Last Seen: 09.04.2025*
+
+- a) ano, za čárou fronty – mlha zafrontální
+- b) ne
+- c) ano, před čarou fronty v oblasti vypadávajících srážek
+
+---
+
+### Definice dohlednosti zní:
+*Points: 1 | Count: 1 | First Seen: 09.04.2025 | Last Seen: 09.04.2025*
+
+- a) dohlednost dopředu z kabiny letadla za letu daná meteorologickými podmínkami a vyjádřená v jednotkách délkové míry
+- b) schopnost vidět a rozeznávat význačné neosvětlené předměty ve dne a světla v noci z kabiny letadla za letu
+- c) schopnost vidět a rozeznávat význačné neosvětlené předměty ve dne a světla v noci určená atmosférickými podmínkami a vyjádřená jednotkami vzdálenosti
+
+---
+
+### Doba platnosti lékařského posudku o zdravotní způsobilosti pro piloty SLZ je
+*Points: 0 | Count: 1 | First Seen: 09.04.2025 | Last Seen: 09.04.2025*
+
+- a) 60 měsíců u osob do 40 let
+- b) 24 měsíců u osob od 20 do 60 let
+- c) neomezená u osob do 60 let
+
+---
+
+### Jak se nazývají druhy odporu, které vznikají na profilu a v čem mají svůj původ?
+*Points: 0 | Count: 1 | First Seen: 09.04.2025 | Last Seen: 09.04.2025*
+
+- a) indukovaný odpor vzniká obtékáním profilu indukovanou rychlostí, třecí odpor třením vzduchu o konstrukční výčnělky profilu
+- b) třecí odpor vzniká v mezní vrstvě a tlakový odpor vytvořením úplavu při odtrhávání proudu
+- c) třecí odpor vzniká na zadní straně profilu za jeho maimální tloušťkou
+
+---
+
+### Skutečný, zcela holý povrch země se soušemi, nerovnostmi a hladinami moří se nazývá:
+*Points: 0 | Count: 1 | First Seen: 09.04.2025 | Last Seen: 09.04.2025*
+
+- a) projekce mapy
+- b) topografická plocha
+- c) topografická situace
+
+---
+
 ### Kontakty akumulátoru se značí?
 *Points: 1 | Count: 1 | First Seen: 07.04.2025 | Last Seen: 07.04.2025*
 
 - a) kladný (+) modře, záporný (–) červeně
 - b) kladný (+) červeně, záporný (–) modře
 - c) kladný (–) červeně, záporný (+) modře
+
+---
+
+### Trať vašeho letu křižuje zleva doprava kluzák. Opatření k vyhnutí provede:
+*Points: 3 | Count: 1 | First Seen: 06.04.2025 | Last Seen: 06.04.2025*
+
+- a) letadlo s větší rychlostí nebo výškou
+- b) vy
+- c) kluzák
+
+---
+
+### Co je to příčný relativní sklonoměr?
+*Points: 3 | Count: 2 | First Seen: 28.03.2025 | Last Seen: 06.04.2025*
+
+- a) Je to přístroj, ve kterém je prohnutá skleněná trubice vyplněná tlumící kapalinou, v níž se pohybuje kulička
+- b) Je to přístroj, ve kterém je prohnutá skleněná trubice vyplněná kapalinou, v níž se pohybuje bublina
+- c) Je to přístroj, ve kterém je nahoru prohnutá kovová trubice vyplněná tlumící kapalinou, v níž se pohybuje magnetická kulička
+
+---
+
+### Maximální vzletová hmotnost letadla je:
+*Points: 3 | Count: 1 | First Seen: 06.04.2025 | Last Seen: 06.04.2025*
+
+- a) největší hmotnost uvažovaná pro pojíždění letadla před vzletem
+- b) největší hmotnost naloženého letadla připraveného ke vzletu bez ohledu na omezení
+- c) největší hmotnost, při které letadlo vyhovuje technickým a zákonným omezením pro vzlet
+
+---
+
+### Vztlak na profilu křídla:
+*Points: 3 | Count: 1 | First Seen: 06.04.2025 | Last Seen: 06.04.2025*
+
+- a) vzniká působením Coriolisovy síly a vyrovnáváním tlaku nad a pod profilem
+- b) vzniká v důsledku úhlu náběhu a změny teploty vzduchu nad a pod křídlem
+- c) vzniká v důsledku rozdílné rychlosti proudu nad a pod profilem
+
+---
+
+### V oblasti tlakové výše vane na severní polokouli vítr při zemi:
+*Points: 3 | Count: 1 | First Seen: 06.04.2025 | Last Seen: 06.04.2025*
+
+- a) rovně ze středu výše v celé její oblasti
+- b) proti směru pohybu hodinových ručiček
+- c) ve směru pohybu hodinových ručiček
+
+---
+
+### Při přechodu studené fronty I. druhu je srážkové pásmo:
+*Points: 3 | Count: 1 | First Seen: 06.04.2025 | Last Seen: 06.04.2025*
+
+- a) za čarou fronty
+- b) na čáře fronty
+- c) před čarou fronty
+
+---
+
+### Přejde-li letadlo s pevnou vrtulí do strmého stoupání beze změny přípusti, potom:
+*Points: 3 | Count: 1 | First Seen: 06.04.2025 | Last Seen: 06.04.2025*
+
+- a) se zmenší rychlost letu, ale otáčky motoru se výrazně nezmění
+- b) se rychlost letu nezmění, ale otáčky náhle vzrostou
+- c) se zmenší rychlost letu a otáčky klesnou
+
+---
+
+### Mezi oblačnost kupovitou patří:
+*Points: 3 | Count: 1 | First Seen: 06.04.2025 | Last Seen: 06.04.2025*
+
+- a) Cu - cumulus
+- b) As - altostratus
+- c) St - stratus
+
+---
+
+### Horizontální bílé nebo oranžové přistávací „T" určuje směr, který má být použit pro:
+*Points: 3 | Count: 1 | First Seen: 06.04.2025 | Last Seen: 06.04.2025*
+
+- a) jen vzlet
+- b) jen přistání
+- c) přistání i vzlet letadla
+
+---
+
+### Skupina dvou číslic umístěná svisle na letištní věži nebo blízko ní ukazuje letadlům na provozní ploše:
+*Points: 1 | Count: 2 | First Seen: 28.03.2025 | Last Seen: 06.04.2025*
+
+- a) směr vzletu v desítkách stupňů magnetického kompasu
+- b) minutu západu slunce na místním poledníku
+- c) směr správného pojíždění
+
+---
+
+### V našich zeměpisných šířkách zasahuje vertikálně vyvinutá oblačnost typu Cb do výšky:
+*Points: 1 | Count: 1 | First Seen: 06.04.2025 | Last Seen: 06.04.2025*
+
+- a) 1 km
+- b) 4 km
+- c) až 15 km, ojediněle i více
+
+---
+
+### Je-li dáván příkaz letadlu za letu orgánem letištní služby řízení světelným návěstím, potom řada červených světelných záblesků znamená:
+*Points: 1 | Count: 2 | First Seen: 28.03.2025 | Last Seen: 06.04.2025*
+
+- a) uvolněte cestu jinému letadlu a pokračujte v letu na okruhu
+- b) nepřistávejte, letiště není bezpečné
+- c) vraťte se na přistání
+
+---
+
+### Koncentrace kondenzačních jader je největší:
+*Points: 1 | Count: 1 | First Seen: 06.04.2025 | Last Seen: 06.04.2025*
+
+- a) v blízkosti velkých městských aglomerací (průmyslové oblasti)
+- b) nad oceány
+- c) nad pohořími
+
+---
+
+### Traťové lety VFR prováděné nad 900 m (3000ft)nad zemí nebo vodou ve směru od 180 stupňů do 359 stupňů musí být prováděny v letových hladinách FL:
+*Points: 0 | Count: 1 | First Seen: 06.04.2025 | Last Seen: 06.04.2025*
+
+- a) 20, 40, 60, 80
+- b) 45, 65, 85, 105
+- c) 55, 75, 95, 115
+
+---
+
+### Letí-li dvě letadla na protínajících se tratích v přibližně stejné hladině, musí se letadlo, které má po své pravé straně jiné letadlo vyhnout, vyjma tyto případy:
+*Points: 3 | Count: 1 | First Seen: 28.03.2025 | Last Seen: 28.03.2025*
+
+- a) dopravní letadla mají přednost před jiným provozem
+- b) motorové letadlo se musí vyhnout vzducholodím, kluzákům a balonům a jiným motorovým lletounům nebo SLZ, které mají ve vleku jiná letadla nebo předměty
+- c) dispečer AFIS vydá řídící pokyn, kterým určí přednosti
+
+---
+
+### Letecká mapa by měla být věrohodná především:
+*Points: 3 | Count: 1 | First Seen: 28.03.2025 | Last Seen: 28.03.2025*
+
+- a) v úhlech a vzdálenostech
+- b) v tratích a plochách
+- c) v plochách
+
+---
+
+### Který z následujících druhů oblačnosti může zasahovat až do stratosféry?
+*Points: 1 | Count: 1 | First Seen: 28.03.2025 | Last Seen: 28.03.2025*
+
+- a) Cirrostratus
+- b) Cumulonimbus
+- c) Cumulus

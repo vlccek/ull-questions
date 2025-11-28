@@ -1,0 +1,60 @@
+{% extends "base.html.j2" %}
+
+{% block content %}
+    <a href="../index.html" class="btn btn-secondary my-4">Zpět na přehled</a>
+
+    <h1 class="my-4">{{ question.question_text }}</h1>
+    
+    {% if question.kategorie %}
+        <p>Kategorie: <span class="badge bg-info">{{ question.kategorie }}</span></p>
+    {% endif %}
+
+    <div class="card mb-4">
+        <div class="card-body">
+            <h5 class="card-title">Odpovědi</h5>
+            <ul class="list-group list-group-flush">
+                {% set correct_answer_key = 'option_' + question.correct_option.lower() %}
+                {% for key, value in question.options.items()|sort %}
+                    {% if key == correct_answer_key %}
+                        <li class="list-group-item list-group-item-success fw-bold">{{ value }}</li>
+                    {% else %}
+                        <li class="list-group-item">{{ value }}</li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+
+    {% if question.vysvetleni %}
+    <div class="card bg-light mb-4">
+        <div class="card-header">Vysvětlení <em>(generováno AI)</em></div>
+        <div class="card-body">
+            <p class="card-text">{{ question.vysvetleni }}</p>
+        </div>
+    </div>
+    {% endif %}
+
+    <h2 class="my-4">Celková historie výskytu</h2>
+    <img src="../plots/{{ question.hashid }}.png" class="img-fluid border rounded" alt="Historie výskytu otázky">
+
+    <h2 class="my-4">Jednotlivé výskyty</h2>
+    {% if occurrence_dates %}
+        <table class="table table-sm table-bordered">
+            <thead>
+                <tr>
+                    <th>Datum výskytu</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for date in occurrence_dates %}
+                <tr>
+                    <td>{{ date }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        <p>Pro tuto otázku nebyly nalezeny žádné záznamy o výskytu.</p>
+    {% endif %}
+
+{% endblock %}
