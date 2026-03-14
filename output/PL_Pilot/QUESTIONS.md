@@ -4,21 +4,30 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Nejspodnější vrstvu atmosféry nazýváme:
-*Body: 3 | Výskyty: 150 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Zeměpisné souřadnice nám udávají:
+*Body: 3 | Výskyty: 98 | Kategorie: Navigace a letové přístroje | První výskyt: 25.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) mezosféra
-- b) stratosféra
-- c) troposféra
+- a) polohu časového pásma
+- b) název určitého místa
+- c) zeměpisnou polohu určitého místa
 
 ---
 
-### Indukovaný odpor lze zmenšit:
-*Body: 3 | Výskyty: 34 | Kategorie: Principy letu a aerodynamika | První výskyt: 25.07.2024 | Poslední výskyt: 07.09.2024*
+### S výjimkou vzletu nebo přistání nebo s výjimkou povolení vydaného leteckým úřadem, musí být VFR let prováděn nad hustě zastavěnými místy nebo shromáždištěm lidí na volném prostranství ve výšce, která nesmí být menší než:
+*Body: 3 | Výskyty: 61 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) šípem křídla a tloušťkou profilu
-- b) štíhlostí křídla a vhodným zakončením křídla
-- c) tloušťkou profilu a koncovými tělěsy na koncích křídla
+- a) 150 m nad nejvyšší překážkou v okruhu 600 m od letadla
+- b) 300 m nad nejvyšší překážkou v okruhu 600 m od letadla
+- c) 300 m nad nejvyšší překážkou v okruhu 300 m od letadla
+
+---
+
+### Vztlak na profilu vzniká v důsledku:
+*Body: 3 | Výskyty: 34 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) zhuštění proudnic pod profilem, tím se pod profilem vytvoří přetlak, nad profilem se proudnice rozšíří a tím se nad profilem vytvoří podtlak
+- b) zhuštění proudnic nad profilem, tím se nad profilem vytvoří podtlak, pod profilem se proudnice rozšíří a tím se pod profilem vytvoří přetlak
+- c) náporu vzduchu na spodní stranu profilu (při kladném úhlu náběhu)
 
 ---
 
@@ -28,6 +37,105 @@ Celkem unikátních otázek: **268**
 - a) Teplý vzduch se nasunuje nad hmoty studeného vzduchu
 - b) Teplý vzduch se nasunuje pod hmoty studeného vzduchu
 - c) Studený vzduch se nasunuje nad hmoty teplého vzduchu
+
+---
+
+### Nejspodnější vrstvu atmosféry nazýváme:
+*Body: 3 | Výskyty: 150 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) mezosféra
+- b) stratosféra
+- c) troposféra
+
+---
+
+### Při přechodu studené fronty I. druhu je srážkové pásmo:
+*Body: 3 | Výskyty: 46 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) za čarou fronty
+- b) na čáře fronty
+- c) před čarou fronty
+
+---
+
+### Při stoupání je v převodní výšce přestavován výškoměr. Je-li místní QNH 1023 hPa, co se stane s údajem výškoměru?
+*Body: 3 | Výskyty: 46 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 25.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) Zvětší se
+- b) Zmenší se
+- c) Nebude tím ovlivněn
+
+---
+
+### Spirála je letový režim, při kterém:
+*Body: 3 | Výskyty: 595 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) dochází k odtržení proudění na straně křídla vně zatáčky
+- b) nedochází k odtržení proudění
+- c) dochází k odtržení proudění na straně křídla uvnitř zatáčky
+
+---
+
+### Letadlo, které je podle pravidel povinno dát přednost jinému letadlu se musí:
+*Body: 3 | Výskyty: 89 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) vyhnout tak, aby byla mezi letadly dodržena vertikální vzdálenost 150 m
+- b) vyhnout tak, aby byla mezi letadly dodržena vodorovná vzdálenost 300 m
+- c) vyhnout tím, že nadletí, podletí nebo křižuje jeho trať v dostatečné vzdálenosti
+
+---
+
+### Musí být na palubě letadla při všech letech doklad o pojištění zákonné odpovědnosti?
+*Body: 3 | Výskyty: 178 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) ne při letištním letu
+- b) ne
+- c) ano
+
+---
+
+### Oblačnost se v troposféře tvoří z:
+*Body: 3 | Výskyty: 48 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) vodní páry
+- b) dusíku
+- c) kyslíku
+
+---
+
+### Zvětšující se vzdálenost mezi izobarami znamená, že v dané oblasti bude rychlost proudění vzduchu:
+*Body: 3 | Výskyty: 52 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) větší
+- b) vzdálenost mezi izobarami nevypovídá nic o rychlosti proudění
+- c) menší
+
+---
+
+### Co znamená zkratka CTR?
+*Body: 3 | Výskyty: 53 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 26.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) koncová řízená oblast
+- b) prostor, kde není možné provádět lety VFR
+- c) řízený okrsek letiště
+
+---
+
+### V oblasti tlakové níže na severní polokouli vane vítr při zemi:
+*Body: 3 | Výskyty: 54 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) ve směru pohybu hodinových ručiček
+- b) proti směru pohybu hodinových ručiček
+- c) rovně do středu níže v celé její oblasti
+
+---
+
+### Zkratka AGL u výškového údaje v letecké mapě znamená:
+*Body: 3 | Výskyty: 78 | Kategorie: Navigace a letové přístroje | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) výšku vztaženou k oblastnímu tlaku
+- b) výšku na úrovni moře
+- c) výšku nad úrovní země
 
 ---
 
@@ -49,6 +157,15 @@ Celkem unikátních otázek: **268**
 
 ---
 
+### Při improvizovaném transportu postiženého v bezvědomí:
+*Body: 3 | Výskyty: 83 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) musíme zvláště dbát na šetrnost a stabilizaci hlavy při transportu
+- b) musí být transport co nejrychlejší
+- c) nezáleží na šetrnosti, protože postižený v bezvědomí necítí bolest
+
+---
+
 ### Vrstevnice (izohypsy) jsou uzavřené prostorové křivky spojující místa o stejné:
 *Body: 3 | Výskyty: 65 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -64,6 +181,15 @@ Celkem unikátních otázek: **268**
 - a) severovýchod
 - b) jihozápad
 - c) severozápad
+
+---
+
+### Rozdíl mezi UTC a letním středoevropským (SELČ) časem je:
+*Body: 3 | Výskyty: 68 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) není žádný
+- b) 2 hodiny
+- c) 1 hodina
 
 ---
 
@@ -85,12 +211,93 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Zkratka AGL u výškového údaje v letecké mapě znamená:
-*Body: 3 | Výskyty: 78 | Kategorie: Navigace a letové přístroje | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
+### Předlétávající letadlo je to, které se přibližuje k předlétávanému letadlu zezadu na čáře svírající s rovinou souměrnosti předlétávaného letadla úhel menší než:
+*Body: 3 | Výskyty: 75 | Kategorie: Letecké předpisy a legislativa | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) výšku vztaženou k oblastnímu tlaku
-- b) výšku na úrovni moře
-- c) výšku nad úrovní země
+- a) 70 stupňů
+- b) 60 stupňů
+- c) 80 stupňů
+
+---
+
+### Pro vznik vertikálních pohybů v troposféře je příznivé zvrstvení:
+*Body: 3 | Výskyty: 42 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) indiferentní
+- b) instabilní
+- c) stabilní
+
+---
+
+### Indukovaný odpor lze zmenšit:
+*Body: 3 | Výskyty: 34 | Kategorie: Principy letu a aerodynamika | První výskyt: 25.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) šípem křídla a tloušťkou profilu
+- b) štíhlostí křídla a vhodným zakončením křídla
+- c) tloušťkou profilu a koncovými tělěsy na koncích křídla
+
+---
+
+### Pilot musí mít za letu u sebe vždy
+*Body: 3 | Výskyty: 248 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) pilotní průkaz nebo doklad žáka, osvědčení letové způsobilosti, doklad o pojištění za škody způsobené provozem SLZ, lékařský posudek o zdravotní způsobilosti
+- b) průkaz totožnosti, pilotní průkaz nebo doklad žáka, technický průkaz SLZ, doklad o pojištění za škody způsobené provozem SLZ
+- c) průkaz totožnosti, pilotní průkaz nebo doklad žáka, osvědčení letové způsobilosti, doklad o pojištění za škody způsobené provozem SLZ, lékařský posudek o zdravotní způsobilosti
+
+---
+
+### Těžiště letadla je:
+*Body: 3 | Výskyty: 611 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) působiště výsledné aerodynamické síly
+- b) působiště tíhové síly
+- c) působiště výsledné aerodynamické síly a tíhové síly
+
+---
+
+### Platný pilotní průkaz musí mít pilot u sebe:
+*Body: 3 | Výskyty: 228 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) při mimoletištním letu
+- b) při přeletu
+- c) při každém letu
+
+---
+
+### Doklady potřebné pro let SLZ musí mít pilot u sebe:
+*Body: 3 | Výskyty: 198 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) jen při mimoletištním letu
+- b) jen při přeletu
+- c) při každém letu
+
+---
+
+### V okamžiku vlétnutí do klesavého proudu se úhel náběhu:
+*Body: 3 | Výskyty: 91 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) zmenší
+- b) nezmění
+- c) zvětší
+
+---
+
+### Hustota vzduchu:
+*Body: 3 | Výskyty: 144 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) roste s rostoucí teplotou
+- b) snižuje se s klesající teplotou
+- c) roste s klesající teplotou vzduchu
+
+---
+
+### Na spodní straně křídla za letu působí:
+*Body: 3 | Výskyty: 123 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) žádný tlak
+- b) podtlak
+- c) přetlak
 
 ---
 
@@ -112,39 +319,12 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Při improvizovaném transportu postiženého v bezvědomí:
-*Body: 3 | Výskyty: 83 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Horizontální rychlost se udává:
+*Body: 3 | Výskyty: 82 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) musíme zvláště dbát na šetrnost a stabilizaci hlavy při transportu
-- b) musí být transport co nejrychlejší
-- c) nezáleží na šetrnosti, protože postižený v bezvědomí necítí bolest
-
----
-
-### Kdo může provádět výcvik na PK
-*Body: 1 | Výskyty: 193 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) pilot C, instruktor PK a instruktor PK ve výcviku
-- b) instruktor PK, instruktor PK ve výcviku
-- c) pilot B, instruktor PK
-
----
-
-### Nevyšel vám rozpočet na přistání a musíte jej zkrátit. Jste ve výšce 30 m nad zemí
-*Body: 1 | Výskyty: 152 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) létáním osmiček (esíček) tj.mírným kličkováním utrácíte výšku, abyste doklouzali přesně na přistání
-- b) ve výšce do 30 m nad zemí je řešením udělat zatáčku o 360°
-- c) sklopením konců křídel za pomoci potřebného počtu šňůr zmenšíte nosnou plochu a tak dokloužete pod příznivým úhlem až na zem
-
----
-
-### Co znamená populární termín "negativní zatáčka"
-*Body: 1 | Výskyty: 329 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) asymetrické (jednostranné) přetažení PK
-- b) symetrické přetažení
-- c) spirála
+- a) v uzlech
+- b) ve stopách
+- c) v km/hod, v MPH, v uzlech (kts)
 
 ---
 
@@ -157,143 +337,53 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Zvětšující se vzdálenost mezi izobarami znamená, že v dané oblasti bude rychlost proudění vzduchu:
-*Body: 0 | Výskyty: 52 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Sever magnetický je směr, který:
+*Body: 1 | Výskyty: 143 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) větší
-- b) vzdálenost mezi izobarami nevypovídá nic o rychlosti proudění
-- c) menší
-
----
-
-### Do předstartovní kontroly patří
-*Body: 0 | Výskyty: 604 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) kontrola opotřebení PK a postroje,všech švů, kontrola karabin, přilby a přístrojů
-- b) kontrola PK ,upnutí, počasí, prostoru ve směru letu a místa přistání
-- c) kontrola postroje, šňůr, vrchlíku, počasí, prostoru
+- a) změříme na mapě
+- b) určuje magnetka kompasu, na kterou nepůsobí žádné vedlejší rušivé vlivy
+- c) je určený myšlenou přímkou, která vede středem země a protíná její povrch v bodech, které nazýváme sever magnetický a jih magnetický
 
 ---
 
-### "B" stall provedu
-*Body: 0 | Výskyty: 339 | Kategorie: Specifické typy letadel | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Ve vzdušném prostoru G se požadavek na spojení?
+*Body: 1 | Výskyty: 194 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) postupným stažením předních popruhů
-- b) postupným stažením zadních popruhů
-- c) postupným stažením popruhů druhé řady
-
----
-
-### Při vlétnutí do stoupavého proudu
-*Body: 0 | Výskyty: 339 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) vrchlík se nakloní do strany a hrozí asymetrické zaklopení
-- b) vrchlík předstřelí dopředu a hrozí čelní zaklopení vrchlíku
-- c) vrchlík kývne dozadu a následně může dojít k předstřelu
+- a) nevyžaduje
+- b) vyžaduje se nad 150 m nad terénem
+- c) vyžaduje, musí být stálé obousměrné
 
 ---
 
-### Při vlétnutí do klesavého proudu
-*Body: 0 | Výskyty: 338 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Kurz zeměpisný měříme:
+*Body: 1 | Výskyty: 140 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) vrchlík se nakloní do strany a hrozí asymetrické zaklopení
-- b) vrchlík předstřelí dopředu a hrozí čelní zaklopení vrchlíku
-- c) vrchlík kývne dozadu a následně může dojít k předstřelu
-
----
-
-### Rychlost letu zvýším
-*Body: 0 | Výskyty: 325 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) sešlápnutím speedu
-- b) zatažením trimů
-- c) mírným přitažením řídiček
+- a) od směrníku
+- b) od severu zeměpisného místního poledníku
+- c) od nultého poledníku
 
 ---
 
-### Směr letu a směr pohybu PK vůči zemi je
-*Body: 0 | Výskyty: 605 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Kdo může provádět výcvik na PK
+*Body: 1 | Výskyty: 193 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) shodný za bezvětří a při větru vanoucím přesně ve směru nebo přesně proti směru letu
-- b) shodný za bezvětří nebo při větru vanoucím přesně kolmo na směr letu
-- c) vždy shodný
-
----
-
-### Při silnějším větru startuji
-*Body: 0 | Výskyty: 322 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) na vrcholu kopce
-- b) v dostatečné vzdálenosti pod vrcholem kopce
-- c) tak, aby vrchlík byl zároveň s vrcholem kopce
+- a) pilot C, instruktor PK a instruktor PK ve výcviku
+- b) instruktor PK, instruktor PK ve výcviku
+- c) pilot B, instruktor PK
 
 ---
 
-### Při uvolnění speed systému se rychlost PK
-*Body: 0 | Výskyty: 320 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Letištní provozní zóna - ATZ je:
+*Body: 1 | Výskyty: 165 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) sníží
-- b) zvýší
-- c) nezmění, pouze se zvětší úhel náběhu
-
----
-
-### Výběr startoviště a směr vzletu podřizujeme:
-*Body: 0 | Výskyty: 316 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) větru na startovišti s ohledem na to, jaký vítr fouká nad hřebenem
-- b) větru, který fouká dole v údolí na přistávací ploše
-- c) větru, který udává nejbližší meteorologická stanice
-
----
-
-### Vztlak na profilu vzniká v důsledku:
-*Body: 0 | Výskyty: 34 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) zhuštění proudnic pod profilem, tím se pod profilem vytvoří přetlak, nad profilem se proudnice rozšíří a tím se nad profilem vytvoří podtlak
-- b) zhuštění proudnic nad profilem, tím se nad profilem vytvoří podtlak, pod profilem se proudnice rozšíří a tím se pod profilem vytvoří přetlak
-- c) náporu vzduchu na spodní stranu profilu (při kladném úhlu náběhu)
-
----
-
-### V ustáleném klouzavém letu je v rovnováze:
-*Body: 0 | Výskyty: 312 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) tah s tíhou, odpor se vztlakem
-- b) tíhová síla se vztlakem a odporem
-- c) vztlak s odporem
-
----
-
-### Hranice mezi troposférou a stratosférou se nazývá:
-*Body: 0 | Výskyty: 161 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) tropopauza
-- b) atmosféra
-- c) ionosféra
-
----
-
-### Pro vznik vertikálních pohybů v troposféře je příznivé zvrstvení:
-*Body: 0 | Výskyty: 42 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) indiferentní
-- b) instabilní
-- c) stabilní
-
----
-
-### Rychlost letu zobrazená v GPS je:
-*Body: 0 | Výskyty: 288 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) pravá vzdušná rychlost
-- b) traťová rychlost
-- c) indikovaná vzdušná rychlost
+- a) vymezený vzdušný prostor, který slouží k ochraně letištního provozu
+- b) vymezený vzdušný protstor se stálou informační službou
+- c) vymezený vzdušný prostor se službou řízení letového provozu
 
 ---
 
 ### Co znamená zkratka SLZ
-*Body: 0 | Výskyty: 280 | Kategorie: Specifické typy letadel | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+*Body: 1 | Výskyty: 280 | Kategorie: Specifické typy letadel | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) společná letová zóna
 - b) sportovní létající zařízení
@@ -301,57 +391,102 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Pilot musí mít za letu u sebe vždy
-*Body: 0 | Výskyty: 248 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Co znamená populární termín "negativní zatáčka"
+*Body: 1 | Výskyty: 329 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) pilotní průkaz nebo doklad žáka, osvědčení letové způsobilosti, doklad o pojištění za škody způsobené provozem SLZ, lékařský posudek o zdravotní způsobilosti
-- b) průkaz totožnosti, pilotní průkaz nebo doklad žáka, technický průkaz SLZ, doklad o pojištění za škody způsobené provozem SLZ
-- c) průkaz totožnosti, pilotní průkaz nebo doklad žáka, osvědčení letové způsobilosti, doklad o pojištění za škody způsobené provozem SLZ, lékařský posudek o zdravotní způsobilosti
-
----
-
-### Svahování praktikujeme tak, že
-*Body: 0 | Výskyty: 600 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) létáme souběžně se svahem, těsně nad jeho závětrnou stranou a otáčíme se zásadně proti větru, tj. ke kopci
-- b) létáme přímo nad hřebenem a otáčet se lze podle situace proti i po větru
-- c) létáme souběžně se svahem na jeho návětrné straně a v místě obratu se otáčíme směrem od svahu o 180°
+- a) asymetrické (jednostranné) přetažení PK
+- b) symetrické přetažení
+- c) spirála
 
 ---
 
-### Platný pilotní průkaz musí mít pilot u sebe:
-*Body: 0 | Výskyty: 228 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Rychlost letu zobrazená v GPS je:
+*Body: 1 | Výskyty: 288 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) při mimoletištním letu
-- b) při přeletu
-- c) při každém letu
-
----
-
-### Doklady potřebné pro let SLZ musí mít pilot u sebe:
-*Body: 0 | Výskyty: 198 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) jen při mimoletištním letu
-- b) jen při přeletu
-- c) při každém letu
+- a) pravá vzdušná rychlost
+- b) traťová rychlost
+- c) indikovaná vzdušná rychlost
 
 ---
 
-### Při stoupání je v převodní výšce přestavován výškoměr. Je-li místní QNH 1023 hPa, co se stane s údajem výškoměru?
-*Body: 0 | Výskyty: 46 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 25.07.2024 | Poslední výskyt: 07.09.2024*
+### Nevyšel vám rozpočet na přistání a musíte jej zkrátit. Jste ve výšce 30 m nad zemí
+*Body: 1 | Výskyty: 152 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) Zvětší se
-- b) Zmenší se
-- c) Nebude tím ovlivněn
+- a) létáním osmiček (esíček) tj.mírným kličkováním utrácíte výšku, abyste doklouzali přesně na přistání
+- b) ve výšce do 30 m nad zemí je řešením udělat zatáčku o 360°
+- c) sklopením konců křídel za pomoci potřebného počtu šňůr zmenšíte nosnou plochu a tak dokloužete pod příznivým úhlem až na zem
 
 ---
 
-### Ve vzdušném prostoru G se požadavek na spojení?
-*Body: 0 | Výskyty: 194 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Terénní útvary jako jsou lesy, louky, jezera, hrady, silnice, železnice atd. nazýváme:
+*Body: 1 | Výskyty: 529 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) nevyžaduje
-- b) vyžaduje se nad 150 m nad terénem
-- c) vyžaduje, musí být stálé obousměrné
+- a) topografickou situací
+- b) topografickou plochou
+- c) projekcí mapy
+
+---
+
+### Letištní provozní zóna (ATZ) má tyto rozměry:
+*Body: 1 | Výskyty: 172 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) kružnice 5,5 NM (10 km) do nadmořské výšky 4 000 ft (1200 m)
+- b) kruh o poloměru 3 NM (5,5 km), vertikálně od země do nadmořské výšky 4000ft (1200 m)
+- c) kruh o průměru 3NM (5,5 km) do nadmořské výšky 4000ft (1200 m)
+
+---
+
+### Zeměkoule je:
+*Body: 1 | Výskyty: 548 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) síť souřadnicových čar
+- b) rotační elipsoid na pólech zploštělý
+- c) ideální koule
+
+---
+
+### Definice dohlednosti zní:
+*Body: 1 | Výskyty: 171 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) schopnost vidět a rozeznávat význačné neosvětlené předměty ve dne a světla v noci určená atmosférickými podmínkami a vyjádřená jednotkami vzdálenosti
+- b) dohlednost dopředu z kabiny letadla za letu daná meteorologickými podmínkami a vyjádřená v jednotkách délkové míry
+- c) schopnost vidět a rozeznávat význačné neosvětlené předměty ve dne a světla v noci z kabiny letadla za letu
+
+---
+
+### Vleče-li mne padák při silném větru po zemi stahuji většinou k sobě
+*Body: 0 | Výskyty: 146 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) čekám až se samovolně zastavím
+- b) řidičky nebo zadní šňůry
+- c) áčkové popruhy
+
+---
+
+### Základním úkolem první pomoci při ošetření ran a oděrek je:
+*Body: 0 | Výskyty: 86 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) odstranění případných cizích těles výplachem, desinfekce okolí rány a přiložení krycího obvazu
+- b) přiložení krycího obvazu; ránu v improvizovaných podmínkách nikdy nečistíme a cizí tělesa nevyjímáme
+- c) desinfekce rány (v nouzi i koncentrovaným alkoholem), odstranění cizích těles, přiložení krycího obvazu
+
+---
+
+### Vyberte pravdivé tvrzení, týkající se použití protišokové fólie:
+*Body: 0 | Výskyty: 75 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) fólie má výborné termoizolační vlastnosti, ale nechrání proti vlhkosti (v silném dešti může promoknout)
+- b) fólii je možné v nouzi použít i jako škrtidlo nebo improvizovaný obvaz
+- c) je jedno, kterou stranou je fólie otočená k pacientovi, důležité je, aby byla kolem pacienta těsně omotaná
+
+---
+
+### Vyberte pravdivý výrok týkající se taktiky postupu, pokud jste svědkem vzniku vážného úrazu:
+*Body: 0 | Výskyty: 79 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) Jsme-li svědky úrazu, voláme záchrannou službu až po důkladném vyšetření, abychom měli jistotu, že stav je doopravdy vážný.
+- b) Před voláním na záchrannou službu je vhodné se aspoň orientačně ujistit, kde k úrazu došlo, co se stalo a kolik je postižených.
+- c) Nejprve je nutné co nejrychleji obnovit životní funkce a až potom se zabývat přivoláním pomoci.
 
 ---
 
@@ -382,201 +517,12 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Přízemní projevy aktivní bouřky nebezpečné pro letecký provoz:
-*Body: 0 | Výskyty: 46 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) húlava na čele bouřky, existence silného vzestupného proudu před húlavou, silný sestupný proud za húlavou v oblasti vypadávajících srážek, silné nárazy větru
-- b) vypadávání trvalých srážek
-- c) snížení základny oblačnosti, snižování dohlednosti
-
----
-
-### Oblačnost se v troposféře tvoří z:
-*Body: 0 | Výskyty: 48 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) vodní páry
-- b) dusíku
-- c) kyslíku
-
----
-
-### Na PK se smí létat
-*Body: 0 | Výskyty: 52 | Kategorie: Letecké předpisy a legislativa | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) za podmínek VFR ve dne, přičemž se za den považuje doba od západu do východu slunce.
-- b) od západu do východu slunce
-- c) pouze ve dne, tj. v době mezi začátkem občanského svítání a koncem občanského soumraku nebo v jiném podobném časovém úseku, který může určit příslušný úřad
-
----
-
-### Technický průkaz PK kategorie "P" je možno vydat
-*Body: 0 | Výskyty: 180 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) pouze PK, který prošel úspěšně zkušebním programem podle normy AFNOR
-- b) jakémukoliv PK vyrobenému výrobcem s oprávněním LAA ČR
-- c) pouze PK, který prošel úspěšně zkušebním programem podle normy PL-2 nebo EN- 926
-
----
-
-### Těžiště letadla je:
-*Body: 0 | Výskyty: 611 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) působiště výsledné aerodynamické síly
-- b) působiště tíhové síly
-- c) působiště výsledné aerodynamické síly a tíhové síly
-
----
-
-### Musí být na palubě letadla při všech letech doklad o pojištění zákonné odpovědnosti?
-*Body: 0 | Výskyty: 178 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) ne při letištním letu
-- b) ne
-- c) ano
-
----
-
-### Předlétávající letadlo je to, které se přibližuje k předlétávanému letadlu zezadu na čáře svírající s rovinou souměrnosti předlétávaného letadla úhel menší než:
-*Body: 0 | Výskyty: 75 | Kategorie: Letecké předpisy a legislativa | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) 70 stupňů
-- b) 60 stupňů
-- c) 80 stupňů
-
----
-
-### Při přistání na vysokém stromě:
-*Body: 0 | Výskyty: 173 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) pokusíte se co nejrychleji slézt
-- b) počkáte, až přijdou přátelé a sami slezete, oni vás budou případně chytat
-- c) Uděláte maximum prostřednictvím dosažitelných prostředků, abyste si zavolali odbornou pomoc pro vyproštění (telefonát, vyčkání, až vás najdou přátelé apod.)
-
----
-
-### Letištní provozní zóna (ATZ) má tyto rozměry:
-*Body: 0 | Výskyty: 172 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) kružnice 5,5 NM (10 km) do nadmořské výšky 4 000 ft (1200 m)
-- b) kruh o poloměru 3 NM (5,5 km), vertikálně od země do nadmořské výšky 4000ft (1200 m)
-- c) kruh o průměru 3NM (5,5 km) do nadmořské výšky 4000ft (1200 m)
-
----
-
-### Co znamená zkratka CTR?
-*Body: 0 | Výskyty: 53 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 26.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) koncová řízená oblast
-- b) prostor, kde není možné provádět lety VFR
-- c) řízený okrsek letiště
-
----
-
-### Definice dohlednosti zní:
-*Body: 0 | Výskyty: 171 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) schopnost vidět a rozeznávat význačné neosvětlené předměty ve dne a světla v noci určená atmosférickými podmínkami a vyjádřená jednotkami vzdálenosti
-- b) dohlednost dopředu z kabiny letadla za letu daná meteorologickými podmínkami a vyjádřená v jednotkách délkové míry
-- c) schopnost vidět a rozeznávat význačné neosvětlené předměty ve dne a světla v noci z kabiny letadla za letu
-
----
-
-### Jaký je minimální věk pro zahájení teoretického a praktického výcviku uživatele PK
-*Body: 0 | Výskyty: 168 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) od 14 let pouze se souhlasem jeho zákonných zástupců
-- b) od 15 let pouze se souhlasem jeho zákonných zástupců
-- c) od 16 let pouze se souhlasem jeho zákonných zástupců
-
----
-
-### Letištní provozní zóna - ATZ je:
-*Body: 0 | Výskyty: 165 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) vymezený vzdušný prostor, který slouží k ochraně letištního provozu
-- b) vymezený vzdušný protstor se stálou informační službou
-- c) vymezený vzdušný prostor se službou řízení letového provozu
-
----
-
-### V oblasti tlakové níže na severní polokouli vane vítr při zemi:
-*Body: 0 | Výskyty: 54 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) ve směru pohybu hodinových ručiček
-- b) proti směru pohybu hodinových ručiček
-- c) rovně do středu níže v celé její oblasti
-
----
-
-### Spirálu docílíme tak, že
-*Body: 0 | Výskyty: 601 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) nejprve zabrzdíme obě řídičky , uvolníme na jedné straně řidičku zcela nahoru a na druhé jí stáhneme maximálně dolů - padák začne sestupně kroužit v dynamickém a rychlém otáčení
-- b) plynulým přechodem ze zatáčky do stále ostřejší zatáčky jemným stahováním řídičky a vykloněním těla na stejnou stranu, na kterou zatáčíme
-- c) vykloníme se na stranu, na kterou chceme spirálou zatáčet, stáhneme plynule řidičku a na opačné straně stáhneme přední popruh padáku
-
----
-
-### Při přefouknutí přes kopec je nejbezpečnější
-*Body: 0 | Výskyty: 175 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) letět po větru přes rotor co nejdál na místo kde můžu alespoň nějak v pořádku přistát
-- b) zvětším maximálně plošné zatížení tak že udělám velké uši a proletím turbulence
-- c) použiji záložní padák, závětrná turbulence jej ovlivňuje daleko méně
-
----
-
-### Signalizace, kterou osoby na zemi potvrzují potřebu přistání posádce záchranného vrtulníku, se provádí:
-*Body: 0 | Výskyty: 95 | Kategorie: Komunikace a letištní provoz | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) rukama mírně rozpaženýma do tvaru písmene A
-- b) rukama vztyčenýma nad hlavou do tvaru písmene Y
-- c) máváním jakýmkoliv předmětem světlé barvy
-
----
-
-### Při přechodu studené fronty I. druhu je srážkové pásmo:
-*Body: 0 | Výskyty: 46 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) za čarou fronty
-- b) na čáře fronty
-- c) před čarou fronty
-
----
-
-### Při nouzovém přistání pilot volí vždy jako poslední možnost:
-*Body: 0 | Výskyty: 157 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) parkoviště
-- b) vodní plochu
-- c) dráty elektrického vedení
-
----
-
-### Při asymetrickém zaklopení 1/2 náběžné hrany PK je potřeba
-*Body: 0 | Výskyty: 605 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) vyčkat a nezasahovat do řízení
-- b) vykloněním v sedačce na nezaklopenou stranu a přibržděním této strany udržet kluzák v přímém letu
-- c) vykloněním v sedačce na zaklopenou stranu a přibržděním nezaklopené strany udržet kluzák v přímém letu
-
----
-
-### Horizontální rychlost se udává:
-*Body: 0 | Výskyty: 82 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) v uzlech
-- b) ve stopách
-- c) v km/hod, v MPH, v uzlech (kts)
-
----
-
-### V okamžiku vlétnutí do klesavého proudu se úhel náběhu:
-*Body: 0 | Výskyty: 91 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) zmenší
-- b) nezmění
-- c) zvětší
+### Směr letu a směr pohybu PK vůči zemi je
+*Body: 0 | Výskyty: 605 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) shodný za bezvětří a při větru vanoucím přesně ve směru nebo přesně proti směru letu
+- b) shodný za bezvětří nebo při větru vanoucím přesně kolmo na směr letu
+- c) vždy shodný
 
 ---
 
@@ -589,75 +535,138 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Při silném větru pilot zaletěl do místa, odkud se proti větru neprosazuje:
-*Body: 0 | Výskyty: 153 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Pokud tomu nebrání zvláštní okolnosti, je pro postiženého úrazem nejlepší:
+*Body: 0 | Výskyty: 75 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) sešlápne speed a k tomu přidá "velké uši"
-- b) zůstane natočený proti větru ve směru, kam chce letět a vyklesá na zem do terénu
-- c) otočí se po větru nebo alespoň co nejvíce bokem na vítr, jak terén dovolí a z místa odlétne
-
----
-
-### S výjimkou vzletu nebo přistání nebo s výjimkou povolení vydaného leteckým úřadem, musí být VFR let prováděn nad hustě zastavěnými místy nebo shromáždištěm lidí na volném prostranství ve výšce, která nesmí být menší než:
-*Body: 0 | Výskyty: 61 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) 150 m nad nejvyšší překážkou v okruhu 600 m od letadla
-- b) 300 m nad nejvyšší překážkou v okruhu 600 m od letadla
-- c) 300 m nad nejvyšší překážkou v okruhu 300 m od letadla
+- a) poloha na boku („stabilizovaná“ resp. „zotavovací
+- b) taková poloha, kterou chce postižený sám zaujmout
+- c) „protišoková“ poloha s nohama a rukama zvednutýma co nejvýše
 
 ---
 
-### Předstartovní kontrola je
-*Body: 0 | Výskyty: 356 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Technický průkaz PK kategorie "P" je možno vydat
+*Body: 0 | Výskyty: 180 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) pětibodová
-- b) tříbodová
-- c) sedmibodová
-
----
-
-### Vleče-li mne padák při silném větru po zemi stahuji většinou k sobě
-*Body: 0 | Výskyty: 146 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) čekám až se samovolně zastavím
-- b) řidičky nebo zadní šňůry
-- c) áčkové popruhy
+- a) pouze PK, který prošel úspěšně zkušebním programem podle normy AFNOR
+- b) jakémukoliv PK vyrobenému výrobcem s oprávněním LAA ČR
+- c) pouze PK, který prošel úspěšně zkušebním programem podle normy PL-2 nebo EN- 926
 
 ---
 
-### Mezi tzv. únikové manévry patří
+### Do předstartovní kontroly patří
+*Body: 0 | Výskyty: 604 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) kontrola opotřebení PK a postroje,všech švů, kontrola karabin, přilby a přístrojů
+- b) kontrola PK ,upnutí, počasí, prostoru ve směru letu a místa přistání
+- c) kontrola postroje, šňůr, vrchlíku, počasí, prostoru
+
+---
+
+### Při přefouknutí přes kopec je nejbezpečnější
+*Body: 0 | Výskyty: 175 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) letět po větru přes rotor co nejdál na místo kde můžu alespoň nějak v pořádku přistát
+- b) zvětším maximálně plošné zatížení tak že udělám velké uši a proletím turbulence
+- c) použiji záložní padák, závětrná turbulence jej ovlivňuje daleko méně
+
+---
+
+### Při přistání na vysokém stromě:
+*Body: 0 | Výskyty: 173 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) pokusíte se co nejrychleji slézt
+- b) počkáte, až přijdou přátelé a sami slezete, oni vás budou případně chytat
+- c) Uděláte maximum prostřednictvím dosažitelných prostředků, abyste si zavolali odbornou pomoc pro vyproštění (telefonát, vyčkání, až vás najdou přátelé apod.)
+
+---
+
+### Pokud pacient po úrazu v bezvědomí nedýchá:
+*Body: 0 | Výskyty: 81 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) okamžitě zahájíme resuscitaci
+- b) pokusíme se především uvolnit dýchací cesty
+- c) urychleně jej transportujme k odborné pomoci
+
+---
+
+### Jaký je minimální věk pro zahájení teoretického a praktického výcviku uživatele PK
+*Body: 0 | Výskyty: 168 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) od 14 let pouze se souhlasem jeho zákonných zástupců
+- b) od 15 let pouze se souhlasem jeho zákonných zástupců
+- c) od 16 let pouze se souhlasem jeho zákonných zástupců
+
+---
+
+### Spirálu docílíme tak, že
+*Body: 0 | Výskyty: 601 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) nejprve zabrzdíme obě řídičky , uvolníme na jedné straně řidičku zcela nahoru a na druhé jí stáhneme maximálně dolů - padák začne sestupně kroužit v dynamickém a rychlém otáčení
+- b) plynulým přechodem ze zatáčky do stále ostřejší zatáčky jemným stahováním řídičky a vykloněním těla na stejnou stranu, na kterou zatáčíme
+- c) vykloníme se na stranu, na kterou chceme spirálou zatáčet, stáhneme plynule řidičku a na opačné straně stáhneme přední popruh padáku
+
+---
+
+### Uvolnění dýchacích cest se u pacienta v bezvědomí provádí především pomocí:
+*Body: 0 | Výskyty: 81 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) předklonu hlavy
+- b) záklonu hlavy
+- c) stabilizované polohy
+
+---
+
+### Při nevydařeném přistání prolétl pilot oknem a řízl se na zápěstí tak nešťastně, že rána silně krvácí, krev vystřikuje. Z rány ční střep cca 10 cm dlouhý. Postižený je při vědomí, bledý, stěžuje si na bolest v kotníku pravé nohy, kde je zjevná deformace. Zavoláme záchrannou službu a dále:
+*Body: 0 | Výskyty: 76 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) uložíme postiženého do polosedu, vytáhneme střep, přiložíme tlakový obvaz
+- b) imobilizujeme poraněnou nohu, uložíme poraněného do protišokové polohy, ruku zvedneme nahoru, a pokud krvácení trvá, přiložíme tlakový obvaz
+- c) položíme postiženého na záda s podloženýma nohama, na předloktí naložíme improvizované škrtidlo, šetrně dotáhneme. Střep zásadně nevydáváme
+
+---
+
+### Svahování praktikujeme tak, že
 *Body: 0 | Výskyty: 600 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) spirála, negativní zatáčka a b-stall
-- b) spirála, zaklopení stabilizátorů (uši) a b-stall
-- c) spirála, full-stall a b-stall
+- a) létáme souběžně se svahem, těsně nad jeho závětrnou stranou a otáčíme se zásadně proti větru, tj. ke kopci
+- b) létáme přímo nad hřebenem a otáčet se lze podle situace proti i po větru
+- c) létáme souběžně se svahem na jeho návětrné straně a v místě obratu se otáčíme směrem od svahu o 180°
 
 ---
 
-### Hustota vzduchu:
-*Body: 0 | Výskyty: 144 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Pokud jedna vrstva tlakového obvazu nestačí k zastavení krvácení z rány na noze:
+*Body: 0 | Výskyty: 77 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) roste s rostoucí teplotou
-- b) snižuje se s klesající teplotou
-- c) roste s klesající teplotou vzduchu
-
----
-
-### Spirála je letový režim, při kterém:
-*Body: 0 | Výskyty: 595 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) dochází k odtržení proudění na straně křídla vně zatáčky
-- b) nedochází k odtržení proudění
-- c) dochází k odtržení proudění na straně křídla uvnitř zatáčky
+- a) urgujeme příjezd záchranné služby, přičemž opakovaně zdůrazníme naléhavost stavu
+- b) původní obvaz odstraníme a přiložíme nový, který lépe utáhneme
+- c) přiložíme další 1-2 vrstvy, případně použijeme zaškrcení
 
 ---
 
-### Sever magnetický je směr, který:
-*Body: 0 | Výskyty: 143 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Hranice mezi troposférou a stratosférou se nazývá:
+*Body: 0 | Výskyty: 161 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) změříme na mapě
-- b) určuje magnetka kompasu, na kterou nepůsobí žádné vedlejší rušivé vlivy
-- c) je určený myšlenou přímkou, která vede středem země a protíná její povrch v bodech, které nazýváme sever magnetický a jih magnetický
+- a) tropopauza
+- b) atmosféra
+- c) ionosféra
+
+---
+
+### Při asymetrickém zaklopení 1/2 náběžné hrany PK je potřeba
+*Body: 0 | Výskyty: 605 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) vyčkat a nezasahovat do řízení
+- b) vykloněním v sedačce na nezaklopenou stranu a přibržděním této strany udržet kluzák v přímém letu
+- c) vykloněním v sedačce na zaklopenou stranu a přibržděním nezaklopené strany udržet kluzák v přímém letu
+
+---
+
+### Při nouzovém přistání pilot volí vždy jako poslední možnost:
+*Body: 0 | Výskyty: 157 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) parkoviště
+- b) vodní plochu
+- c) dráty elektrického vedení
 
 ---
 
@@ -670,21 +679,66 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Kurz zeměpisný měříme:
-*Body: 0 | Výskyty: 140 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Při silném větru pilot zaletěl do místa, odkud se proti větru neprosazuje:
+*Body: 0 | Výskyty: 153 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) od směrníku
-- b) od severu zeměpisného místního poledníku
-- c) od nultého poledníku
+- a) sešlápne speed a k tomu přidá "velké uši"
+- b) zůstane natočený proti větru ve směru, kam chce letět a vyklesá na zem do terénu
+- c) otočí se po větru nebo alespoň co nejvíce bokem na vítr, jak terén dovolí a z místa odlétne
 
 ---
 
-### Rozdíl mezi UTC a letním středoevropským (SELČ) časem je:
-*Body: 0 | Výskyty: 68 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### V ustáleném klouzavém letu je v rovnováze:
+*Body: 0 | Výskyty: 312 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) není žádný
-- b) 2 hodiny
-- c) 1 hodina
+- a) tah s tíhou, odpor se vztlakem
+- b) tíhová síla se vztlakem a odporem
+- c) vztlak s odporem
+
+---
+
+### Resuscitaci (oživování) je potřeba provádět tehdy, pokud postižený:
+*Body: 0 | Výskyty: 72 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) nereaguje, nehýbe se a nedýchá, nebo jsou vidět jen „lapavé“ nádechy
+- b) nereaguje a nehýbá se, bez ohledu na stav dýchání (laik není stav dýchání schopen spolehlivě posoudit)
+- c) nereaguje a nemá hmatný puls na krční tepně (stav dýchání není podstatný)
+
+---
+
+### Pilot během svahování po zaklapnutí asi 10 m nad zemí dopadl tvrdě na levý bok, zjevně otřesen, nicméně vstává, vzápětí kolabuje, je bledý, udává bolest naraženého boku, třese se, chce se mu spát, je trochu zmatený, ale nabízené přivolání záchranky striktně odmítá. Postup bude:
+*Body: 0 | Výskyty: 88 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) Uložíme jej do stínu, do polosedu, během létání jej občas kontrolujeme. Pokud by se stav horšil, přivoláme pomoc.
+- b) Snažíme se jej uklidnit, ponecháme jej v poloze, jaká mu nejlépe vyhovuje, přikryjeme jej, přivoláme záchrannou službu.
+- c) Uložíme jej do protišokové polohy s nohama nahoru, přikryjeme a přivoláme záchrannou službu.
+
+---
+
+### Výběr startoviště a směr vzletu podřizujeme:
+*Body: 0 | Výskyty: 316 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) větru na startovišti s ohledem na to, jaký vítr fouká nad hřebenem
+- b) větru, který fouká dole v údolí na přistávací ploše
+- c) větru, který udává nejbližší meteorologická stanice
+
+---
+
+### Mezi tzv. únikové manévry patří
+*Body: 0 | Výskyty: 600 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) spirála, negativní zatáčka a b-stall
+- b) spirála, zaklopení stabilizátorů (uši) a b-stall
+- c) spirála, full-stall a b-stall
+
+---
+
+### Předstartovní kontrola je
+*Body: 0 | Výskyty: 356 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) pětibodová
+- b) tříbodová
+- c) sedmibodová
 
 ---
 
@@ -706,12 +760,12 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Zeměkoule je:
-*Body: 0 | Výskyty: 548 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Přízemní projevy aktivní bouřky nebezpečné pro letecký provoz:
+*Body: 0 | Výskyty: 46 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) síť souřadnicových čar
-- b) rotační elipsoid na pólech zploštělý
-- c) ideální koule
+- a) húlava na čele bouřky, existence silného vzestupného proudu před húlavou, silný sestupný proud za húlavou v oblasti vypadávajících srážek, silné nárazy větru
+- b) vypadávání trvalých srážek
+- c) snížení základny oblačnosti, snižování dohlednosti
 
 ---
 
@@ -742,12 +796,12 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Pokud tomu nebrání zvláštní okolnosti, je pro postiženého úrazem nejlepší:
-*Body: 0 | Výskyty: 75 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
+### Při sešlápnutí speed systému
+*Body: 0 | Výskyty: 131 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) poloha na boku („stabilizovaná“ resp. „zotavovací
-- b) taková poloha, kterou chce postižený sám zaujmout
-- c) „protišoková“ poloha s nohama a rukama zvednutýma co nejvýše
+- a) PK zvýší rychlost letu a je náchylnější k frontstalu nebo jednostranému zaklopení
+- b) PK zrychlí a v důsledku zvýšení rychlosti obtékání je stabilnější
+- c) má PK tendenci frontálně nebo asymetricky se zaklapnout
 
 ---
 
@@ -760,48 +814,39 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Resuscitaci (oživování) je potřeba provádět tehdy, pokud postižený:
-*Body: 0 | Výskyty: 72 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Při uvolnění speed systému se rychlost PK
+*Body: 0 | Výskyty: 320 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) nereaguje, nehýbe se a nedýchá, nebo jsou vidět jen „lapavé“ nádechy
-- b) nereaguje a nehýbá se, bez ohledu na stav dýchání (laik není stav dýchání schopen spolehlivě posoudit)
-- c) nereaguje a nemá hmatný puls na krční tepně (stav dýchání není podstatný)
-
----
-
-### Terénní útvary jako jsou lesy, louky, jezera, hrady, silnice, železnice atd. nazýváme:
-*Body: 0 | Výskyty: 529 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) topografickou situací
-- b) topografickou plochou
-- c) projekcí mapy
+- a) sníží
+- b) zvýší
+- c) nezmění, pouze se zvětší úhel náběhu
 
 ---
 
-### Vyberte pravdivé tvrzení, týkající se použití protišokové fólie:
-*Body: 0 | Výskyty: 75 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
+### "B" stall provedu
+*Body: 0 | Výskyty: 339 | Kategorie: Specifické typy letadel | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) fólie má výborné termoizolační vlastnosti, ale nechrání proti vlhkosti (v silném dešti může promoknout)
-- b) fólii je možné v nouzi použít i jako škrtidlo nebo improvizovaný obvaz
-- c) je jedno, kterou stranou je fólie otočená k pacientovi, důležité je, aby byla kolem pacienta těsně omotaná
-
----
-
-### Na spodní straně křídla za letu působí:
-*Body: 0 | Výskyty: 123 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) žádný tlak
-- b) podtlak
-- c) přetlak
+- a) postupným stažením předních popruhů
+- b) postupným stažením zadních popruhů
+- c) postupným stažením popruhů druhé řady
 
 ---
 
-### Při sešlápnutí speed systému
-*Body: 0 | Výskyty: 131 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Signalizace, kterou osoby na zemi potvrzují potřebu přistání posádce záchranného vrtulníku, se provádí:
+*Body: 0 | Výskyty: 95 | Kategorie: Komunikace a letištní provoz | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) PK zvýší rychlost letu a je náchylnější k frontstalu nebo jednostranému zaklopení
-- b) PK zrychlí a v důsledku zvýšení rychlosti obtékání je stabilnější
-- c) má PK tendenci frontálně nebo asymetricky se zaklapnout
+- a) rukama mírně rozpaženýma do tvaru písmene A
+- b) rukama vztyčenýma nad hlavou do tvaru písmene Y
+- c) máváním jakýmkoliv předmětem světlé barvy
+
+---
+
+### Při silnějším větru startuji
+*Body: 0 | Výskyty: 322 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+
+- a) na vrcholu kopce
+- b) v dostatečné vzdálenosti pod vrcholem kopce
+- c) tak, aby vrchlík byl zároveň s vrcholem kopce
 
 ---
 
@@ -814,129 +859,39 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Vyberte pravdivý výrok týkající se taktiky postupu, pokud jste svědkem vzniku vážného úrazu:
-*Body: 0 | Výskyty: 79 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Rychlost letu zvýším
+*Body: 0 | Výskyty: 325 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) Jsme-li svědky úrazu, voláme záchrannou službu až po důkladném vyšetření, abychom měli jistotu, že stav je doopravdy vážný.
-- b) Před voláním na záchrannou službu je vhodné se aspoň orientačně ujistit, kde k úrazu došlo, co se stalo a kolik je postižených.
-- c) Nejprve je nutné co nejrychleji obnovit životní funkce a až potom se zabývat přivoláním pomoci.
-
----
-
-### Letadlo, které je podle pravidel povinno dát přednost jinému letadlu se musí:
-*Body: 0 | Výskyty: 89 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) vyhnout tak, aby byla mezi letadly dodržena vertikální vzdálenost 150 m
-- b) vyhnout tak, aby byla mezi letadly dodržena vodorovná vzdálenost 300 m
-- c) vyhnout tím, že nadletí, podletí nebo křižuje jeho trať v dostatečné vzdálenosti
+- a) sešlápnutím speedu
+- b) zatažením trimů
+- c) mírným přitažením řídiček
 
 ---
 
-### Pilot během svahování po zaklapnutí asi 10 m nad zemí dopadl tvrdě na levý bok, zjevně otřesen, nicméně vstává, vzápětí kolabuje, je bledý, udává bolest naraženého boku, třese se, chce se mu spát, je trochu zmatený, ale nabízené přivolání záchranky striktně odmítá. Postup bude:
-*Body: 0 | Výskyty: 88 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Na PK se smí létat
+*Body: 0 | Výskyty: 52 | Kategorie: Letecké předpisy a legislativa | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) Uložíme jej do stínu, do polosedu, během létání jej občas kontrolujeme. Pokud by se stav horšil, přivoláme pomoc.
-- b) Snažíme se jej uklidnit, ponecháme jej v poloze, jaká mu nejlépe vyhovuje, přikryjeme jej, přivoláme záchrannou službu.
-- c) Uložíme jej do protišokové polohy s nohama nahoru, přikryjeme a přivoláme záchrannou službu.
-
----
-
-### Základním úkolem první pomoci při ošetření ran a oděrek je:
-*Body: 0 | Výskyty: 86 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 24.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) odstranění případných cizích těles výplachem, desinfekce okolí rány a přiložení krycího obvazu
-- b) přiložení krycího obvazu; ránu v improvizovaných podmínkách nikdy nečistíme a cizí tělesa nevyjímáme
-- c) desinfekce rány (v nouzi i koncentrovaným alkoholem), odstranění cizích těles, přiložení krycího obvazu
+- a) za podmínek VFR ve dne, přičemž se za den považuje doba od západu do východu slunce.
+- b) od západu do východu slunce
+- c) pouze ve dne, tj. v době mezi začátkem občanského svítání a koncem občanského soumraku nebo v jiném podobném časovém úseku, který může určit příslušný úřad
 
 ---
 
-### Zeměpisné souřadnice nám udávají:
-*Body: 0 | Výskyty: 98 | Kategorie: Navigace a letové přístroje | První výskyt: 25.07.2024 | Poslední výskyt: 07.09.2024*
+### Při vlétnutí do klesavého proudu
+*Body: 0 | Výskyty: 338 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) polohu časového pásma
-- b) název určitého místa
-- c) zeměpisnou polohu určitého místa
-
----
-
-### Uvolnění dýchacích cest se u pacienta v bezvědomí provádí především pomocí:
-*Body: 0 | Výskyty: 81 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) předklonu hlavy
-- b) záklonu hlavy
-- c) stabilizované polohy
+- a) vrchlík se nakloní do strany a hrozí asymetrické zaklopení
+- b) vrchlík předstřelí dopředu a hrozí čelní zaklopení vrchlíku
+- c) vrchlík kývne dozadu a následně může dojít k předstřelu
 
 ---
 
-### Pokud jedna vrstva tlakového obvazu nestačí k zastavení krvácení z rány na noze:
-*Body: 0 | Výskyty: 77 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+### Při vlétnutí do stoupavého proudu
+*Body: 0 | Výskyty: 339 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
-- a) urgujeme příjezd záchranné služby, přičemž opakovaně zdůrazníme naléhavost stavu
-- b) původní obvaz odstraníme a přiložíme nový, který lépe utáhneme
-- c) přiložíme další 1-2 vrstvy, případně použijeme zaškrcení
-
----
-
-### Pokud pacient po úrazu v bezvědomí nedýchá:
-*Body: 0 | Výskyty: 81 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) okamžitě zahájíme resuscitaci
-- b) pokusíme se především uvolnit dýchací cesty
-- c) urychleně jej transportujme k odborné pomoci
-
----
-
-### Při nevydařeném přistání prolétl pilot oknem a řízl se na zápěstí tak nešťastně, že rána silně krvácí, krev vystřikuje. Z rány ční střep cca 10 cm dlouhý. Postižený je při vědomí, bledý, stěžuje si na bolest v kotníku pravé nohy, kde je zjevná deformace. Zavoláme záchrannou službu a dále:
-*Body: 0 | Výskyty: 76 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
-
-- a) uložíme postiženého do polosedu, vytáhneme střep, přiložíme tlakový obvaz
-- b) imobilizujeme poraněnou nohu, uložíme poraněného do protišokové polohy, ruku zvedneme nahoru, a pokud krvácení trvá, přiložíme tlakový obvaz
-- c) položíme postiženého na záda s podloženýma nohama, na předloktí naložíme improvizované škrtidlo, šetrně dotáhneme. Střep zásadně nevydáváme
-
----
-
-### Sportovní létající zařízení může řídit
-*Body: 3 | Výskyty: 162 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo osoba oprávněná provozovatelem SLZ za přítomnosti pilota, pilotní žák za podmínek stanovených výcvikovou osnovou
-- b) pilot, který je držitelem platného posudku o zdravotní způsobilosti, nebo pilotní žák za podmínek stanovených výcvikovou osnovou
-- c) pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo pilotní žák za podmínek stanovených výcvikovou osnovou
-
----
-
-### Při kritickém úhlu náběhu:
-*Body: 3 | Výskyty: 105 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) dochází k prudkému nárůstu součinitele vztlaku
-- b) dosahuje součinitel vztlaku maximální hodnoty, při dalším zvyšování úhlu náběhu prudce klesá
-- c) dochází k náhlému poklesu součinitele odporu
-
----
-
-### Prvotní vyšetření zahrnuje
-*Body: 3 | Výskyty: 86 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) rychlou kontrolu postiženého „od hlavy k patě“ s důrazem na známky úrazu
-- b) kontrolu stavu životních funkcí podle schématu A-B-C
-- c) zjištění okolností úrazu, potíží nemocného a případných nemocí, kterými dlouhodobě trpí
-
----
-
-### Srážky vypadávající z oblačných soustav výrazných teplých front jsou převážně:
-*Body: 3 | Výskyty: 44 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) srážky trvalé
-- b) srážky občasné
-- c) přeháňky
-
----
-
-### Srovnávací navigace spočívá v:
-*Body: 3 | Výskyty: 80 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) srovnávání terénu s mapou a opačně
-- b) srovnávání vypočtených časů se skutečností
-- c) srovnávání údajů navigačních přístrojů (GPS) s mapou
+- a) vrchlík se nakloní do strany a hrozí asymetrické zaklopení
+- b) vrchlík předstřelí dopředu a hrozí čelní zaklopení vrchlíku
+- c) vrchlík kývne dozadu a následně může dojít k předstřelu
 
 ---
 
@@ -958,12 +913,21 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Informace o poloze CTR, TMA, LKR, LKP je možno získat
-*Body: 3 | Výskyty: 60 | Kategorie: Letecké předpisy a legislativa | První výskyt: 24.07.2024 | Poslední výskyt: 06.09.2024*
+### 9 cm na mapě 1 : 500 000 odpovídá ve skutečnosti:
+*Body: 3 | Výskyty: 51 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
-- a) v AIP ČR nebo platné letecké mapě
-- b) v oficiální navigační mapě ÚCL
-- c) v mapě ADAC
+- a) 50 km
+- b) 45 km
+- c) 60 km
+
+---
+
+### Doba východu a západu slunce se mění:
+*Body: 3 | Výskyty: 56 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) působením magnetického pole zeměkoule
+- b) s roční dobou
+- c) intensitou slunečního záření
 
 ---
 
@@ -976,6 +940,132 @@ Celkem unikátních otázek: **268**
 
 ---
 
+### Při přechodu aktivní studené fronty II. druhu se setkáváme s typickými nebezpečnými jevy:
+*Body: 3 | Výskyty: 50 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) námrazou, trvalými srážkami, zhoršenou dohledností
+- b) nízkou oblačností, mohutnou vrstevnatou oblačností, silným trvalým deštěm
+- c) silnou turbulencí, silnou námrazou, aktivní bouřkovou činností, silnými přeháňkami, silným větrem
+
+---
+
+### V oblasti tlakové výše vane na severní polokouli vítr při zemi:
+*Body: 3 | Výskyty: 49 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) proti směru pohybu hodinových ručiček
+- b) rovně ze středu výše v celé její oblasti
+- c) ve směru pohybu hodinových ručiček
+
+---
+
+### Hustota vzduchu v zemské atmosféře s výškou:
+*Body: 3 | Výskyty: 57 | Kategorie: Meteorologie | První výskyt: 26.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) klesá
+- b) vzrůstá
+- c) se nemění
+
+---
+
+### Informace o poloze CTR, TMA, LKR, LKP je možno získat
+*Body: 3 | Výskyty: 60 | Kategorie: Letecké předpisy a legislativa | První výskyt: 24.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) v AIP ČR nebo platné letecké mapě
+- b) v oficiální navigační mapě ÚCL
+- c) v mapě ADAC
+
+---
+
+### Jak se změní rychlost proudění a statický tlak v něm, když v nějakém místě dojde ke zhuštění proudnic?
+*Body: 3 | Výskyty: 128 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) rychlost se zvýší, statický tlak se zvýší
+- b) rychlost klesne, statický tlak klesne
+- c) rychlost se zvýší, statický tlak klesne
+
+---
+
+### Při kritickém úhlu náběhu:
+*Body: 3 | Výskyty: 105 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) dochází k prudkému nárůstu součinitele vztlaku
+- b) dosahuje součinitel vztlaku maximální hodnoty, při dalším zvyšování úhlu náběhu prudce klesá
+- c) dochází k náhlému poklesu součinitele odporu
+
+---
+
+### Srážky vypadávající z oblačných soustav výrazných teplých front jsou převážně:
+*Body: 3 | Výskyty: 44 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) srážky trvalé
+- b) srážky občasné
+- c) přeháňky
+
+---
+
+### Srovnávací navigace spočívá v:
+*Body: 3 | Výskyty: 80 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) srovnávání terénu s mapou a opačně
+- b) srovnávání vypočtených časů se skutečností
+- c) srovnávání údajů navigačních přístrojů (GPS) s mapou
+
+---
+
+### Vztlak je?
+*Body: 3 | Výskyty: 41 | Kategorie: Principy letu a aerodynamika | První výskyt: 26.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) odpor plochy daný úhlem náběhu
+- b) síla vzniklá obtékáním profilu, kolmá k síle aerodynamického odporu
+- c) výsledná aerodynamická síla vzniklá obtékáním profilu
+
+---
+
+### Klouzavost vůči zemi se:
+*Body: 3 | Výskyty: 277 | Kategorie: Letové výkony a plánování | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) změní při změně hmotnosti
+- b) změní, fouká-li vítr
+- c) fouká-li vítr nezmění, protože efektivní nosná plocha zůstává stejná
+
+---
+
+### Které složky tvoří výslednou aerodynamickou sílu?
+*Body: 3 | Výskyty: 42 | Kategorie: Principy letu a aerodynamika | První výskyt: 24.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) součinitel vztlaku a tíhy
+- b) vztlak a tíha
+- c) vztlak a odpor
+
+---
+
+### Prvotní vyšetření zahrnuje
+*Body: 3 | Výskyty: 86 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) rychlou kontrolu postiženého „od hlavy k patě“ s důrazem na známky úrazu
+- b) kontrolu stavu životních funkcí podle schématu A-B-C
+- c) zjištění okolností úrazu, potíží nemocného a případných nemocí, kterými dlouhodobě trpí
+
+---
+
+### Sportovní létající zařízení může řídit
+*Body: 3 | Výskyty: 162 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo osoba oprávněná provozovatelem SLZ za přítomnosti pilota, pilotní žák za podmínek stanovených výcvikovou osnovou
+- b) pilot, který je držitelem platného posudku o zdravotní způsobilosti, nebo pilotní žák za podmínek stanovených výcvikovou osnovou
+- c) pilot, který je držitelem platného pilotního průkazu s příslušnou kvalifikací, nebo pilotní žák za podmínek stanovených výcvikovou osnovou
+
+---
+
+### Jaké vlastnosti bude mít přízemní vítr v oblasti, kde jsou na přízemní meteorologické mapě izobary blízko u sebe?
+*Body: 3 | Výskyty: 29 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) Silný kolmo na izobary
+- b) Silný zhruba podél izobar
+- c) Slabý ve směru izobar
+
+---
+
 ### Při srovnávání mapy s terénem je nejdůležitější:
 *Body: 1 | Výskyty: 260 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
@@ -985,44 +1075,8 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Při srážce s jiným SLZ ve výšce 50 - 100 m nad terénem je správný postup
-*Body: 0 | Výskyty: 161 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) vyhodit záložní padák
-- b) provést sestupný manévr
-- c) znovu ustálit let
-
----
-
-### Hustota vzduchu v zemské atmosféře s výškou:
-*Body: 0 | Výskyty: 57 | Kategorie: Meteorologie | První výskyt: 26.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) klesá
-- b) vzrůstá
-- c) se nemění
-
----
-
-### Jaké vlastnosti bude mít přízemní vítr v oblasti, kde jsou na přízemní meteorologické mapě izobary blízko u sebe?
-*Body: 0 | Výskyty: 29 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) Silný kolmo na izobary
-- b) Silný zhruba podél izobar
-- c) Slabý ve směru izobar
-
----
-
-### Doba platnosti lékařského posudku o zdravotní způsobilosti je pro piloty
-*Body: 0 | Výskyty: 313 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) 24 měsíců u osob od 35 do 60 let
-- b) 36 měsíců u osob od 30 do 60 let
-- c) 12 měsíců u osob od 75 let
-
----
-
 ### Kdo je oprávněn kontrolovat pilotní průkaz nebo doklad žáka
-*Body: 0 | Výskyty: 310 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+*Body: 1 | Výskyty: 310 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
 - a) inspektor provozu a techniky LAA ČR, osoba pověřená MD ČR nebo ÚCL, příslušník Policie ČR
 - b) inspektor provozu LAA ČR, příslušník Policie ČR, inspektor ÚCL, osoba pověřená provozovatelem letiště nebo majitelem pozemku
@@ -1030,62 +1084,8 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Zlomeninu dolní končetiny přednostně fixujeme:
-*Body: 0 | Výskyty: 100 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 24.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) zavěšením do šátku
-- b) přitažením k druhostranné končetině (pokud není rovněž zlomená)
-- c) pomocí improvizované dlahy (větve, tyčky apod.)
-
----
-
-### Vztlak je?
-*Body: 0 | Výskyty: 41 | Kategorie: Principy letu a aerodynamika | První výskyt: 26.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) odpor plochy daný úhlem náběhu
-- b) síla vzniklá obtékáním profilu, kolmá k síle aerodynamického odporu
-- c) výsledná aerodynamická síla vzniklá obtékáním profilu
-
----
-
-### Směr větru před přistáním v neznámém místě, kde není větrný rukáv, nejsnáze poznáme podle
-*Body: 0 | Výskyty: 306 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) polohy rozložených PK, které zde přistály před námi
-- b) vlnění trávy, pohybu dýmu, ohýbání stromů, poletování chmýří
-- c) kroužení dravců, směru pohybu stínů na zemi, vln na vodních plochách
-
----
-
-### Klouzavost vůči zemi se:
-*Body: 0 | Výskyty: 277 | Kategorie: Letové výkony a plánování | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) změní při změně hmotnosti
-- b) změní, fouká-li vítr
-- c) fouká-li vítr nezmění, protože efektivní nosná plocha zůstává stejná
-
----
-
-### Které složky tvoří výslednou aerodynamickou sílu?
-*Body: 0 | Výskyty: 42 | Kategorie: Principy letu a aerodynamika | První výskyt: 24.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) součinitel vztlaku a tíhy
-- b) vztlak a tíha
-- c) vztlak a odpor
-
----
-
-### Vrchlíku PK škodí zejména
-*Body: 0 | Výskyty: 197 | Kategorie: Specifické typy letadel | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) myši a jiní polní hlodavci
-- b) UV záření, mechanický oděr, vlhkost
-- c) skladování v temných a suchých prostorech
-
----
-
 ### Prostor typu LKP sahá
-*Body: 0 | Výskyty: 181 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+*Body: 1 | Výskyty: 181 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
 - a) od země do FL 125
 - b) od země do různých výšek (viz AIP nebo platná letecká mapa)
@@ -1093,57 +1093,12 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Když za letu vypadne záložní padák a naplní se:
-*Body: 0 | Výskyty: 180 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+### Doba platnosti lékařského posudku o zdravotní způsobilosti je pro piloty
+*Body: 1 | Výskyty: 313 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
-- a) mám-li dostatečnou výšku, snažím se stáhnout vrchlík za zadní popruhy k sobě, aby byl co nejméně funkční
-- b) snažím se stahováním šňůr zrušit záložní padák a přitáhnout ho k sobě
-- c) nedělám nic, už nic dělat stějně nelze
-
----
-
-### V oblasti tlakové výše vane na severní polokouli vítr při zemi:
-*Body: 0 | Výskyty: 49 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) proti směru pohybu hodinových ručiček
-- b) rovně ze středu výše v celé její oblasti
-- c) ve směru pohybu hodinových ručiček
-
----
-
-### Při přechodu aktivní studené fronty II. druhu se setkáváme s typickými nebezpečnými jevy:
-*Body: 0 | Výskyty: 50 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) námrazou, trvalými srážkami, zhoršenou dohledností
-- b) nízkou oblačností, mohutnou vrstevnatou oblačností, silným trvalým deštěm
-- c) silnou turbulencí, silnou námrazou, aktivní bouřkovou činností, silnými přeháňkami, silným větrem
-
----
-
-### 9 cm na mapě 1 : 500 000 odpovídá ve skutečnosti:
-*Body: 0 | Výskyty: 51 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) 50 km
-- b) 45 km
-- c) 60 km
-
----
-
-### Ošetření ran a fixace zlomenin se u postiženého s úrazem v rámci první pomoci provádí:
-*Body: 0 | Výskyty: 89 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) jen tehdy, pokud není postižený ohrožený poruchou základních životních funkcí
-- b) vždy, pokud jde o zející (hluboké) rány a/nebo otevřenou zlomenu
-- c) vždy prioritně u jakékoliv rány a u jakékoliv zlomeniny
-
----
-
-### Telefonní číslo na záchrannou službu je v ČR:
-*Body: 0 | Výskyty: 85 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) 158
-- b) 150
-- c) 155
+- a) 24 měsíců u osob od 35 do 60 let
+- b) 36 měsíců u osob od 30 do 60 let
+- c) 12 měsíců u osob od 75 let
 
 ---
 
@@ -1156,21 +1111,12 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Doba východu a západu slunce se mění:
-*Body: 0 | Výskyty: 56 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+### Záložní padák (ZP) použijeme bez váhání
+*Body: 0 | Výskyty: 154 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
-- a) působením magnetického pole zeměkoule
-- b) s roční dobou
-- c) intensitou slunečního záření
-
----
-
-### Při nouzovém přistáním upřednostním
-*Body: 0 | Výskyty: 160 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 24.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) budovy
-- b) stromy
-- c) dráty elektrického vedení
+- a) při přefouknutí za horský hřeben
+- b) pod bouřkovým mrakem
+- c) v neřízené prudké rotaci
 
 ---
 
@@ -1183,30 +1129,30 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Záložní padák (ZP) použijeme bez váhání
-*Body: 0 | Výskyty: 154 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+### Při nouzovém přistáním upřednostním
+*Body: 0 | Výskyty: 160 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 24.07.2024 | Poslední výskyt: 06.09.2024*
 
-- a) při přefouknutí za horský hřeben
-- b) pod bouřkovým mrakem
-- c) v neřízené prudké rotaci
-
----
-
-### „Lapavými dechy“ se rozumí:
-*Body: 0 | Výskyty: 79 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
-
-- a) nápadně hlučné nádechy v rychlém tempu; tyto nádechy jsou typické pro rozvíjející se šokový stav
-- b) nápadně rychlé, ale mělké a tiché dýchání, typické pro pacienta s překážkou v dýchacích cestách
-- c) jednotlivé nádechy v nápadně dlouhých intervalech u postiženého v bezvědomí; tyto nádechy jsou typické pro zástavu oběhu
+- a) budovy
+- b) stromy
+- c) dráty elektrického vedení
 
 ---
 
-### Jaký typ srážek lze očekávat na aktivní studené frontě?
-*Body: 0 | Výskyty: 43 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+### Při srážce s jiným SLZ ve výšce 50 - 100 m nad terénem je správný postup
+*Body: 0 | Výskyty: 161 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
-- a) Mrholení
-- b) Přeháňky a bouřky
-- c) Mírný trvalý déšť
+- a) vyhodit záložní padák
+- b) provést sestupný manévr
+- c) znovu ustálit let
+
+---
+
+### Zlomeninu dolní končetiny přednostně fixujeme:
+*Body: 0 | Výskyty: 100 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 24.07.2024 | Poslední výskyt: 06.09.2024*
+
+- a) zavěšením do šátku
+- b) přitažením k druhostranné končetině (pokud není rovněž zlomená)
+- c) pomocí improvizované dlahy (větve, tyčky apod.)
 
 ---
 
@@ -1219,12 +1165,12 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Jak se změní rychlost proudění a statický tlak v něm, když v nějakém místě dojde ke zhuštění proudnic?
-*Body: 0 | Výskyty: 128 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
+### Telefonní číslo na záchrannou službu je v ČR:
+*Body: 0 | Výskyty: 85 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
-- a) rychlost se zvýší, statický tlak se zvýší
-- b) rychlost klesne, statický tlak klesne
-- c) rychlost se zvýší, statický tlak klesne
+- a) 158
+- b) 150
+- c) 155
 
 ---
 
@@ -1237,120 +1183,57 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Základní příčinou vzniku oblačnosti v atmosféře je:
-*Body: 3 | Výskyty: 44 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### Jaký typ srážek lze očekávat na aktivní studené frontě?
+*Body: 0 | Výskyty: 43 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
-- a) pokles teploty vzduchu s výškou
-- b) dosažení stavu nasycení
-- c) dosažení stavu nasycení s následnou kondenzací vodních par
-
----
-
-### Do zakázaného prostoru (LK P) pilot:
-*Body: 3 | Výskyty: 67 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) může vletět, nesmí jej však opustit
-- b) nesmí vletět pokud příslušný úřad nevydá zvláštní povolení
-- c) může vletět v rámci prostoru třídy G a E avšak nejvýše rychlostí 460 km/hod IAS
+- a) Mrholení
+- b) Přeháňky a bouřky
+- c) Mírný trvalý déšť
 
 ---
 
-### Mezi oblačnost kupovitou patří:
-*Body: 3 | Výskyty: 40 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### Když za letu vypadne záložní padák a naplní se:
+*Body: 0 | Výskyty: 180 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
-- a) As - altostratus
-- b) Cu - cumulus
-- c) St - stratus
-
----
-
-### Na vstřícné trati letí letadla stejné kategorie. Opatření k vyhnutí provede:
-*Body: 3 | Výskyty: 81 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) obě letadla změnou kurzu vpravo
-- b) vy změnou kurzu vpravo, druhé letadlo vlevo
-- c) změnou kurzu vlevo
+- a) mám-li dostatečnou výšku, snažím se stáhnout vrchlík za zadní popruhy k sobě, aby byl co nejméně funkční
+- b) snažím se stahováním šňůr zrušit záložní padák a přitáhnout ho k sobě
+- c) nedělám nic, už nic dělat stějně nelze
 
 ---
 
-### Při zvětšování úhlu náběhu:
-*Body: 3 | Výskyty: 96 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### Ošetření ran a fixace zlomenin se u postiženého s úrazem v rámci první pomoci provádí:
+*Body: 0 | Výskyty: 89 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
-- a) klesá součinitel vztlaku a odporu
-- b) roste součinitel vztlaku, součinitel odporu klesá
-- c) roste součinitel vztlaku a odporu
-
----
-
-### Termická turbulence vzniká vlivem:
-*Body: 3 | Výskyty: 42 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) nestejnoměrného zahřívání zemského povrchu
-- b) kopcovitého terénu
-- c) ohřevu vzduchu o zemský povrch při instabilním zvrstvení
+- a) jen tehdy, pokud není postižený ohrožený poruchou základních životních funkcí
+- b) vždy, pokud jde o zející (hluboké) rány a/nebo otevřenou zlomenu
+- c) vždy prioritně u jakékoliv rány a u jakékoliv zlomeniny
 
 ---
 
-### Cizí těleso (např. kamínky, střep apod.) z rány:
-*Body: 3 | Výskyty: 96 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### „Lapavými dechy“ se rozumí:
+*Body: 0 | Výskyty: 79 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
-- a) vyjmeme za každou cenu, tj. i za cenu poškození okolní tkáně, a ránu následně důkladně propláchneme desinfekcí.
-- b) vyjmeme, pokud je to možné bez nepřiměřeného násilí (např. výplachem rány vodou, mírným tahem apod.)
-- c) zásadně nevyjímáme - ponecháme nečistoty v ráně, kterou obvážeme a obvaz necháme nasáknout dostupnou dezinfekcí
-
----
-
-### Přechod studené fronty s aktivními bouřkovými projevy se v poli teploty, tlaku, přízemního větru projevuje:
-*Body: 3 | Výskyty: 44 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) teplota klesá a později stoupá, tlak se nemění, vítr slábne
-- b) poklesem teploty, silným poklesem tlaku a jeho následným vzestupem, silným zesílením větru a jeho nárazovitostí
-- c) teplota se nemění, tlak slabě klesá, vítr mírně zesílí bez nárazů
+- a) nápadně hlučné nádechy v rychlém tempu; tyto nádechy jsou typické pro rozvíjející se šokový stav
+- b) nápadně rychlé, ale mělké a tiché dýchání, typické pro pacienta s překážkou v dýchacích cestách
+- c) jednotlivé nádechy v nápadně dlouhých intervalech u postiženého v bezvědomí; tyto nádechy jsou typické pro zástavu oběhu
 
 ---
 
-### Z vertikálně vyvinutých oblaků typu Cb - cumulonimbus vypadávají převážně srážky ve formě:
-*Body: 3 | Výskyty: 49 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### Vrchlíku PK škodí zejména
+*Body: 0 | Výskyty: 197 | Kategorie: Specifické typy letadel | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
-- a) slabý dešť
-- b) mrholení
-- c) déšť a kroupy
-
----
-
-### Po průletu převodní výškou se pro udávání výšky přejde z nastavení hodnoty QNH:
-*Body: 3 | Výskyty: 67 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) na nastavení výškoměru na hodnotu 1013,2 hPa a vertikální polohy letadla se vyjadřují v letových hladinách
-- b) na nastavení údaje QFE a vertikální polohy letadla se vyjadřují jako výšky nad zemí
-- c) na nastavení údaje QFE cílového letiště a vertikální polohy letadla se vyjadřují jako výšky nad cílovým letištěm
+- a) myši a jiní polní hlodavci
+- b) UV záření, mechanický oděr, vlhkost
+- c) skladování v temných a suchých prostorech
 
 ---
 
-### 10 cm na mapě 1 : 200 000 odpovídá ve skutečnosti:
-*Body: 3 | Výskyty: 74 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### Směr větru před přistáním v neznámém místě, kde není větrný rukáv, nejsnáze poznáme podle
+*Body: 0 | Výskyty: 306 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 06.09.2024*
 
-- a) 50 km
-- b) 200 km
-- c) 20 km
-
----
-
-### Kde začíná na profilu odtrhávání proudu?
-*Body: 3 | Výskyty: 139 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) v mezní vrstvě na sací straně profilu u náběžné hrany
-- b) v mezní vrstvě na sací straně profilu od odtokové hrany
-- c) v úplavu na sací straně profilu u náběžné hrany
-
----
-
-### Zeměpisný poledník je:
-*Body: 3 | Výskyty: 74 | Kategorie: Navigace a letové přístroje | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) část kružnice, jejíž rovina je kolmá na zemskou osu
-- b) kružnice kolem zeměkoule
-- c) polovina poledníkové kružnice
+- a) polohy rozložených PK, které zde přistály před námi
+- b) vlnění trávy, pohybu dýmu, ohýbání stromů, poletování chmýří
+- c) kroužení dravců, směru pohybu stínů na zemi, vln na vodních plochách
 
 ---
 
@@ -1363,12 +1246,417 @@ Celkem unikátních otázek: **268**
 
 ---
 
+### Základní příčinou vzniku oblačnosti v atmosféře je:
+*Body: 3 | Výskyty: 44 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) pokles teploty vzduchu s výškou
+- b) dosažení stavu nasycení
+- c) dosažení stavu nasycení s následnou kondenzací vodních par
+
+---
+
+### Jaké jsou kromě sil způsobující výstup vzduchu další dvě podmínky nutné pro vytvoření bouřky?
+*Body: 3 | Výskyty: 25 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) Nestabilní podmínky a nízký tlak vzduchu
+- b) Stabilní podmínky a vysoký tlak vzduchu
+- c) Nestabilní podmínky a vysoký obsah vlhkosti
+
+---
+
+### Vztlak vzniká při obtékání profilu v důsledku vytvoření rozdílu tlaků nad a pod profilem. Jaký tlak je pod a nad profilem a jaký je při běžných úhlech náběhu poměr jejich velikostí?
+*Body: 3 | Výskyty: 28 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) pod profilem vzniká přetlak, nad profilem podtlak, jejichž velikosti jsou stejné
+- b) pod profilem vzniká podtlak, nad profilem přetlak, který je asi třikrát větší, než podtlak
+- c) pod profilem vzniká přetlak , nad profilem podtlak, ve vzájemném poměru je 1/3 přetlaku a 2/3 podtlaku
+
+---
+
+### Na vstřícné trati letí letadla stejné kategorie. Opatření k vyhnutí provede:
+*Body: 3 | Výskyty: 81 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) obě letadla změnou kurzu vpravo
+- b) vy změnou kurzu vpravo, druhé letadlo vlevo
+- c) změnou kurzu vlevo
+
+---
+
+### Ověřovat zda je technický průkaz SLZ platný je povinností:
+*Body: 3 | Výskyty: 185 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) velitele SLZ (pilota)
+- b) vedoucího letového provozu
+- c) provozovatele
+
+---
+
+### Lety VFR ve vzdušném prostoru třídy G se musí provádět tak, aby letadlo letělo:
+*Body: 3 | Výskyty: 79 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) při stejné nebo větší vzdálenosti od oblaku než - horizontálně 5 km, vertikálně 300 m
+- b) při stejné nebo větší vzdálenosti od oblaku než - horizontálně 1,5 km, vertikálně 300 m
+- c) vně oblaků za stálé dohlednosti země
+
+---
+
+### Úhel náběhu je geometrický úhel, který:
+*Body: 3 | Výskyty: 35 | Kategorie: Principy letu a aerodynamika | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) svírá směr nabíhajícího proudu s vodorovnou rovinou (horizontem), tj. nulový v horizontálním letu
+- b) svírá tětiva profilu s vodorovnou rovinou (horizontem)
+- c) svírá směr nabíhajícího proudu vzduchu s tětivou profilu
+
+---
+
+### Vítr je určen:
+*Body: 3 | Výskyty: 39 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) rychlostí
+- b) směrem ze kterého vane a rychlostí
+- c) směrem kam vane a rychlostí
+
+---
+
+### 10 cm na mapě 1 : 200 000 odpovídá ve skutečnosti:
+*Body: 3 | Výskyty: 74 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) 50 km
+- b) 200 km
+- c) 20 km
+
+---
+
+### Větší část vztlaku vzniká:
+*Body: 3 | Výskyty: 39 | Kategorie: Principy letu a aerodynamika | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) nad profilem, asi 2/3
+- b) pod profilem, asi 2/3
+- c) nad 2/3 profilu, asi 55%
+
+---
+
+### Zeměpisný poledník je:
+*Body: 3 | Výskyty: 74 | Kategorie: Navigace a letové přístroje | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) část kružnice, jejíž rovina je kolmá na zemskou osu
+- b) kružnice kolem zeměkoule
+- c) polovina poledníkové kružnice
+
+---
+
+### V definici standardní atmosféry jsou hodnoty tlaku a teploty na střední hladině moře:
+*Body: 3 | Výskyty: 73 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) 1013,25 hPa, +15°C
+- b) 1015 hPa, +10°C
+- c) 1013,25 hPa, 0°C
+
+---
+
+### Vztlak působí:
+*Body: 3 | Výskyty: 39 | Kategorie: Principy letu a aerodynamika | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) vždy směrem vzhůru od profilu
+- b) vždy kolmo na směr proudu vzduchu nabíhajícího na profil
+- c) vždy kolmo k tětivě profilu
+
+---
+
+### Mezi oblačnost kupovitou patří:
+*Body: 3 | Výskyty: 40 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) As - altostratus
+- b) Cu - cumulus
+- c) St - stratus
+
+---
+
+### Letadlo letí za velmi teplého dne přes Alpy. Počasí je dobré a v dané oblasti je tlaková výše. Letadlo prolétává kolem hory ve výšce jejího vrcholku. Co ukazuje výškoměr v porovnání s nadmořskou výškou vrcholku?
+*Body: 3 | Výskyty: 41 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) Stejnou výšku jako je nadmořksá výška vrcholku
+- b) Menší výšku než je nadmořská výška vrcholku
+- c) Větší výšku než je nadmořská výška vrcholku
+
+---
+
+### Omezený prostor (LK R) je prostor, který pilot:
+*Body: 3 | Výskyty: 71 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) může proletět za splnění stanovených podmínek
+- b) nesmí proletět
+- c) musí proletět
+
+---
+
+### Letí-li dvě letadla na vstřícných tratích nebo přibližně takových, každé z nich se vyhne změnou kurzu:
+*Body: 3 | Výskyty: 71 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) vlevo
+- b) vpravo
+- c) učiní taková opatření, která nejlépe zabrání srážce
+
+---
+
+### Termická turbulence vzniká vlivem:
+*Body: 3 | Výskyty: 42 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) nestejnoměrného zahřívání zemského povrchu
+- b) kopcovitého terénu
+- c) ohřevu vzduchu o zemský povrch při instabilním zvrstvení
+
+---
+
+### Spodní hranici řízeného okrsku (CTR) tvoří:
+*Body: 3 | Výskyty: 247 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) horní hranice třídy G
+- b) povrch země
+- c) stanovená výška nad mořem
+
+---
+
+### Letí-li dvě SLZ na protínajících se tratích ve volném prostoru má přednost SLZ letící
+*Body: 3 | Výskyty: 84 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) které letí proti slunci
+- b) leva
+- c) zprava
+
+---
+
 ### Letecké navigaci vyhovují nejlépe mapy, které:
 *Body: 3 | Výskyty: 68 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) mají přesné úhly
 - b) věrně zobrazují topografickou situaci a úhly
 - c) jsou v měřítku 1 : 500 000
+
+---
+
+### Vzduchovou hmotou nazýváme instabilní, pokud v ní dochází k:
+*Body: 3 | Výskyty: 68 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) konvektivním vertikálním pohybům
+- b) inverzím
+- c) tvorbě vrstevnaté oblačnosti
+
+---
+
+### Srážkové pásmo teplé fronty je:
+*Body: 3 | Výskyty: 42 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) převážně těsně za čarou fronty a jedná se o srážky občasné
+- b) před čarou fronty a jde o srážky trvalé
+- c) na čáře fronty a jde o srážky krátkodobého charakteru
+
+---
+
+### Do zakázaného prostoru (LK P) pilot:
+*Body: 3 | Výskyty: 67 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) může vletět, nesmí jej však opustit
+- b) nesmí vletět pokud příslušný úřad nevydá zvláštní povolení
+- c) může vletět v rámci prostoru třídy G a E avšak nejvýše rychlostí 460 km/hod IAS
+
+---
+
+### Po průletu převodní výškou se pro udávání výšky přejde z nastavení hodnoty QNH:
+*Body: 3 | Výskyty: 67 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) na nastavení výškoměru na hodnotu 1013,2 hPa a vertikální polohy letadla se vyjadřují v letových hladinách
+- b) na nastavení údaje QFE a vertikální polohy letadla se vyjadřují jako výšky nad zemí
+- c) na nastavení údaje QFE cílového letiště a vertikální polohy letadla se vyjadřují jako výšky nad cílovým letištěm
+
+---
+
+### Jev nazývaný turbulence je definován jako:
+*Body: 3 | Výskyty: 43 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) síly působící na letadlo v různých směrech a udělující tomuto letadlu různá přídavná zrychlení
+- b) síly, které působí na letadlo ve vertikálním směru
+- c) síly, které zvyšují rychlost letícího letadla
+
+---
+
+### Čočkovité podlouhlé mraky:
+*Body: 3 | Výskyty: 43 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) znamenají, že fouká ve výšce silný vítr, tudíž může hrozit nárazovitost větru
+- b) se vyskytují hlavně v tropech, u nás se objeví jen zřídka na jaře při prudké změně teploty
+- c) hlavně v létě znamenají, že se blíží nebezpečný druh okluzní fronty
+
+---
+
+### Konvekční aktivita ve středních zeměpisných šířkách je největší:
+*Body: 3 | Výskyty: 66 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) v létě odpoledne
+- b) v poledne
+- c) v zimě v poledne
+
+---
+
+### TMA (koncová řízená oblast)
+*Body: 3 | Výskyty: 54 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) nedá se podletět ani nadletět
+- b) se dá podletět
+- c) dá se podletět pouze při vzájemné komunikaci radiostanicí s příslušným stanovištěm ATS
+
+---
+
+### Zeměpisný sever a jih:
+*Body: 3 | Výskyty: 65 | Kategorie: Navigace a letové přístroje | První výskyt: 26.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) mění se v závislosti na roční době
+- b) působí na něj magnetismus země
+- c) nemění polohu
+
+---
+
+### Při zvětšování úhlu náběhu:
+*Body: 3 | Výskyty: 96 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) klesá součinitel vztlaku a odporu
+- b) roste součinitel vztlaku, součinitel odporu klesá
+- c) roste součinitel vztlaku a odporu
+
+---
+
+### Přechod studené fronty s aktivními bouřkovými projevy se v poli teploty, tlaku, přízemního větru projevuje:
+*Body: 3 | Výskyty: 44 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) teplota klesá a později stoupá, tlak se nemění, vítr slábne
+- b) poklesem teploty, silným poklesem tlaku a jeho následným vzestupem, silným zesílením větru a jeho nárazovitostí
+- c) teplota se nemění, tlak slabě klesá, vítr mírně zesílí bez nárazů
+
+---
+
+### Kde začíná na profilu odtrhávání proudu?
+*Body: 3 | Výskyty: 139 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) v mezní vrstvě na sací straně profilu u náběžné hrany
+- b) v mezní vrstvě na sací straně profilu od odtokové hrany
+- c) v úplavu na sací straně profilu u náběžné hrany
+
+---
+
+### Nízkou oblačnost může tvořit:
+*Body: 3 | Výskyty: 56 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) Ci – cirrus
+- b) St – stratus
+- c) Ac – altocumulus
+
+---
+
+### Odtržením proudnic rozumíme:
+*Body: 3 | Výskyty: 105 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) skokový přechod od turbulentního proudění nad horní plochou křídla k absolutní laminaritě
+- b) proud vzduchu přestane sledovat tvar profilu
+- c) proudnice opustí profil, po tom co opíšou jeho tvar
+
+---
+
+### V oblasti fronty se tvoří mohutná a výrazná Cb - cumulonimbus oblačnost. Je to typický projev:
+*Body: 3 | Výskyty: 56 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) studené fronty II. druhu
+- b) teplé fronty
+- c) teplé okludované fronty
+
+---
+
+### Která vlastnost je typická pro troposféru:
+*Body: 3 | Výskyty: 64 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) pokles teploty s výškou
+- b) isotermie
+- c) nárůst tlaku s výškou
+
+---
+
+### Které druhy oblaků jsou typické pro oblačný systém teplé fronty:
+*Body: 3 | Výskyty: 46 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) Sc – stratocumulus, Ac – altocumulus, Cc – cirocumulus
+- b) Cu – cumulus, Ac – altocumulus, Cb – cumulonimbus
+- c) Ns – nimbostratus, As – altostratus, Cs – cirostratus
+
+---
+
+### Kurz měříme od severu ve stupních:
+*Body: 3 | Výskyty: 63 | Kategorie: Navigace a letové přístroje | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) na východ po směru, na západ proti směru hodinových ručiček
+- b) ve směru otáčení hodinových ručiček
+- c) proti směru otáčení hodinových ručiček
+
+---
+
+### Přibližují-li se dvě nebo více letadel těžších vzduchu k jednomu letišti s úmyslem přistát a nevztahují-li se na ně pravidla pro vyhýbání, platí přednost pro přistání:
+*Body: 3 | Výskyty: 62 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) pomalejší letadlo dát přednost rychlejšímu
+- b) letadlo letící vlevo dát přednost letadlům přilétávajícím zprava
+- c) výše letící letadlo dát přednost letadlu letícímu níže
+
+---
+
+### Vztlak na profilu křídla:
+*Body: 3 | Výskyty: 47 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) vzniká v důsledku rozdílné rychlosti proudu nad a pod profilem
+- b) vzniká v důsledku úhlu náběhu a změny teploty vzduchu nad a pod křídlem
+- c) vzniká působením Coriolisovy síly a vyrovnáváním tlaku nad a pod profilem
+
+---
+
+### Izolované bouřky místní povahy jsou většinou:
+*Body: 3 | Výskyty: 61 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) Frontálním zdvihem (studená fronta)
+- b) Bouřky z tepla
+- c) Frontálním zdvihem (teplá fronta)
+
+---
+
+### Se studenou frontu I. druhu jsou obvykle spojeny nebezpečné jevy:
+*Body: 3 | Výskyty: 48 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) silný nárazovitý přízemní vítr
+- b) oblaka Cb - cumulonimbus na čele fronty ukrytá v nízké vrstevnaté oblačnosti, turbulence a námraza
+- c) pouze nízká oblačnost vrstevnatého typu
+
+---
+
+### S výjimkou vzletu nebo přistání nebo s výjimkou povolení vydaného úřadem musí být let VFR prováděn nad zemí nebo vodou ve výšce ne menší než:
+*Body: 3 | Výskyty: 61 | Kategorie: Letecké předpisy a legislativa | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) 300 m
+- b) 150 m s výjimkou létání na svahu
+- c) 150 m
+
+---
+
+### Tlaková níže – cyklona – je oblastí:
+*Body: 3 | Výskyty: 51 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) nízkého tlaku s nejnižší hodnotou ve svém středu
+- b) nízkého tlaku s nejnižší hodnotou po okrajích oblasti
+- c) se snižující se hodnotou tlaku směrem od středu
+
+---
+
+### Rychlost větru obvykle s rostoucí výškou:
+*Body: 3 | Výskyty: 48 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) klesá
+- b) roste
+- c) v létě stoupá, v zimě klesá
 
 ---
 
@@ -1381,12 +1669,48 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Údaj v metrech přepočítáte na údaj ve stopách přibližně (foot, zkr.ft)
-*Body: 1 | Výskyty: 178 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### Nejčastější směr větru v údolí způsobený termickými efekty je směrem:
+*Body: 3 | Výskyty: 48 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
 
-- a) (m x 3) + 10%
-- b) (m : 10) x 3
-- c) (m x 3) : 10
+- a) Během noci z kopce
+- b) Během dne ke kopci
+- c) Během dne z kopce
+
+---
+
+### Srážky vypadávající z oblačnosti typu Cb - cumulonimbus, jsou charakteru:
+*Body: 3 | Výskyty: 59 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) mrholení
+- b) silných přeháněk
+- c) trvalých srážek
+
+---
+
+### Letištní provoz je:
+*Body: 3 | Výskyty: 49 | Kategorie: Komunikace a letištní provoz | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) všechna letadla za letu nebo pohybující se na provozní ploše
+- b) provoz vozidel a osob na provozní ploše letiště
+- c) veškerý provoz na provozní ploše letiště a všechna letadla letící v blízkosti letiště
+
+---
+
+### Z vertikálně vyvinutých oblaků typu Cb - cumulonimbus vypadávají převážně srážky ve formě:
+*Body: 3 | Výskyty: 49 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) slabý dešť
+- b) mrholení
+- c) déšť a kroupy
+
+---
+
+### Cizí těleso (např. kamínky, střep apod.) z rány:
+*Body: 3 | Výskyty: 96 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) vyjmeme za každou cenu, tj. i za cenu poškození okolní tkáně, a ránu následně důkladně propláchneme desinfekcí.
+- b) vyjmeme, pokud je to možné bez nepřiměřeného násilí (např. výplachem rány vodou, mírným tahem apod.)
+- c) zásadně nevyjímáme - ponecháme nečistoty v ráně, kterou obvážeme a obvaz necháme nasáknout dostupnou dezinfekcí
 
 ---
 
@@ -1418,7 +1742,7 @@ Celkem unikátních otázek: **268**
 ---
 
 ### Pravomoc pilota (velitele) letadla:
-*Body: 0 | Výskyty: 171 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 1 | Výskyty: 171 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) Pilot (velitel) letadla má právo rozhodnout s konečnou platností o provedení letu
 - b) Pilot (velitel) letadla nemá právo s konečnou platností rozhodnout o provedení letu
@@ -1426,48 +1750,12 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Rychlost větru obvykle s rostoucí výškou:
-*Body: 0 | Výskyty: 48 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### Údaj v metrech přepočítáte na údaj ve stopách přibližně (foot, zkr.ft)
+*Body: 1 | Výskyty: 178 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
-- a) klesá
-- b) roste
-- c) v létě stoupá, v zimě klesá
-
----
-
-### Jaké jsou kromě sil způsobující výstup vzduchu další dvě podmínky nutné pro vytvoření bouřky?
-*Body: 0 | Výskyty: 25 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) Nestabilní podmínky a nízký tlak vzduchu
-- b) Stabilní podmínky a vysoký tlak vzduchu
-- c) Nestabilní podmínky a vysoký obsah vlhkosti
-
----
-
-### V definici standardní atmosféry jsou hodnoty tlaku a teploty na střední hladině moře:
-*Body: 0 | Výskyty: 73 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) 1013,25 hPa, +15°C
-- b) 1015 hPa, +10°C
-- c) 1013,25 hPa, 0°C
-
----
-
-### Vztlak vzniká při obtékání profilu v důsledku vytvoření rozdílu tlaků nad a pod profilem. Jaký tlak je pod a nad profilem a jaký je při běžných úhlech náběhu poměr jejich velikostí?
-*Body: 0 | Výskyty: 28 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) pod profilem vzniká přetlak, nad profilem podtlak, jejichž velikosti jsou stejné
-- b) pod profilem vzniká podtlak, nad profilem přetlak, který je asi třikrát větší, než podtlak
-- c) pod profilem vzniká přetlak , nad profilem podtlak, ve vzájemném poměru je 1/3 přetlaku a 2/3 podtlaku
-
----
-
-### Před přistáním do stojaté vody je zapotřebí především
-*Body: 0 | Výskyty: 128 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) otočit kluzák proti větru
-- b) rozepnout karabiny postroje tak, aby bylo možno po styku s vodou jej co nejrychleji opustit
-- c) vyskočit s postroje ve výšce cca 3 - 5 m nad hladinou
+- a) (m x 3) + 10%
+- b) (m : 10) x 3
+- c) (m x 3) : 10
 
 ---
 
@@ -1480,354 +1768,12 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Na které části vrchlíku PK působí největší vztlak při pohledu zepředu?
-*Body: 0 | Výskyty: 30 | Kategorie: Principy letu a aerodynamika | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) na koncích vrchlíku
-- b) rozložení vztlaku je rovnoměrné
-- c) uprostřed vrchlíku
-
----
-
-### Omezený prostor (LK R) je prostor, který pilot:
-*Body: 0 | Výskyty: 71 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) může proletět za splnění stanovených podmínek
-- b) nesmí proletět
-- c) musí proletět
-
----
-
-### Letí-li dvě letadla na vstřícných tratích nebo přibližně takových, každé z nich se vyhne změnou kurzu:
-*Body: 0 | Výskyty: 71 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) vlevo
-- b) vpravo
-- c) učiní taková opatření, která nejlépe zabrání srážce
-
----
-
 ### Po jaké době od získání licence Pilot může být pilotovi vystavena licence Sportovní Pilot?
 *Body: 0 | Výskyty: 69 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) po 5 měsících
 - b) po 6ti měsících
 - c) po 9 měsících
-
----
-
-### Vzduchovou hmotou nazýváme instabilní, pokud v ní dochází k:
-*Body: 0 | Výskyty: 68 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) konvektivním vertikálním pohybům
-- b) inverzím
-- c) tvorbě vrstevnaté oblačnosti
-
----
-
-### Signalizace, kterou osoby na zemi ruší potřebu přistání záchranného vrtulníku, se provádí:
-*Body: 0 | Výskyty: 68 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) máváním jakýmkoliv předmětem červené barvy
-- b) jednou rukou vztyčenou nad hlavou a druhou mírně rozpaženou (parafráze písmene N)
-- c) rytmickým rozpažováním a připažováním s dlaněmi obrácenými vzhůru
-
----
-
-### Postižený během výstupu na kopec náhle zkolaboval, leží, nehýbe se, asi 1x za dvacet sekund se zhluboka nadechne. Jiný svědek příhody se mezi tím pokouší vyhmatat postiženému tep na krku a hlásí, že cítí slabý, „nitkovitý“, rychlý tep. Je potřeba přivolat pomoc a ihned:
-*Body: 0 | Výskyty: 102 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) Zahájit dýchání z plic do plic, protože tato frekvence je příliš nízká. Nepřímou masáž neprovádíme, protože pokud dýchá a je cítit tep, nemůže jít o zástavu oběhu a masáž by naopak mohla vést k poranění plic.
-- b) Zahájit resuscitaci. Tzv. "lapavé dechy" jsou typické pro náhlou zástavu oběhu. Hmatání tepu laikem je nespolehlivé a nepoužívá se pro velký výskyt chyb - zachránce cítí svůj vlastní tep.
-- c) Otočit postiženého do „stabilizované“ polohy, protože hrozí riziko vdechnutí zvratků.
-
----
-
-### Konvekční aktivita ve středních zeměpisných šířkách je největší:
-*Body: 0 | Výskyty: 66 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) v létě odpoledne
-- b) v poledne
-- c) v zimě v poledne
-
----
-
-### Při nouzovém přistání pilot volí spíše
-*Body: 0 | Výskyty: 144 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) hustý porost
-- b) samostatný strom
-- c) lesní cestu
-
----
-
-### Zeměpisný sever a jih:
-*Body: 0 | Výskyty: 65 | Kategorie: Navigace a letové přístroje | První výskyt: 26.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) mění se v závislosti na roční době
-- b) působí na něj magnetismus země
-- c) nemění polohu
-
----
-
-### Na severní polokouli výška troposféry v závislosti na zeměpisné šířce:
-*Body: 0 | Výskyty: 144 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) stoupá od jihu k severu
-- b) zůstává stejná po celý rok
-- c) klesá od jihu k severu
-
----
-
-### Zlomeninu horní končetiny přednostně fixujeme:
-*Body: 0 | Výskyty: 98 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) zavěšením do šátku
-- b) pomocí improvizované dlahy (větve, tyčky apod.)
-- c) přitažením k tělu v natažené poloze
-
----
-
-### Úhel náběhu je geometrický úhel, který:
-*Body: 0 | Výskyty: 35 | Kategorie: Principy letu a aerodynamika | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) svírá směr nabíhajícího proudu s vodorovnou rovinou (horizontem), tj. nulový v horizontálním letu
-- b) svírá tětiva profilu s vodorovnou rovinou (horizontem)
-- c) svírá směr nabíhajícího proudu vzduchu s tětivou profilu
-
----
-
-### Která vlastnost je typická pro troposféru:
-*Body: 0 | Výskyty: 64 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) pokles teploty s výškou
-- b) isotermie
-- c) nárůst tlaku s výškou
-
----
-
-### K pádu letadla dochází když:
-*Body: 0 | Výskyty: 36 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) pilot vykrouží příliš ostrou zatáčku
-- b) je letová hmotnost letadla větší, než je max. povolená
-- c) se letadlo dostane za kritický úhel náběhu
-
----
-
-### Kurz měříme od severu ve stupních:
-*Body: 0 | Výskyty: 63 | Kategorie: Navigace a letové přístroje | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) na východ po směru, na západ proti směru hodinových ručiček
-- b) ve směru otáčení hodinových ručiček
-- c) proti směru otáčení hodinových ručiček
-
----
-
-### Přibližují-li se dvě nebo více letadel těžších vzduchu k jednomu letišti s úmyslem přistát a nevztahují-li se na ně pravidla pro vyhýbání, platí přednost pro přistání:
-*Body: 0 | Výskyty: 62 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) pomalejší letadlo dát přednost rychlejšímu
-- b) letadlo letící vlevo dát přednost letadlům přilétávajícím zprava
-- c) výše letící letadlo dát přednost letadlu letícímu níže
-
----
-
-### V prostory třídy E mohu potkat dopravní letadlo?
-*Body: 0 | Výskyty: 62 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) Ne
-- b) Jen v noci
-- c) Ano
-
----
-
-### Izolované bouřky místní povahy jsou většinou:
-*Body: 0 | Výskyty: 61 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) Frontálním zdvihem (studená fronta)
-- b) Bouřky z tepla
-- c) Frontálním zdvihem (teplá fronta)
-
----
-
-### Vítr je určen:
-*Body: 0 | Výskyty: 39 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) rychlostí
-- b) směrem ze kterého vane a rychlostí
-- c) směrem kam vane a rychlostí
-
----
-
-### S výjimkou vzletu nebo přistání nebo s výjimkou povolení vydaného úřadem musí být let VFR prováděn nad zemí nebo vodou ve výšce ne menší než:
-*Body: 0 | Výskyty: 61 | Kategorie: Letecké předpisy a legislativa | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) 300 m
-- b) 150 m s výjimkou létání na svahu
-- c) 150 m
-
----
-
-### Při nasátí oblačností s velkým vertikálním vývojem je nejlepší:
-*Body: 0 | Výskyty: 151 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) točit dál, protočit oblak co nejvýše a tak se dostat až nad něj
-- b) řídit vrchlík v přímém směru a letět, kde je nejsvětlejší část oblaku
-- c) nasadit co nejúčinnější únikový manévr a snažit se být nasměrován proti větru
-
----
-
-### Větší část vztlaku vzniká:
-*Body: 0 | Výskyty: 39 | Kategorie: Principy letu a aerodynamika | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) nad profilem, asi 2/3
-- b) pod profilem, asi 2/3
-- c) nad 2/3 profilu, asi 55%
-
----
-
-### Srážky vypadávající z oblačnosti typu Cb - cumulonimbus, jsou charakteru:
-*Body: 0 | Výskyty: 59 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) mrholení
-- b) silných přeháněk
-- c) trvalých srážek
-
----
-
-### Odtržením proudnic rozumíme:
-*Body: 0 | Výskyty: 105 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) skokový přechod od turbulentního proudění nad horní plochou křídla k absolutní laminaritě
-- b) proud vzduchu přestane sledovat tvar profilu
-- c) proudnice opustí profil, po tom co opíšou jeho tvar
-
----
-
-### Paraglidista v negativce dopadl opodál. Při našem příchodu leží na zádech v bezvědomí, nedýchá, je promodralý. Žádné zřetelně patrné zranění není zřejmé. Zavoláme záchrannou službu a dále jako první:
-*Body: 0 | Výskyty: 83 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) uložíme postiženého do protišokové polohy s podloženou hlavou
-- b) záklonem hlavy uvolníme dýchací cesty
-- c) uložíme postiženého do stabilizované polohy
-
----
-
-### Vztlak působí:
-*Body: 0 | Výskyty: 39 | Kategorie: Principy letu a aerodynamika | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) vždy směrem vzhůru od profilu
-- b) vždy kolmo na směr proudu vzduchu nabíhajícího na profil
-- c) vždy kolmo k tětivě profilu
-
----
-
-### V oblasti fronty se tvoří mohutná a výrazná Cb - cumulonimbus oblačnost. Je to typický projev:
-*Body: 0 | Výskyty: 56 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) studené fronty II. druhu
-- b) teplé fronty
-- c) teplé okludované fronty
-
----
-
-### Schématem „A-B-C“ se má v rámci prvotního vyšetření na mysli:
-*Body: 0 | Výskyty: 80 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) provedení záklonu hlavy (A), zahájení umělého dýchání (B) a zahájení kompresí hrudníku (C)
-- b) ověření průchodnosti dýchacích cest (A), ověření stavu dýchání (B) a ověření známek funkčního krevního oběhu (C)
-- c) zjištění anamnézy (A), bolestivosti (B) a cílené vyšetření postižené oblasti (C)
-
----
-
-### Nízkou oblačnost může tvořit:
-*Body: 0 | Výskyty: 56 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) Ci – cirrus
-- b) St – stratus
-- c) Ac – altocumulus
-
----
-
-### Letí-li dvě SLZ na protínajících se tratích ve volném prostoru má přednost SLZ letící
-*Body: 0 | Výskyty: 84 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) které letí proti slunci
-- b) leva
-- c) zprava
-
----
-
-### TMA (koncová řízená oblast)
-*Body: 0 | Výskyty: 54 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) nedá se podletět ani nadletět
-- b) se dá podletět
-- c) dá se podletět pouze při vzájemné komunikaci radiostanicí s příslušným stanovištěm ATS
-
----
-
-### Při částečném zaklopení je správný postup
-*Body: 0 | Výskyty: 161 | Kategorie: Specifické typy letadel | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) ihned zcela stáhnout řízení na nezaklopené straně, k urychlení regenerace vrchlíku
-- b) nedělat nic, na testovaném PK je vždy tato situace zcela bezpečná
-- c) maximálně se vyklonit na nezaklopenou stranu a také ji přibrzdit tak, aby nedošlo k rotaci
-
----
-
-### V podmínkách cirkulace pevninské a mořské brízy vane mořská bríza:
-*Body: 0 | Výskyty: 41 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) v noci a je slabší než pevninská bríza
-- b) ve dne a je slabší než pevninská bríza
-- c) ve dne a je silnější než pevninská bríza
-
----
-
-### Vyberte správné tvrzení týkající se polohy postiženého se závažným úrazem:
-*Body: 0 | Výskyty: 79 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) pokud postižený komunikuje, měl by být vždy umístěn do polohy na boku (do „stabilizované“ resp. „zotavovací“ polohy)
-- b) pokud postižený sám aktivně zaujímá nějakou polohu, nebráníme mu
-- c) pokud je postižený v bezvědomí, měl by být vždy umístěn do „protišokové“ polohy s nohama a rukama zvednutýma co nejvýše, aby se obnovilo prokrvení mozku
-
----
-
-### Letadlo letí za velmi teplého dne přes Alpy. Počasí je dobré a v dané oblasti je tlaková výše. Letadlo prolétává kolem hory ve výšce jejího vrcholku. Co ukazuje výškoměr v porovnání s nadmořskou výškou vrcholku?
-*Body: 0 | Výskyty: 41 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) Stejnou výšku jako je nadmořksá výška vrcholku
-- b) Menší výšku než je nadmořská výška vrcholku
-- c) Větší výšku než je nadmořská výška vrcholku
-
----
-
-### Pokud je k dispozici, má pilot mobilní telefon při letu:
-*Body: 0 | Výskyty: 163 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) v úložné zadní kapse sedačky
-- b) na snadno dostupném místě z pozice za letu
-- c) za letu se netelefonuje, takže je jedno, kam ho dáte
-
----
-
-### „Protišoková“ fólie se používá nejlépe tak, že se:
-*Body: 0 | Výskyty: 83 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) s ní postižený podloží
-- b) do ní postižený těsně zabalí (včetně hlavy – volný zůstane jenom obličej)
-- c) s ní postižený šetrně přikryje
-
----
-
-### Lety VFR ve vzdušném prostoru třídy G se musí provádět tak, aby letadlo letělo:
-*Body: 0 | Výskyty: 79 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) při stejné nebo větší vzdálenosti od oblaku než - horizontálně 5 km, vertikálně 300 m
-- b) při stejné nebo větší vzdálenosti od oblaku než - horizontálně 1,5 km, vertikálně 300 m
-- c) vně oblaků za stálé dohlednosti země
 
 ---
 
@@ -1840,129 +1786,84 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Srážkové pásmo teplé fronty je:
-*Body: 0 | Výskyty: 42 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### Schématem „A-B-C“ se má v rámci prvotního vyšetření na mysli:
+*Body: 0 | Výskyty: 80 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
-- a) převážně těsně za čarou fronty a jedná se o srážky občasné
-- b) před čarou fronty a jde o srážky trvalé
-- c) na čáře fronty a jde o srážky krátkodobého charakteru
-
----
-
-### Tlaková níže – cyklona – je oblastí:
-*Body: 0 | Výskyty: 51 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) nízkého tlaku s nejnižší hodnotou ve svém středu
-- b) nízkého tlaku s nejnižší hodnotou po okrajích oblasti
-- c) se snižující se hodnotou tlaku směrem od středu
+- a) provedení záklonu hlavy (A), zahájení umělého dýchání (B) a zahájení kompresí hrudníku (C)
+- b) ověření průchodnosti dýchacích cest (A), ověření stavu dýchání (B) a ověření známek funkčního krevního oběhu (C)
+- c) zjištění anamnézy (A), bolestivosti (B) a cílené vyšetření postižené oblasti (C)
 
 ---
 
-### „Chirurgické“ gumové rukavice:
-*Body: 0 | Výskyty: 75 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### K pádu letadla dochází když:
+*Body: 0 | Výskyty: 36 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
-- a) je vhodné použít při ošetřování jakéhokoliv zranění
-- b) se používají jen při ošetření obzvlášť krvácejících nebo znečištěných ran
-- c) je vhodné použít zejména pro ošetření pacienta s podezřením na infekční onemocnění
-
----
-
-### Jev nazývaný turbulence je definován jako:
-*Body: 0 | Výskyty: 43 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) síly působící na letadlo v různých směrech a udělující tomuto letadlu různá přídavná zrychlení
-- b) síly, které působí na letadlo ve vertikálním směru
-- c) síly, které zvyšují rychlost letícího letadla
+- a) pilot vykrouží příliš ostrou zatáčku
+- b) je letová hmotnost letadla větší, než je max. povolená
+- c) se letadlo dostane za kritický úhel náběhu
 
 ---
 
-### Při nalétnutí do termického stoupavého proudu
-*Body: 0 | Výskyty: 325 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### Zlomeninu horní končetiny přednostně fixujeme:
+*Body: 0 | Výskyty: 98 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
-- a) má PK nejčastěji tendenci k nějakému kolapsu, proto je nutné nejprve přibrzdit a teprve poté PK uvést do zatáčky
-- b) PK pilota informuje svými pohyby o velikosti stoupání a většinou i o tom na jakou stranu je lepší ve stoupání točit
-- c) má PK zcela vždy tendenci se zaklopit, proto vždy zabrzdíme
-
----
-
-### Letištní provoz je:
-*Body: 0 | Výskyty: 49 | Kategorie: Komunikace a letištní provoz | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) všechna letadla za letu nebo pohybující se na provozní ploše
-- b) provoz vozidel a osob na provozní ploše letiště
-- c) veškerý provoz na provozní ploše letiště a všechna letadla letící v blízkosti letiště
+- a) zavěšením do šátku
+- b) pomocí improvizované dlahy (větve, tyčky apod.)
+- c) přitažením k tělu v natažené poloze
 
 ---
 
-### Resuscitace může být (mimo jiné) ukončena, pokud:
-*Body: 0 | Výskyty: 90 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### Postižený během výstupu na kopec náhle zkolaboval, leží, nehýbe se, asi 1x za dvacet sekund se zhluboka nadechne. Jiný svědek příhody se mezi tím pokouší vyhmatat postiženému tep na krku a hlásí, že cítí slabý, „nitkovitý“, rychlý tep. Je potřeba přivolat pomoc a ihned:
+*Body: 0 | Výskyty: 102 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
-- a) dojde k obnově vědomí – pacient začne reagovat
-- b) pokud je spolehlivě zjištěno, že postižený je starší 70 let
-- c) po dvaceti minutách provádění bez jakéhokoliv zřejmého efektu
-
----
-
-### Nejčastější směr větru v údolí způsobený termickými efekty je směrem:
-*Body: 0 | Výskyty: 48 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) Během noci z kopce
-- b) Během dne ke kopci
-- c) Během dne z kopce
+- a) Zahájit dýchání z plic do plic, protože tato frekvence je příliš nízká. Nepřímou masáž neprovádíme, protože pokud dýchá a je cítit tep, nemůže jít o zástavu oběhu a masáž by naopak mohla vést k poranění plic.
+- b) Zahájit resuscitaci. Tzv. "lapavé dechy" jsou typické pro náhlou zástavu oběhu. Hmatání tepu laikem je nespolehlivé a nepoužívá se pro velký výskyt chyb - zachránce cítí svůj vlastní tep.
+- c) Otočit postiženého do „stabilizované“ polohy, protože hrozí riziko vdechnutí zvratků.
 
 ---
 
-### Čočkovité podlouhlé mraky:
-*Body: 0 | Výskyty: 43 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### V podmínkách cirkulace pevninské a mořské brízy vane mořská bríza:
+*Body: 0 | Výskyty: 41 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
-- a) znamenají, že fouká ve výšce silný vítr, tudíž může hrozit nárazovitost větru
-- b) se vyskytují hlavně v tropech, u nás se objeví jen zřídka na jaře při prudké změně teploty
-- c) hlavně v létě znamenají, že se blíží nebezpečný druh okluzní fronty
-
----
-
-### Který z následujících zásahů pilota zvýší úhel náběhu PK?
-*Body: 0 | Výskyty: 123 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) vypuštění řízení
-- b) sešlápnutí speed systému
-- c) stažení řízení
+- a) v noci a je slabší než pevninská bríza
+- b) ve dne a je slabší než pevninská bríza
+- c) ve dne a je silnější než pevninská bríza
 
 ---
 
-### Který z následujících druhů oblačnosti se může rozprostírat ve více vrstvách? (podle dělení oblačnosti vzhledem k výšce, kde se vyskytuje)
-*Body: 0 | Výskyty: 44 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+### Paraglidista v negativce dopadl opodál. Při našem příchodu leží na zádech v bezvědomí, nedýchá, je promodralý. Žádné zřetelně patrné zranění není zřejmé. Zavoláme záchrannou službu a dále jako první:
+*Body: 0 | Výskyty: 83 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
-- a) Cirrus
-- b) Altocumulus
-- c) Nimbostratus
-
----
-
-### Se studenou frontu I. druhu jsou obvykle spojeny nebezpečné jevy:
-*Body: 0 | Výskyty: 48 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) silný nárazovitý přízemní vítr
-- b) oblaka Cb - cumulonimbus na čele fronty ukrytá v nízké vrstevnaté oblačnosti, turbulence a námraza
-- c) pouze nízká oblačnost vrstevnatého typu
+- a) uložíme postiženého do protišokové polohy s podloženou hlavou
+- b) záklonem hlavy uvolníme dýchací cesty
+- c) uložíme postiženého do stabilizované polohy
 
 ---
 
-### Spodní hranici řízeného okrsku (CTR) tvoří:
-*Body: 0 | Výskyty: 247 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### „Protišoková“ fólie se používá nejlépe tak, že se:
+*Body: 0 | Výskyty: 83 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
-- a) horní hranice třídy G
-- b) povrch země
-- c) stanovená výška nad mořem
+- a) s ní postižený podloží
+- b) do ní postižený těsně zabalí (včetně hlavy – volný zůstane jenom obličej)
+- c) s ní postižený šetrně přikryje
 
 ---
 
-### Vztlak na profilu křídla:
-*Body: 0 | Výskyty: 47 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### Pokud je k dispozici, má pilot mobilní telefon při letu:
+*Body: 0 | Výskyty: 163 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
-- a) vzniká v důsledku rozdílné rychlosti proudu nad a pod profilem
-- b) vzniká v důsledku úhlu náběhu a změny teploty vzduchu nad a pod křídlem
-- c) vzniká působením Coriolisovy síly a vyrovnáváním tlaku nad a pod profilem
+- a) v úložné zadní kapse sedačky
+- b) na snadno dostupném místě z pozice za letu
+- c) za letu se netelefonuje, takže je jedno, kam ho dáte
+
+---
+
+### Při částečném zaklopení je správný postup
+*Body: 0 | Výskyty: 161 | Kategorie: Specifické typy letadel | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) ihned zcela stáhnout řízení na nezaklopené straně, k urychlení regenerace vrchlíku
+- b) nedělat nic, na testovaném PK je vždy tato situace zcela bezpečná
+- c) maximálně se vyklonit na nezaklopenou stranu a také ji přibrzdit tak, aby nedošlo k rotaci
 
 ---
 
@@ -1975,15 +1876,6 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Které druhy oblaků jsou typické pro oblačný systém teplé fronty:
-*Body: 0 | Výskyty: 46 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
-
-- a) Sc – stratocumulus, Ac – altocumulus, Cc – cirocumulus
-- b) Cu – cumulus, Ac – altocumulus, Cb – cumulonimbus
-- c) Ns – nimbostratus, As – altostratus, Cs – cirostratus
-
----
-
 ### Stlačování hrudníku se v průběhu resuscitace provádí:
 *Body: 0 | Výskyty: 78 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
 
@@ -1993,21 +1885,120 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Ověřovat zda je technický průkaz SLZ platný je povinností:
-*Body: 0 | Výskyty: 185 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+### Signalizace, kterou osoby na zemi ruší potřebu přistání záchranného vrtulníku, se provádí:
+*Body: 0 | Výskyty: 68 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
-- a) velitele SLZ (pilota)
-- b) vedoucího letového provozu
-- c) provozovatele
+- a) máváním jakýmkoliv předmětem červené barvy
+- b) jednou rukou vztyčenou nad hlavou a druhou mírně rozpaženou (parafráze písmene N)
+- c) rytmickým rozpažováním a připažováním s dlaněmi obrácenými vzhůru
 
 ---
 
-### Minimální letová dohlednost ve vzdušném prostoru třídy E je:
-*Body: 3 | Výskyty: 67 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 04.09.2024*
+### Který z následujících zásahů pilota zvýší úhel náběhu PK?
+*Body: 0 | Výskyty: 123 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
-- a) 5 km
-- b) 1,5 km
-- c) 8 km
+- a) vypuštění řízení
+- b) sešlápnutí speed systému
+- c) stažení řízení
+
+---
+
+### Při nasátí oblačností s velkým vertikálním vývojem je nejlepší:
+*Body: 0 | Výskyty: 151 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) točit dál, protočit oblak co nejvýše a tak se dostat až nad něj
+- b) řídit vrchlík v přímém směru a letět, kde je nejsvětlejší část oblaku
+- c) nasadit co nejúčinnější únikový manévr a snažit se být nasměrován proti větru
+
+---
+
+### Vyberte správné tvrzení týkající se polohy postiženého se závažným úrazem:
+*Body: 0 | Výskyty: 79 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) pokud postižený komunikuje, měl by být vždy umístěn do polohy na boku (do „stabilizované“ resp. „zotavovací“ polohy)
+- b) pokud postižený sám aktivně zaujímá nějakou polohu, nebráníme mu
+- c) pokud je postižený v bezvědomí, měl by být vždy umístěn do „protišokové“ polohy s nohama a rukama zvednutýma co nejvýše, aby se obnovilo prokrvení mozku
+
+---
+
+### Při nalétnutí do termického stoupavého proudu
+*Body: 0 | Výskyty: 325 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) má PK nejčastěji tendenci k nějakému kolapsu, proto je nutné nejprve přibrzdit a teprve poté PK uvést do zatáčky
+- b) PK pilota informuje svými pohyby o velikosti stoupání a většinou i o tom na jakou stranu je lepší ve stoupání točit
+- c) má PK zcela vždy tendenci se zaklopit, proto vždy zabrzdíme
+
+---
+
+### Na severní polokouli výška troposféry v závislosti na zeměpisné šířce:
+*Body: 0 | Výskyty: 144 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) stoupá od jihu k severu
+- b) zůstává stejná po celý rok
+- c) klesá od jihu k severu
+
+---
+
+### Na které části vrchlíku PK působí největší vztlak při pohledu zepředu?
+*Body: 0 | Výskyty: 30 | Kategorie: Principy letu a aerodynamika | První výskyt: 25.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) na koncích vrchlíku
+- b) rozložení vztlaku je rovnoměrné
+- c) uprostřed vrchlíku
+
+---
+
+### Při nouzovém přistání pilot volí spíše
+*Body: 0 | Výskyty: 144 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) hustý porost
+- b) samostatný strom
+- c) lesní cestu
+
+---
+
+### „Chirurgické“ gumové rukavice:
+*Body: 0 | Výskyty: 75 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) je vhodné použít při ošetřování jakéhokoliv zranění
+- b) se používají jen při ošetření obzvlášť krvácejících nebo znečištěných ran
+- c) je vhodné použít zejména pro ošetření pacienta s podezřením na infekční onemocnění
+
+---
+
+### Který z následujících druhů oblačnosti se může rozprostírat ve více vrstvách? (podle dělení oblačnosti vzhledem k výšce, kde se vyskytuje)
+*Body: 0 | Výskyty: 44 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) Cirrus
+- b) Altocumulus
+- c) Nimbostratus
+
+---
+
+### V prostory třídy E mohu potkat dopravní letadlo?
+*Body: 0 | Výskyty: 62 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) Ne
+- b) Jen v noci
+- c) Ano
+
+---
+
+### Před přistáním do stojaté vody je zapotřebí především
+*Body: 0 | Výskyty: 128 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) otočit kluzák proti větru
+- b) rozepnout karabiny postroje tak, aby bylo možno po styku s vodou jej co nejrychleji opustit
+- c) vyskočit s postroje ve výšce cca 3 - 5 m nad hladinou
+
+---
+
+### Resuscitace může být (mimo jiné) ukončena, pokud:
+*Body: 0 | Výskyty: 90 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+
+- a) dojde k obnově vědomí – pacient začne reagovat
+- b) pokud je spolehlivě zjištěno, že postižený je starší 70 let
+- c) po dvaceti minutách provádění bez jakéhokoliv zřejmého efektu
 
 ---
 
@@ -2020,6 +2011,24 @@ Celkem unikátních otázek: **268**
 
 ---
 
+### Hlavní příčinou atmosférické konvekce je:
+*Body: 3 | Výskyty: 41 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 04.09.2024*
+
+- a) rozdílná teplota vzduchu ve dne a v noci
+- b) nestejnoměrné zahřívání různě barevného zemského povrchu
+- c) dostatečný ohřev vzduchu o zemský povrch při instabilním zvrstvení
+
+---
+
+### Instabilním zvrstvením při nenasyceném vzduchu nazýváme zvrstvení, kdy:
+*Body: 3 | Výskyty: 72 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 04.09.2024*
+
+- a) nenasycená částice se po ukončení působení vnější síly vrací do své původní polohy
+- b) nenasycená částice se zastaví v hladině, ve které přestala vnější síla působit
+- c) nenasycená vzduchová částice při svém výstupu z rovnovážné polohy dále stoupá i když přestane působit vnější síla
+
+---
+
 ### Co rozumíme v meteorologii pojmem bouřka:
 *Body: 3 | Výskyty: 50 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 04.09.2024*
 
@@ -2029,17 +2038,8 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Instabilním zvrstvením při nenasyceném vzduchu nazýváme zvrstvení, kdy:
-*Body: 0 | Výskyty: 72 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 04.09.2024*
-
-- a) nenasycená částice se po ukončení působení vnější síly vrací do své původní polohy
-- b) nenasycená částice se zastaví v hladině, ve které přestala vnější síla působit
-- c) nenasycená vzduchová částice při svém výstupu z rovnovážné polohy dále stoupá i když přestane působit vnější síla
-
----
-
 ### Za normálního ustáleného letu je:
-*Body: 0 | Výskyty: 31 | Kategorie: Principy letu a aerodynamika | První výskyt: 25.07.2024 | Poslední výskyt: 04.09.2024*
+*Body: 3 | Výskyty: 31 | Kategorie: Principy letu a aerodynamika | První výskyt: 25.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) na horní straně křídla podtlak a na spodní přetlak
 - b) na horní i spodní straně křídla podtlak
@@ -2047,48 +2047,30 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Hlavní příčinou atmosférické konvekce je:
-*Body: 0 | Výskyty: 41 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 04.09.2024*
-
-- a) rozdílná teplota vzduchu ve dne a v noci
-- b) nestejnoměrné zahřívání různě barevného zemského povrchu
-- c) dostatečný ohřev vzduchu o zemský povrch při instabilním zvrstvení
-
----
-
-### Vyberte správné tvrzení týkající se polohy postiženého se závažným úrazem v bezvědomí:
-*Body: 0 | Výskyty: 35 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 25.07.2024 | Poslední výskyt: 04.09.2024*
-
-- a) Pokud postižený ve stávající poloze spolehlivě dýchá, ponecháme ho v této poloze
-- b) S postiženým v bezvědomí zásadně nehýbeme, abychom eliminovali riziko dalšího poškození páteře a míchy
-- c) Postižený v bezvědomí následkem úrazu by měl být vždy uložen do polohy na zádech se zakloněnou hlavou
-
----
-
-### Pro kvalitu resuscitace má rozhodující význam:
-*Body: 0 | Výskyty: 93 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 25.07.2024 | Poslední výskyt: 04.09.2024*
-
-- a) co nejvyšší frekvence kompresí
-- b) včasné zahájení a nepřerušování kompresí
-- c) co největší hloubka kompresí
-
----
-
-### Lety VFR ve třídách vzdušného prostoru C, D a E se smějí provádět ve vzdálenosti od oblaků:
-*Body: 0 | Výskyty: 63 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 04.09.2024*
-
-- a) vně oblaků a za viditelnosti země
-- b) nejméně 1500 m horizontálně a 300 m vertikálně
-- c) do oblaku smí vletět pouze pilot, který první dosáhne základny
-
----
-
 ### Rozdíl mezi UTC a středoevropským (SEČ) časem je:
-*Body: 0 | Výskyty: 53 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 04.09.2024*
+*Body: 3 | Výskyty: 53 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) 1 hodina
 - b) není žádný
 - c) 2 hodiny
+
+---
+
+### Minimální letová dohlednost ve vzdušném prostoru třídy E je:
+*Body: 3 | Výskyty: 67 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 04.09.2024*
+
+- a) 5 km
+- b) 1,5 km
+- c) 8 km
+
+---
+
+### Lety VFR ve třídách vzdušného prostoru C, D a E se smějí provádět ve vzdálenosti od oblaků:
+*Body: 3 | Výskyty: 63 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 04.09.2024*
+
+- a) vně oblaků a za viditelnosti země
+- b) nejméně 1500 m horizontálně a 300 m vertikálně
+- c) do oblaku smí vletět pouze pilot, který první dosáhne základny
 
 ---
 
@@ -2101,12 +2083,57 @@ Celkem unikátních otázek: **268**
 
 ---
 
+### Pro kvalitu resuscitace má rozhodující význam:
+*Body: 0 | Výskyty: 93 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 25.07.2024 | Poslední výskyt: 04.09.2024*
+
+- a) co nejvyšší frekvence kompresí
+- b) včasné zahájení a nepřerušování kompresí
+- c) co největší hloubka kompresí
+
+---
+
 ### Přilbu postiženému:
 *Body: 0 | Výskyty: 95 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) snímáme tahem v dlouhé ose těla za stálé fixace hlavy a krku
 - b) zásadně nesnímáme
 - c) snímáme šetrným kroutivým pohybem ze strany na stranu
+
+---
+
+### Vyberte správné tvrzení týkající se polohy postiženého se závažným úrazem v bezvědomí:
+*Body: 0 | Výskyty: 35 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 25.07.2024 | Poslední výskyt: 04.09.2024*
+
+- a) Pokud postižený ve stávající poloze spolehlivě dýchá, ponecháme ho v této poloze
+- b) S postiženým v bezvědomí zásadně nehýbeme, abychom eliminovali riziko dalšího poškození páteře a míchy
+- c) Postižený v bezvědomí následkem úrazu by měl být vždy uložen do polohy na zádech se zakloněnou hlavou
+
+---
+
+### Létat nad shromážděním osob v takové výšce, která by nedovolila v případě vzniklého nebezpečí přistát bez ohrožení pilota či osob na zemi je:
+*Body: 3 | Výskyty: 79 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 03.09.2024*
+
+- a) možné pouze na veřejném leteckém vystoupení s vydaným platným oprávněním
+- b) povoleno
+- c) zakázáno
+
+---
+
+### Odpovědnost pilota (velitele) letadla:
+*Body: 3 | Výskyty: 61 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 03.09.2024*
+
+- a) velitel letadla nemá právo s konečnou platností rozhodnout o provedení letu
+- b) velitel letadla neodpovídá za provedení letu v případě, když obdržel povolení ke vzletu od služeb řízení letového provozu
+- c) velitel letadla odpovídá za provedení letu podle pravidel létání, ať letadlo sám řídí či nikoliv, vyjma případů, když si okolnosti vynutí odchylku od těchto pravidel v zájmu bezpečnosti
+
+---
+
+### Prostor třídy G sahá v ČR do výšky
+*Body: 3 | Výskyty: 65 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 03.09.2024*
+
+- a) 300 m AGL
+- b) 300 m STD
+- c) 300 m AMSL
 
 ---
 
@@ -2128,44 +2155,8 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Létat nad shromážděním osob v takové výšce, která by nedovolila v případě vzniklého nebezpečí přistát bez ohrožení pilota či osob na zemi je:
-*Body: 0 | Výskyty: 79 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 23.07.2024 | Poslední výskyt: 03.09.2024*
-
-- a) možné pouze na veřejném leteckém vystoupení s vydaným platným oprávněním
-- b) povoleno
-- c) zakázáno
-
----
-
-### Odpovědnost pilota (velitele) letadla:
-*Body: 0 | Výskyty: 61 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 03.09.2024*
-
-- a) velitel letadla nemá právo s konečnou platností rozhodnout o provedení letu
-- b) velitel letadla neodpovídá za provedení letu v případě, když obdržel povolení ke vzletu od služeb řízení letového provozu
-- c) velitel letadla odpovídá za provedení letu podle pravidel létání, ať letadlo sám řídí či nikoliv, vyjma případů, když si okolnosti vynutí odchylku od těchto pravidel v zájmu bezpečnosti
-
----
-
-### Prostor třídy G sahá v ČR do výšky
-*Body: 0 | Výskyty: 65 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 03.09.2024*
-
-- a) 300 m AGL
-- b) 300 m STD
-- c) 300 m AMSL
-
----
-
-### Osa zemská je myšlená přímka středem země kolmá na rovník. Místa, kde protíná povrch země se nazývají póly (točny). Jsou to póly:
-*Body: 0 | Výskyty: 52 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 03.09.2024*
-
-- a) zeměpisné
-- b) totožné
-- c) magnetické
-
----
-
 ### Základní příčinou vzniku mechanické turbulence je:
-*Body: 0 | Výskyty: 37 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 03.09.2024*
+*Body: 3 | Výskyty: 37 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 03.09.2024*
 
 - a) vítr a uspořádání terénu
 - b) vlhkost a teplota vzduchu
@@ -2174,7 +2165,7 @@ Celkem unikátních otázek: **268**
 ---
 
 ### Tětiva profilu je:
-*Body: 0 | Výskyty: 37 | Kategorie: Principy letu a aerodynamika | První výskyt: 24.07.2024 | Poslední výskyt: 03.09.2024*
+*Body: 3 | Výskyty: 37 | Kategorie: Principy letu a aerodynamika | První výskyt: 24.07.2024 | Poslední výskyt: 03.09.2024*
 
 - a) přímka rozdělující profil v polovině jeho tloušťky na dvě stejně velké části
 - b) přímka spojující střed náběžné hrany profilu s odtokovou hranou profilu
@@ -2182,12 +2173,12 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Vyberte správné tvrzení, týkající se improvizovaného transportu:
-*Body: 3 | Výskyty: 84 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 02.09.2024*
+### Osa zemská je myšlená přímka středem země kolmá na rovník. Místa, kde protíná povrch země se nazývají póly (točny). Jsou to póly:
+*Body: 3 | Výskyty: 52 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 03.09.2024*
 
-- a) Pokud to není nutné, pacienta netransportujeme a vyčkáme příchodu odborné pomoci.
-- b) Při improvizovaném transportu je nejdůležitější, aby postižený byl během celého transportu v poloze mírně hlavou dolů.
-- c) U improvizovaného transportu záleží především na rychlosti, šetrnost není prioritou.
+- a) zeměpisné
+- b) totožné
+- c) magnetické
 
 ---
 
@@ -2200,8 +2191,17 @@ Celkem unikátních otázek: **268**
 
 ---
 
+### Vyberte správné tvrzení, týkající se improvizovaného transportu:
+*Body: 3 | Výskyty: 84 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 02.09.2024*
+
+- a) Pokud to není nutné, pacienta netransportujeme a vyčkáme příchodu odborné pomoci.
+- b) Při improvizovaném transportu je nejdůležitější, aby postižený byl během celého transportu v poloze mírně hlavou dolů.
+- c) U improvizovaného transportu záleží především na rychlosti, šetrnost není prioritou.
+
+---
+
 ### Správně označení severozápadního větru ve zkratkách ICAO je:
-*Body: 0 | Výskyty: 36 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 02.09.2024*
+*Body: 3 | Výskyty: 36 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) NW
 - b) SW
@@ -2210,7 +2210,7 @@ Celkem unikátních otázek: **268**
 ---
 
 ### Indukovaný odpor:
-*Body: 0 | Výskyty: 35 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 02.09.2024*
+*Body: 3 | Výskyty: 35 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) vzniká jako důsledek vzájemného ovlivnění obtékání různých částí
 - b) vzniká jako důsledek indukce u zadní části profilu
@@ -2227,21 +2227,66 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Hlavní příčinou odtržení proudu je vždy:
-*Body: 0 | Výskyty: 20 | Kategorie: Principy letu a aerodynamika | První výskyt: 25.07.2024 | Poslední výskyt: 01.09.2024*
-
-- a) překročení kritického úhlu náběhu
-- b) počátek přechodu laminárního proudění na povrchu PK v turbulentní
-- c) snížení rychlosti letu pod hodnotu minimální dopředné rychlosti vůči zemi v ustáleném přímočarém letu
-
----
-
 ### Pilot letadla nevybaveného radiostanicí, který má v úmyslu přiletět na neřízené letiště nebo z něho odletět, je povinen
-*Body: 0 | Výskyty: 59 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 25.07.2024 | Poslední výskyt: 01.09.2024*
+*Body: 3 | Výskyty: 59 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 25.07.2024 | Poslední výskyt: 01.09.2024*
 
 - a) dodržet pro odlet nebo přílet pravidla vyhýbání
 - b) předem zkoordinovat svůj přílet nebo odlet se stanovištěm AFIS nebo provozovatelem letiště
 - c) předem zkoordinovat svůj přílet nebo odlet s majitelem letiště
+
+---
+
+### Které z následujících typů oblačnosti jsou známkou instabilní (nestabilní) vzduchové hmoty?
+*Body: 3 | Výskyty: 74 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 01.09.2024*
+
+- a) Sc, Ns
+- b) Cu, Cb
+- c) St, Cs
+
+---
+
+### 225 stupňů je vedlejší světová strana:
+*Body: 3 | Výskyty: 71 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 01.09.2024*
+
+- a) jihozápad
+- b) severozápad
+- c) jihovýchod
+
+---
+
+### Který z jevů vznikající na studené frontě II. druhu je zvláště nebezpečný pro nízko letící letadla?
+*Body: 3 | Výskyty: 47 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 01.09.2024*
+
+- a) silná turbulence omezená na úzký prostor víru – húlavy, s osou přibližně v úrovni základny Cb - cumulonimbus
+- b) snížení základny oblačnosti, někdy až k zemi
+- c) silný pokles tlaku a teploty
+
+---
+
+### Kdy je ve střední Evropě největší pravděpodobnost výskytu bouřek z tepla?
+*Body: 3 | Výskyty: 48 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 01.09.2024*
+
+- a) Pozdě ráno
+- b) Okolo půlnoci
+- c) Poledne, odpoledne
+
+---
+
+### Letadlo mající přednost musí udržovat svůj kurs a rychlost:
+*Body: 3 | Výskyty: 91 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 01.09.2024*
+
+- a) toto pravidlo však nezbavuje velitele letadla odpovědnosti provést takové opatření, které nejlépe zabrání srážce
+- b) nesmí měnit kurz, rychlost však ano
+- c) tyto podmínky nesmí měnit
+
+---
+
+### Hlavní příčinou odtržení proudu je vždy:
+*Body: 3 | Výskyty: 20 | Kategorie: Principy letu a aerodynamika | První výskyt: 25.07.2024 | Poslední výskyt: 01.09.2024*
+
+- a) překročení kritického úhlu náběhu
+- b) počátek přechodu laminárního proudění na povrchu PK v turbulentní
+- c) snížení rychlosti letu pod hodnotu minimální dopředné rychlosti vůči zemi v ustáleném přímočarém letu
 
 ---
 
@@ -2254,66 +2299,39 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### Které z následujících typů oblačnosti jsou známkou instabilní (nestabilní) vzduchové hmoty?
-*Body: 0 | Výskyty: 74 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 01.09.2024*
+### V praxi převádíme rychlosti větru z m/s na kt vztahem:
+*Body: 3 | Výskyty: 38 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 31.08.2024*
 
-- a) Sc, Ns
-- b) Cu, Cb
-- c) St, Cs
-
----
-
-### 225 stupňů je vedlejší světová strana:
-*Body: 0 | Výskyty: 71 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 01.09.2024*
-
-- a) jihozápad
-- b) severozápad
-- c) jihovýchod
+- a) 1 m/s ~ 2 kt
+- b) 1 m/s ~ 3 kt
+- c) 1 m/s ~ 1 kt
 
 ---
 
-### Který z jevů vznikající na studené frontě II. druhu je zvláště nebezpečný pro nízko letící letadla?
-*Body: 0 | Výskyty: 47 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 01.09.2024*
+### Tlaková výše – anticyklona – je oblastí:
+*Body: 3 | Výskyty: 38 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 31.08.2024*
 
-- a) silná turbulence omezená na úzký prostor víru – húlavy, s osou přibližně v úrovni základny Cb - cumulonimbus
-- b) snížení základny oblačnosti, někdy až k zemi
-- c) silný pokles tlaku a teploty
-
----
-
-### Kdy je ve střední Evropě největší pravděpodobnost výskytu bouřek z tepla?
-*Body: 0 | Výskyty: 48 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 01.09.2024*
-
-- a) Pozdě ráno
-- b) Okolo půlnoci
-- c) Poledne, odpoledne
+- a) s nejvyšší hodnotou tlaku po okrajích oblasti
+- b) vysokého tlaku s nejvyšší hodnotou tlaku ve svém středu
+- c) s nejvyšší hodnotou tlaku rostoucím v určitém směru
 
 ---
 
-### Letadlo mající přednost musí udržovat svůj kurs a rychlost:
-*Body: 0 | Výskyty: 91 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 01.09.2024*
+### Který z následujícíh procesů ve vrstvě vzduchu může vést k tvorbě oblačnosti typu kumulus a kumulonimbus?
+*Body: 3 | Výskyty: 37 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 31.08.2024*
 
-- a) toto pravidlo však nezbavuje velitele letadla odpovědnosti provést takové opatření, které nejlépe zabrání srážce
-- b) nesmí měnit kurz, rychlost však ano
-- c) tyto podmínky nesmí měnit
-
----
-
-### Isobary jsou čáry na přízemních meteorologických mapách, které spojují místa:
-*Body: 3 | Výskyty: 44 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 31.08.2024*
-
-- a) se stejným tlakem přepočteným na hladinu moře
-- b) se stejnou vlhkostí
-- c) se stejnou teplotou přepočtenou na hladinu moře
+- a) Frontální zvedání stabilních vrstech vzduchu
+- b) Subsidence
+- c) Konvekce
 
 ---
 
-### Nultý poledník je:
-*Body: 3 | Výskyty: 54 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 31.08.2024*
+### Letadlo za letu nebo pohybující se na zemi musí dát přednost letadlu, které:
+*Body: 3 | Výskyty: 72 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 31.08.2024*
 
-- a) poledník neprocházející hvězdárnou v Greenwich, ovšem pouze na malé kružnici
-- b) poledník, zvaný též základní, procházející hvězdárnou v Greenwich v Anglii
-- c) poledník, na kterém se zeměpisná šířka i délka rovnají 0
+- a) nemá spojení se službou řízeného letového provozu
+- b) přistává nebo je v poslední fázi přiblížení na přistání
+- c) dostalo povolení pro přiblížení na přistání
 
 ---
 
@@ -2326,21 +2344,48 @@ Celkem unikátních otázek: **268**
 
 ---
 
-### V praxi převádíme rychlosti větru z m/s na kt vztahem:
-*Body: 3 | Výskyty: 38 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 31.08.2024*
+### Nultý poledník je:
+*Body: 3 | Výskyty: 54 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 31.08.2024*
 
-- a) 1 m/s ~ 2 kt
-- b) 1 m/s ~ 3 kt
-- c) 1 m/s ~ 1 kt
+- a) poledník neprocházející hvězdárnou v Greenwich, ovšem pouze na malé kružnici
+- b) poledník, zvaný též základní, procházející hvězdárnou v Greenwich v Anglii
+- c) poledník, na kterém se zeměpisná šířka i délka rovnají 0
+
+---
+
+### Isobary jsou čáry na přízemních meteorologických mapách, které spojují místa:
+*Body: 3 | Výskyty: 44 | Kategorie: Meteorologie | První výskyt: 24.07.2024 | Poslední výskyt: 31.08.2024*
+
+- a) se stejným tlakem přepočteným na hladinu moře
+- b) se stejnou vlhkostí
+- c) se stejnou teplotou přepočtenou na hladinu moře
+
+---
+
+### V letním období ve střední Evropě v centrální části výrazné tlakové výše očekáváme:
+*Body: 3 | Výskyty: 45 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 31.08.2024*
+
+- a) skoro jasno, slabý vítr, přes den vysoké teploty, slábnoucí termiku
+- b) jasno, silný vítr, v noci chladno, ve dne teplo a silnou termiku
+- c) inverzní mlhy, proměnlivý vítr, noční bouřky a ve dne silnou termiku
 
 ---
 
 ### Poloha zeměpisného a magnetického pólu:
-*Body: 0 | Výskyty: 64 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 31.08.2024*
+*Body: 3 | Výskyty: 64 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 31.08.2024*
 
 - a) magnetický pól je vždy na východ od zeměpisného
 - b) totožná
 - c) není shodná
+
+---
+
+### Nejčastější směr větru v údolí způsobený termickými efekty je směrem:
+*Body: 0 | Výskyty: 43 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 31.08.2024*
+
+- a) během noci z kopce
+- b) během dne ke kopci
+- c) během dne z kopce
 
 ---
 
@@ -2359,51 +2404,6 @@ Celkem unikátních otázek: **268**
 - a) oblast bouřkového oblaku podletí
 - b) neprodleně přistane na nejbližší vhodné ploše
 - c) změní trať letu a pokusí se vyhnout bouřce v bezpečné vzdálenosti
-
----
-
-### Který z následujícíh procesů ve vrstvě vzduchu může vést k tvorbě oblačnosti typu kumulus a kumulonimbus?
-*Body: 0 | Výskyty: 37 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 31.08.2024*
-
-- a) Frontální zvedání stabilních vrstech vzduchu
-- b) Subsidence
-- c) Konvekce
-
----
-
-### Nejčastější směr větru v údolí způsobený termickými efekty je směrem:
-*Body: 0 | Výskyty: 43 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 31.08.2024*
-
-- a) během noci z kopce
-- b) během dne ke kopci
-- c) během dne z kopce
-
----
-
-### Letadlo za letu nebo pohybující se na zemi musí dát přednost letadlu, které:
-*Body: 0 | Výskyty: 72 | Kategorie: Letecké předpisy a legislativa | První výskyt: 23.07.2024 | Poslední výskyt: 31.08.2024*
-
-- a) nemá spojení se službou řízeného letového provozu
-- b) přistává nebo je v poslední fázi přiblížení na přistání
-- c) dostalo povolení pro přiblížení na přistání
-
----
-
-### V letním období ve střední Evropě v centrální části výrazné tlakové výše očekáváme:
-*Body: 0 | Výskyty: 45 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 31.08.2024*
-
-- a) skoro jasno, slabý vítr, přes den vysoké teploty, slábnoucí termiku
-- b) jasno, silný vítr, v noci chladno, ve dne teplo a silnou termiku
-- c) inverzní mlhy, proměnlivý vítr, noční bouřky a ve dne silnou termiku
-
----
-
-### Tlaková výše – anticyklona – je oblastí:
-*Body: 0 | Výskyty: 38 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 31.08.2024*
-
-- a) s nejvyšší hodnotou tlaku po okrajích oblasti
-- b) vysokého tlaku s nejvyšší hodnotou tlaku ve svém středu
-- c) s nejvyšší hodnotou tlaku rostoucím v určitém směru
 
 ---
 

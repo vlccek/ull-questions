@@ -1,2 +1,8 @@
-*.sqlite
-*.sqlite-*
+tests.sqlite
+tests.sqlite-journal
+tests.sqlite-wal
+tests.sqlite-shm
+__pycache__/
+*.pyc
+.env
+.idea/

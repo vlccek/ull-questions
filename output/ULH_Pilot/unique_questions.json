@@ -9,7 +9,7 @@
             "option_c": "fouká-li vítr nezmění, protože efektivní nosná plocha zůstává stejná"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Klouzavost vůči zemi (ground glide ratio) je poměr skutečné horizontální vzdálenosti uražené nad zemí k výšce ztracené během klouzavého letu. Tato hodnota je přímo ovlivněna rychlostí a směrem větru. Protivítr (headwind) snižuje rychlost letadla vůči zemi, čímž se zkracuje vzdálenost uražená nad zemí pro danou ztrátu výšky, a tedy klouzavost vůči zemi klesá. Naopak zadní vítr (tailwind) zvyšuje rychlost letadla vůči zemi, což prodlužuje vzdálenost uraženou nad zemí a klouzavost vůči zemi se zlepšuje. Klouzavost vůči vzdušné hmotě (air glide ratio), která je dána aerodynamickými vlastnostmi letadla při nejlepším úhlu náběhu, se s větrem nemění, ale vítr zásadně ovlivňuje výkon vzhledem k zemi.",
         "occurrence_count": 39,
         "last_seen": "2024-09-05",
@@ -25,7 +25,7 @@
             "option_c": "roste s klesající teplotou vzduchu"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Hustota vzduchu je nepřímo úměrná teplotě (za konstantního tlaku). Když se vzduch ochladí, molekuly vzduchu ztrácejí kinetickou energii, zpomalují se a shlukují se blíže k sobě. To znamená, že v daném objemu je více molekul vzduchu, což vede ke zvýšení hustoty vzduchu. V hustším vzduchu se letadlu generuje větší vztlak a motorům větší tah.",
         "occurrence_count": 22,
         "last_seen": "2024-09-05",
@@ -73,7 +73,7 @@
             "option_c": "jihovýchod"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "V systému azimutálního měření směru se sever (N) obvykle považuje za 0° nebo 360°. Odtud se směr měří ve stupních po směru hodinových ručiček. Jih (S) je 180° a západ (W) je 270°. Vedlejší světová strana 'jihozápad' (SW) se nachází přesně mezi jihem a západem, což je průměrná hodnota mezi 180° a 270°, tedy (180 + 270) / 2 = 450 / 2 = 225°. Proto 225 stupňů odpovídá jihozápadu.",
         "occurrence_count": 16,
         "last_seen": "2024-08-28",
@@ -89,7 +89,7 @@
             "option_c": "zeměpisnou polohu určitého místa"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Zeměpisné souřadnice (zeměpisná šířka a délka) jsou primárně určeny k jednoznačnému a přesnému definování geografické polohy libovolného bodu na zemském povrchu. Neudávají název místa (to je popisný identifikátor) ani polohu časového pásma (které je definováno širším rozsahem zeměpisné délky, nikoli konkrétním bodem).",
         "occurrence_count": 15,
         "last_seen": "2024-08-24",
@@ -153,7 +153,7 @@
             "option_c": "při každém letu"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Letecké předpisy jednoznačně stanovují, že pilot musí mít u sebe všechny požadované dokumenty (např. pilotní průkaz, osvědčení o zdravotní způsobilosti, technický průkaz SLZ) při každém letu. Tato povinnost platí bez ohledu na délku letu, typ letu (místní, přelet) nebo místo vzletu či přistání, a slouží k ověření oprávnění pilota a způsobilosti SLZ k letu.",
         "occurrence_count": 14,
         "last_seen": "2024-08-22",
@@ -169,7 +169,7 @@
             "option_c": "1 hodina"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Středoevropský letní čas (SELČ) neboli Central European Summer Time (CEST) je oproti koordinovanému světovému času (UTC) posunut o +2 hodiny. Běžný středoevropský čas (SEČ/CET) je UTC +1 hodina, a během letního období (SELČ/CEST) se hodiny posouvají o další hodinu dopředu, což celkově činí +2 hodiny oproti UTC. Znalost tohoto rozdílu je klíčová pro přesné plánování letů, navigaci a komunikaci v letectví, které standardně operuje s UTC.",
         "occurrence_count": 14,
         "last_seen": "2024-08-24",
@@ -225,7 +225,7 @@
     },
     {
         "question_id": "8193748897c7dd02ce82268e6ed56cda",
-        "category": "Nezařazeno",
+        "category": "Provozní postupy a bezpečnost",
         "question_text": "Při roztáčení rotoru před startem musí být páka kolektivu:",
         "options": {
             "option_a": "na horním dorazu",
@@ -281,7 +281,7 @@
             "option_c": "proti směru otáčení hodinových ručiček"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "V letecké navigaci se kurz (nebo směr) vždy měří od severu (0/360 stupňů) ve směru otáčení hodinových ručiček. Východ je 90 stupňů, jih je 180 stupňů a západ je 270 stupňů. Tento systém je standardní pro určení směru letu.",
         "occurrence_count": 13,
         "last_seen": "2024-08-28",
@@ -297,7 +297,7 @@
             "option_c": "není shodná"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Zeměpisné póly jsou pevné body na zemském povrchu, kterými prochází osa rotace Země. Magnetické póly jsou body, kde se magnetické siločáry zemského magnetického pole kolmo noří nebo vynořují z povrchu. Tyto dva typy pólů se neshodují a jejich poloha se v průběhu času mění (zejména u magnetických pólů), což je klíčové pro leteckou navigaci při přepočtu mezi skutečným severem a magnetickým severem (magnetická deklinace).",
         "occurrence_count": 13,
         "last_seen": "2024-09-05",
@@ -305,7 +305,7 @@
     },
     {
         "question_id": "730dc9d3fffac1b3aa2ff77f1037da8f",
-        "category": "Nezařazeno",
+        "category": "Principy letu a aerodynamika",
         "question_text": "Reakční moment motorem poháněného rotoru způsobuje:",
         "options": {
             "option_a": "tendenci vrtulníku zatáčet na opačnou stranu, než se otáčí nosný rotor",
@@ -329,7 +329,7 @@
             "option_c": "přetlak"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Vznik vztlaku (liftu) je primárně způsoben rozdílem tlaků mezi horní a dolní stranou křídla. Proudění vzduchu nad zakřivenou horní stranou křídla se zrychluje, což dle Bernoulliho principu vede k poklesu tlaku (vzniká podtlak). Naopak, proudění vzduchu pod spodní stranou křídla je zpomaleno a mírně stlačeno, což vede ke zvýšení tlaku oproti okolnímu prostředí (vzniká přetlak). Kombinace tohoto podtlaku nahoře a přetlaku dole vytváří čistou sílu směřující vzhůru, tedy vztlak.",
         "occurrence_count": 13,
         "last_seen": "2024-08-27",
@@ -345,7 +345,7 @@
             "option_c": "2 hodiny"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Správná odpověď je B, protože Středoevropský čas (SEČ), známý také jako CET (Central European Time), je definován jako UTC+1 hodina. UTC (Coordinated Universal Time) je mezinárodní časový standard používaný v letectví pro veškeré operace, komunikaci a meteorologické zprávy. Znalost rozdílu mezi UTC a místním časem je zásadní pro přesné plánování letů, dodržování provozních postupů a správnou interpretaci časových údajů v letecké dokumentaci.",
         "occurrence_count": 13,
         "last_seen": "2024-08-26",
@@ -353,7 +353,7 @@
     },
     {
         "question_id": "3a980b2d2cf10b3ad0d0195111f5e8b9",
-        "category": "Nezařazeno",
+        "category": "Provozní postupy a bezpečnost",
         "question_text": "Pilot, nebo žák oprávněný k samostatným letům musí být v kabině za řízením:",
         "options": {
             "option_a": "kdykoli se otáčí rotor. Může však vystoupit kdykoli, není-li nablízku inspektor ULH",
@@ -385,7 +385,7 @@
     },
     {
         "question_id": "fc8bca7fc5d628ab821aabb0d9a99d74",
-        "category": "Nezařazeno",
+        "category": "Letecké předpisy a legislativa",
         "question_text": "Ultralehký vrtulníkk může přistávat a vzlétat z plochy vymezené v územněplánovací dokumentaci pro letecko chemickou činnost:",
         "options": {
             "option_a": "při splnění stanovených podmínek",
@@ -409,7 +409,7 @@
             "option_c": "zatížení od tíhy konstrukčních částí letadla hlavně při přistání"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Dynamické zatížení draku letadla zahrnuje síly, které se rychle mění nebo jsou výsledkem zrychlení a pohybu, na rozdíl od statických zatížení (např. tíhy letadla v klidu). Možnost A správně popisuje tyto dynamické síly: zatížení od vertikálních poryvů vzduchu způsobují rychlé změny vztlaku a zatížení křídel; zatížení od manévrů a obratů jsou spojena s G-silami a změnami směru letu; a zatížení při vzletu a přistání zahrnují síly jako akcelerace, náraz při dotyku země a brzdění. Všechny tyto jevy generují proměnlivé a často nárazové síly na konstrukci letadla. Možnosti B a C popisují spíše statické zatížení (tíhu), i když se vyskytují během letových fází.",
         "occurrence_count": 12,
         "last_seen": "2024-08-26",
@@ -473,7 +473,7 @@
             "option_c": "nemění polohu"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Zeměpisný severní a jižní pól jsou definovány jako body, kde osa rotace Země protíná zemský povrch. Tato osa je z hlediska polohy na zemském povrchu stabilní a nemění svou polohu v závislosti na magnetismu Země (jako magnetické póly) ani na roční době. Proto je správná odpověď, že zeměpisný sever a jih nemění polohu.",
         "occurrence_count": 12,
         "last_seen": "2024-09-05",
@@ -521,7 +521,7 @@
             "option_c": "zvětší"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Když letoun vlétne do klesavého proudu, vzdušná hmota, kterou letoun prochází, se začne pohybovat směrem dolů. Vzhledem k setrvačnosti letounu si letoun na krátkou chvíli udrží svou původní dráhu letu vzhledem k zemi. Nicméně směr relativního proudění vzduchu vůči křídlu se změní, protože vzduch samotný se pohybuje dolů. To způsobí, že úhel mezi tětivou křídla a relativním prouděním vzduchu (úhel náběhu) se zmenší. Zmenšení úhlu náběhu vede k dočasnému poklesu vztlaku.",
         "occurrence_count": 12,
         "last_seen": "2024-08-27",
@@ -537,7 +537,7 @@
             "option_c": "pověřený technik aeroklubu"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Správná odpověď B je založena na ustanoveních Leteckého předpisu L24, který specifikuje, kdo je oprávněn provádět technické prohlídky pro prodloužení platnosti technického průkazu u SLZ (Sportovních létajících zařízení). Tyto prohlídky jsou svěřeny inspektorům technikům, kteří mají dané SLZ v evidenci, což zajišťuje odbornost a znalost konkrétního stroje. Ostatní možnosti nejsou v souladu s platnou legislativou.",
         "occurrence_count": 11,
         "last_seen": "2024-08-26",
@@ -569,7 +569,7 @@
             "option_c": "magnetické"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "V otázce je popsána osa zemská, která prochází středem Země kolmo na rovník. Body, kde tato osa protíná povrch Země, jsou definicí zeměpisných pólů (severního a jižního zeměpisného pólu). Magnetické póly se od zeměpisných liší a jejich poloha není totožná s osou rotace Země. Proto je správná odpověď A – zeměpisné.",
         "occurrence_count": 11,
         "last_seen": "2024-09-05",
@@ -577,7 +577,7 @@
     },
     {
         "question_id": "7cb6a21f32fe8463e1f1aabe8e399058",
-        "category": "Nezařazeno",
+        "category": "Principy letu a aerodynamika",
         "question_text": "Při otáčení listu pracující vrtule vznikají na každém jeho profilu dvě síly, které jsou příčinou vzniku tahu a kroutícího momentu vrtule. Jak se tyto dvě síly nazývají?",
         "options": {
             "option_a": "odstředivá a dostředivá síla",
@@ -601,7 +601,7 @@
             "option_c": "nižšího odporu při vyšších rychlostech letu"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Bílá barva na horních plochách kompozitových konstrukcí letadel slouží k odrážení slunečního záření. Kompozitní materiály mohou být citlivější na degradaci způsobenou UV zářením a vysokými teplotami, které vznikají při absorpci slunečního světla. Bílá barva minimalizuje absorpci tepla a tím pomáhá chránit konstrukci před přehříváním a UV poškozením.",
         "occurrence_count": 11,
         "last_seen": "2024-09-05",
@@ -641,7 +641,7 @@
     },
     {
         "question_id": "f5ef4d3727bbd8a9f51be6d159e30872",
-        "category": "Nezařazeno",
+        "category": "Principy letu a aerodynamika",
         "question_text": "Z hlediska bezpečnosti letu je u vrtulníku obecně nejdůležitější:",
         "options": {
             "option_a": "udržení otáček nosného rotoru v předepsaném rozmezí",
@@ -665,7 +665,7 @@
             "option_c": "v úhlech a vzdálenostech"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Letecké mapy jsou primárně určeny pro navigaci, kde je zásadní přesné určení směru letu (kurzu/úhlu) a uražené vzdálenosti. Zkreslení úhlů by vedlo k chybám v kurzu a ložiscích, zatímco zkreslení vzdáleností by ovlivnilo výpočty času, spotřeby paliva a odhadu polohy. Proto je věrohodné zobrazení úhlů a vzdáleností klíčové pro bezpečnou a přesnou leteckou navigaci. Mnohé letecké mapové projekce (např. Lambertova kuželová konformní) jsou koncipovány tak, aby v daných oblastech minimalizovaly zkreslení úhlů a vzdáleností.",
         "occurrence_count": 10,
         "last_seen": "2024-08-19",
@@ -681,7 +681,7 @@
             "option_c": "průkaz totožnosti, pilotní průkaz nebo doklad žáka, osvědčení letové způsobilosti, doklad o pojištění za škody způsobené provozem SLZ, lékařský posudek o zdravotní způsobilosti"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Otázka se týká dokumentů, které pilot musí mít u sebe za letu, což spadá přímo pod letecké předpisy. Správná odpověď B obsahuje klíčové dokumenty vyžadované pro let se sportovním létajícím zařízením (SLZ): průkaz totožnosti (pro ověření identity pilota), pilotní průkaz nebo doklad žáka (pro prokázání oprávnění k letu), technický průkaz SLZ (doklad o registraci a technické způsobilosti letadla) a doklad o pojištění za škody způsobené provozem SLZ (povinné pojištění odpovědnosti). Ostatní možnosti buď opomíjejí důležité dokumenty (např. C vynechává průkaz totožnosti), nebo obsahují méně přesné či pro SLZ ne vždy primárně vyžadované formulace (např. 'osvědčení letové způsobilosti' a 'lékařský posudek' v A a C, kde pro SLZ bývá 'technický průkaz SLZ' a platné osvědčení o zdravotní způsobilosti často stačí, bez nutnosti vozit detailní posudek).",
         "occurrence_count": 10,
         "last_seen": "2024-09-05",
@@ -697,7 +697,7 @@
             "option_c": "provozovatele"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Velitel SLZ (pilot) je v leteckém provozu konečnou autoritou a nese plnou odpovědnost za bezpečné a legální provedení letu. To zahrnuje i povinnost před každým letem ověřit platnost všech potřebných dokumentů, včetně technického průkazu SLZ, který dokládá letovou způsobilost a registraci zařízení. Žádná jiná osoba ani složka nemůže převzít tuto primární odpovědnost pilota za legálnost a bezpečnost provozu během letu.",
         "occurrence_count": 10,
         "last_seen": "2024-08-27",
@@ -713,7 +713,7 @@
             "option_c": "rychlost se zvýší, statický tlak klesne"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Tato otázka se týká základních principů dynamiky tekutin, konkrétně principu kontinuity a Bernoulliho rovnice. Když dojde ke zhuštění proudnic, znamená to, že se zmenšuje průřez, kterým proudí kapalina (v tomto případě vzduch). Podle principu kontinuity (zachování hmotnosti) se musí rychlost proudění zvýšit, aby byl zachován stejný objemový průtok skrz menší průřez. Zvýšení rychlosti proudění má pak přímý dopad na statický tlak dle Bernoulliho rovnice, která říká, že součet statického a dynamického tlaku je konstantní (pro zjednodušený případ bez změny výšky). Zvýšením rychlosti (a tedy i dynamického tlaku) musí dojít ke snížení statického tlaku. Proto se rychlost zvýší a statický tlak klesne.",
         "occurrence_count": 10,
         "last_seen": "2024-08-24",
@@ -729,7 +729,7 @@
             "option_c": "ano"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Podle mezinárodních a národních leteckých předpisů (např. ICAO Annex 6, EU nařízení) je povinností mít na palubě letadla při všech letech platný doklad o pojištění odpovědnosti za škodu způsobenou třetím osobám. Tato povinnost platí bez výjimky pro všechny typy letů, včetně letištních letů, a je klíčová pro zajištění finanční ochrany v případě nehody.",
         "occurrence_count": 10,
         "last_seen": "2024-09-05",
@@ -737,7 +737,7 @@
     },
     {
         "question_id": "49f717ae0d7352f8d1e7f0e96383818c",
-        "category": "Nezařazeno",
+        "category": "Provozní postupy a bezpečnost",
         "question_text": "Při předletových prohlídkách je hlavní důraz kladen na:",
         "options": {
             "option_a": "kvalitu povrchu a čistotu listů rotoru, aby nebyla snížena jeho účinnost",
@@ -793,7 +793,7 @@
             "option_c": "úhlový rozdíl mezi severem zeměpisným a magnetickým"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Úhel snosu je definován jako úhlový rozdíl mezi podélnou osou letadla (směrem, kam je letadlo natočeno, tedy jeho kurzem nebo směrem letu vzhledem ke vzduchu) a tratí letěnou nad zemí (směrem, kterým se letadlo skutečně pohybuje vzhledem k zemi). Tento úhel vzniká v důsledku boční složky větru. Pilot musí letadlo natočit proti větru (úhel vybočení, anglicky 'crab angle'), aby udržel požadovanou trať nad zemí, a úhel snosu je pak úhel mezi podélnou osou letadla a touto výslednou tratí.",
         "occurrence_count": 10,
         "last_seen": "2024-08-28",
@@ -817,7 +817,7 @@
     },
     {
         "question_id": "e0b8595b5d572ede81e2b74619d9293a",
-        "category": "Nezařazeno",
+        "category": "Principy letu a aerodynamika",
         "question_text": "Náhlé odlehčení , způsobené prudkým potlačením páky cykliky může vést k záporným násobkům g, které jsou pro vrtulník s dvoulistým rotorem s polotuhým zavěšením listů houpavého typu nebezpečné především:",
         "options": {
             "option_a": "z důvodů možného selhání palivové a olejové instalace, která není na tyto násobky uzpůsobena",
@@ -881,7 +881,7 @@
     },
     {
         "question_id": "a814bb0494bbf33e11e14e10eba18117",
-        "category": "Nezařazeno",
+        "category": "Všeobecné znalosti letadel",
         "question_text": "Řízení SLZ je:",
         "options": {
             "option_a": "ovládací prvek v kabině pilota",
@@ -961,7 +961,7 @@
     },
     {
         "question_id": "cf4bafa62ed021f52272bf0fd78c1fe9",
-        "category": "Nezařazeno",
+        "category": "Všeobecné znalosti letadel",
         "question_text": "Nízké otáčky při motorovém letu se obnovují:",
         "options": {
             "option_a": "přidáním plynu, nebo snížením páky kolektivu",
@@ -977,7 +977,7 @@
     },
     {
         "question_id": "c7a7a3d6a753f4cab80d862b2b5ddf9b",
-        "category": "Nezařazeno",
+        "category": "Principy letu a aerodynamika",
         "question_text": "Při nízkých otáčkách rotoru za letu vrtulníku může dojít k:",
         "options": {
             "option_a": "k odtržení proudu na listech, u dvoulistých rotorů s polotuhým zavěšením houpavého typu může dojít k odtržení proudu na jednom listu, opačný list svým vztlakem stlačí list do takové polohy, že může dojít ke kontaktu listu s ocasním nosníkem a totální destrukci vrtulníku",
@@ -1017,7 +1017,7 @@
             "option_c": "v létě stoupá, v zimě klesá"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "S rostoucí výškou se obvykle zvyšuje i rychlost větru. Je to způsobeno snížením vlivu zemského povrchu (tření), který zpomaluje vítr u země. Ve vyšších vrstvách atmosféry, kde je tento vliv menší, může vítr dosahovat vyšších rychlostí, zejména v proudových (jet) proudech.",
         "occurrence_count": 8,
         "last_seen": "2024-09-05",
@@ -1025,7 +1025,7 @@
     },
     {
         "question_id": "9d703fdfaa9b9cd970ee2bb0b0d0e8cd",
-        "category": "Nezařazeno",
+        "category": "Principy letu a aerodynamika",
         "question_text": "Prudké potlačení páky cykliky u vrtulníků s dvoulistým polotuhým rotorem houpavého typu může způsobit:",
         "options": {
             "option_a": "oddělení rotoru od vrtulníku",
@@ -1057,7 +1057,7 @@
     },
     {
         "question_id": "45858daf34b481fa3c8a8dbf84cd0f3d",
-        "category": "Nezařazeno",
+        "category": "Principy letu a aerodynamika",
         "question_text": "V režimu dopředného letu je list rotoru během otáčení o 360 stupňů kolem osy rotoru:",
         "options": {
             "option_a": "obtékán tak, že se nemění rychlost proudnic ani úhel náběhu",
@@ -1081,7 +1081,7 @@
             "option_c": "v oddělení technické dokumentace provozovatele"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Technický průkaz (nebo jiný podobný dokument potvrzující letovou způsobilost, jako je Osvědčení letové způsobilosti u letadel registrovaných v civilním rejstříku) je základní dokumentace letadla. Zahraniční i národní letecké předpisy vyžadují, aby byl tento dokument buď na palubě letadla, nebo snadno dostupný pro letecký úřad nebo pro posádku v případě potřeby. To zajišťuje, že letadlo je v daný okamžik způsobilé k letu a splňuje všechny bezpečnostní požadavky. Možnosti A a B nejsou správné, protože tyto dokumenty by nebyly při provozu letadla relevantní nebo dostupné pro kontrolu.",
         "occurrence_count": 8,
         "last_seen": "2024-09-05",
@@ -1113,7 +1113,7 @@
             "option_c": "Nestabilní podmínky a vysoký obsah vlhkosti"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Bouřky vznikají v nestabilní atmosféře, která umožňuje vertikální pohyb vzduchu. K tomu je nezbytný dostatečný obsah vlhkosti, která se při kondenzaci uvolňuje latentní teplo a dále zesiluje stoupavé proudy. Nízký tlak podporuje konvergenci vzduchu, ale není primární podmínkou pro vývoj bouřky. Stabilní podmínky a vysoký tlak vzduchu naopak vývoji bouřek brání.",
         "occurrence_count": 8,
         "last_seen": "2024-09-05",
@@ -1129,7 +1129,7 @@
             "option_c": "nárůst tlaku s výškou"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "V troposféře, což je nejnižší vrstva atmosféry, teplota obvykle klesá s rostoucí výškou. Tento jev je způsoben tím, že sluneční záření ohřívá zemský povrch, který následně ohřívá vzduch v nižších vrstvách. S rostoucí výškou se vzduch stává řidším a dále od zdroje tepla, proto jeho teplota klesá. Naopak, v tropopauze (hranici mezi troposférou a stratosférou) dochází k inverzi teploty, kde se teplota s výškou přestává snižovat a začíná stoupat. Isotermie (konstantní teplota) a nárůst tlaku s výškou nejsou typickými vlastnostmi troposféry.",
         "occurrence_count": 8,
         "last_seen": "2024-08-19",
@@ -1161,7 +1161,7 @@
             "option_c": "intensitou slunečního záření"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Doba východu a západu slunce se mění s roční dobou kvůli sklonu osy Země vzhledem k rovině její oběžné dráhy kolem Slunce. Jak Země obíhá Slunce, různé polokoule jsou nakloněny směrem ke Slunci nebo od něj, což způsobuje změny v délce dne a noci, a tím i v časech východu a západu slunce. Tyto astronomické jevy jsou základem pro pochopení a výpočet denního světla, které je klíčové pro leteckou navigaci a plánování letů, například pro určení začátku a konce letu v noci.",
         "occurrence_count": 8,
         "last_seen": "2024-08-28",
@@ -1177,7 +1177,7 @@
             "option_c": "prudkým vyvážením „těžký na ocas“"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Násobek zatížení (neboli G-síla) je poměr celkové aerodynamické síly k hmotnosti letadla. Pilot nejvíce a nejrychleji ovlivňuje velikost této síly změnou úhlu náběhu, což se provádí hlavně rychlým zásahem do podélného řízení (výškového kormidla). Prudké přitáhnutí (pull) nebo potlačení (push) kormidla okamžitě změní úhel náběhu křídla, a tím i generovaný vztlak, což vede k výrazné změně násobku zatížení. Vyvažování letadla (trimování) slouží ke snížení sil na řízení v ustáleném letu a neovlivňuje násobek zatížení tak rychle a významně jako přímá akce na výškové kormidlo.",
         "occurrence_count": 8,
         "last_seen": "2024-08-19",
@@ -1209,7 +1209,7 @@
             "option_c": "300 m AMSL"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Správná odpověď je C, protože v České republice (a v souladu s mezinárodními předpisy) se horní hranice vzdušného prostoru třídy G, což je nekontrolovaný vzdušný prostor, obvykle určuje jako 300 metrů (nebo 1000 stop) nad terénem (AGL - Above Ground Level), pokud není stanoveno jinak nižší hranicí, například základnou vyššího řízeného vzdušného prostoru. Použití AGL zajišťuje, že je vždy k dispozici minimální vertikální prostor pro lety VFR nad zemí, bez ohledu na nadmořskou výšku terénu. Ostatní možnosti nejsou relevantní pro stanovení horní hranice vzdušného prostoru třídy G v tomto kontextu.",
         "occurrence_count": 8,
         "last_seen": "2024-09-05",
@@ -1241,7 +1241,7 @@
             "option_c": "proudnice opustí profil, po tom co opíšou jeho tvar"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Odtržení proudnic (flow separation) je jev v aerodynamice, kdy proud vzduchu přestane sledovat tvar povrchu křídla (či jiného profilu). K tomuto dochází nejčastěji při vysokých úhlech náběhu, kdy vzduch ztratí kinetickou energii potřebnou k překonání tlakového gradientu a odchýlí se od povrchu. Důsledkem je výrazné snížení vztlaku a zvýšení odporu, což vede k pádu letadla (stall). Možnost B přesně popisuje tento jev.",
         "occurrence_count": 7,
         "last_seen": "2024-08-22",
@@ -1273,7 +1273,7 @@
             "option_c": "dochází k odtržení proudění na straně křídla uvnitř zatáčky"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Spirála (v angličtině často označovaná jako 'spiral dive' nebo 'steep spiral') je letový režim, při kterém letoun provádí strmou, klesavou zatáčku s narůstající rychlostí. Klíčové je, že na rozdíl od vývrtky (spin), spirála je řízený manévr a letoun není v režimu odtržení proudění (stall). To znamená, že proudění vzduchu je na křídlech stále připojené a křídla efektivně generují vztlak. Odtržení proudění je charakteristické pro vývrtku, nikoliv pro spirálu. Možnosti A a B popisují stav, kdy dochází k odtržení proudění, což by indikovalo pád nebo vývrtku, ne spirálu.",
         "occurrence_count": 7,
         "last_seen": "2024-08-19",
@@ -1345,7 +1345,7 @@
     },
     {
         "question_id": "b92f3918db8a8633132a5858d3ac1215",
-        "category": "Nezařazeno",
+        "category": "Principy letu a aerodynamika",
         "question_text": "Zakláněním rotoru (přitahováním páky cykliky) během dopředného letu v autorotaci vrtulníku se otáčky rotoru:",
         "options": {
             "option_a": "snižují",
@@ -1361,7 +1361,7 @@
     },
     {
         "question_id": "a380d8b98db01c172dbd79d2fd5b832d",
-        "category": "Nezařazeno",
+        "category": "Provozní postupy a bezpečnost",
         "question_text": "Pokud se objeví za letu vibrace v řízení, nebo vibrace některé části vrtulníku, je třeba:",
         "options": {
             "option_a": "přistát do terénu na nejbližší vhodnou plochu a zjistit (případně odstranit) příčinu vibrací před dalším letem, pokud se stav nezlepší, další let neprovádět",
@@ -1377,7 +1377,7 @@
     },
     {
         "question_id": "a27696dc9f0ad995b6cc58c4c25caf27",
-        "category": "Nezařazeno",
+        "category": "Provozní postupy a bezpečnost",
         "question_text": "Správná technika odpoutání vrtulníku od země je:",
         "options": {
             "option_a": "prudké zvýšení úhlu nastavení listů rotoru pákou kolektivu při pracovních otáčkách s následným výskokem vrtulníku do bezpečné výšky a případným dorovnáním odchylek od správné polohy",
@@ -1465,7 +1465,7 @@
             "option_c": "St, Cs"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Správná odpověď B je správná, protože mraky typu Cumulus (Cu) a Cumulonimbus (Cb) jsou charakteristické pro nestabilní vzduchovou hmotu. Nestabilní vzduch umožňuje vertikální vývoj oblaků, což vede k tvorbě kypících, kupovitých mraků (Cumulus) a v případě silné nestability a dostatečné vlhkosti i mohutných bouřkových mraků (Cumulonimbus). Tyto mraky jsou spojeny s konvektivní aktivitou a silnými vertikálními pohyby vzduchu. Naopak mraky jako Stratocumulus (Sc), Nimbostratus (Ns), Stratus (St) a Cirrostratus (Cs) jsou obvykle spojeny se stabilními nebo mírně stabilními vzduchovými hmotami, kde převládá horizontální rozvoj nebo pozvolné zvedání vzduchu.",
         "occurrence_count": 7,
         "last_seen": "2024-08-24",
@@ -1473,7 +1473,7 @@
     },
     {
         "question_id": "5eb54b92bc63fbeb8b51038fa70de78a",
-        "category": "Nezařazeno",
+        "category": "Principy letu a aerodynamika",
         "question_text": "Režim autorotace vrtulníku znamená, že:",
         "options": {
             "option_a": "rotor vrtulníku není poháněn a jeho otáčky neustále klesají",
@@ -1529,7 +1529,7 @@
             "option_c": "učiní taková opatření, která nejlépe zabrání srážce"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Tato otázka se týká základních pravidel pro zabránění srážkám v letecké dopravě. Podle mezinárodních leteckých předpisů (např. ICAO Annex 2, Pravidla létání), pokud se dvě letadla blíží na vstřícných nebo přibližně vstřícných tratích, každé z nich musí změnit kurz vpravo. Toto pravidlo zajišťuje, že se obě letadla vyhnou stejným směrem, což maximalizuje šanci na bezpečné rozminutí a minimalizuje riziko srážky.",
         "occurrence_count": 7,
         "last_seen": "2024-08-22",
@@ -1577,7 +1577,7 @@
             "option_c": "nenasycená vzduchová částice při svém výstupu z rovnovážné polohy dále stoupá i když přestane působit vnější síla"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Instabilní zvrstvení (lapse rate) nastává, když se vzduchová částice po vychýlení z rovnovážné polohy (např. vlivem vnější síly) stává nestabilní a pokračuje ve svém pohybu (v tomto případě stoupání) i po odstranění této vnější síly. To je způsobeno tím, že teplota okolního vzduchu klesá rychleji s výškou než teplota nasycené vzduchové částice, což ji činí stále teplejší a lehčí než okolí, a proto stoupá.",
         "occurrence_count": 6,
         "last_seen": "2024-08-19",
@@ -1609,7 +1609,7 @@
             "option_c": "sníží se její pevnost"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Kompozitní materiály používané v letectví mají omezenou teplotní odolnost. Při překročení této hranice dochází k degradaci polymerní matrice, která váže vlákna, což vede ke snížení mechanických vlastností, včetně pevnosti.",
         "occurrence_count": 6,
         "last_seen": "2024-08-05",
@@ -1657,7 +1657,7 @@
             "option_c": "s vrtulí s malým úhlem nastavení"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Správná odpověď je C, protože vrtule s malým úhlem nastavení (tzv. jemné nastavení, nízký 'pitch' nebo vysoké otáčky) umožňuje motoru dosáhnout vyšších otáček a generovat maximální tah při nízkých rychlostech. To je klíčové pro dosažení největšího zrychlení během fáze vzletu, kdy se letadlo rozjíždí z nulové rychlosti. Větší úhel nastavení vrtule by naopak vedl k nižším otáčkám motoru a menšímu tahu při nízkých rychlostech, což by snížilo zrychlení.",
         "occurrence_count": 6,
         "last_seen": "2024-08-26",
@@ -1689,7 +1689,7 @@
             "option_c": "vrať se na přistání"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Stálé červené světlo vysílané řídící věží směrem k letadlu za letu je mezinárodním standardem (dle ICAO Annex 2, Appendix 1) pro pokyn 'dejte přednost jinému letadlu a pokračujte v okruhu'. Tento signál informuje pilota, aby zůstal v okruhu a očekával další pokyny, obvykle kvůli jinému provozu, který má v danou chvíli přednost. Ostatní možnosti odpovídají jiným světelným signálům: 'Letiště není bezpečné, nepřistávejte' odpovídá přerušovanému červenému světlu a 'Vrať se na přistání' odpovídá přerušovanému zelenému světlu.",
         "occurrence_count": 6,
         "last_seen": "2024-08-19",
@@ -1721,7 +1721,7 @@
             "option_c": "čtyřdobého"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Olej se standardně přidává do paliva u dvoudobých motorů, kde slouží jako mazivo. U čtyřdobých motorů (ať už s rozvodem OHV nebo bez něj) je palivo a olej oddělené; olej je v samostatném systému a nesmíchá se s palivem.",
         "occurrence_count": 6,
         "last_seen": "2024-08-27",
@@ -1793,7 +1793,7 @@
     },
     {
         "question_id": "9fe55e4345ce2f7477195392cc2383bc",
-        "category": "Nezařazeno",
+        "category": "Principy letu a aerodynamika",
         "question_text": "Zmenší-li se pákou kolektivu úhel nastavení listů rotoru otáčejícím se v autorotačním režimu při zachování dopředné rychlosti, potom se otáčky rotoru:",
         "options": {
             "option_a": "zvětší",
@@ -1825,7 +1825,7 @@
     },
     {
         "question_id": "907590f2b7df6d360988f4bc27367cdd",
-        "category": "Nezařazeno",
+        "category": "Principy letu a aerodynamika",
         "question_text": "Nebezpečnými aerodynamickými jevy, ke kterým může dojít na vrtulníku jsou:",
         "options": {
             "option_a": "u vrtulníků schválených do provozu LAA nemohou nastat žádné nebezpečné aerodynamické jevy",
@@ -1897,7 +1897,7 @@
             "option_c": "vně oblaků za stálé dohlednosti země"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Otázka se týká specifických požadavků pro lety VFR ve vzdušném prostoru třídy G, což spadá pod letecké předpisy. Správná odpověď A – 'vně oblaků za stálé dohlednosti země' – přesně popisuje základní požadavky na viditelnost a vzdálenost od oblaků pro lety VFR v této kategorii vzdušného prostoru, zejména v nižších výškách (pod 3000 ft AMSL nebo 1000 ft AGL). V takovém vzdušném prostoru je nutné, aby pilot udržoval vizuální kontakt se zemí a byl zcela mimo jakékoliv mraky. Možnosti B a C uvádějí konkrétní vzdálenosti od oblaků, které se obvykle vztahují na jiné třídy vzdušného prostoru nebo na lety VFR ve vyšších nadmořských výškách v rámci třídy G, kde jsou požadavky přísnější (např. nad 3000 ft AMSl a 1000 ft AGL). Základní a nejdůležitější požadavek pro VFR v G je být 'vně oblaků' a 'v dohlednosti země'.",
         "occurrence_count": 6,
         "last_seen": "2024-08-27",
@@ -1937,7 +1937,7 @@
     },
     {
         "question_id": "3a6242bc0de46b58fedb740b98a65d7f",
-        "category": "Nezařazeno",
+        "category": "Všeobecné znalosti letadel",
         "question_text": "Vyšlápnutím pravého pedálu směrového řízení:",
         "options": {
             "option_a": "se v principu vyvolá větší tah ocasní vrtulky doleva, vrtulník zatočí doprava",
@@ -1961,7 +1961,7 @@
             "option_c": "řízený okrsek letiště"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Zkratka CTR znamená 'Controlled Traffic Region', což se do češtiny překládá jako 'řízený okrsek letiště'. Jedná se o řízený vzdušný prostor obklopující letiště, který je zřízen k ochraně letadel přilétajících a odlétajících z letiště a k zajištění řízení letového provozu v této oblasti. Odpověď A je tedy přesným překladem a vysvětlením zkratky.",
         "occurrence_count": 6,
         "last_seen": "2024-08-04",
@@ -2025,7 +2025,7 @@
             "option_c": "poměr vztlaku a odporu na letadle"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Násobek zatížení letadla (load factor) je definován jako poměr celkové aerodynamické síly (zejména vztlaku) působící na letadlo k jeho celkové tíze. Vyjadřuje, kolikrát je aktuální zatížení konstrukce letadla větší než jeho tíha při klidném, vodorovném letu. Během manévrů, jako jsou zatáčky, stoupání nebo vybírání, se požadovaná aerodynamická síla zvyšuje, což vede ke zvýšení násobku zatížení. Odpověď A přesně popisuje tuto definici, zatímco ostatní možnosti popisují jiné aerodynamické poměry (poměr vztlaku a odporu je L/D poměr) nebo nesouvisející pojmy.",
         "occurrence_count": 5,
         "last_seen": "2024-08-27",
@@ -2057,7 +2057,7 @@
             "option_c": "vzniká působením Coriolisovy síly a vyrovnáváním tlaku nad a pod profilem"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Vztlak na profilu křídla vzniká především v důsledku rozdílné rychlosti proudění vzduchu nad a pod křídlem. Podle Bernoulliho principu, kde se zvyšuje rychlost, klesá tlak. Křídla letadel jsou obvykle tvarována tak, aby vzduch proudící nad horní povrch musel urazit delší dráhu než vzduch proudící pod spodní povrch. To vede k vyšší rychlosti vzduchu nad křídlem a tím k nižšímu tlaku na horní straně oproti spodní straně, což vytváří vztlak.",
         "occurrence_count": 5,
         "last_seen": "2024-08-27",
@@ -2121,7 +2121,7 @@
             "option_c": "teplé okludované fronty"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Cumulonimbus (Cb) oblačnost, charakterizovaná bouřkami, silnými srážkami a výskytem výbojů, je typická pro studené fronty, zejména pro studené fronty II. druhu (rychlé studené fronty). Tyto fronty způsobují prudký výstup teplého vzduchu, což vede k vertikálnímu rozvoji oblaků typu Cb. Teplé fronty a teplé okluze se obvykle spojují s jinými typy oblaků (např. nimbostratus, altostratus) a méně bouřkovým počasím.",
         "occurrence_count": 5,
         "last_seen": "2024-08-09",
@@ -2193,7 +2193,7 @@
     },
     {
         "question_id": "8b5a55deda2230109015016f04812a82",
-        "category": "Nezařazeno",
+        "category": "Provozní postupy a bezpečnost",
         "question_text": "Jaké jsou druhy vzletu vrtulníku?",
         "options": {
             "option_a": "s rozjezdem a bez rozjezdu",
@@ -2217,7 +2217,7 @@
             "option_c": "Nebude tím ovlivněn"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Přestavení výškoměru na místní QNH v převodní výšce (transition altitude) je standardní postup definovaný leteckými předpisy. Po přeletu této výšky začne výškoměr indikovat nadmořskou výšku založenou na aktuálním tlaku u hladiny moře. Pokud je místní QNH (1023 hPa) nižší než standardní atmosférický tlak (1013.25 hPa), bude indikovaná výška při stejném skutečném tlaku pod výškoměrem nižší, než když byl nastaven na standardní tlak. Tudíž při nastavení na nižší QNH se údaj výškoměru zmenší.",
         "occurrence_count": 5,
         "last_seen": "2024-08-28",
@@ -2281,7 +2281,7 @@
             "option_c": "do které je přiveden celkový tlak"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Tlakoměrná krabice (aneroid) uvnitř barometrického výškoměru je utěsněná, aby reagovala na změny atmosférického tlaku. Změny tlaku způsobují deformaci krabice, která je následně mechanicky převedena na údaj o výšce. Přivádění celkového tlaku by neumožnilo správné měření výšky, a statický tlak je sice důležitý pro funkci výškoměru, ale není to primární charakteristika samotné tlakoměrné krabice z hlediska jejího uzavření.",
         "occurrence_count": 5,
         "last_seen": "2024-09-05",
@@ -2297,7 +2297,7 @@
             "option_c": "vyhnout tím, že nadletí, podletí nebo křižuje jeho trať v dostatečné vzdálenosti"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Otázka se týká pravidel přednosti v letovém provozu a způsobu, jakým má letadlo, které je povinno dát přednost, reagovat. Podle leteckých předpisů (např. ICAO Annex 2 nebo odpovídající národní legislativy) musí letadlo, které je povinno dát přednost, provést jasný a včasný úhybný manévr, aby zabránilo srážce a udrželo dostatečnou vzdálenost od druhého letadla. Možnost B správně popisuje obecné způsoby takového manévru (nadletět, podletět nebo křižovat trať v dostatečné vzdálenosti), které zajišťují bezpečné rozestupy. Možnosti A a C uvádějí konkrétní vzdálenosti (300 m horizontálně, 150 m vertikálně), které jsou spíše minimálními rozestupy pro určité situace nebo pro ATC řízení, ale nejsou primárním předpisem pro to, jak se má letadlo v obecné situaci přednosti aktivně vyhnout. Klíčové je provedení úhybného manévru s cílem zajistit dostatečnou vzdálenost, nikoli přesně dodržet konkrétní číselnou hodnotu separace jako takovou.",
         "occurrence_count": 5,
         "last_seen": "2024-09-05",
@@ -2361,7 +2361,7 @@
             "option_c": "300 m nad nejvyšší překážkou v okruhu 300 m od letadla"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Tato otázka se zabývá specifickými pravidly pro VFR lety nad zastavěnými oblastmi, která jsou součástí leteckých předpisů (např. ICAO Annex 2 nebo lokální legislativa). Správná odpověď C vychází z předpisu, který vyžaduje dodržování minimální výšky 300 metrů nad nejvyšší překážkou v okruhu 600 metrů od letadla pro VFR lety nad hustě zastavěnými místy nebo shromážděními lidí na volném prostranství, pokud není povolení k jinému postupu.",
         "occurrence_count": 5,
         "last_seen": "2024-08-04",
@@ -2393,7 +2393,7 @@
             "option_c": "stanovená výška nad mořem"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Řízený okrsek (CTR) je určen k ochraně letů ve fázi přiblížení a odletu na letištích. Z tohoto důvodu se CTR vždy rozprostírá od povrchu země (nebo vodní plochy) až do stanovené horní hranice. Tím je zajištěna kontrola a řízení letového provozu bezprostředně nad letištěm a v jeho blízkosti.",
         "occurrence_count": 5,
         "last_seen": "2024-08-28",
@@ -2457,7 +2457,7 @@
             "option_c": "60 km"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Měřítko mapy 1 : 500 000 znamená, že 1 cm na mapě odpovídá 500 000 cm ve skutečnosti. Pro převod této vzdálenosti na kilometry: 500 000 cm = 5 000 metrů = 5 km. Jestliže 1 cm na mapě představuje 5 km, pak 9 cm na mapě odpovídá 9 * 5 km = 45 km.",
         "occurrence_count": 4,
         "last_seen": "2024-08-18",
@@ -2505,7 +2505,7 @@
             "option_c": "odpor se nemění"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Zvýšení úhlu náběhu vede ke zvětšení indukovaného odporu křídla, což je jedna z hlavních složek celkového odporu, zejména při nižších rychlostech a vyšších úhlech náběhu.",
         "occurrence_count": 4,
         "last_seen": "2024-08-11",
@@ -2553,7 +2553,7 @@
             "option_c": "silný pokles tlaku a teploty"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Húlavy (tromboflebitida) jsou silné turbulence, které se mohou vyskytovat na studených frontách II. druhu (často spojené s bouřkami). Tyto turbulence jsou omezené na úzký prostor, často kolem horizontální osy v úrovni základny cumulonimbů. Pro nízko letící letadla představují značné riziko kvůli silným vertikálním proudům a náhlým změnám rychlosti a směru větru, které mohou vést ke ztrátě kontroly nad letadlem.",
         "occurrence_count": 4,
         "last_seen": "2024-07-30",
@@ -2585,7 +2585,7 @@
             "option_c": "stabilní"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Instabilní zvrstvení znamená, že vzduchová hmota vystoupá samovolně, protože se po mírném vertikálním pohybu stává teplejší a lehčí než okolní vzduch. Toto vede k dalším vertikálním pohybům, jako jsou konvekce a vývoj bouří.",
         "occurrence_count": 4,
         "last_seen": "2024-08-13",
@@ -2617,7 +2617,7 @@
             "option_c": "v zimě v poledne"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Konvekční aktivita, která vede ke vzniku bouřek a kumulonimbů, je způsobena ohříváním zemského povrchu slunečním zářením. Tento proces je nejintenzivnější v létě, kdy je sluneční záření nejsilnější, a odpoledne, kdy povrch dosáhl nejvyšší teploty po celodenním slunečním svitu. V poledne sice slunce svítí nejsilněji, ale zemský povrch ještě nedosáhl své maximální denní teploty. V zimě je sluneční záření mnohem slabší a atmosférické podmínky obvykle neumožňují silnou konvekci.",
         "occurrence_count": 4,
         "last_seen": "2024-08-17",
@@ -2649,7 +2649,7 @@
             "option_c": "na čáře fronty a jde o srážky krátkodobého charakteru"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Teplé fronty jsou charakterizovány dlouhým a pozvolným klínem teplého vzduchu stoupajícího nad studený vzduch. To vede k rozsáhlému zatažení a srážkám, které se obvykle objevují před čarou fronty a mají charakter trvalejšího deště nebo sněžení.",
         "occurrence_count": 4,
         "last_seen": "2024-07-31",
@@ -2665,7 +2665,7 @@
             "option_c": "se nemění"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Hustota vzduchu s rostoucí výškou klesá, protože molekuly vzduchu jsou dále od sebe a gravitace je méně přitahuje. To má vliv na aerodynamické vlastnosti letadla.",
         "occurrence_count": 4,
         "last_seen": "2024-09-05",
@@ -2681,7 +2681,7 @@
             "option_c": "snížení rychlosti letu pod hodnotu minimální dopředné rychlosti vůči zemi v ustáleném přímočarém letu"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Odtržení proudu (stall) nastává, když vzduchové proudění na horní straně křídla přestane plynule obtékat povrch křídla. K tomu dochází primárně při překročení kritického úhlu náběhu, kdy se proudění od křídla odtrhne a dojde ke ztrátě vztlaku.",
         "occurrence_count": 4,
         "last_seen": "2024-08-09",
@@ -2697,7 +2697,7 @@
             "option_c": "dostatečný ohřev vzduchu o zemský povrch při instabilním zvrstvení"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Atmosférická konvekce je primárně způsobena nerovnoměrným ohřevem zemského povrchu slunečním zářením. Když je spodní vrstva vzduchu teplejší a lehčí než vzduch nad ní (instabilní zvrstvení), stoupá vzhůru, což vede ke vzniku konvektivních proudů. Možnost B je částečně pravdivá, ale není hlavní příčinou. Možnost C je také dílčím faktorem, ale opět hlavní příčinou je celkový ohřev a nestabilita atmosféry.",
         "occurrence_count": 4,
         "last_seen": "2024-08-24",
@@ -2729,7 +2729,7 @@
             "option_c": "tvorbě vrstevnaté oblačnosti"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Nestabilní vzduchová hmota je charakterizována tím, že vzduch, který je vytlačen směrem nahoru, je teplejší a méně hustý než okolní vzduch v dané výšce, a proto pokračuje ve stoupání. To vede k silným konvektivním vertikálním pohybům, které jsou příčinou vývoje kupovité oblačnosti a často i bouřek. Naopak, stabilní vzduchová hmota brání vertikálním pohybům, což vede spíše k tvorbě vrstevnaté oblačnosti (B) nebo k teplotním inverzím (C), které potlačují vertikální proudění.",
         "occurrence_count": 4,
         "last_seen": "2024-08-28",
@@ -2745,7 +2745,7 @@
             "option_c": "Frontálním zdvihem (teplá fronta)"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Izolované bouřky místní povahy, které se objevují nezávisle na větších povětrnostních systémech, jsou typicky způsobeny konvektivním ohřevem zemského povrchu během slunečného dne. Tento ohřev vede ke vzniku termálních kupolí, které se zvedají a vytvářejí bouřkové oblaky (cumulonimbus).",
         "occurrence_count": 4,
         "last_seen": "2024-08-19",
@@ -2761,7 +2761,7 @@
             "option_c": "předem zkoordinovat svůj přílet nebo odlet s majitelem letiště"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Otázka se týká pravidel a povinností pilota při provozu na neřízeném letišti, což spadá do oblasti leteckých předpisů (pravidel létání a provozu letišť). Správná odpověď C je důležitá, protože i na neřízeném letišti je nutná koordinace pro zajištění bezpečného provozu, ať už s provozovatelem letiště nebo s AFIS (Aerodrome Flight Information Service), pokud je k dispozici.",
         "occurrence_count": 4,
         "last_seen": "2024-08-17",
@@ -2793,7 +2793,7 @@
             "option_c": "opusťte přistávací plochu v používání"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Tato otázka se týká standardních signálů používaných orgány letištní služby řízení (ATC) k řízení letadel na zemi, což je definováno v leteckých předpisech (např. ICAO Annex 2 – Pravidla létání a související národní předpisy). Řada červených světelných záblesků, směřovaná na letadlo na zemi, znamená 'opusťte přistávací plochu v používání'. Ostatní možnosti odpovídají jiným světelným signálům: stálé červené světlo znamená 'zastavte', a řada zelených záblesků znamená 'vraťte se na místo odkud jste vyjel'.",
         "occurrence_count": 4,
         "last_seen": "2024-08-11",
@@ -2809,7 +2809,7 @@
             "option_c": "menší než při vzletu"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Stavitelná vrtule (variable-pitch propeller) je navržena tak, aby optimalizovala výkon motoru a účinnost vrtule v různých letových režimech. Při vzletu je potřeba maximální tah při relativně nízkých rychlostech. K tomu se používá takzvané 'jemné' nastavení (fine pitch), což znamená menší úhel náběhu listů vrtule, což umožňuje motoru dosáhnout vyšších otáček a maximálního výkonu. V cestovním režimu letu, při vyšších rychlostech a potřebě ekonomičtějšího provozu, se používá 'hrubé' nastavení (coarse pitch). To znamená větší úhel náběhu listů vrtule, což snižuje otáčky motoru pro danou rychlost a zvyšuje účinnost. Proto je úhel nastavení vrtule v cestovním režimu větší než při vzletu.",
         "occurrence_count": 4,
         "last_seen": "2024-08-24",
@@ -2825,7 +2825,7 @@
             "option_c": "dostalo povolení pro přiblížení na přistání"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Tato otázka se týká pravidel přednosti v letovém provozu, která jsou základní součástí leteckých předpisů (např. ICAO Annex 2 – Rules of the Air). Způsobilost letadla k přistání nebo jeho nacházení se v závěrečné fázi přiblížení k přistání mu dává přednost před ostatními letadly ve vzduchu nebo pohybujícími se na zemi. To je klíčové pro zajištění bezpečnosti během kritické fáze letu. Možnost A není správná, protože absence spojení s ATC nezakládá přednost. Možnost B je sice relevantní, ale ne tak přesná a definitivní jako C; samotné povolení k přiblížení ještě neznamená, že letadlo již skutečně přistává nebo je v poslední fázi, kdy je jeho manévrovací schopnost omezena a má nejvyšší prioritu.",
         "occurrence_count": 4,
         "last_seen": "2024-08-17",
@@ -2929,7 +2929,7 @@
     },
     {
         "question_id": "46bc38b0844f3412ab13348913f6a7a1",
-        "category": "Nezařazeno",
+        "category": "Principy letu a aerodynamika",
         "question_text": "Jaký účinek má vychýlení řídící páky doprava?",
         "options": {
             "option_a": "vrtulník se nakloní doprava, začne bočit doprava a v důsledku toho začne zatáčet doleva",
@@ -2969,7 +2969,7 @@
             "option_c": "Konvekce"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Konvekce je vertikální pohyb vzduchu způsobený rozdílnou teplotou a hustotou. Když teplý, vlhký vzduch stoupá, ochlazuje se a při dosažení nasycení dochází ke kondenzaci vodní páry, což vede ke vzniku kumulárních oblaků. Silná konvekce může vést až k bouřkovým oblakům typu kumulonimbus.",
         "occurrence_count": 4,
         "last_seen": "2024-07-30",
@@ -2985,7 +2985,7 @@
             "option_c": "trvalých srážek"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Oblačnost typu Cumulonimbus (Cb) je spojena s bouřkami, konvektivními srážkami a často silnými srážkovými událostmi. Mrholení (A) obvykle pochází z nízké vrstevnaté oblačnosti (St), zatímco trvalé srážky (C) jsou typické pro oblačnost typu Ns (Nimbostratus). Proto jsou silné přeháňky (B) charakteristické pro Cb.",
         "occurrence_count": 4,
         "last_seen": "2024-08-22",
@@ -3017,7 +3017,7 @@
             "option_c": "v km/hod, v MPH, v uzlech (kts)"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Odpověď C je správná, protože horizontální rychlost se v letectví běžně udává ve všech třech jednotkách: v uzlech (kts), což je mezinárodní standard (zejména pro rychlost letu a rychlost vůči zemi), v kilometrech za hodinu (km/hod), což je běžné v některých zemích a pro některé typy letadel (např. VFR létání, lehké letouny), a v mílích za hodinu (MPH), které se používají především u starších letounů nebo v regionech s imperiálními jednotkami. Správné porozumění a používání těchto jednotek je klíčové pro výpočty letových výkonů a plánování.",
         "occurrence_count": 4,
         "last_seen": "2024-08-24",
@@ -3025,7 +3025,7 @@
     },
     {
         "question_id": "021c9cc17f08a999e044a3327fa482f0",
-        "category": "Nezařazeno",
+        "category": "Všeobecné znalosti letadel",
         "question_text": "Podélné řízení vrtulníku:",
         "options": {
             "option_a": "je vybaveno dorazy, které však nemohu zabránit kontaktu rotoru s ocasním nosníkem, proto je nutno vyvarovat se velkých a prudkých přitažení podélného řízení",
@@ -3049,7 +3049,7 @@
             "option_c": "svírá směr nabíhajícího proudu vzduchu s tětivou profilu"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Úhel náběhu je definován jako úhel mezi směrem proudění vzduchu (který je v ustáleném letu v podstatě opačný ke směru letu) a referenční linií křídla, kterou je tětiva profilu. Možnost A toto přesně vystihuje.",
         "occurrence_count": 3,
         "last_seen": "2024-08-19",
@@ -3065,7 +3065,7 @@
             "option_c": "Větší výšku než je nadmořská výška vrcholku"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Ve výšce vrcholku hory, kde je teplota vzduchu nadprůměrná (velmi teplý den), se v důsledku tepelné roztažnosti vzduchu měří vyšší nadmořská výška, než je skutečná. Výškoměr kalibrovaný pro standardní atmosféru ukáže proto nižší hodnotu, než je skutečná nadmořská výška vrcholku hory.",
         "occurrence_count": 3,
         "last_seen": "2024-08-13",
@@ -3081,7 +3081,7 @@
             "option_c": "hlavně v létě znamenají, že se blíží nebezpečný druh okluzní fronty"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Čočkovité mraky (lenticularis) se tvoří v horách nebo nad překážkami vlivem stojatých vln v atmosféře. Jejich přítomnost indikuje silné větry ve výškových hladinách, které jsou schopné tyto vlny vytvářet. Tyto větry mohou způsobovat turbulence a nárazovitost větru, což je nebezpečné pro letadla.",
         "occurrence_count": 3,
         "last_seen": "2024-08-17",
@@ -3145,7 +3145,7 @@
             "option_c": "Ns – nimbostratus, As – altostratus, Cs – cirostratus"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Teplé fronty jsou charakterizovány postupným přechodem od vysokých a řídkých oblaků k oblakům nižším a hustším. Typicky se objevují cirrostraty (Cs), které se později mění na altostratus (As) a nakonec na nimbostratus (Ns), které přinášejí trvalé srážky. Ostatní varianty obsahují oblaka, která nejsou pro teplé fronty typická.",
         "occurrence_count": 3,
         "last_seen": "2024-07-31",
@@ -3177,7 +3177,7 @@
             "option_c": "zprava"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Tato otázka se týká základních pravidel pro přednost v letu (right-of-way) ve volném prostoru. Podle mezinárodních leteckých předpisů (např. ICAO Annex 2 – Pravidla létání) a národních předpisů (v ČR Doplněk L2 Pravidla létání) platí, že pokud se dva letouny (nebo v tomto případě SLZ) blíží k sobě na protínajících se tratích ve zhruba stejné výšce a hrozí srážka, přednost má letoun, který má druhý letoun po své levé straně. To znamená, že letoun letící zprava má přednost a druhý letoun je povinen se vyhnout (obvykle změnou kurzu doprava, aby se vyhnul nadřazenému stroji).",
         "occurrence_count": 3,
         "last_seen": "2024-08-11",
@@ -3241,7 +3241,7 @@
             "option_c": "na 150°"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Při pravé zatáčce se kurz letadla zvyšuje. Zatáčka o 15 stupňů náklonu v pravé zatáčce znamená, že skutečná změna kurzu při dokončení zatáčky bude 30 stupňů (vždy dvojnásobek úhlu náklonu v jednoduché zatáčce). Protože letíme kursem 030° a provádíme pravou zatáčku, přičteme 30° k počátečnímu kurzu, abychom zjistili, na jakém kurzu budeme, když zatáčku dokončíme. 030° + 30° = 060°. Otázka ale zní, na jakém kurzu musíme srovnat zatáčku, abychom letěli kursem 180 stupňů. Pokud začínáme na 030° a chceme skončit na 180°, znamená to, že musíme provést zatáčku o 150°. Při pravé zatáčce se kurz zvyšuje, takže abychom se dostali na 180° z 030°, musíme dosáhnout kurzu, který je o 150° větší než 030°. Nicméně otázka je mírně zavádějící. Pokud počítáme s tím, že po dokončení zatáčky o náklonu 15° (což je 30° odchylka od původního kurzu) chceme letět 180°, a původní kurz byl 030°, tak to znamená, že zatáčka byla provedena pro dosažení jiného kurzu. Správný výpočet vychází z toho, že chceme dosáhnout kurzu 180°. Pokud letíme kursem 030° a zatáčíme doprava, kurz se zvyšuje. Pro dokončení zatáčky o náklonu 15° se kurz změní o 2 * 15° = 30°. Pokud bychom zatáčeli, abychom letěli kursem 180°, museli bychom provést zatáčku, která by nás z 030° dostala na 180°. Tato změna kurzu je 150°. V kontextu otázky, která se ptá, na jakém kurzu musíme srovnat zatáčku, abychom letěli kursem 180°, a předpokládá se, že pravá zatáčka o náklonu 15° je součástí tohoto manévru, je třeba spočítat cílový kurz. Pokud bychom se zastavili na 180° přesně, zatáčeli bychom přesně 150°. Otázka je ale záludná a pravděpodobně se ptá na kurz, na kterém má být zatáčka ukončena, aby nový kurz byl 180°. Za předpokladu, že zatáčka o náklonu 15° znamená odchylku 30° od původního kurzu (pravá zatáčka). Pokud letíme 030° a chceme letět 180°, musíme se otočit o 150°. Pravá zatáčka znamená přičítání stupňů. Pokud začínáme na 030° a chceme skončit na 180°, potřebujeme otočku o 150°. Srovnat zatáčku znamená ukončit ji. Pokud bychom zatáčeli, abychom dosáhli kurzu 180° za použití zatáčky o náklonu 15°, znamenalo by to, že bychom zatáčeli, dokud bychom nedosáhli nového kurzu. Cílový kurz je 180°. Pokud letíme 030° a zatočíme pravou zatáčkou, kurz se zvyšuje. Abychom dosáhli 180°, musíme z 030° přidat 150°. Otázka je formulována tak, že se ptá na kurz, kdy má být zatáčka ukončena. Pokud chceme letět 180°, pak cílový kurz je 180°. Nicméně, typická otázka tohoto typu testuje pochopení, že pravá zatáčka o náklonu 15° znamená odchylku 30° od původního kurzu. Pokud bychom ukončili zatáčku o 30° od 030°, byli bychom na 060°. Otázka ale specifikuje cílový kurz 180°. Správná odpověď B (210°) by naznačovala, že jsme již letěli na nějakém kurzu a provedli zatáčku, abychom se dostali na 210°, a poté bychom se dostali na 180°. Toto je však nesprávná interpretace. Přesnější interpretace otázky je: Letíme kursem 030°. Provádíme pravou zatáčku o náklonu 15°. Na jakém kurzu musíme dokončit tuto zatáčku, abychom následně mohli letět kursem 180°? Toto je matoucí. Pokud otázka zní, že chceme letět kursem 180°, a ta zatáčka je jediným manévrem, pak bychom museli zatočit o 150°. Ale náklon 15° znamená odchylku 30°. Nejčastější chybou je právě toto nepochopení. Pokud otázka předpokládá, že po dokončení zatáčky o náklonu 15° (což je 30° změna kurzu v daném směru) bude navazovat další letový úsek, a chceme, aby tento nový směr byl 180°, pak musíme počítat s tím, že zatáčka nás posune. Pokud bychom po zatáčce na 30° (tedy na 060°) chtěli letět 180°, museli bychom pak provést další otočku. Otázka je špatně formulovaná. Předpokládáme-li, že otázka je myšlena jako: 'Letíme kursem 030°, uděláme pravou zatáčku o náklonu 15° (což je 30° změna kurzu). Na jakém kurzu budeme, když tuto zatáčku dokončíme?' Pak by odpověď byla 060°. Ale otázka se ptá 'na jakém kurzu musíme srovnat zatáčku, abychom letěli kursem 180 stupňů?'. Toto implikuje, že zatáčka nás má dovést do pozice, odkud bude možné letět 180°. Standardní výpočet pro zatáčku je, že úhel náklonu v stupních vynásobený dvěma dává změnu kurzu v stupních. Tedy 15° náklonu = 30° změna kurzu. Pokud letíme na 030° a zatočíme doprava, náš kurz se bude zvyšovat. Po dokončení zatáčky budeme na 030° + 30° = 060°. Otázka je, na jakém kurzu máme zatáčku srovnat, abychom letěli 180°. Toto je záludné. Pokud chceme letět 180°, a právě jsme provedli zatáčku, která nás posunula o 30° doprava (tedy na 060°), museli bychom pak provést další otočku. Pokud by ale otázka byla 'Jaký je kurz po provedení pravé zatáčky o náklonu 15° z kurzu 030°?', odpověď by byla 060°. Odpověď B (210°) naznačuje, že původní kurz byl 180°, nebo že se počítá s jiným manévrem. Přesný výpočet pro správnou odpověď B: Pokud po zatáčce máme letět kursem 180 stupňů, a před zatáčkou jsme letěli kursem 030 stupňů, znamená to, že musíme provést zatáčku, která nás posune. Standardní pravidlo je, že zatáčka o 15 stupňů náklonu znamená změnu kurzu o 30 stupňů. Pokud letíme na 030° a chceme letět na 180°, to je rozdíl 150°. Pokud ale odpověď B (210°) je správná, znamená to, že před dokončením zatáčky na 180° jsme byli na kurzu 210°. To je ale v rozporu s počátečním kurzem 030°. Správná interpretace může být následující: Letíme na kurzu X. Provádíme pravou zatáčku o náklonu 15°. Po dokončení zatáčky chceme letět kursem 180°. Na jakém kurzu X jsme museli začít, pokud tato zatáčka končí na 180°? Toto také nesedí. Nejpravděpodobnější interpretace, která vede k odpovědi B: Letíme na kurzu 030°. Provádíme pravou zatáčku. Po dokončení této zatáčky budeme letět kursem 180°. Který úsek zatáčky má tedy být zarovnán? Tato otázka je špatně formulována. Předpokládejme, že se jedná o typickou navigační úlohu, kde se počítá změna kurzu. Pravá zatáčka o náklonu 15° znamená změnu kurzu o 30°. Pokud počáteční kurz je 030° a chceme cílový kurz 180°, pak rozdíl je 150°. Ale to není zatáčka o 15° náklonu. Zkusme jiný přístup: Možná otázka implikuje, že už jsme provedli část zatáčky a máme ji srovnat, aby výsledný kurz byl 180°. Pokud jsme na 030° a děláme pravou zatáčku, kurz se zvyšuje. Abychom skončili na 180°, musíme urazit 150°. Pokud zatáčka o náklonu 15° znamená 30° odklon. Pokud začínáme na 030° a děláme pravou zatáčku, kurz se zvyšuje. K dosažení 180° potřebujeme otočku o 150°. Pokud ale odpověď B je 210°, pak to znamená, že jsme zatáčeli z 030° a srovnali jsme zatáčku na 210°. To by znamenalo otočku o 180°. Toto je v rozporu se zadáním. Zřejmě otázka předpokládá, že cílový kurz je 180°. A my jsme na počátečním kurzu 030°. Pokud chceme dosáhnout 180°, potřebujeme otočku o 150°. Ale otázka se ptá, na jakém kurzu máme srovnat zatáčku. Znamená to, že zatáčka bude mít nějakou konkrétní úhlovou velikost. Pokud pravá zatáčka o náklonu 15° znamená odchylku 30°. Pokud bychom začínali na 030° a dělali pravou zatáčku, abychom se dostali na 180°, museli bychom otočit o 150°. Ale zatáčka má být o náklonu 15°. Otázka je vskutku matoucí. Ale pokud se držíme pravidla, že náklon 15° znamená 30° změnu kurzu: Pokud začínáme na 030° a chceme skončit na 180°, musíme se otočit o 150°. Pokud máme provést zatáčku o 30°, tak jsme na 060°. Toto nevede k 180°. Jediný způsob, jak dosáhnout odpovědi B: Pokud předpokládáme, že jsme provedli nějakou částečnou zatáčku a máme ji dokončit, aby výsledný kurz byl 180°. Ale toto není zřejmé. Zkusme logiku opačně: Pokud srovnáme zatáčku na 210°, co to znamená? Z počátečního kurzu 030°. To by znamenalo otočku o 180°. Ale proč by měla být zatáčka o náklonu 15° srovnána na 210° pro dosažení 180°? Toto je problém. Nicméně, pokud otázka znamená: 'Letíme kursem 030°. Začínáme pravou zatáčku o náklonu 15°. Na jakém kurzu má být tento manévr ukončen, abychom dosáhli kurzu 180°?' Toto je také nepřesné. Zkusme standardní pravidlo: Pravá zatáčka o náklonu 15° znamená změnu kurzu o 30°. Pokud cílový kurz je 180°, a počáteční kurz je 030°, pak musíme provést otočku o 150°. Ale to není 30° změna. Nejpravděpodobnější interpretace, která vede k B: Letíme na kurzu 030°. Provádíme pravou zatáčku. Po dokončení zatáčky chceme letět kursem 180°. Otázka ale není 'na jakém kurzu budeme', ale 'na jakém kurzu musíme srovnat zatáčku'. Toto znamená ukončit zatáčku. Pokud srovnáme zatáčku na 210°, znamená to, že náš nový kurz je 210°. To je o 180° od 030°. Toto není zatáčka o 30°. Pokud ale předpokládáme, že otázka je formulována tak, aby se otestovalo, že cílový kurz 180° je v pravé zatáčce od počátečního 030°. Abychom se dostali na 180° z 030° pravou zatáčkou, musíme otočit o 150°. Pokud by tato zatáčka byla provedena na 15° náklonu, pak by to znamenalo, že jsme se otočili o 30°. Ale my potřebujeme 150°. Jediná možnost, jak dosáhnout odpovědi 210°: Pokud začínáme na 030° a chceme se dostat na 180° pomocí pravé zatáčky. Musíme tedy otočit o 150°. Pokud tato 150° otočka je realizována zatáčkou o náklonu 15°, pak otázka je záludná. Standardně, pokud letíme na kurzu 030° a chceme letět na 180°, otočíme o 150°. Pokud tato otočka je provedena pravou zatáčkou, pak je to 030° -> ... -> 180°. Pokud ale předpokládáme, že otázka je myšlena takto: 'Letíme kursem 030°. Zahajujeme pravou zatáčku. Po této zatáčce chceme letět kursem 180°. Na jakém kurzu musí být zatáčka ukončena?' Pokud bychom zatáčeli a dosáhli kurzu 210°, pak bychom se museli otočit zpět. Ale toto je nesmysl. Nejlepší vysvětlení pro B: Pokud chceme z kurzu 030° dosáhnout kurzu 180° pomocí pravé zatáčky. Změna kurzu je 150°. Pokud tato zatáčka je provedena na náklonu 15°, což znamená 30° odchylku. To nesedí. Nicméně, typické testové otázky používají pravidlo: náklon 15° = 30° změna kurzu. Pokud chceme letět 180° z 030°, musíme otočit o 150°. Kdybychom provedli zatáčku na 30° (z 030° na 060°), tak jsme na 060°. Poté bychom museli další otočku. Pokud ale odpověď B je správná (210°), pak to znamená, že srovnáme zatáčku na 210°. To je 180° od 030°. Pokud zatáčkou o náklonu 15° chceme dosáhnout kurzu 180°, pak musíme otočit o 150°. Pokud tato 150° otočka je realizována zatáčkou, která má být srovnána na 210°, znamená to, že cílový kurz 180° je dosažen až po srovnání zatáčky na 210°? Toto je velmi nejasné. Nicméně, pro odpověď B musí platit: Letíme 030°. Zatáčkou doprava se dostáváme na 180°. Změna je 150°. Pokud ale odpověď B je 210°, pak je to 180° od 030°. Pravděpodobně se jedná o chybnou formulaci otázky. Pokud ale držíme pravidla: náklon 15° znamená 30° změny kurzu. Pokud letíme 030° a chceme letět 180°, potřebujeme otočku o 150°. Pokud ale zatáčka má být provedena s náklonem 15°, pak se kurz změní o 30°. Tedy na 060°. To nesedí k 180°. Jediný způsob, jak dosáhnout odpovědi B (210°): Pokud začínáme na kurzu, který je 30° pod 180°, tedy na 150°, a provedeme pravou zatáčku o náklonu 15° (což je 30° změna), skončíme na 180°. Toto ale neodpovídá zadání. Ještě jedna možnost: Letíme na 030°. Provádíme pravou zatáčku. Chceme skončit na 180°. Abychom to udělali, musíme se otočit o 150°. Pokud srovnáme zatáčku na 210°, znamená to, že jsme dosáhli kurzu 210°. Pokud bychom na 030° zatáčeli pravou zatáčkou, abychom se dostali na 180°, a zatáčka je definována náklonem 15°, pak je tato otázka chybná. Ale pokud B je správně, pak to znamená, že po zatáčce na 210° budeme létat 180°. To nedává smysl. Poslední pokus o vysvětlení B: Letíme na 030°. Chceme letět na 180°. Zatáčíme doprava. Musíme otočit o 150°. Pokud tato otočka je provedena zatáčkou o náklonu 15°, pak změna kurzu je 30°. To nesedí. Ale pokud B je správně, pak to znamená, že po zatáčce na 210° je nový kurz 180°. Toto je chyba v logice. Ale předpokládejme, že otázka je formulována tak, aby se otestovalo, že v pravé zatáčce se kurz zvyšuje a že náklon 15° odpovídá změně kurzu 30°. Pokud chceme letět 180° z 030°, musíme se otočit o 150°. Pokud zatáčka má být o náklonu 15° (tedy 30° změna), tak to nesedí. Ale pokud B je správně, pak to znamená, že cílový kurz 180° je dosažen při srovnání zatáčky na 210°. Toto je nesmysl. Jediné, co dává smysl s odpovědí B: Počáteční kurz je 030°. Chceme letět na 180°. Provádíme pravou zatáčku. Odpověď B (210°) je kurz, na kterém je zatáčka srovnána. Pokud zatáčka je srovnána na 210°, znamená to, že nový kurz je 210°. To je o 180° od 030°. Toto je nesmysl. Ale pokud to znamená, že musíme otočit o 150° z 030° (abychom se dostali na 180°), a pokud tato otočka je realizována pravou zatáčkou, která má být srovnána na 210°, znamená to, že 180° je dosaženo po 210°? Ne. Správná odpověď B je založena na nesprávné interpretaci nebo záludné formulaci otázky. Nicméně, pokud se striktně držíme, že náklon 15° znamená 30° změny kurzu: Pokud chceme letět na 180°, a začínáme na 030°, musíme otočit o 150°. Pokud tato zatáčka má být o náklonu 15°, pak je to 30° změna. To nesedí. Ale pokud odpověď B (210°) je správná, pak to znamená, že se zatáčka srovnává na 210°. To je 180° od 030°. Proč by se zatáčka srovnávala na 210°, když cílový kurz je 180°? Toto je chyba. Ale pokud předpokládáme, že chceme z 030° udělat pravou otočku o 150°, abychom se dostali na 180°. A tato otočka je provedena na 15° náklonu. Pak otázka 'na jakém kurzu musíme srovnat zatáčku' je velmi špatně položená. Nicméně, pro odpověď B: Pokud letíme 030° a provádíme pravou zatáčku, abychom dosáhli kurzu 180°, musíme otočit o 150°. Pokud srovnáme zatáčku na 210°, to znamená, že nový kurz je 210°. Ale cílový kurz je 180°. Logika je poškozená. Správná odpověď B znamená, že musíme srovnat zatáčku na 210°. Toto by znamenalo, že nový kurz je 210°. Toto je o 180° od 030°. Toto není 30° změna. Poslední pokus: Letíme na 030°. Chceme letět na 180°. Provádíme pravou zatáčku. Absolutní změna kurzu je 150°. Pokud zatáčka má být provedena s náklonem 15°, což znamená změnu 30°. To nesedí. Ale pokud B je správně, pak to znamená, že cílový kurz 180° je dosažen po srovnání zatáčky na 210°. Toto je chyba. Správná odpověď B (210°) implikuje, že po zatáčce na 210° bude nový kurz 180°. Toto nedává smysl. Nicméně, pokud se podíváme na rozdíl mezi odpověďmi: 150° (C), 180° (A), 210° (B). Pokud letíme 030° a chceme 180°, je to 150° otočka. Odpověď C je 150°. Ale tato otočka by měla být o 30° (protože 15° náklonu = 30° změny kurzu). Otázka je záludná. Správná odpověď B (210°) je v kontextu jiných navigačních úloh. Pokud bychom zatáčeli, abychom dosáhli kurzu 180°, a tato zatáčka je provedena na náklonu 15°, pak by to znamenalo, že na kurzu 210° (což je 030° + 180°) bychom srovnali zatáčku, abychom pak letěli 180°. Toto je nesmysl. Ale pokud otázka znamená: 'Letíme kursem 030°. Provádíme pravou zatáčku o náklonu 15°. Abychom dosáhli cílového kurzu 180°, na jakém kurzu je třeba zatáčku srovnat?' Pokud srovnáme zatáčku na 210°, pak nový kurz je 210°. Toto nesedí k 180°. Nicméně, pro odpověď B: Pokud začínáme na 030° a chceme skončit na 180°. Toto je otočka o 150°. Pokud tato otočka je provedena pravou zatáčkou, pak kurz se zvyšuje. Pokud ale otázka je o tom, kde srovnat zatáčku, aby se dosáhlo 180°, pak srovnání na 210° je nesmyslné, pokud 180° je cílový kurz. Ale pokud B je správně, pak to znamená, že po srovnání zatáčky na 210° je nový kurz 180°. Toto je chyba v zadání. Nicméně, odpověď B je založena na principu, že při pravé zatáčce se kurz zvyšuje. Pokud z 030° chceme dosáhnout 180°, musíme otočit o 150°. Odpověď 210° je 30° nad 180°. Nebo je to 180° od 030°. To je 030° + 180° = 210°. Toto je otočka o 180°. Ale to je moc. Správné vysvětlení pro B: Letíme na 030°. Chceme letět na 180°. Zatáčíme pravou zatáčkou. Změna je 150°. Ale zatáčka je o náklonu 15°, což znamená 30° změny kurzu. Pokud tato 30° změna má vést k 180°, pak původní kurz by měl být 150°. To také nesedí. Ale pro odpověď B: Abychom z 030° dosáhli kurzu 180° pomocí pravé zatáčky, musíme se otočit o 150°. Pokud je zatáčka srovnána na 210°, znamená to, že jsme dosáhli kurzu 210°. Toto je o 180° od 030°. Správná odpověď B (210°) je založena na tom, že při pravé zatáčce se kurz zvyšuje. Pokud chceme dosáhnout kurzu 180° z kurzu 030° pravou zatáčkou, musíme otočit o 150°. Pokud ale tato otočka je provedena na 15° náklonu, pak změna kurzu je 30°. Toto nesedí. Nicméně, odpověď 210° je pravděpodobně myšlena jako 030° + 180° = 210°, což je plná otočka, což je nesmysl. Správné vysvětlení B je následující: Letíme kursem 030°. Chceme létat kursem 180°. Zatáčíme pravou zatáčkou. Změna kurzu je 180° - 030° = 150°. Pokud zatáčka o náklonu 15° znamená 30° změnu kurzu. Pak pokud bychom se otočili o 30° z 030°, byli bychom na 060°. Toto nesedí k 180°. Ale pro odpověď B: Z 030° se dostat na 180° pravou zatáčkou znamená otočku o 150°. Pokud tato otočka je provedena na 15° náklonu, pak otázka je velmi špatně položená. Ale odpověď B (210°) je odvozena od toho, že chceme 180° a jsme na 030°. Někdy se počítá s tím, že srovnáme zatáčku na kurz o 30° větší než cílový kurz, pokud chceme dosáhnout cílového kurzu po zatáčce. V tomto případě 180° + 30° = 210°. Toto je zjednodušený princip, který není vždy přesný, ale může být použit v testových otázkách. Nebo, jiná interpretace: z 030° potřebujeme otočku o 150°. Odpověď B je 210°. Znamená to, že zatáčka je srovnána na 210°. Pak je nový kurz 210°. Toto nesedí k 180°. Nicméně, správná odpověď B znamená, že srovnáme zatáčku na 210°. To je 180° od počátečního 030°. Tento princip se používá v některých učebních materiálech, kde při pravé zatáčce na cílový kurz X, se zatáčka srovnává na kurz X + 30° (pokud je náklon 15°). V tomto případě X = 180°, takže 180° + 30° = 210°.",
         "occurrence_count": 3,
         "last_seen": "2024-08-11",
@@ -3273,7 +3273,7 @@
             "option_c": "dá se podletět pouze při vzájemné komunikaci radiostanicí s příslušným stanovištěm ATS"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "TMA (Terminal Control Area) je definovaná vzdušná prostorová oblast, obvykle kolem rušného letiště, která je pod kontrolou letové provozní služby (ATS). Podletění TMA (tedy let pod její spodní hranicí) není obecně zakázáno, pokud nejsou stanoveny specifické nižší minimální výšky nebo jiné restrikce. Možnost C je nesprávná, protože TMA má definovanou spodní i horní hranici a některé přístupy mohou vyžadovat průlet pod horní hranicí. Možnost B je nesprávná, protože zatímco komunikace s ATS je typická pro provoz v TMA, samotné podletění TMA nezávisí na předchozí komunikaci, ale na dodržení ustanovení o minimálních výškách a provozu ve vzdušném prostoru.",
         "occurrence_count": 3,
         "last_seen": "2024-07-30",
@@ -3305,7 +3305,7 @@
             "option_c": "motorové letadlo se musí vyhnout vzducholodím, kluzákům a balonům a jiným motorovým lletounům nebo SLZ, které mají ve vleku jiná letadla nebo předměty"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Otázka se týká pravidel pro předcházení srážkám ve vzduchu, která jsou součástí leteckých předpisů. Možnost B správně uvádí výjimku z obecného pravidla, že letadlo vpravo má přednost. Toto pravidlo se nevztahuje na situace, kdy jsou ve vzduchu objekty s nižší manévrovatelností nebo objekty vlečené jiným letadlem, kterým se musí motorové letadlo vyhnout.",
         "occurrence_count": 3,
         "last_seen": "2024-08-26",
@@ -3321,7 +3321,7 @@
             "option_c": "1013,25 hPa, 0°C"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Mezinárodní standardní atmosféra (ISA) definuje standardní atmosférické podmínky pro účely leteckých výpočtů a kalibrace přístrojů. Podle této definice jsou standardní hodnoty tlaku a teploty na střední hladině moře (MSL) přesně 1013,25 hPa a +15 °C. Tyto hodnoty jsou základem pro výpočty letových výkonů a správné nastavení výškoměrů.",
         "occurrence_count": 3,
         "last_seen": "2024-08-24",
@@ -3337,7 +3337,7 @@
             "option_c": "silnou turbulencí, silnou námrazou, aktivní bouřkovou činností, silnými přeháňkami, silným větrem"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Aktivní studená fronta II. druhu (často označovaná jako studená fronta s konvektivní aktivitou) je spojena s výrazným vertikálním vývojem oblaků a silnými atmosférickými procesy. Tyto procesy zahrnují silnou turbulenci způsobenou konvekcí, potenciální námrazu v chladnějších vrstvách atmosféry, aktivní bouřkovou činnost (blesky, hromy, silné přeháňky, kroupy) a silný vítr v nárazech, který se objevuje při průchodu fronty. Možnosti B a C popisují jevy typické spíše pro jiné typy front (např. teplá fronta nebo okluze) nebo méně výrazné studené fronty, které neobsahují tak silnou konvektivní aktivitu.",
         "occurrence_count": 3,
         "last_seen": "2024-08-09",
@@ -3385,7 +3385,7 @@
             "option_c": "veškerý provoz na provozní ploše letiště a všechna letadla letící v blízkosti letiště"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Správná odpověď C nejlépe odpovídá standardní definici letištního provozu (aerodrome traffic), která zahrnuje veškerý pohyb na provozní ploše (včetně letadel, vozidel a osob) a všechna letadla operující ve vzdušném prostoru v blízkosti letiště (např. v letištní provozní zóně nebo v okruhu). Ostatní možnosti jsou neúplné, protože buď vynechávají pozemní provoz (vozidla, osoby), nebo letadla ve vzduchu v blízkosti letiště.",
         "occurrence_count": 3,
         "last_seen": "2024-08-19",
@@ -3449,7 +3449,7 @@
             "option_c": "při každém letu"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Dle leteckých předpisů, které upravují provoz letadel a práva a povinnosti pilotů (např. ICAO Annex 1 nebo evropské nařízení (EU) 1178/2011 Part-FCL), musí mít pilot u sebe platný pilotní průkaz a příslušné doklady (jako je osvědčení zdravotní způsobilosti) vždy, když vykonává privilegia svého průkazu, což znamená při každém letu, ve kterém působí jako pilot. Tím je zajištěno, že může kdykoli na požádání předložit své oprávnění k létání. Možnosti A a C jsou příliš omezující, jelikož tato povinnost platí pro všechny typy letů.",
         "occurrence_count": 3,
         "last_seen": "2024-08-04",
@@ -3481,7 +3481,7 @@
             "option_c": "pouze nízká oblačnost vrstevnatého typu"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Studená fronta I. druhu (tzv. studená fronta s přeháňkami) je spojena s rychlým postupem chladného vzduchu, který způsobuje silné vertikální pohyby vzduchu. Tyto pohyby vedou ke vzniku bouřkových oblaků (cumulonimbus), které jsou zdrojem turbulence, srážek a námrazy. Nízká vrstevnatá oblačnost se může vyskytovat před frontou nebo s ní být spojena, ale typické nebezpečné jevy jsou právě ty spojené s Cb. Možnost B je nesprávná, protože studená fronta I. druhu není spojena pouze s nízkou vrstevnatou oblačností. Možnost C, silný nárazovitý přízemní vítr, je sice často doprovodným jevem studené fronty, ale není to hlavní a nejnebezpečnější jev, který je primárně spojen s bouřkovými oblaky.",
         "occurrence_count": 3,
         "last_seen": "2024-08-27",
@@ -3513,7 +3513,7 @@
             "option_c": "s nejvyšší hodnotou tlaku rostoucím v určitém směru"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Tlaková výše (anticyklona) je definována jako oblast s nejvyšším atmosférickým tlakem ve svém středu, odkud tlak směrem k okrajům klesá.",
         "occurrence_count": 3,
         "last_seen": "2024-08-05",
@@ -3641,7 +3641,7 @@
             "option_c": "statický tlak"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Variometr (indikátor vertikální rychlosti) měří rychlost stoupání nebo klesání letadla na základě rozdílu mezi statickým tlakem a tlakem v kabině (nebo jiném referenčním bodě). Změna výšky vede ke změně statického tlaku, a tedy i k měření vertikální rychlosti. Celkový tlak se používá pro měření rychlosti letu (pitot-statická soustava).",
         "occurrence_count": 3,
         "last_seen": "2024-08-04",
@@ -3657,7 +3657,7 @@
             "option_c": "Slabý ve směru izobar"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Blízko sebe ležící izobary na meteorologické mapě indikují velký tlakový gradient. Velký tlakový gradient způsobuje silnější přízemní vítr. Přibližně se vítr v přízemní vrstvě pohybuje zhruba podél izobar směrem k nižšímu tlaku, přičemž rychlost větru je přímo úměrná hustotě izobar.",
         "occurrence_count": 3,
         "last_seen": "2024-08-04",
@@ -3737,7 +3737,7 @@
             "option_c": "3/8"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Otázka se týká pravidel pro lety VFR (Visual Flight Rules), konkrétně podmínek pro let nad oblaky a s tím souvisejícího pokrytí oblohy oblačností. Toto spadá pod letecké předpisy, které definují pravidla pro bezpečné létání.",
         "occurrence_count": 3,
         "last_seen": "2024-08-11",
@@ -3753,7 +3753,7 @@
             "option_c": "směrem kam vane a rychlostí"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Vítr je definován jak směrem, ze kterého vane (např. severní vítr vane ze severu), tak svou rychlostí. Pouhé uvedení rychlosti nebo směru, kam vane, by neposkytlo úplnou informaci o větru.",
         "occurrence_count": 3,
         "last_seen": "2024-08-11",
@@ -3769,7 +3769,7 @@
             "option_c": "rovně do středu níže v celé její oblasti"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Na severní polokouli je v oblasti tlakové níže dochází k cirkulaci vzduchu proti směru pohybu hodinových ručiček v důsledku Coriolisovy síly. Vítr při zemi se orientuje podél izobar s mírným stočením do středu níže.",
         "occurrence_count": 3,
         "last_seen": "2024-08-19",
@@ -3849,7 +3849,7 @@
             "option_c": "do oblaku smí vletět pouze pilot, který první dosáhne základny"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Otázka se ptá na specifická pravidla pro lety VFR (Visual Flight Rules) ve vzdušném prostoru tříd C, D a E, což se týká dodržování minimálních vzdáleností od oblaků. Tyto informace jsou součástí leteckých předpisů a standardů pro bezpečný let.",
         "occurrence_count": 2,
         "last_seen": "2024-07-22",
@@ -3865,7 +3865,7 @@
             "option_c": "vztlak a odpor"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Výsledná aerodynamická síla (resultant aerodynamic force) je vektorový součet dvou hlavních aerodynamických sil působících na křídlo: vztlaku (lift) a odporu (drag). Vztlak působí kolmo na směr proudění vzduchu a tíha (weight) je síla zemské přitažlivosti, nikoliv aerodynamická síla.",
         "occurrence_count": 2,
         "last_seen": "2024-08-28",
@@ -3881,7 +3881,7 @@
             "option_c": "Během dne z kopce"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Během dne slunce ohřívá svahy hor rychleji než dno údolí. Vzduch nad těmito ohřátými svahy se ohřívá, stává se méně hustým a stoupá (anabatický vítr). Aby se tento stoupající vzduch nahradil, chladnější vzduch z údolí proudí nahoru po svazích směrem ke kopci. Tento jev je znám jako údolní vítr a je typický pro denní hodiny v hornatých oblastech.",
         "occurrence_count": 2,
         "last_seen": "2024-08-27",
@@ -3913,7 +3913,7 @@
             "option_c": "tlak standardní atmosféry"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Před letem se výškoměr nastavuje na tlak vzduchu na zemi, aby se zajistila přesnost měření výšky nad terénem. Toto nastavení se provádí v okénku tlakové stupnice (QNH).",
         "occurrence_count": 2,
         "last_seen": "2024-07-24",
@@ -3961,7 +3961,7 @@
             "option_c": "vždy kolmo k tětivě profilu"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Vztlak je aerodynamická síla, která vzniká jako důsledek proudění vzduchu kolem profilu křídla. Definuje se jako složka celkové aerodynamické síly, která působí kolmo na směr relativního pohybu vzduchu vůči profilu (tedy na směr větru nabíhajícího na profil).",
         "occurrence_count": 2,
         "last_seen": "2024-08-28",
@@ -3993,7 +3993,7 @@
             "option_c": "se snižující se hodnotou tlaku směrem od středu"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Tlaková níže (cyklona) je definována jako oblast s nižším atmosférickým tlakem ve srovnání s okolními oblastmi. Nejnižší hodnota tlaku je právě v jejím středu, odkud tlak postupně narůstá směrem k okrajům.",
         "occurrence_count": 2,
         "last_seen": "2024-08-24",
@@ -4009,7 +4009,7 @@
             "option_c": "nad 2/3 profilu, asi 55%"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Vztlak na křídle letadla je generován rozdílným tlakem mezi horní a spodní stranou profilu. Podle Bernoulliovy rovnice a Newtonových zákonů pohybu je většina tohoto rozdílu tlaků, a tedy i většinová část vztlaku, generována na horní (zadní) části profilu křídla. Přibližně 2/3 vztlaku pochází z horní plochy profilu.",
         "occurrence_count": 2,
         "last_seen": "2024-07-19",
@@ -4073,7 +4073,7 @@
             "option_c": "80 stupňů"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Otázka se týká definice předlétávajícího letadla, což je klíčová součást pravidel pro zamezení srážkám v letecké dopravě. Tyto definice a pravidla jsou stanoveny v leteckých předpisech, konkrétně v ICAO Annexu 2 (Rules of the Air) a odpovídajících národních předpisech (např. v České republice L2 – Pravidla létání). Předlétávající letadlo je definováno jako takové, které se k jinému letadlu přibližuje zezadu v úhlu menším než 70 stupňů od podélné osy předlétávaného letadla (tedy v zadním oblouku 140 stupňů, 70 stupňů na každou stranu od osy souměrnosti). Tato definice určuje, které letadlo má povinnost se vyhnout (předlétávající se vyhýbá) a je základním pilířem letecké bezpečnosti.",
         "occurrence_count": 2,
         "last_seen": "2024-08-19",
@@ -4089,7 +4089,7 @@
             "option_c": "klonění"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Otáčení letadla kolem své svislé osy, která prochází středem těžiště, se nazývá zatáčení (yaw). Klonění (roll) je rotace kolem podélné osy a klopení (pitch) je rotace kolem příčné osy.",
         "occurrence_count": 2,
         "last_seen": "2024-08-05",
@@ -4105,7 +4105,7 @@
             "option_c": "velitel letadla odpovídá za provedení letu podle pravidel létání, ať letadlo sám řídí či nikoliv, vyjma případů, když si okolnosti vynutí odchylku od těchto pravidel v zájmu bezpečnosti"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Možnost C je správná, protože ustanovuje primární odpovědnost pilota velícího za bezpečné provedení letu v souladu s pravidly létání. Tato odpovědnost je neustálá a platí i v případě delegování řízení jinému členu posádky, s výjimkou situací, kdy jsou nezbytné odchylky pro zajištění bezpečnosti. Možnosti A a B jsou nesprávné, protože velitel letadla má konečnou autoritu rozhodovat o letu a jeho odpovědnost za let není delegovatelná ani zrušitelná pouhým udělením povolení ke vzletu řídícím orgánem.",
         "occurrence_count": 2,
         "last_seen": "2024-08-17",
@@ -4185,7 +4185,7 @@
             "option_c": "tyto podmínky nesmí měnit"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Odpověď B je správná, protože ačkoli letadlo s předností má právo udržet svůj kurz a rychlost, nezbavuje ho to celkové odpovědnosti za prevenci kolize. Pilot musí být neustále ostražitý a připravený reagovat na jakékoli nebezpečí, i když má přednost.",
         "occurrence_count": 2,
         "last_seen": "2024-07-31",
@@ -4217,7 +4217,7 @@
             "option_c": "musí proletět"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Omezený prostor (Restricted Area, označený v ČR jako LK R) je definován jako vzdušný prostor s vymezenými rozměry nad pevninou nebo mezinárodními vodami, ve kterém jsou letové činnosti omezeny stanovenými podmínkami. To znamená, že pilot do něj může vstoupit nebo jím proletět, ale pouze za předpokladu, že splní specifické podmínky, které jsou obvykle uvedeny v leteckých informacích (AIP). Na rozdíl od zakázaného prostoru (Prohibited Area), do kterého je vstup striktně zakázán, omezený prostor umožňuje vstup po splnění určitých kritérií, jako je například získání povolení od příslušného orgánu, let v konkrétní čas, nebo dodržení specifických procedur.",
         "occurrence_count": 2,
         "last_seen": "2024-08-27",
@@ -4249,7 +4249,7 @@
             "option_c": "vzniká jako důsledek přefukování vzduchu na koncích křídla ze spodní strany na horní"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Indukovaný odpor je část celkového odporu, která vzniká v důsledku tvorby vztlaku. Je způsoben obtékáním vzduchu z oblasti vyššího tlaku pod křídlem do oblasti nižšího tlaku nad křídlem, zejména na koncích křídel. Toto obtékání vytváří víry, které způsobují pokles úhlu náběhu za křídlem a tím i dodatečný odpor. Možnost A toto jevu přesně popisuje.",
         "occurrence_count": 2,
         "last_seen": "2024-08-19",
@@ -4281,7 +4281,7 @@
             "option_c": "150 m"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Odpověď A je správná, protože předpisy pro lety VFR (Visual Flight Rules) obecně stanovují minimální výšku 150 metrů nad zemí nebo vodou. Možnost \"s výjimkou létání na svahu\" je klíčová, protože tato výjimka je explicitně uvedena v předpisech, které umožňují létání v nižší výšce při letu podél svahu. Možnost B je nesprávná, protože neobsahuje důležitou výjimku. Možnost C (300 m) neodpovídá standardní minimální výšce pro VFR lety.",
         "occurrence_count": 2,
         "last_seen": "2024-08-24",
@@ -4313,7 +4313,7 @@
             "option_c": "Poledne, odpoledne"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Bouřky z tepla (konvektivní bouřky) vznikají v důsledku silného ohřevu zemského povrchu slunečním zářením. Tento ohřev způsobuje stoupavé pohyby vzduchu, které vedou ke vzniku oblaků typu kumulonimbus a následným bouřkám. Největší intenzita ohřevu a tím i největší pravděpodobnost vzniku těchto bouřek je obvykle v pozdním odpoledni, kdy se nahromadila energie z celého dne. Poledne představuje začátek tohoto období, zatímco půlnoc je dobou nejmenšího slunečního záření a ohřevu.",
         "occurrence_count": 2,
         "last_seen": "2024-07-24",
@@ -4329,7 +4329,7 @@
             "option_c": "jen o opravách a bulletinech"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Tato otázka se týká požadavků na vedení záznamů o technickém stavu letadla, což spadá pod oblast leteckých předpisů a údržby. Správná odpověď A zdůrazňuje nutnost vést komplexní a prokazatelné záznamy o všech zjištěných závadách, poškozeních, opravách a splněných požadavcích (bulletinech a příkazech k zachování letové způsobilosti), což je klíčové pro zajištění bezpečnosti a splnění legislativních požadavků.",
         "occurrence_count": 2,
         "last_seen": "2024-08-04",
@@ -4345,7 +4345,7 @@
             "option_c": "tlak standardní atmosféry"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Při nastavování výškoměru na nadmořskou výšku místa vzletu se tlaková stupnice (QNH) nastavuje tak, aby výškoměr ukazoval skutečnou nadmořskou výšku vzletové plochy. Tlaková stupnice zobrazuje tlak vzduchu přepočítaný na hladinu moře (QNH), což je standardní referenční hodnota pro nastavení výškoměru v případě, že letová hladina (FL) není definována.",
         "occurrence_count": 2,
         "last_seen": "2024-07-26",
@@ -4361,7 +4361,7 @@
             "option_c": "ve směru pohybu hodinových ručiček"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Vysokotlaké oblasti (anticyklóny) na severní polokouli způsobují na základě Coriolisovy síly odklonění vzduchu směrem doprava vzhledem k gradientu tlaku. To vede k větrům vanoucím ve směru pohybu hodinových ručiček kolem středu výše.",
         "occurrence_count": 2,
         "last_seen": "2024-08-17",
@@ -4377,7 +4377,7 @@
             "option_c": "síly, které zvyšují rychlost letícího letadla"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Turbulence je definována jako nepravidelné, náhodné a často prudké pohyby vzduchu. Tyto pohyby způsobují, že na letadlo působí síly v různých směrech, což vede k neočekávaným a proměnlivým zrychlením letadla. Možnost B tuto definici přesně vystihuje, protože popisuje síly působící v různých směrech a udělující různá přídavná zrychlení.",
         "occurrence_count": 1,
         "last_seen": "2024-08-19",
@@ -4393,7 +4393,7 @@
             "option_c": "výše letící letadlo dát přednost letadlu letícímu níže"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Pravidla pro vyhýbání v vzdušném prostoru stanovují, že při přibližování k letišti s úmyslem přistát má přednost letadlo, které je již níže v sestupné dráze. Toto pravidlo zajišťuje plynulý a bezpečný provoz, protože letadla níže již mají určenou dráhu a obvykle se nacházejí blíže k finální fázi přistání. Letadlo letící výše má stále možnost upravit svou výšku a trajektorii, aby se vyhnulo kolizi.",
         "occurrence_count": 1,
         "last_seen": "2024-07-31",
@@ -4409,7 +4409,7 @@
             "option_c": "menší"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Izobary jsou čáry spojující místa se stejným atmosférickým tlakem. Zvětšující se vzdálenost mezi izobarami znamená, že tlakový spád je menší. Menší tlakový spád vede k menší rychlosti proudění vzduchu (větru), protože vítr vane z oblasti vyššího tlaku do oblasti nižšího tlaku a jeho rychlost je přímo úměrná tlakovému spádu.",
         "occurrence_count": 1,
         "last_seen": "2024-07-20",
@@ -4425,7 +4425,7 @@
             "option_c": "výsledná aerodynamická síla vzniklá obtékáním profilu"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Vztlak je definován jako složka aerodynamické síly působící na profil křídla, která je kolmá na směr proudění vzduchu (a tedy i na směr aerodynamického odporu). Možnost A je sice částečně správná, ale neúplná, protože nezdůrazňuje kolmost na odpor. Možnost B popisuje odpor, nikoli vztlak, a navíc nesprávně uvádí, že odpor je dán úhlem náběhu (i když s ním souvisí).",
         "occurrence_count": 1,
         "last_seen": "2024-08-26",
@@ -4457,7 +4457,7 @@
             "option_c": "náporu vzduchu na spodní stranu profilu (při kladném úhlu náběhu)"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Vztlak vzniká primárně na základě Bernoulliho principu. Tvar křídla (profilu) je navržen tak, že vzduch proudící nad horní stranou profilu musí urazit delší dráhu než vzduch proudící pod spodní stranou. Aby oba proudy vzduchu dorazily do odtokové hrany ve stejný čas, musí vzduch nad profilem proudit rychleji. Podle Bernoulliho principu platí, že kde je vyšší rychlost proudění, tam je nižší tlak. Tím se nad profilem vytvoří podtlak a pod profilem přetlak, což dohromady generuje vztlakovou sílu směřující vzhůru.",
         "occurrence_count": 1,
         "last_seen": "2024-08-22",
@@ -4489,7 +4489,7 @@
             "option_c": "kyslíku"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Oblaky se v troposféře tvoří kondenzací vodní páry. Když vzduch dosáhne bodu nasycení a následně ochlazení, vodní pára se mění na drobné kapičky vody nebo ledové krystalky, které tvoří oblaky.",
         "occurrence_count": 1,
         "last_seen": "2024-07-12",
@@ -4505,7 +4505,7 @@
             "option_c": "klonění"
         },
         "correct_option": "C",
-        "points": 0,
+        "points": 3,
         "explanation": "Klonění je pohyb letadla kolem jeho podélné osy (osa procházející zepředu dozadu), který způsobuje pohyb křídel nahoru nebo dolů. Zatáčení je pohyb kolem svislé osy a klopení je pohyb kolem příčné osy.",
         "occurrence_count": 1,
         "last_seen": "2024-08-26",
@@ -4553,7 +4553,7 @@
             "option_c": "čára spojující středy kružnic vepsaných do profilu"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Tětiva profilu je definována jako přímka spojující náběžnou hranu s odtokovou hranou křídla. Tato definice přesně odpovídá možnosti B. Ostatní možnosti popisují nesprávné geometrické vztahy a nejsou standardní definicí tětivy profilu.",
         "occurrence_count": 1,
         "last_seen": "2024-09-05",
@@ -4569,7 +4569,7 @@
             "option_c": "před čarou fronty"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Studená fronta I. druhu (rychlá studená fronta) je charakterizována prudkým nárůstem tlaku a poklesem teploty. Srážkové pásmo, často spojené s bouřkami a přeháňkami, se nachází za čarou této fronty, protože studený vzduch, který je hustší, vytlačuje teplejší vzduch vzhůru.",
         "occurrence_count": 1,
         "last_seen": "2024-08-11",
@@ -4601,7 +4601,7 @@
             "option_c": "inverzní mlhy, proměnlivý vítr, noční bouřky a ve dne silnou termiku"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "V letním období ve střední Evropě, v centrální části výrazné tlakové výše, se typicky vyskytuje stabilní vzduchová hmota. To vede k převážně jasné obloze, slabému větru, vysokým denním teplotám v důsledku silného slunečního záření a slábnoucí termice v odpoledních hodinách, kdy se denní ohřev snižuje a vzduchové masy se stabilizují.",
         "occurrence_count": 1,
         "last_seen": "2024-09-05",
@@ -4617,7 +4617,7 @@
             "option_c": "vztlak a třecí odpor"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Při proudění vzduchu kolem profilu křídla vznikají na povrchu profilu tlakové rozdíly. Integrace těchto tlakových sil a sil na náběžné a odtokové hraně vede ke vzniku aerodynamických sil. Tyto síly lze rozložit na složku kolmou ke směru proudění (vztlak) a složku rovnoběžnou se směrem proudění (odpor). Kromě toho rozložení tlaku a tření na povrchu profilu vytváří i momentové účinky kolem referenčního bodu profilu, z nichž nejvýznamnější je klopivý moment.",
         "occurrence_count": 1,
         "last_seen": "2024-08-24",
@@ -4633,7 +4633,7 @@
             "option_c": "Ac – altocumulus"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Stratus (St) je typ oblaku, který se vyskytuje v nízkých výškách a často pokrývá celou oblohu v podobě šedé vrstvy. Cirrus (Ci) jsou vysoké ledové oblaky a Altocumulus (Ac) jsou střední oblaky, které se obvykle nacházejí ve vyšších vrstvách atmosféry než stratus.",
         "occurrence_count": 1,
         "last_seen": "2024-07-18",
@@ -4649,7 +4649,7 @@
             "option_c": "provozovatel"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Odpověď C je správná, protože podle leteckých předpisů je velitel letadla (pilot) konečně zodpovědný za bezpečný stav letadla před každým letem. To zahrnuje i ověření, zda byla provedena předepsaná údržba a zda letadlo splňuje všechny požadavky pro bezpečný let.",
         "occurrence_count": 1,
         "last_seen": "2024-07-12",
@@ -4681,7 +4681,7 @@
             "option_c": "vlevo tak, aby mezi letadly byla zajištěna dostatečná vzdálenost"
         },
         "correct_option": "B",
-        "points": 0,
+        "points": 3,
         "explanation": "Tato otázka se týká pravidel pojíždění a předcházení kolizím na zemi, což spadá pod letecké předpisy. Základní pravidlo pro letadla pojíždějící proti sobě je vyhnout se doprava, podobně jako v silničním provozu v mnoha zemích. Formulace 'dostatečná vzdálenost' je standardní regulativní požadavek, který zajišťuje bezpečnost a zohledňuje variabilitu podmínek a typů letadel, na rozdíl od pevně dané minimální vzdálenosti, která nemusí být univerzálně platná.",
         "occurrence_count": 1,
         "last_seen": "2024-07-31",
@@ -4697,7 +4697,7 @@
             "option_c": "SE"
         },
         "correct_option": "A",
-        "points": 0,
+        "points": 3,
         "explanation": "Zkratka 'NW' je standardní ICAO zkratkou pro severozápadní vítr (Northwest wind). Ostatní možnosti neodpovídají této zkratce: 'SE' značí jihovýchodní vítr a 'SW' značí jihozápadní vítr.",
         "occurrence_count": 1,
         "last_seen": "2024-08-18",
