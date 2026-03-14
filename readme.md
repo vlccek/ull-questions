@@ -1,1 +1,0 @@
-All the tests information are in the `output` directory where you can find test for every category. 
