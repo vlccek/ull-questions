@@ -1319,7 +1319,7 @@ Celkem unikátních otázek: **249**
 ---
 
 ### Rychlost větru obvykle s rostoucí výškou:
-*Body: 0 | Výskyty: 6 | Kategorie: Nezařazeno | První výskyt: 10.07.2024 | Poslední výskyt: 31.08.2024*
+*Body: 0 | Výskyty: 6 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 31.08.2024*
 
 - a) klesá
 - b) roste
@@ -1382,7 +1382,7 @@ Celkem unikátních otázek: **249**
 ---
 
 ### Indukovaný odpor lze zmenšit:
-*Body: 3 | Výskyty: 5 | Kategorie: Nezařazeno | První výskyt: 16.07.2024 | Poslední výskyt: 30.08.2024*
+*Body: 3 | Výskyty: 5 | Kategorie: Principy letu a aerodynamika | První výskyt: 16.07.2024 | Poslední výskyt: 30.08.2024*
 
 - a) šípem křídla a tloušťkou profilu
 - b) štíhlostí křídla a vhodným zakončením křídla
@@ -1850,7 +1850,7 @@ Celkem unikátních otázek: **249**
 ---
 
 ### Kdy dojde ke snížení indukovaného odporu za letu?
-*Body: 0 | Výskyty: 4 | Kategorie: Nezařazeno | První výskyt: 16.07.2024 | Poslední výskyt: 16.08.2024*
+*Body: 0 | Výskyty: 4 | Kategorie: Principy letu a aerodynamika | První výskyt: 16.07.2024 | Poslední výskyt: 16.08.2024*
 
 - a) ke snížení indukovaného odporu dojde za letu ve velké výšce, kdy se vlivem malé hustoty vzduchu nevytvoří dostatečně velký tlakový spád pro vznik koncových vírů.
 - b) ke snížení indukovaného odporu dojde za letu v těsné blízkosti země, kdy malá vzdálenost křídla od země omezí vytvoření koncových vírů.
@@ -2075,7 +2075,7 @@ Celkem unikátních otázek: **249**
 ---
 
 ### Při improvizovaném transportu postiženého v bezvědomí:
-*Body: 3 | Výskyty: 3 | Kategorie: Nezařazeno | První výskyt: 10.07.2024 | Poslední výskyt: 29.07.2024*
+*Body: 3 | Výskyty: 3 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 10.07.2024 | Poslední výskyt: 29.07.2024*
 
 - a) musíme zvláště dbát na šetrnost a stabilizaci hlavy při transportu
 - b) musí být transport co nejrychlejší
@@ -2156,7 +2156,7 @@ Celkem unikátních otázek: **249**
 ---
 
 ### Indukovaný odpor:
-*Body: 0 | Výskyty: 5 | Kategorie: Nezařazeno | První výskyt: 12.07.2024 | Poslední výskyt: 21.07.2024*
+*Body: 0 | Výskyty: 5 | Kategorie: Principy letu a aerodynamika | První výskyt: 12.07.2024 | Poslední výskyt: 21.07.2024*
 
 - a) vzniká jako důsledek vzájemného ovlivnění obtékání různých částí
 - b) vzniká jako důsledek indukce u zadní části profilu

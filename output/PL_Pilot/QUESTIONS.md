@@ -14,7 +14,7 @@ Celkem unikátních otázek: **268**
 ---
 
 ### Indukovaný odpor lze zmenšit:
-*Body: 3 | Výskyty: 34 | Kategorie: Nezařazeno | První výskyt: 25.07.2024 | Poslední výskyt: 07.09.2024*
+*Body: 3 | Výskyty: 34 | Kategorie: Principy letu a aerodynamika | První výskyt: 25.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) šípem křídla a tloušťkou profilu
 - b) štíhlostí křídla a vhodným zakončením křídla
@@ -113,7 +113,7 @@ Celkem unikátních otázek: **268**
 ---
 
 ### Při improvizovaném transportu postiženého v bezvědomí:
-*Body: 3 | Výskyty: 83 | Kategorie: Nezařazeno | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
+*Body: 3 | Výskyty: 83 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 23.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) musíme zvláště dbát na šetrnost a stabilizaci hlavy při transportu
 - b) musí být transport co nejrychlejší
@@ -1427,7 +1427,7 @@ Celkem unikátních otázek: **268**
 ---
 
 ### Rychlost větru obvykle s rostoucí výškou:
-*Body: 0 | Výskyty: 48 | Kategorie: Nezařazeno | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 0 | Výskyty: 48 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) klesá
 - b) roste
@@ -2210,7 +2210,7 @@ Celkem unikátních otázek: **268**
 ---
 
 ### Indukovaný odpor:
-*Body: 0 | Výskyty: 35 | Kategorie: Nezařazeno | První výskyt: 23.07.2024 | Poslední výskyt: 02.09.2024*
+*Body: 0 | Výskyty: 35 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) vzniká jako důsledek vzájemného ovlivnění obtékání různých částí
 - b) vzniká jako důsledek indukce u zadní části profilu

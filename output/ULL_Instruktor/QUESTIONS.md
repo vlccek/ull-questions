@@ -590,7 +590,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Základními prostředky stability a řiditelnosti klasického letadla jsou:
-*Body: 1 | Výskyty: 10 | Kategorie: Nezařazeno | První výskyt: 16.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 1 | Výskyty: 10 | Kategorie: Principy letu a aerodynamika | První výskyt: 16.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) kormidla příčného řízení
 - b) ocasní plochy a kormidla příčného řízení
@@ -1220,7 +1220,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### K čemu slouží pevná ploška na odtokové hraně kormidla?
-*Body: 0 | Výskyty: 11 | Kategorie: Nezařazeno | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 0 | Výskyty: 11 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) k odstranění nežádoucí tíživosti a aerodynamické nesymetrie
 - b) k oddálení odtržení proudění při přetažení
@@ -1787,7 +1787,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Co se rozumí pod pojmem „těžký na hlavu“?
-*Body: 1 | Výskyty: 94 | Kategorie: Nezařazeno | První výskyt: 12.07.2024 | Poslední výskyt: 04.09.2024*
+*Body: 1 | Výskyty: 94 | Kategorie: Principy letu a aerodynamika | První výskyt: 12.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) vyjádření vzájemné polohy neutrálního bodu a těžiště, v tomto případě je těžiště před neutrálním bodem
 - b) jestliže se nos letadla za letu při uvolnění řízení klopí dolů
@@ -1850,7 +1850,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Při změně plošného zatížení se aerodynamická klouzavost:
-*Body: 1 | Výskyty: 38 | Kategorie: Nezařazeno | První výskyt: 17.07.2024 | Poslední výskyt: 04.09.2024*
+*Body: 1 | Výskyty: 38 | Kategorie: Principy letu a aerodynamika | První výskyt: 17.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) nezmění, protože vztah mezi součinitelem vztlaku a součinitelem odporu se nemění
 - b) změní, protože vztah mezi velikostí vztlakové a odporové síly se nezmění
@@ -1868,7 +1868,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Jak je konstrukčně provedena Fowlerova klapka?
-*Body: 1 | Výskyty: 14 | Kategorie: Nezařazeno | První výskyt: 12.07.2024 | Poslední výskyt: 04.09.2024*
+*Body: 1 | Výskyty: 14 | Kategorie: Všeobecné znalosti letadel | První výskyt: 12.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) ze zadní části křídla se vysune klapka ve tvaru profilu dozadu a částečně se vychýlí dolů
 - b) klapka se vychýlí ze zadní části spodní hrany křídla
@@ -1985,7 +1985,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Pojem „přistávací zařízení“ je definován v souladu s technickými normami takto:
-*Body: 1 | Výskyty: 15 | Kategorie: Nezařazeno | První výskyt: 19.07.2024 | Poslední výskyt: 04.09.2024*
+*Body: 1 | Výskyty: 15 | Kategorie: Všeobecné znalosti letadel | První výskyt: 19.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) soustava kol na letadle
 - b) část letadla, na které jsou připevněna kola
@@ -2093,7 +2093,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Indukovaný odpor:
-*Body: 0 | Výskyty: 6 | Kategorie: Nezařazeno | První výskyt: 22.07.2024 | Poslední výskyt: 04.09.2024*
+*Body: 0 | Výskyty: 6 | Kategorie: Principy letu a aerodynamika | První výskyt: 22.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) vzniká jako důsledek vzájemného ovlivnění obtékání různých částí
 - b) vzniká jako důsledek indukce u zadní části profilu
@@ -2660,7 +2660,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Ocasní plochy letadla jsou:
-*Body: 3 | Výskyty: 14 | Kategorie: Nezařazeno | První výskyt: 15.07.2024 | Poslední výskyt: 03.09.2024*
+*Body: 3 | Výskyty: 14 | Kategorie: Všeobecné znalosti letadel | První výskyt: 15.07.2024 | Poslední výskyt: 03.09.2024*
 
 - a) pohyblivé plochy, jimiž se mění za letu klopení a zatáčení
 - b) zařízení, které vyvozuje reakční moment
@@ -2687,7 +2687,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Centroplán je:
-*Body: 3 | Výskyty: 15 | Kategorie: Nezařazeno | První výskyt: 17.07.2024 | Poslední výskyt: 03.09.2024*
+*Body: 3 | Výskyty: 15 | Kategorie: Všeobecné znalosti letadel | První výskyt: 17.07.2024 | Poslední výskyt: 03.09.2024*
 
 - a) kloubové zavěšení křídla nad trupem, podepřené vzpěrami
 - b) soustava vzpěr, popřípadě konstrukce upevňující křídlo umístěné nad trupem k závěsům křídla na trupu
@@ -2858,7 +2858,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Traťové lety VFR prováděné nad 900 m (3000ft)nad zemí nebo vodou ve směru od 180 stupňů do 359 stupňů musí být prováděny v letových hladinách FL:
-*Body: 1 | Výskyty: 19 | Kategorie: Nezařazeno | První výskyt: 12.07.2024 | Poslední výskyt: 03.09.2024*
+*Body: 1 | Výskyty: 19 | Kategorie: Letecké předpisy a legislativa | První výskyt: 12.07.2024 | Poslední výskyt: 03.09.2024*
 
 - a) 20, 40, 60, 80
 - b) 55, 75, 95, 115
@@ -3083,7 +3083,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### V našich zeměpisných šířkách zasahuje vertikálně vyvinutá oblačnost typu Cb do výšky:
-*Body: 0 | Výskyty: 10 | Kategorie: Nezařazeno | První výskyt: 29.07.2024 | Poslední výskyt: 03.09.2024*
+*Body: 0 | Výskyty: 10 | Kategorie: Meteorologie | První výskyt: 29.07.2024 | Poslední výskyt: 03.09.2024*
 
 - a) 4 km
 - b) až 15 km, ojediněle i více
@@ -3254,7 +3254,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Letíte-li směrem na východ nebo na západ a prudce změníte rychlost, magnetický kompas: :
-*Body: 0 | Výskyty: 12 | Kategorie: Nezařazeno | První výskyt: 22.07.2024 | Poslední výskyt: 03.09.2024*
+*Body: 0 | Výskyty: 12 | Kategorie: Navigace a letové přístroje | První výskyt: 22.07.2024 | Poslední výskyt: 03.09.2024*
 
 - a) bude ukazovat stále stejný kurs
 - b) se rozkolísá
@@ -3290,7 +3290,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Jaká je bezpečná poloha těžiště letounu za letu?
-*Body: 0 | Výskyty: 16 | Kategorie: Nezařazeno | První výskyt: 20.07.2024 | Poslední výskyt: 03.09.2024*
+*Body: 0 | Výskyty: 16 | Kategorie: Letové výkony a plánování | První výskyt: 20.07.2024 | Poslední výskyt: 03.09.2024*
 
 - a) těžiště je v 15% až 18%
 - b) těžiště je v 38% až 45%
@@ -3407,7 +3407,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Má vliv na chlazení motoru tvar krytu motoru a velikosti otvorů v tomto krytu?
-*Body: 3 | Výskyty: 16 | Kategorie: Nezařazeno | První výskyt: 16.07.2024 | Poslední výskyt: 01.09.2024*
+*Body: 3 | Výskyty: 16 | Kategorie: Všeobecné znalosti letadel | První výskyt: 16.07.2024 | Poslední výskyt: 01.09.2024*
 
 - a) nemá
 - b) má jen při určité rychlosti
@@ -3794,7 +3794,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Rychlost větru obvykle s rostoucí výškou:
-*Body: 0 | Výskyty: 12 | Kategorie: Nezařazeno | První výskyt: 11.07.2024 | Poslední výskyt: 01.09.2024*
+*Body: 0 | Výskyty: 12 | Kategorie: Meteorologie | První výskyt: 11.07.2024 | Poslední výskyt: 01.09.2024*
 
 - a) klesá
 - b) roste
@@ -4055,7 +4055,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Kdy dojde ke snížení indukovaného odporu za letu?
-*Body: 0 | Výskyty: 6 | Kategorie: Nezařazeno | První výskyt: 22.07.2024 | Poslední výskyt: 30.08.2024*
+*Body: 0 | Výskyty: 6 | Kategorie: Principy letu a aerodynamika | První výskyt: 22.07.2024 | Poslední výskyt: 30.08.2024*
 
 - a) ke snížení indukovaného odporu dojde za letu ve velké výšce, kdy se vlivem malé hustoty vzduchu nevytvoří dostatečně velký tlakový spád pro vznik koncových vírů.
 - b) ke snížení indukovaného odporu dojde za letu v těsné blízkosti země, kdy malá vzdálenost křídla od země omezí vytvoření koncových vírů.
@@ -4100,7 +4100,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### V letové příručce letadla je uvedena minimální hmotnost pilota 70 kg a maximální hmotnost pilota 110 kg. Pilot s hmotností 59 kg pro provedení letu provede:
-*Body: 3 | Výskyty: 15 | Kategorie: Nezařazeno | První výskyt: 11.07.2024 | Poslední výskyt: 28.08.2024*
+*Body: 3 | Výskyty: 15 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 11.07.2024 | Poslední výskyt: 28.08.2024*
 
 - a) let bez dalších úprav
 - b) dovážení své hmotnosti na 70 kg
@@ -4379,7 +4379,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Indukovaný odpor lze zmenšit:
-*Body: 3 | Výskyty: 7 | Kategorie: Nezařazeno | První výskyt: 22.07.2024 | Poslední výskyt: 22.08.2024*
+*Body: 3 | Výskyty: 7 | Kategorie: Principy letu a aerodynamika | První výskyt: 22.07.2024 | Poslední výskyt: 22.08.2024*
 
 - a) šípem křídla a tloušťkou profilu
 - b) štíhlostí křídla a vhodným zakončením křídla
@@ -4388,7 +4388,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Kontroly a výměny svíček u zážehových motorů jsou:
-*Body: 3 | Výskyty: 13 | Kategorie: Nezařazeno | První výskyt: 10.07.2024 | Poslední výskyt: 22.08.2024*
+*Body: 3 | Výskyty: 13 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 10.07.2024 | Poslední výskyt: 22.08.2024*
 
 - a) z hlediska bezpečnosti nevýznamné
 - b) prováděny pouze u certifikovaných leteckých motorů
@@ -4397,7 +4397,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Co je to kompenzace kompasu?
-*Body: 3 | Výskyty: 11 | Kategorie: Nezařazeno | První výskyt: 12.07.2024 | Poslední výskyt: 22.08.2024*
+*Body: 3 | Výskyty: 11 | Kategorie: Navigace a letové přístroje | První výskyt: 12.07.2024 | Poslední výskyt: 22.08.2024*
 
 - a) odstraňování chyb kompasu způsobených třením přístroje
 - b) odstraňování chyb kompasu způsobených špatným upevněním v letadle.
@@ -4550,7 +4550,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Nasycená adiabata je stavová křivka znázorňující změnu teploty s výškou o hodnotu:
-*Body: 0 | Výskyty: 11 | Kategorie: Nezařazeno | První výskyt: 11.07.2024 | Poslední výskyt: 22.08.2024*
+*Body: 0 | Výskyty: 11 | Kategorie: Meteorologie | První výskyt: 11.07.2024 | Poslední výskyt: 22.08.2024*
 
 - a) 1,00 °C/100 m výšky
 - b) 0,65 °C/100 m výšky
@@ -4586,7 +4586,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Horizontální bílé nebo oranžové přistávací „T" určuje směr, který má být použit pro:
-*Body: 3 | Výskyty: 16 | Kategorie: Nezařazeno | První výskyt: 16.07.2024 | Poslední výskyt: 21.08.2024*
+*Body: 3 | Výskyty: 16 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 16.07.2024 | Poslední výskyt: 21.08.2024*
 
 - a) jen přistání
 - b) přistání i vzlet letadla
@@ -4712,7 +4712,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Vztlaková klapka využívající efektu zvýšení energie vzdušného proudu přitékajícího ze spodní části profilu na horní část se nazývá?
-*Body: 3 | Výskyty: 12 | Kategorie: Nezařazeno | První výskyt: 12.07.2024 | Poslední výskyt: 17.08.2024*
+*Body: 3 | Výskyty: 12 | Kategorie: Principy letu a aerodynamika | První výskyt: 12.07.2024 | Poslední výskyt: 17.08.2024*
 
 - a) štěrbinová vztlaková klapka
 - b) jednoduchá vztlaková klapka
@@ -5000,7 +5000,7 @@ Celkem unikátních otázek: **560**
 ---
 
 ### Vertikální mohutnost troposféry je nejmenší:
-*Body: 0 | Výskyty: 6 | Kategorie: Nezařazeno | První výskyt: 16.07.2024 | Poslední výskyt: 03.08.2024*
+*Body: 0 | Výskyty: 6 | Kategorie: Meteorologie | První výskyt: 16.07.2024 | Poslední výskyt: 03.08.2024*
 
 - a) nad póly
 - b) nad oblastmi rovníku

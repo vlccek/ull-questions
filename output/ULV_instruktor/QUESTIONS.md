@@ -536,7 +536,7 @@ Celkem unikátních otázek: **418**
 ---
 
 ### Indukovaný odpor:
-*Body: 0 | Výskyty: 5 | Kategorie: Nezařazeno | První výskyt: 16.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 0 | Výskyty: 5 | Kategorie: Principy letu a aerodynamika | První výskyt: 16.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) vzniká jako důsledek vzájemného ovlivnění obtékání různých částí
 - b) vzniká jako důsledek indukce u zadní části profilu
@@ -626,7 +626,7 @@ Celkem unikátních otázek: **418**
 ---
 
 ### Rychlost větru obvykle s rostoucí výškou:
-*Body: 0 | Výskyty: 8 | Kategorie: Nezařazeno | První výskyt: 20.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 0 | Výskyty: 8 | Kategorie: Meteorologie | První výskyt: 20.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) klesá
 - b) roste
@@ -752,7 +752,7 @@ Celkem unikátních otázek: **418**
 ---
 
 ### Má vliv na chlazení motoru tvar krytu motoru a velikosti otvorů v tomto krytu?
-*Body: 3 | Výskyty: 8 | Kategorie: Nezařazeno | První výskyt: 20.07.2024 | Poslední výskyt: 14.08.2024*
+*Body: 3 | Výskyty: 8 | Kategorie: Všeobecné znalosti letadel | První výskyt: 20.07.2024 | Poslední výskyt: 14.08.2024*
 
 - a) nemá
 - b) má jen při určité rychlosti
@@ -833,7 +833,7 @@ Celkem unikátních otázek: **418**
 ---
 
 ### Co je to kompenzace kompasu?
-*Body: 3 | Výskyty: 5 | Kategorie: Nezařazeno | První výskyt: 14.07.2024 | Poslední výskyt: 14.08.2024*
+*Body: 3 | Výskyty: 5 | Kategorie: Navigace a letové přístroje | První výskyt: 14.07.2024 | Poslední výskyt: 14.08.2024*
 
 - a) odstraňování chyb kompasu způsobených třením přístroje
 - b) odstraňování chyb kompasu způsobených špatným upevněním v letadle.
@@ -941,7 +941,7 @@ Celkem unikátních otázek: **418**
 ---
 
 ### Horizontální bílé nebo oranžové přistávací „T" určuje směr, který má být použit pro:
-*Body: 3 | Výskyty: 4 | Kategorie: Nezařazeno | První výskyt: 13.07.2024 | Poslední výskyt: 14.08.2024*
+*Body: 3 | Výskyty: 4 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 13.07.2024 | Poslední výskyt: 14.08.2024*
 
 - a) jen přistání
 - b) přistání i vzlet letadla
@@ -1139,7 +1139,7 @@ Celkem unikátních otázek: **418**
 ---
 
 ### V letové příručce letadla je uvedena minimální hmotnost pilota 70 kg a maximální hmotnost pilota 110 kg. Pilot s hmotností 59 kg pro provedení letu provede:
-*Body: 3 | Výskyty: 12 | Kategorie: Nezařazeno | První výskyt: 14.07.2024 | Poslední výskyt: 14.08.2024*
+*Body: 3 | Výskyty: 12 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 14.07.2024 | Poslední výskyt: 14.08.2024*
 
 - a) let bez dalších úprav
 - b) dovážení své hmotnosti na 70 kg
@@ -1697,7 +1697,7 @@ Celkem unikátních otázek: **418**
 ---
 
 ### Letíte-li směrem na východ nebo na západ a prudce změníte rychlost, magnetický kompas: :
-*Body: 0 | Výskyty: 8 | Kategorie: Nezařazeno | První výskyt: 12.07.2024 | Poslední výskyt: 14.08.2024*
+*Body: 0 | Výskyty: 8 | Kategorie: Navigace a letové přístroje | První výskyt: 12.07.2024 | Poslední výskyt: 14.08.2024*
 
 - a) bude ukazovat stále stejný kurs
 - b) se rozkolísá
@@ -2129,7 +2129,7 @@ Celkem unikátních otázek: **418**
 ---
 
 ### Ocasní plochy letadla jsou:
-*Body: 3 | Výskyty: 7 | Kategorie: Nezařazeno | První výskyt: 14.07.2024 | Poslední výskyt: 11.08.2024*
+*Body: 3 | Výskyty: 7 | Kategorie: Všeobecné znalosti letadel | První výskyt: 14.07.2024 | Poslední výskyt: 11.08.2024*
 
 - a) pohyblivé plochy, jimiž se mění za letu klopení a zatáčení
 - b) zařízení, které vyvozuje reakční moment
@@ -2723,7 +2723,7 @@ Celkem unikátních otázek: **418**
 ---
 
 ### Kontroly a výměny svíček u zážehových motorů jsou:
-*Body: 3 | Výskyty: 5 | Kategorie: Nezařazeno | První výskyt: 12.07.2024 | Poslední výskyt: 10.08.2024*
+*Body: 3 | Výskyty: 5 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 12.07.2024 | Poslední výskyt: 10.08.2024*
 
 - a) z hlediska bezpečnosti nevýznamné
 - b) prováděny pouze u certifikovaných leteckých motorů
@@ -2930,7 +2930,7 @@ Celkem unikátních otázek: **418**
 ---
 
 ### Při změně plošného zatížení se aerodynamická klouzavost:
-*Body: 1 | Výskyty: 4 | Kategorie: Nezařazeno | První výskyt: 14.07.2024 | Poslední výskyt: 09.08.2024*
+*Body: 1 | Výskyty: 4 | Kategorie: Principy letu a aerodynamika | První výskyt: 14.07.2024 | Poslední výskyt: 09.08.2024*
 
 - a) nezmění, protože vztah mezi součinitelem vztlaku a součinitelem odporu se nemění
 - b) změní, protože vztah mezi velikostí vztlakové a odporové síly se nezmění
@@ -3578,7 +3578,7 @@ Celkem unikátních otázek: **418**
 ---
 
 ### Vertikální mohutnost troposféry je nejmenší:
-*Body: 0 | Výskyty: 1 | Kategorie: Nezařazeno | První výskyt: 19.07.2024 | Poslední výskyt: 19.07.2024*
+*Body: 0 | Výskyty: 1 | Kategorie: Meteorologie | První výskyt: 19.07.2024 | Poslední výskyt: 19.07.2024*
 
 - a) nad póly
 - b) nad oblastmi rovníku

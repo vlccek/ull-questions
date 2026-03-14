@@ -581,7 +581,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### Co je to kompenzace kompasu?
-*Body: 3 | Výskyty: 7 | Kategorie: Nezařazeno | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 3 | Výskyty: 7 | Kategorie: Navigace a letové přístroje | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) odstraňování chyb kompasu způsobených třením přístroje
 - b) odstraňování chyb kompasu způsobených špatným upevněním v letadle.
@@ -860,7 +860,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### Při změně plošného zatížení se aerodynamická klouzavost:
-*Body: 1 | Výskyty: 44 | Kategorie: Nezařazeno | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 1 | Výskyty: 44 | Kategorie: Principy letu a aerodynamika | První výskyt: 23.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) nezmění, protože vztah mezi součinitelem vztlaku a součinitelem odporu se nemění
 - b) změní, protože vztah mezi velikostí vztlakové a odporové síly se nezmění
@@ -896,7 +896,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### Pojem „přistávací zařízení“ je definován v souladu s technickými normami takto:
-*Body: 1 | Výskyty: 23 | Kategorie: Nezařazeno | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 1 | Výskyty: 23 | Kategorie: Všeobecné znalosti letadel | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) soustava kol na letadle
 - b) část letadla, na které jsou připevněna kola
@@ -1220,7 +1220,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### V našich zeměpisných šířkách zasahuje vertikálně vyvinutá oblačnost typu Cb do výšky:
-*Body: 0 | Výskyty: 9 | Kategorie: Nezařazeno | První výskyt: 26.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 0 | Výskyty: 9 | Kategorie: Meteorologie | První výskyt: 26.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) 4 km
 - b) až 15 km, ojediněle i více
@@ -1526,7 +1526,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### Letíte-li směrem na východ nebo na západ a prudce změníte rychlost, magnetický kompas: :
-*Body: 0 | Výskyty: 22 | Kategorie: Nezařazeno | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 0 | Výskyty: 22 | Kategorie: Navigace a letové přístroje | První výskyt: 24.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) bude ukazovat stále stejný kurs
 - b) se rozkolísá
@@ -2084,7 +2084,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### Traťové lety VFR prováděné nad 900 m (3000ft)nad zemí nebo vodou ve směru od 180 stupňů do 359 stupňů musí být prováděny v letových hladinách FL:
-*Body: 1 | Výskyty: 10 | Kategorie: Nezařazeno | První výskyt: 28.07.2024 | Poslední výskyt: 04.09.2024*
+*Body: 1 | Výskyty: 10 | Kategorie: Letecké předpisy a legislativa | První výskyt: 28.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) 20, 40, 60, 80
 - b) 55, 75, 95, 115
@@ -2138,7 +2138,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### Nasycená adiabata je stavová křivka znázorňující změnu teploty s výškou o hodnotu:
-*Body: 0 | Výskyty: 8 | Kategorie: Nezařazeno | První výskyt: 25.07.2024 | Poslední výskyt: 04.09.2024*
+*Body: 0 | Výskyty: 8 | Kategorie: Meteorologie | První výskyt: 25.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) 1,00 °C/100 m výšky
 - b) 0,65 °C/100 m výšky
@@ -2966,7 +2966,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### Kontroly a výměny svíček u zážehových motorů jsou:
-*Body: 3 | Výskyty: 9 | Kategorie: Nezařazeno | První výskyt: 27.07.2024 | Poslední výskyt: 01.09.2024*
+*Body: 3 | Výskyty: 9 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 27.07.2024 | Poslední výskyt: 01.09.2024*
 
 - a) z hlediska bezpečnosti nevýznamné
 - b) prováděny pouze u certifikovaných leteckých motorů
@@ -3326,7 +3326,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### Vertikální mohutnost troposféry je nejmenší:
-*Body: 0 | Výskyty: 12 | Kategorie: Nezařazeno | První výskyt: 23.07.2024 | Poslední výskyt: 01.09.2024*
+*Body: 0 | Výskyty: 12 | Kategorie: Meteorologie | První výskyt: 23.07.2024 | Poslední výskyt: 01.09.2024*
 
 - a) nad póly
 - b) nad oblastmi rovníku
@@ -3614,7 +3614,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### Má vliv na chlazení motoru tvar krytu motoru a velikosti otvorů v tomto krytu?
-*Body: 3 | Výskyty: 14 | Kategorie: Nezařazeno | První výskyt: 23.07.2024 | Poslední výskyt: 27.08.2024*
+*Body: 3 | Výskyty: 14 | Kategorie: Všeobecné znalosti letadel | První výskyt: 23.07.2024 | Poslední výskyt: 27.08.2024*
 
 - a) nemá
 - b) má jen při určité rychlosti
@@ -3686,7 +3686,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### Horizontální bílé nebo oranžové přistávací „T" určuje směr, který má být použit pro:
-*Body: 3 | Výskyty: 5 | Kategorie: Nezařazeno | První výskyt: 01.08.2024 | Poslední výskyt: 26.08.2024*
+*Body: 3 | Výskyty: 5 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 01.08.2024 | Poslední výskyt: 26.08.2024*
 
 - a) jen přistání
 - b) přistání i vzlet letadla
@@ -3848,7 +3848,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### V letové příručce letadla je uvedena minimální hmotnost pilota 70 kg a maximální hmotnost pilota 110 kg. Pilot s hmotností 59 kg pro provedení letu provede:
-*Body: 3 | Výskyty: 8 | Kategorie: Nezařazeno | První výskyt: 25.07.2024 | Poslední výskyt: 23.08.2024*
+*Body: 3 | Výskyty: 8 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 25.07.2024 | Poslední výskyt: 23.08.2024*
 
 - a) let bez dalších úprav
 - b) dovážení své hmotnosti na 70 kg
@@ -3902,7 +3902,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### Ocasní plochy letadla jsou:
-*Body: 3 | Výskyty: 12 | Kategorie: Nezařazeno | První výskyt: 23.07.2024 | Poslední výskyt: 22.08.2024*
+*Body: 3 | Výskyty: 12 | Kategorie: Všeobecné znalosti letadel | První výskyt: 23.07.2024 | Poslední výskyt: 22.08.2024*
 
 - a) pohyblivé plochy, jimiž se mění za letu klopení a zatáčení
 - b) zařízení, které vyvozuje reakční moment
@@ -4091,7 +4091,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### Rychlost větru obvykle s rostoucí výškou:
-*Body: 0 | Výskyty: 2 | Kategorie: Nezařazeno | První výskyt: 06.08.2024 | Poslední výskyt: 20.08.2024*
+*Body: 0 | Výskyty: 2 | Kategorie: Meteorologie | První výskyt: 06.08.2024 | Poslední výskyt: 20.08.2024*
 
 - a) klesá
 - b) roste
@@ -4217,7 +4217,7 @@ Celkem unikátních otázek: **487**
 ---
 
 ### Indukovaný odpor:
-*Body: 0 | Výskyty: 3 | Kategorie: Nezařazeno | První výskyt: 28.07.2024 | Poslední výskyt: 17.08.2024*
+*Body: 0 | Výskyty: 3 | Kategorie: Principy letu a aerodynamika | První výskyt: 28.07.2024 | Poslední výskyt: 17.08.2024*
 
 - a) vzniká jako důsledek vzájemného ovlivnění obtékání různých částí
 - b) vzniká jako důsledek indukce u zadní části profilu

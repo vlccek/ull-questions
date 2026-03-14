@@ -13,12 +13,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Podle leteckých předpisů mají letadla v nouzi (například nucené nouzové přistání) absolutní přednost před všemi ostatními letadly. Velitel jiného letadla je povinen dát takovému letadlu přednost, aby mu umožnil bezpečné a okamžité přistání, což je základní princip letecké bezpečnosti.
+
+
+---
+
 ### 10 cm na mapě 1 : 200 000 odpovídá ve skutečnosti:
 *Body: 3 | Výskyty: 111 | Kategorie: Navigace a letové přístroje | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) 50 km
 - b) 200 km
 - **c) 20 km**
+
+---
+
+
+> **Vysvětlení:** Měřítko mapy 1 : 200 000 znamená, že 1 jednotka na mapě odpovídá 200 000 jednotkám ve skutečnosti. Pro výpočet skutečné vzdálenosti vynásobíme vzdálenost na mapě měřítkem: 10 cm * 200 000 = 2 000 000 cm. Následně převedeme centimetry na kilometry: 2 000 000 cm / 100 000 cm/km = 20 km. Proto 10 cm na mapě 1 : 200 000 odpovídá 20 km ve skutečnosti.
+
 
 ---
 
@@ -31,12 +43,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Odpověď C je správná, protože předpisy (např. ICAO Annex 1, EASA Air Operations) obecně vyžadují, aby velitel letadla před letem získal a prostudoval veškeré relevantní informace nezbytné pro bezpečné a efektivní provedení zamýšleného letu. To zahrnuje nejen Leteckou informační příručku (AIP) a Letovou a provozní příručku (POH/AFM), ale i další informace jako jsou NOTAMy, meteorologické předpovědi, informace o provozu na letištích atd., pokud jsou dostupné a relevantní pro daný let.
+
+
+---
+
 ### Obtékání křídla se na rozdíl od profilu vyznačuje:
 *Body: 3 | Výskyty: 21 | Kategorie: Principy letu a aerodynamika | První výskyt: 15.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) vytvořením vírů na jeho koncích, poklesem součinitele odporu a změnou průběhu vztlakové čáry
 - b) tloustnutím mezní vrstvy, zvětšením součinitele odporu a výrazným vzrůstem součinitele vztlaku
 - **c) vytvořením vírů na jeho koncích, zvětšením součinitele odporu a změnou průběhu vztlakové čáry**
+
+---
+
+
+> **Vysvětlení:** Konce křídla jsou místem, kde dochází k významnému přelévání vzduchu z oblasti vyššího tlaku (spodní strana křídla) do oblasti nižšího tlaku (horní strana křídla). Toto přelévání vytváří tzv. koncové víry, které způsobují indukovaný odpor a ovlivňují rozložení tlaku podél rozpětí křídla (změna průběhu vztlakové čáry). V důsledku těchto jevů se celkový součinitel odporu mírně zvyšuje, zatímco součinitel vztlaku je ovlivněn negativně, zejména na koncích křídla.
+
 
 ---
 
@@ -49,12 +73,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Vrstevnice (izohypsy) jsou základním kartografickým prvkem používaným na mapách, včetně leteckých map, k zobrazení terénu. Tyto křivky spojují všechna místa, která mají stejnou nadmořskou výšku. Pochopení vrstevnic je pro piloty klíčové pro správnou interpretaci terénu, plánování letové trasy a udržování situačního povědomí o výškách, což spadá pod oblast navigace.
+
+
+---
+
 ### Která z dále uvedených podmínek je nejdůležitější pro srovnávací navigaci?
 *Body: 3 | Výskyty: 55 | Kategorie: Navigace a letové přístroje | První výskyt: 11.07.2024 | Poslední výskyt: 07.09.2024*
 
 - **a) navigační příprava před letem, mapa, viditelnost země**
 - b) zkušenost pilota a jeho odhad
 - c) dobrá mapa a orientační schopnosti pilota
+
+---
+
+
+> **Vysvětlení:** Správná odpověď C je nejobsáhlejší a zahrnuje všechny klíčové aspekty pro úspěšnou srovnávací navigaci (pilotáž). Navigační příprava před letem je naprosto zásadní pro plánování trasy, identifikaci orientačních bodů a pochopení terénu. Mapa je základním nástrojem pro porovnávání toho, co pilot vidí, s grafickým znázorněním. Viditelnost země je pak esenciální podmínkou, jelikož srovnávací navigace je vizuální metoda a bez dobré viditelnosti orientačních bodů na zemi je nemožná. Možnosti A a B jsou důležité, ale nejsou tak komplexní jako C, která kombinuje přípravu, nástroj i nezbytnou podmínku prostředí.
+
 
 ---
 
@@ -67,12 +103,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Letová příručka (Aircraft Flight Manual - AFM nebo Pilot's Operating Handbook - POH) je povinný dokument pro každé certifikované letadlo, schválený příslušným leteckým úřadem (např. EASA, FAA). Obsahuje nezbytné informace pro bezpečnou a legální provoz letadla, včetně kapitoly věnované 'Provozním omezením' (Operating Limitations). Tato omezení (např. maximální rychlosti, hmotnosti, provozní limity motoru, povolené letové obálky) jsou stanovena během certifikace letadla a jsou závazná pro všechny provozovatele a piloty, aby zajistila trvalou letovou způsobilost a bezpečnost. Nejsou předmětem rozhodnutí provozovatele, ale jsou základní součástí typového osvědčení letadla.
+
+
+---
+
 ### Velitelé letadel letících po letištním OKRUH_IDu jsou povinni:
 *Body: 3 | Výskyty: 53 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 09.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) vždy provádět všechny zatáčky doprava
 - b) postupovat podle letového plánu
 - **c) při přiblížení na přistání nebo po vzletu provádět všechny zatáčky doleva, pokud není přikázáno jinak**
+
+---
+
+
+> **Vysvětlení:** Možnost C je správná, protože v souladu s mezinárodními leteckými předpisy (zejména ICAO Annex 14) a národními předpisy se standardně používají levé zatáčky při obletu letiště po vzletu a při přiblížení na přistání. Toto pravidlo zajišťuje předvídatelnost a snižuje riziko kolizí, pokud není provoz řízen jinak (např. z důvodu specifických letištních postupů, terénu nebo směru dopravy na letišti).
+
 
 ---
 
@@ -85,12 +133,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Zkratka AGL znamená 'Above Ground Level', tedy 'nad úrovní země'. Udává vertikální vzdálenost od aktuálního terénu přímo pod letadlem, nikoliv od průměrné hladiny moře (MSL – Mean Sea Level). Tato výška je klíčová pro vizuální lety, orientaci v terénu a dodržování minimálních výšek nad překážkami nebo zemí.
+
+
+---
+
 ### Zeměpisný poledník je:
 *Body: 3 | Výskyty: 130 | Kategorie: Navigace a letové přístroje | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) část kružnice, jejíž rovina je kolmá na zemskou osu
 - b) kružnice kolem zeměkoule
 - **c) polovina poledníkové kružnice**
+
+---
+
+
+> **Vysvětlení:** Zeměpisný poledník je definován jako polovina kružnice, která prochází oběma geografickými póly Země a spojuje místa se stejnou zeměpisnou délkou. Termín 'poledníková kružnice' se vztahuje k celé kružnici, která by procházela skrz oba póly a obepínala Zemi, přičemž jeden poledník je tedy její polovina. Možnost B popisuje spíše rovnoběžku a možnost C je příliš obecná a nepřesná, protože poledník je polokružnice, nikoli celá kružnice 'kolem zeměkoule'.
+
 
 ---
 
@@ -103,12 +163,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Země je přibližně sférické těleso (geoid). Je matematicky nemožné zobrazit zakřivený trojrozměrný povrch na rovnou dvourozměrnou plochu (mapu) bez jakéhokoli zkreslení. Každá kartografická projekce, bez ohledu na to, jak je sofistikovaná, nutně zkresluje alespoň jednu z vlastností, jako je plocha, tvar, vzdálenost nebo směr. Proto je správná odpověď, že to není možné.
+
+
+---
+
 ### Letecké navigaci vyhovují nejlépe mapy, které:
 *Body: 3 | Výskyty: 50 | Kategorie: Navigace a letové přístroje | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) mají přesné úhly
 - **b) věrně zobrazují topografickou situaci a úhly**
 - c) jsou v měřítku 1 : 500 000
+
+---
+
+
+> **Vysvětlení:** Pro leteckou navigaci jsou klíčové mapy, které přesně zobrazují terénní prvky (topografickou situaci) pro vizuální orientaci a pilotáž, a zároveň věrně zachovávají úhly (tzv. konformní zobrazení). Zachování úhlů je nezbytné pro přesné určování směrů a kurzů, což je fundamentální pro plánování letu a samotnou navigaci, ať už jde o práci s radiomajáky nebo o odpočtovou navigaci. Možnost C je sice správná, ale je pouze podčástí komplexnějšího a přesnějšího popisu v možnosti B, která zahrnuje i důležitou topografickou přesnost. Možnost A uvádí konkrétní měřítko, které je vhodné pro určité typy navigace (např. VFR), ale není obecnou definicí nejvhodnější mapy pro všechny navigační potřeby.
+
 
 ---
 
@@ -121,12 +193,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Coriolisova síla je setrvačná síla (nebo zdánlivá síla), která vzniká v důsledku rotace Země. Způsobuje uchylování pohybu těles (včetně proudů vzduchu, tedy větru) doprava na severní polokouli a doleva na jižní polokouli. Není to síla tření ani odstředivá síla. Je klíčová pro pochopení globálních větrných systémů a dalších meteorologických jevů.
+
+
+---
+
 ### Na vstřícné trati letí letadla stejné kategorie. Opatření k vyhnutí provede:
 *Body: 3 | Výskyty: 48 | Kategorie: Letecké předpisy a legislativa | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - **a) obě letadla změnou kurzu vpravo**
 - b) vy změnou kurzu vpravo, druhé letadlo vlevo
 - c) změnou kurzu vlevo
+
+---
+
+
+> **Vysvětlení:** Tato otázka se týká pravidel pro předcházení srážkám, která jsou základní součástí leteckých předpisů (např. SERA.3205 – Předjíždění a předcházení). V případě, že se dvě letadla blíží k sobě čelně nebo přibližně čelně a hrozí nebezpečí srážky, letecké předpisy stanoví, že obě letadla musí změnit svůj kurz doprava. Tím se zajistí jasné a předvídatelné rozestupy a zabrání se tomu, aby obě letadla otočila do stejného prostoru, což by mohlo vést ke srážce. Možnost C přesně popisuje tento standardní postup.
+
 
 ---
 
@@ -139,6 +223,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Správná odpověď je B, protože převodní faktor mezi metry za sekundu (m/s) a uzly (kt) je přibližně 1 m/s = 1,94 kt. V praxi se pro zjednodušení často zaokrouhluje na 1 m/s ~ 2 kt.
+
+
+---
+
 ### Vyhláška k zákonu o civilním letectví, zdravotní prohlídku od pilota
 *Body: 3 | Výskyty: 72 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 12.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -148,12 +238,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Dle platné legislativy v civilním letectví (např. v souladu s ICAO předpisy a národními vyhláškami) je pro držení pilotní licence nezbytná pravidelná zdravotní prohlídka. Tuto prohlídku smí provádět pouze speciálně určený letecký lékař (AME – Aviation Medical Examiner), který je k tomu oprávněn příslušným leteckým úřadem. Zajišťuje se tak, že zdravotní stav pilota splňuje přísné požadavky pro bezpečné létání, a proto možnost C správně popisuje tuto povinnost i kvalifikaci provádějícího lékaře.
+
+
+---
+
 ### O stabilní vzduchové hmotě mluvíme tehdy, platí-li:
 *Body: 3 | Výskyty: 30 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) jsou v ní příznivé podmínky pro vznik výstupných pohybů
 - b) dochází v ní ke vzniku konvekce
 - **c) jsou v ní nepříznivé podmínky pro vznik výstupných proudů**
+
+---
+
+
+> **Vysvětlení:** Stabilní vzduchová hmota se vyznačuje tím, že jakýkoli pokus o vertikální posun daného vzduchového dílu nahoru nebo dolů je potlačen silou, která se snaží vrátit díl do původní polohy. To znamená, že v takové atmosféře nejsou podmínky pro rozvoj silných výstupných proudů (konvekce), které jsou spojené s nestabilní atmosférou a mohou vést ke vzniku bouřek. Naopak, pokud by byl vzduchový díl posunut dolů, ztěžkl by a klesl ještě níže. Proto jsou v stabilní vzduchové hmotě nepříznivé podmínky pro vznik výstupných proudů.
+
 
 ---
 
@@ -175,12 +277,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Správná odpověď C (sublimace) je označena, protože sublimace je proces, při kterém látka přechází z pevného skupenství (led) přímo do plynného skupenství (vodní pára) bez přechodu přes kapalné skupenství. Kondenzace (A) je přechod z plynného do kapalného skupenství a vypařování (B) je přechod z kapalného do plynného skupenství.
+
+
+---
+
 ### Změna skupenství voda – vodní pára se nazývá:
 *Body: 1 | Výskyty: 58 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - **a) vypařování**
 - b) sublimace
 - c) kondenzace
+
+---
+
+
+> **Vysvětlení:** Vypařování (nebo evaporace) je proces, při kterém se kapalná látka (zde voda) mění na plynnou látku (zde vodní pára). Sublimace je přeměna pevné látky na plynnou bez přechodu přes kapalné skupenství. Kondenzace je opačný proces, kdy se plynná látka mění na kapalnou.
+
 
 ---
 
@@ -193,12 +307,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Vztlaková síla (Lift) se vypočítává pomocí vzorce L = 1/2 * ρ * V^2 * CL * S, kde L je vztlaková síla, ρ (rho) je hustota vzduchu, V je rychlost proudění vzduchu, CL je součinitel vztlaku a S je plocha křídla. Odpověď C obsahuje všechny tyto klíčové veličiny.
+
+
+---
+
 ### Zhuštěné isobary na synoptické mapě značí:
 *Body: 1 | Výskyty: 45 | Kategorie: Meteorologie | První výskyt: 09.07.2024 | Poslední výskyt: 07.09.2024*
 
 - **a) větší rozdíl tlaku a tedy i silnější vítr**
 - b) vysoký teplotní rozdíl
 - c) barický stupeň dané oblasti
+
+---
+
+
+> **Vysvětlení:** Zhuštěné izobary na synoptické mapě indikují rychlé změny tlaku na krátkou vzdálenost, což přímo souvisí se silnějším větrem.
+
 
 ---
 
@@ -211,8 +337,14 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Coriolisova síla, způsobená rotací Země, působí na pohybující se vzduch a odklání ho. Tento odklon zabraňuje přímému proudění vzduchu z oblastí vysokého tlaku do oblastí nízkého tlaku a místo toho přispívá k vytváření cyklonů a anticyklon.
+
+
+---
+
 ### Údolní vítr (tzv. "údolka") vane:
-*Body: 1 | Výskyty: 35 | Kategorie: Nezařazeno | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
+*Body: 1 | Výskyty: 35 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) napříč údolím vzhůru po horských svazích
 - b) napříč údolím v důsledku výškového větru
@@ -229,12 +361,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Optimální klouzavost, která představuje nejlepší poměr klouzavosti (maximální horizontální vzdálenost na jednotku ztráty výšky), je dosažena při jednom konkrétním úhlu náběhu. Tento úhel náběhu maximalizuje poměr vztlaku k odporu (L/D) letadla. Pro dané letadlo a konfiguraci existuje pouze jeden úhel náběhu, při kterém je tento poměr nejvyšší, a tedy je dosažena optimální klouzavost. Let při kritickém úhlu náběhu by vedl k pádu letadla (stalls), nikoli k optimální klouzavosti.
+
+
+---
+
 ### Jaké výhody má křídlo s laminárním profilem:
 *Body: 1 | Výskyty: 10 | Kategorie: Principy letu a aerodynamika | První výskyt: 18.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) má malý odpor a na úhlu náběhu nezáleží
 - b) nemá žádné výhody oproti křídlu s turbulentním profilem
 - **c) má menší odpor při určitém rozsahu úhlů náběhu**
+
+---
+
+
+> **Vysvětlení:** Křídlo s laminárním profilem je navrženo tak, aby udržovalo laminární (hladké) proudění vzduchu na co největší části svého povrchu. Toto hladké proudění způsobuje výrazně menší třecí odpor vzduchu ve srovnání s turbulentním prouděním, které vzniká u tradičních profilů, zejména při vyšších rychlostech nebo větších úhlech náběhu. Nicméně, laminární proudění je velmi citlivé na úhel náběhu a na nerovnosti povrchu. Při překročení určitého (obvykle malého) úhlu náběhu se proudění rychle změní na turbulentní, což dramaticky zvýší odpor. Proto křídlo s laminárním profilem nemá menší odpor za všech podmínek, ale pouze v určitém rozsahu úhlů náběhu, kdy je udrženo laminární proudění. Možnost A je nesprávná, protože na úhlu náběhu u laminárního profilu velmi záleží. Možnost C je nesprávná, protože laminární profil má oproti turbulentnímu znatelné výhody v oblasti odporu za specifických podmínek.
+
 
 ---
 
@@ -247,12 +391,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Úhel náběhu je úhel mezi tětivou křídla a relativním proudem vzduchu. Pro dosažení požadovaného vztlaku (např. pro udržení vodorovného letu) existuje inverzní vztah mezi úhlem náběhu a dopřednou rychlostí letu. To znamená, že při nižší dopředné rychlosti letu je potřeba větší úhel náběhu k vytvoření stejného vztlaku. Naopak, při vyšší dopředné rychlosti letu je potřeba menší úhel náběhu. Pokud se úhel náběhu zvýší (například zatažením za řídicí páku bez přidání tahu motoru), letadlo začne zpomalovat kvůli zvýšenému odporu a/nebo přeměně kinetické energie na potenciální energii (stoupání). Proto platí, že při zvýšení úhlu náběhu se dopředná rychlost letu sníží, pokud se nezvýší tah motoru.
+
+
+---
+
 ### Do jaké výšky lze počítat s „přízemním efektem“ v blízkosti země?
 *Body: 1 | Výskyty: 98 | Kategorie: Principy letu a aerodynamika | První výskyt: 09.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) do výšky 1 m
 - b) u ULLa do výšky přibližně 20 m
 - **c) asi do výšky jako je polovina rozpětí křídla**
+
+---
+
+
+> **Vysvětlení:** Přízemní efekt je aerodynamický jev, který ovlivňuje letadlo, když se nachází v těsné blízkosti země. Projevuje se snížením indukovaného odporu a zvýšením vztlaku. Tento efekt je nejvýraznější, když je výška letadla nad zemí menší než jeho rozpětí křídla, a jeho účinky se významně snižují a prakticky mizí ve výškách nad polovinou rozpětí křídla. Odpověď A tak správně popisuje přibližnou maximální výšku, do které lze s tímto jevem počítat.
+
 
 ---
 
@@ -265,6 +421,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Počáteční fáze bouřky, známá jako 'cumulus stage' nebo 'rozvojová fáze', je charakterizována silnými vzestupnými proudy, které pohánějí rozvoj oblaku cumulus congestus a později cumulonimbus. Tyto vzestupné proudy jsou klíčové pro transport vlhkosti a energie do horních vrstev atmosféry, což vede k dalšímu rozvoji bouřky. Déšť a blesky se objevují spíše v pozdějších fázích bouřky (mature stage).
+
+
+---
+
 ### Může dojít k odtržení proudu při laminárním proudění v mezní vrstvě?
 *Body: 1 | Výskyty: 13 | Kategorie: Principy letu a aerodynamika | První výskyt: 09.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -274,12 +436,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Odtržení proudu (stall) může nastat i u laminárního proudění, i když je turbulentní proudění náchylnější k odtržení. Laminární proudění je méně přilnavé k povrchu křídla a může se snadněji odtrhnout, což vede k rozsáhlé oblasti sníženého nebo žádného proudění (úplavu) za křídlem. Odpověď A je nesprávná, protože odtržení proudu není vždy nutným předpokladem pro přechod z laminárního do turbulentního proudění. Odpověď B je nesprávná, protože odtržení proudu může nastat přímo z laminárního proudění.
+
+
+---
+
 ### Studená fronta postupuje rychleji než teplá, postupně se při zemi zužuje teplý sektor a teplý vzduch z této oblasti je vytlačován do vyšších vrstev. Tento proces se nazývá:
 *Body: 1 | Výskyty: 66 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - **a) okluze**
 - b) zánik cyklony
 - c) vyplňování cyklony
+
+---
+
+
+> **Vysvětlení:** Správná odpověď je A (okluze). Okluze je meteorologický jev, při kterém studená fronta, která se pohybuje rychleji, dohání teplou frontu. Tím dochází k vypuzení teplého vzduchu z povrchu do vyšších vrstev atmosféry, což přesně popisuje daný proces.
+
 
 ---
 
@@ -310,6 +484,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Stacionární fronta je definována meteorologií jako fronta, která vykazuje minimální nebo žádný pohyb. Možnosti A a B popisují jiné typy front nebo pohyby, které neodpovídají definici stacionární fronty.
+
+
+---
+
 ### Celková hmotnost PK a pilota s veškerým vybavením je 100 kg, plocha PK je 25 m2 . Plošné zatížení PK je:
 *Body: 1 | Výskyty: 13 | Kategorie: Nezařazeno | První výskyt: 21.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -337,12 +517,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Nebezpečný prostor (Dangerous Area) je vymezený vzdušný prostor, ve kterém mohou probíhat činnosti nebezpečné pro let letadel. Označení 'nebezpečná' v odpovědi B přesně vystihuje podstatu tohoto typu prostoru, kdy letová činnost v něm nebo v jeho blízkosti s sebou nese riziko, ale není striktně zakázaná (jako v zakázaných prostorech) ani omezená (jako v omezených prostorech). Pilotům je doporučeno se těmto prostorům vyhnout, nebo v nich postupovat s maximální opatrností.
+
+
+---
+
 ### Rozdíl mezi UTC a středoevropským (SEČ) časem je:
 *Body: 0 | Výskyty: 94 | Kategorie: Navigace a letové přístroje | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - **a) 1 hodina**
 - b) není žádný
 - c) 2 hodiny
+
+---
+
+
+> **Vysvětlení:** Správná odpověď je B, protože Středoevropský čas (SEČ), známý také jako CET (Central European Time), je definován jako UTC+1 hodina. UTC (Coordinated Universal Time) je mezinárodní časový standard používaný v letectví pro veškeré operace, komunikaci a meteorologické zprávy. Znalost rozdílu mezi UTC a místním časem je zásadní pro přesné plánování letů, dodržování provozních postupů a správnou interpretaci časových údajů v letecké dokumentaci.
+
 
 ---
 
@@ -364,6 +556,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Tato otázka se týká základních principů dynamiky tekutin, konkrétně principu kontinuity a Bernoulliho rovnice. Když dojde ke zhuštění proudnic, znamená to, že se zmenšuje průřez, kterým proudí kapalina (v tomto případě vzduch). Podle principu kontinuity (zachování hmotnosti) se musí rychlost proudění zvýšit, aby byl zachován stejný objemový průtok skrz menší průřez. Zvýšení rychlosti proudění má pak přímý dopad na statický tlak dle Bernoulliho rovnice, která říká, že součet statického a dynamického tlaku je konstantní (pro zjednodušený případ bez změny výšky). Zvýšením rychlosti (a tedy i dynamického tlaku) musí dojít ke snížení statického tlaku. Proto se rychlost zvýší a statický tlak klesne.
+
+
+---
+
 ### Vyberte správné tvrzení týkající se polohy postiženého se závažným úrazem:
 *Body: 0 | Výskyty: 31 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 09.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -379,6 +577,12 @@ Celkem unikátních otázek: **393**
 - a) skokový přechod od turbulentního proudění nad horní plochou křídla k absolutní laminaritě
 - **b) proud vzduchu přestane sledovat tvar profilu**
 - c) proudnice opustí profil, po tom co opíšou jeho tvar
+
+---
+
+
+> **Vysvětlení:** Odtržení proudnic (flow separation) je jev v aerodynamice, kdy proud vzduchu přestane sledovat tvar povrchu křídla (či jiného profilu). K tomuto dochází nejčastěji při vysokých úhlech náběhu, kdy vzduch ztratí kinetickou energii potřebnou k překonání tlakového gradientu a odchýlí se od povrchu. Důsledkem je výrazné snížení vztlaku a zvýšení odporu, což vede k pádu letadla (stall). Možnost B přesně popisuje tento jev.
+
 
 ---
 
@@ -400,12 +604,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Frontální bouřky jsou obvykle spojeny s frontálními systémy (studené, teplé, okluzní fronty), které se samy o sobě pohybují s vyšší rychlostí než lokální konvekční bouřky (bouřky z tepla) nebo bouřky indukované terénem (orografické bouřky). Pohyb fronty často „nutí“ bouřky, které se na ní tvoří, k rychlejšímu postupu.
+
+
+---
+
 ### Hustota vzduchu v zemské atmosféře s výškou:
 *Body: 0 | Výskyty: 31 | Kategorie: Meteorologie | První výskyt: 09.07.2024 | Poslední výskyt: 07.09.2024*
 
 - **a) klesá**
 - b) vzrůstá
 - c) se nemění
+
+---
+
+
+> **Vysvětlení:** Hustota vzduchu s rostoucí výškou klesá, protože molekuly vzduchu jsou dále od sebe a gravitace je méně přitahuje. To má vliv na aerodynamické vlastnosti letadla.
+
 
 ---
 
@@ -445,6 +661,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Velitel SLZ (pilot) je v leteckém provozu konečnou autoritou a nese plnou odpovědnost za bezpečné a legální provedení letu. To zahrnuje i povinnost před každým letem ověřit platnost všech potřebných dokumentů, včetně technického průkazu SLZ, který dokládá letovou způsobilost a registraci zařízení. Žádná jiná osoba ani složka nemůže převzít tuto primární odpovědnost pilota za legálnost a bezpečnost provozu během letu.
+
+
+---
+
 ### Zlomeninu horní končetiny přednostně fixujeme:
 *Body: 0 | Výskyty: 40 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -463,6 +685,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Podle mezinárodních a národních leteckých předpisů (např. ICAO Annex 6, EU nařízení) je povinností mít na palubě letadla při všech letech platný doklad o pojištění odpovědnosti za škodu způsobenou třetím osobám. Tato povinnost platí bez výjimky pro všechny typy letů, včetně letištních letů, a je klíčová pro zajištění finanční ochrany v případě nehody.
+
+
+---
+
 ### Přistání na vodní hladině provádí pilot PK
 *Body: 0 | Výskyty: 34 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 15.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -473,11 +701,17 @@ Celkem unikátních otázek: **393**
 ---
 
 ### Indukovaný odpor:
-*Body: 0 | Výskyty: 14 | Kategorie: Nezařazeno | První výskyt: 16.07.2024 | Poslední výskyt: 07.09.2024*
+*Body: 0 | Výskyty: 14 | Kategorie: Principy letu a aerodynamika | První výskyt: 16.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) vzniká jako důsledek vzájemného ovlivnění obtékání různých částí
 - b) vzniká jako důsledek indukce u zadní části profilu
 - **c) vzniká jako důsledek přefukování vzduchu na koncích křídla ze spodní strany na horní**
+
+---
+
+
+> **Vysvětlení:** Indukovaný odpor je část celkového odporu, která vzniká v důsledku tvorby vztlaku. Je způsoben obtékáním vzduchu z oblasti vyššího tlaku pod křídlem do oblasti nižšího tlaku nad křídlem, zejména na koncích křídel. Toto obtékání vytváří víry, které způsobují pokles úhlu náběhu za křídlem a tím i dodatečný odpor. Možnost A toto jevu přesně popisuje.
+
 
 ---
 
@@ -490,12 +724,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Nestabilní vzduchová hmota je charakterizována tím, že vzduch, který je vytlačen směrem nahoru, je teplejší a méně hustý než okolní vzduch v dané výšce, a proto pokračuje ve stoupání. To vede k silným konvektivním vertikálním pohybům, které jsou příčinou vývoje kupovité oblačnosti a často i bouřek. Naopak, stabilní vzduchová hmota brání vertikálním pohybům, což vede spíše k tvorbě vrstevnaté oblačnosti (B) nebo k teplotním inverzím (C), které potlačují vertikální proudění.
+
+
+---
+
 ### Jaké charakteristické příznaky má počasí na závětrné straně hor při föhnu:
 *Body: 0 | Výskyty: 32 | Kategorie: Nezařazeno | První výskyt: 16.07.2024 | Poslední výskyt: 07.09.2024*
 
 - **a) malá oblačnost, neobvyklý vzrůst teploty, malá vlhkost, často silný vítr**
 - b) velká oblačnost, srážky, dobrá dohlednost
 - c) proměnlivá oblačnost, občasné přeháňky, mírný, nebo žádný vítr
+
+---
+
+
+> **Vysvětlení:** Föhn je specifický meteorologický jev, který se vyskytuje na závětrné straně hor. Typické jsou pro něj srážky na návětrné straně, zatímco na závětrné straně dochází k oteplování vzduchu, snižování vlhkosti a často k silnému větru. Oblačnost bývá malá, protože se vzduch při sestupu ohřívá a tím se snižuje jeho relativní vlhkost a tím i tendence k tvorbě oblaků. Proto je odpověď B, popisující malou oblačnost, vzrůst teploty, malou vlhkost a silný vítr, správná.
+
 
 ---
 
@@ -508,6 +754,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Otázka se týká maximálního povoleného úmyslného vychýlení (náklonu) UL letounu, což je limit stanovený v leteckých předpisech pro zajištění bezpečného provozu ultralehkých letadel. Pro UL letouny je v mnoha národních předpisech, včetně českých, stanovena maximální povolená hodnota úmyslného náklonu v zatáčce na 60 stupňů. Překročení této hodnoty by mohlo být považováno za akrobatické manévrování, které je pro UL letouny obecně zakázáno, nebo by mohlo vést k nadměrnému přetížení konstrukce či ztrátě ovladatelnosti. Možnost C (60.0) je proto správná.
+
+
+---
+
 ### Působením tlaků na profilu křídla při jeho obtékání vzniká:
 *Body: 0 | Výskyty: 16 | Kategorie: Principy letu a aerodynamika | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -517,12 +769,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Při proudění vzduchu kolem profilu křídla vznikají na povrchu profilu tlakové rozdíly. Integrace těchto tlakových sil a sil na náběžné a odtokové hraně vede ke vzniku aerodynamických sil. Tyto síly lze rozložit na složku kolmou ke směru proudění (vztlak) a složku rovnoběžnou se směrem proudění (odpor). Kromě toho rozložení tlaku a tření na povrchu profilu vytváří i momentové účinky kolem referenčního bodu profilu, z nichž nejvýznamnější je klopivý moment.
+
+
+---
+
 ### Kurz měříme od severu ve stupních:
 *Body: 0 | Výskyty: 91 | Kategorie: Navigace a letové přístroje | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) na východ po směru, na západ proti směru hodinových ručiček
 - **b) ve směru otáčení hodinových ručiček**
 - c) proti směru otáčení hodinových ručiček
+
+---
+
+
+> **Vysvětlení:** V letecké navigaci se kurz (nebo směr) vždy měří od severu (0/360 stupňů) ve směru otáčení hodinových ručiček. Východ je 90 stupňů, jih je 180 stupňů a západ je 270 stupňů. Tento systém je standardní pro určení směru letu.
+
 
 ---
 
@@ -553,6 +817,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Správná odpověď A je založena na konstrukčních požadavcích pro letadla s tlačným uspořádáním pohonné jednotky. Vrtule umístěná za motorem je vtažována vzduchem, který již prošel kolem motoru a případných uvolnitelných částí. Aby se zabránilo pádu těchto částí do vrtule a způsobení havárie, musí být veškeré uvolnitelné příslušenství motoru (např. kryty, hadice, potrubí) nezávisle zajištěno proti pádu do směru proudění vzduchu, tedy do vrtule.
+
+
+---
+
 ### Při uvolnění speed systému se rychlost PK
 *Body: 0 | Výskyty: 41 | Kategorie: Principy letu a aerodynamika | První výskyt: 11.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -571,6 +841,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Když letoun vlétne do klesavého proudu, vzdušná hmota, kterou letoun prochází, se začne pohybovat směrem dolů. Vzhledem k setrvačnosti letounu si letoun na krátkou chvíli udrží svou původní dráhu letu vzhledem k zemi. Nicméně směr relativního proudění vzduchu vůči křídlu se změní, protože vzduch samotný se pohybuje dolů. To způsobí, že úhel mezi tětivou křídla a relativním prouděním vzduchu (úhel náběhu) se zmenší. Zmenšení úhlu náběhu vede k dočasnému poklesu vztlaku.
+
+
+---
+
 ### Spirála je letový režim, při kterém:
 *Body: 0 | Výskyty: 431 | Kategorie: Principy letu a aerodynamika | První výskyt: 09.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -580,12 +856,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Spirála (v angličtině často označovaná jako 'spiral dive' nebo 'steep spiral') je letový režim, při kterém letoun provádí strmou, klesavou zatáčku s narůstající rychlostí. Klíčové je, že na rozdíl od vývrtky (spin), spirála je řízený manévr a letoun není v režimu odtržení proudění (stall). To znamená, že proudění vzduchu je na křídlech stále připojené a křídla efektivně generují vztlak. Odtržení proudění je charakteristické pro vývrtku, nikoliv pro spirálu. Možnosti A a B popisují stav, kdy dochází k odtržení proudění, což by indikovalo pád nebo vývrtku, ne spirálu.
+
+
+---
+
 ### Které z uvedených druhů oblačnosti řadíme složením mezi oblačnost krystalickou:
 *Body: 0 | Výskyty: 35 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - **a) Cc - cirocumulus, Cs - cirostratus**
 - b) Ns - nimbostratus, As - altostratus
 - c) Cb - cumulonimbus, Ac - altocumulus
+
+---
+
+
+> **Vysvětlení:** Cirokumulus (Cc) a cirostratus (Cs) jsou druhy vysokého oblačnosti, které se skládají převážně z ledových krystalů, a proto jsou klasifikovány jako krystalické oblačnosti. Nimbostratus (Ns) a altostratus (As) jsou střední oblačnosti, které mohou obsahovat vodní kapky i ledové krystaly. Cumulonimbus (Cb) je oblak vertikálního vývoje, který ve své horní části obsahuje ledové krystaly, ale jeho spodní a střední části mohou obsahovat i vodní kapky.
+
 
 ---
 
@@ -670,12 +958,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Teplé fronty jsou charakterizovány postupným přechodem od vysokých a řídkých oblaků k oblakům nižším a hustším. Typicky se objevují cirrostraty (Cs), které se později mění na altostratus (As) a nakonec na nimbostratus (Ns), které přinášejí trvalé srážky. Ostatní varianty obsahují oblaka, která nejsou pro teplé fronty typická.
+
+
+---
+
 ### Úbytek teploty s výškou v definici standardní atmosféry – vertikální teplotní gradient má hodnotu:
 *Body: 0 | Výskyty: 75 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) 1,0° C/100 m
 - **b) 0,65° C/100 m**
 - c) 0,6° C/100 m
+
+---
+
+
+> **Vysvětlení:** Správná odpověď je A, protože standardní teplotní gradient definuje pokles teploty o 0,65° C na každých 100 metrů výšky v nižších vrstvách atmosféry (troposféře), což je základní předpoklad pro mnoho leteckých výpočtů a předpisů.
+
 
 ---
 
@@ -688,12 +988,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Klouzavost vůči zemi (ground glide ratio) je poměr skutečné horizontální vzdálenosti uražené nad zemí k výšce ztracené během klouzavého letu. Tato hodnota je přímo ovlivněna rychlostí a směrem větru. Protivítr (headwind) snižuje rychlost letadla vůči zemi, čímž se zkracuje vzdálenost uražená nad zemí pro danou ztrátu výšky, a tedy klouzavost vůči zemi klesá. Naopak zadní vítr (tailwind) zvyšuje rychlost letadla vůči zemi, což prodlužuje vzdálenost uraženou nad zemí a klouzavost vůči zemi se zlepšuje. Klouzavost vůči vzdušné hmotě (air glide ratio), která je dána aerodynamickými vlastnostmi letadla při nejlepším úhlu náběhu, se s větrem nemění, ale vítr zásadně ovlivňuje výkon vzhledem k zemi.
+
+
+---
+
 ### Přibližují-li se dvě nebo více letadel těžších vzduchu k jednomu letišti s úmyslem přistát a nevztahují-li se na ně pravidla pro vyhýbání, platí přednost pro přistání:
 *Body: 0 | Výskyty: 38 | Kategorie: Letecké předpisy a legislativa | První výskyt: 12.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) pomalejší letadlo dát přednost rychlejšímu
 - b) letadlo letící vlevo dát přednost letadlům přilétávajícím zprava
 - **c) výše letící letadlo dát přednost letadlu letícímu níže**
+
+---
+
+
+> **Vysvětlení:** Pravidla pro vyhýbání v vzdušném prostoru stanovují, že při přibližování k letišti s úmyslem přistát má přednost letadlo, které je již níže v sestupné dráze. Toto pravidlo zajišťuje plynulý a bezpečný provoz, protože letadla níže již mají určenou dráhu a obvykle se nacházejí blíže k finální fázi přistání. Letadlo letící výše má stále možnost upravit svou výšku a trajektorii, aby se vyhnulo kolizi.
+
 
 ---
 
@@ -715,6 +1027,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Úhel snosu je definován jako úhlový rozdíl mezi podélnou osou letadla (směrem, kam je letadlo natočeno, tedy jeho kurzem nebo směrem letu vzhledem ke vzduchu) a tratí letěnou nad zemí (směrem, kterým se letadlo skutečně pohybuje vzhledem k zemi). Tento úhel vzniká v důsledku boční složky větru. Pilot musí letadlo natočit proti větru (úhel vybočení, anglicky 'crab angle'), aby udržel požadovanou trať nad zemí, a úhel snosu je pak úhel mezi podélnou osou letadla a touto výslednou tratí.
+
+
+---
+
 ### Lety VFR ve vzdušném prostoru třídy G se musí provádět tak, aby letadlo letělo:
 *Body: 0 | Výskyty: 47 | Kategorie: Letecké předpisy a legislativa | První výskyt: 09.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -724,12 +1042,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Otázka se týká specifických požadavků pro lety VFR ve vzdušném prostoru třídy G, což spadá pod letecké předpisy. Správná odpověď A – 'vně oblaků za stálé dohlednosti země' – přesně popisuje základní požadavky na viditelnost a vzdálenost od oblaků pro lety VFR v této kategorii vzdušného prostoru, zejména v nižších výškách (pod 3000 ft AMSL nebo 1000 ft AGL). V takovém vzdušném prostoru je nutné, aby pilot udržoval vizuální kontakt se zemí a byl zcela mimo jakékoliv mraky. Možnosti B a C uvádějí konkrétní vzdálenosti od oblaků, které se obvykle vztahují na jiné třídy vzdušného prostoru nebo na lety VFR ve vyšších nadmořských výškách v rámci třídy G, kde jsou požadavky přísnější (např. nad 3000 ft AMSl a 1000 ft AGL). Základní a nejdůležitější požadavek pro VFR v G je být 'vně oblaků' a 'v dohlednosti země'.
+
+
+---
+
 ### Nasycená adiabata je stavová křivka znázorňující změnu teploty s výškou o hodnotu:
-*Body: 0 | Výskyty: 48 | Kategorie: Nezařazeno | První výskyt: 11.07.2024 | Poslední výskyt: 07.09.2024*
+*Body: 0 | Výskyty: 48 | Kategorie: Meteorologie | První výskyt: 11.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) 1,00 °C/100 m výšky
 - b) 0,65 °C/100 m výšky
 - **c) 0,60 °C/100 m výšky**
+
+---
+
+
+> **Vysvětlení:** Správná odpověď C je označena, protože nasycená adiabata (mokrá adiabata) popisuje změnu teploty vzduchu s výškou, když vzduch obsahuje nasycenou vodní páru. Tato rychlost ochlazování je menší než u suché adiabatické změny (kolem 0,98 °C/100 m) kvůli uvolňování latentního tepla při kondenzaci vodní páry. Hodnota 0,65 °C/100 m je pro nasycenou adiabatickou změnu typická, nicméně v kontextu meteorologických standardů a zjednodušení se často používá přibližná hodnota 0,60 °C/100 m, která odpovídá možnosti C.
+
 
 ---
 
@@ -748,6 +1078,12 @@ Celkem unikátních otázek: **393**
 - a) možné pouze na veřejném leteckém vystoupení s vydaným platným oprávněním
 - b) povoleno
 - **c) zakázáno**
+
+---
+
+
+> **Vysvětlení:** Tato otázka se týká minimálních bezpečných výšek letu a pravidel pro létání nad shromážděním osob, což je základní součást leteckých předpisů. Předpisy, jako například SERA.5005 (Minimální výšky), jednoznačně stanovují, že letadlo nesmí být pilotováno nad shromážděním osob v takové výšce, která by v případě poruchy pohonné jednotky neumožnila přistání bez nepřiměřeného ohrožení osob nebo majetku na zemi. Popisovaná situace je tedy výslovně zakázána.
+
 
 ---
 
@@ -778,12 +1114,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Správná odpověď je C, protože v České republice (a v souladu s mezinárodními předpisy) se horní hranice vzdušného prostoru třídy G, což je nekontrolovaný vzdušný prostor, obvykle určuje jako 300 metrů (nebo 1000 stop) nad terénem (AGL - Above Ground Level), pokud není stanoveno jinak nižší hranicí, například základnou vyššího řízeného vzdušného prostoru. Použití AGL zajišťuje, že je vždy k dispozici minimální vertikální prostor pro lety VFR nad zemí, bez ohledu na nadmořskou výšku terénu. Ostatní možnosti nejsou relevantní pro stanovení horní hranice vzdušného prostoru třídy G v tomto kontextu.
+
+
+---
+
 ### Čočkovité podlouhlé mraky:
 *Body: 0 | Výskyty: 26 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - **a) znamenají, že fouká ve výšce silný vítr, tudíž může hrozit nárazovitost větru**
 - b) se vyskytují hlavně v tropech, u nás se objeví jen zřídka na jaře při prudké změně teploty
 - c) hlavně v létě znamenají, že se blíží nebezpečný druh okluzní fronty
+
+---
+
+
+> **Vysvětlení:** Čočkovité mraky (lenticularis) se tvoří v horách nebo nad překážkami vlivem stojatých vln v atmosféře. Jejich přítomnost indikuje silné větry ve výškových hladinách, které jsou schopné tyto vlny vytvářet. Tyto větry mohou způsobovat turbulence a nárazovitost větru, což je nebezpečné pro letadla.
+
 
 ---
 
@@ -796,12 +1144,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Zeměpisný severní a jižní pól jsou definovány jako body, kde osa rotace Země protíná zemský povrch. Tato osa je z hlediska polohy na zemském povrchu stabilní a nemění svou polohu v závislosti na magnetismu Země (jako magnetické póly) ani na roční době. Proto je správná odpověď, že zeměpisný sever a jih nemění polohu.
+
+
+---
+
 ### Jak bude ovlivněna délka vzletu motorového letadla, jestliže se bude po celou jeho dobu pohybovat na vysokém úhlu náběhu v blízkosti kritického?
 *Body: 0 | Výskyty: 172 | Kategorie: Principy letu a aerodynamika | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - **a) letadlo v důsledku značného součinitele odporu bude velice pomalu zrychlovat, takže délka vzletu se výrazně prodlouží**
 - b) délka vzletu se nepatrně prodlouží
 - c) délka vzletu se výrazně zkrátí neboť letadlo dosáhne velkého součinitele vztlaku
+
+---
+
+
+> **Vysvětlení:** Otázka se týká přímého vlivu aerodynamických charakteristik (úhlu náběhu, součinitele vztlaku a odporu) na délku vzletu, což je klíčový parametr letových výkonů. Pokud se letadlo po celou dobu vzletu pohybuje na vysokém úhlu náběhu v blízkosti kritického, dojde k výraznému nárůstu aerodynamického odporu (především indukovaného odporu). Tento zvýšený odpor snižuje čistou tahovou sílu dostupnou pro zrychlení letadla. Menší zrychlení znamená, že letadlu bude trvat delší dobu a ujede větší vzdálenost, než dosáhne vzletové rychlosti, což vede k výraznému prodloužení délky vzletu.
+
 
 ---
 
@@ -823,6 +1183,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Úhel náběhu je definován jako úhel mezi směrem proudění vzduchu (který je v ustáleném letu v podstatě opačný ke směru letu) a referenční linií křídla, kterou je tětiva profilu. Možnost A toto přesně vystihuje.
+
+
+---
+
 ### Nefunkčnost krevního oběhu („zástavu srdce“) v praxi rozpoznáme tak, že:
 *Body: 0 | Výskyty: 25 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -841,12 +1207,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Vítr je definován jak směrem, ze kterého vane (např. severní vítr vane ze severu), tak svou rychlostí. Pouhé uvedení rychlosti nebo směru, kam vane, by neposkytlo úplnou informaci o větru.
+
+
+---
+
 ### Prostor typu LKP sahá
 *Body: 0 | Výskyty: 67 | Kategorie: Letecké předpisy a legislativa | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) od země do FL 125
 - **b) od země do různých výšek (viz AIP nebo platná letecká mapa)**
 - c) od 150m AGL do 1500m AMSL
+
+---
+
+
+> **Vysvětlení:** Otázka se týká rozsahu specifického typu vzdušného prostoru. Vzdušné prostory, které nejsou standardizovanými třídami (jako třídy A-G), ale jsou definovány pro konkrétní účely (např. omezené prostory, nebezpečné prostory nebo regionálně specifické prostory jako 'LKP', pokud je to místní označení pro určitý typ zóny), nemají univerzálně pevně dané vertikální hranice. Jejich přesné rozměry (horizontální i vertikální) jsou vždy individuálně specifikovány a publikovány v oficiálních leteckých dokumentech, jako je Letecká informační příručka (AIP) nebo na platných leteckých mapách. Proto je správná odpověď A, která odráží tuto variabilitu a potřebu ověření v oficiálních zdrojích.
+
 
 ---
 
@@ -868,12 +1246,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Zkratka CTR znamená 'Controlled Traffic Region', což se do češtiny překládá jako 'řízený okrsek letiště'. Jedná se o řízený vzdušný prostor obklopující letiště, který je zřízen k ochraně letadel přilétajících a odlétajících z letiště a k zajištění řízení letového provozu v této oblasti. Odpověď A je tedy přesným překladem a vysvětlením zkratky.
+
+
+---
+
 ### Který druh oblačnosti může indikovat přítomnost silné turbulence:
 *Body: 0 | Výskyty: 52 | Kategorie: Meteorologie | První výskyt: 14.07.2024 | Poslední výskyt: 07.09.2024*
 
 - **a) Altocumulus lenticularis**
 - b) Nimbostratus
 - c) Cirrocumulus
+
+---
+
+
+> **Vysvětlení:** Altocumulus lenticularis (čočkovité obTypeDefný mrak) se tvoří ve vlnách v atmosféře, často v horských oblastech. Vytváření těchto vln je spojeno se silnými větry a střihovým větrem, což jsou hlavní příčiny silné turbulence.
+
 
 ---
 
@@ -922,6 +1312,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Řízený okrsek (CTR) je určen k ochraně letů ve fázi přiblížení a odletu na letištích. Z tohoto důvodu se CTR vždy rozprostírá od povrchu země (nebo vodní plochy) až do stanovené horní hranice. Tím je zajištěna kontrola a řízení letového provozu bezprostředně nad letištěm a v jeho blízkosti.
+
+
+---
+
 ### Pokud tomu nebrání zvláštní okolnosti, je pro postiženého úrazem nejlepší:
 *Body: 0 | Výskyty: 37 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 12.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -940,12 +1336,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Tato otázka se zabývá specifickými pravidly pro VFR lety nad zastavěnými oblastmi, která jsou součástí leteckých předpisů (např. ICAO Annex 2 nebo lokální legislativa). Správná odpověď C vychází z předpisu, který vyžaduje dodržování minimální výšky 300 metrů nad nejvyšší překážkou v okruhu 600 metrů od letadla pro VFR lety nad hustě zastavěnými místy nebo shromážděními lidí na volném prostranství, pokud není povolení k jinému postupu.
+
+
+---
+
 ### Pádová rychlost letadla v zatáčce:
 *Body: 0 | Výskyty: 241 | Kategorie: Principy letu a aerodynamika | První výskyt: 09.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) je nižší než v přímém ustáleném letu
 - **b) je vyšší než v přímém ustáleném letu a závisí na náklonu letadla**
 - c) je konstantní, nesmí být vyšší než 65 km/h
+
+---
+
+
+> **Vysvětlení:** Pádová rychlost letadla v zatáčce je vyšší než v přímém ustáleném letu, protože během zatáčení dochází ke zvýšení součinitele zatížení (násobku přetížení neboli 'G'). Aby se letadlo udrželo v zatáčce, musí vztlak generovaný křídly nejen nést váhu letadla, ale také poskytovat sílu potřebnou pro změnu směru letu (centripetální sílu). Vztlak v zatáčce je tedy větší než váha letadla. Jelikož pádová rychlost je definována jako minimální rychlost potřebná k udržení dostatečného vztlaku, musí být tato rychlost vyšší, aby se generoval větší potřebný vztlak pro vyšší součinitel zatížení. Součinitel zatížení přímo závisí na úhlu náklonu letadla – čím větší je náklon, tím vyšší je součinitel zatížení a tím vyšší je pádová rychlost.
+
 
 ---
 
@@ -958,12 +1366,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Aktivní studená fronta II. druhu (často označovaná jako studená fronta s konvektivní aktivitou) je spojena s výrazným vertikálním vývojem oblaků a silnými atmosférickými procesy. Tyto procesy zahrnují silnou turbulenci způsobenou konvekcí, potenciální námrazu v chladnějších vrstvách atmosféry, aktivní bouřkovou činnost (blesky, hromy, silné přeháňky, kroupy) a silný vítr v nárazech, který se objevuje při průchodu fronty. Možnosti B a C popisují jevy typické spíše pro jiné typy front (např. teplá fronta nebo okluze) nebo méně výrazné studené fronty, které neobsahují tak silnou konvektivní aktivitu.
+
+
+---
+
 ### Vztlak působí:
 *Body: 0 | Výskyty: 21 | Kategorie: Principy letu a aerodynamika | První výskyt: 12.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) vždy směrem vzhůru od profilu
 - **b) vždy kolmo na směr proudu vzduchu nabíhajícího na profil**
 - c) vždy kolmo k tětivě profilu
+
+---
+
+
+> **Vysvětlení:** Vztlak je aerodynamická síla, která vzniká jako důsledek proudění vzduchu kolem profilu křídla. Definuje se jako složka celkové aerodynamické síly, která působí kolmo na směr relativního pohybu vzduchu vůči profilu (tedy na směr větru nabíhajícího na profil).
+
 
 ---
 
@@ -985,6 +1405,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Odpověď B je správná, protože ačkoli letadlo s předností má právo udržet svůj kurz a rychlost, nezbavuje ho to celkové odpovědnosti za prevenci kolize. Pilot musí být neustále ostražitý a připravený reagovat na jakékoli nebezpečí, i když má přednost.
+
+
+---
+
 ### Těžiště letadla je:
 *Body: 0 | Výskyty: 272 | Kategorie: Principy letu a aerodynamika | První výskyt: 09.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -994,12 +1420,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Těžiště letadla (Center of Gravity, CG) je definováno jako bod, ve kterém je soustředěna celá tíha letadla a ve kterém působí výsledná tíhová síla. Je to klíčový bod pro stabilitu, ovladatelnost a výkon letadla. Ostatní možnosti jsou nesprávné, protože aerodynamické síly působí v aerodynamickém středu nebo středu tlaku, který se obvykle liší od těžiště.
+
+
+---
+
 ### Pravomoc pilota (velitele) letadla:
 *Body: 0 | Výskyty: 58 | Kategorie: Letecké předpisy a legislativa | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - **a) Pilot (velitel) letadla má právo rozhodnout s konečnou platností o provedení letu**
 - b) Pilot (velitel) letadla nemá právo s konečnou platností rozhodnout o provedení letu
 - c) Provozovatel letadla má právo rozhodnout s konečnou platností o provedení letu
+
+---
+
+
+> **Vysvětlení:** Pilot velící letadlu má ze zákona konečnou zodpovědnost a pravomoc rozhodnout o tom, zda let může být proveden, a to i v případě, že se provozovatel letadla jiného názoru. Toto pravidlo zajišťuje bezpečnost letu.
+
 
 ---
 
@@ -1021,6 +1459,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Technický průkaz (nebo jiný podobný dokument potvrzující letovou způsobilost, jako je Osvědčení letové způsobilosti u letadel registrovaných v civilním rejstříku) je základní dokumentace letadla. Zahraniční i národní letecké předpisy vyžadují, aby byl tento dokument buď na palubě letadla, nebo snadno dostupný pro letecký úřad nebo pro posádku v případě potřeby. To zajišťuje, že letadlo je v daný okamžik způsobilé k letu a splňuje všechny bezpečnostní požadavky. Možnosti A a B nejsou správné, protože tyto dokumenty by nebyly při provozu letadla relevantní nebo dostupné pro kontrolu.
+
+
+---
+
 ### Doba platnosti lékařského posudku o zdravotní způsobilosti pro piloty jednomístných MPK je:
 *Body: 0 | Výskyty: 57 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 09.07.2024 | Poslední výskyt: 07.09.2024*
 
@@ -1039,12 +1483,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Správná odpověď C je přesná, protože stanovuje základní legislativní požadavky pro řízení letadla. Letecké předpisy vyžadují, aby pilot, který řídí sportovní létající zařízení, byl držitelem platného pilotního průkazu s odpovídající kvalifikací pro daný typ letounu. Současně umožňují, aby pilotní žák řídil letadlo v rámci výcviku, avšak pouze za podmínek stanovených výcvikovou osnovou (např. pod dohledem instruktora nebo na povoleném samostatném letu). Možnost A je chybná kvůli formulaci 'osoba oprávněná provozovatelem SLZ za přítomnosti pilota', která není standardním legislativním titulem pro řízení letadla. Možnost B je neúplná, neboť zdravotní způsobilost je sice nutná, ale hlavní podmínkou je platný pilotní průkaz a kvalifikace.
+
+
+---
+
 ### Při zvětšování úhlu náběhu:
 *Body: 3 | Výskyty: 85 | Kategorie: Principy letu a aerodynamika | První výskyt: 10.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) klesá součinitel vztlaku a odporu
 - b) roste součinitel vztlaku, součinitel odporu klesá
 - **c) roste součinitel vztlaku a odporu**
+
+---
+
+
+> **Vysvětlení:** Zvětšování úhlu náběhu (Angle of Attack) způsobuje u typického profilu křídla růst vztlaku, a tedy i součinitele vztlaku (CL), až do dosažení kritického úhlu náběhu (pádu). Současně se zvětšováním úhlu náběhu roste také součinitel odporu (CD). Je to způsobeno jak růstem indukovaného odporu (který je přímo úměrný čtverci součinitele vztlaku), tak i nárůstem profilového odporu vlivem zvětšené čelní plochy a raného odtrhávání proudnic.
+
 
 ---
 
@@ -1057,6 +1513,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Cumulus (Cu) je typ oblaku charakteristický svým kupovitým, boulovitým vzhledem, který odpovídá definici kupovité oblačnosti. Stratus (St) jsou vrstevnaté oblaky a altostratus (As) jsou středně vysoké vrstevnaté oblaky, oba se tedy liší od kupovitého typu.
+
+
+---
+
 ### Při obtékání tělesa vznikají aerodynamické síly. Nazývají se:
 *Body: 3 | Výskyty: 21 | Kategorie: Principy letu a aerodynamika | První výskyt: 11.07.2024 | Poslední výskyt: 05.09.2024*
 
@@ -1066,8 +1528,14 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Správná odpověď A je správná, protože výsledná aerodynamická síla působící na těleso obtékané proudem vzduchu se vždy rozkládá na dvě základní složky: vztlak (kolmý na směr proudění) a odpor (rovnoběžný se směrem proudění).
+
+
+---
+
 ### Při improvizovaném transportu postiženého v bezvědomí:
-*Body: 3 | Výskyty: 31 | Kategorie: Nezařazeno | První výskyt: 13.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 3 | Výskyty: 31 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 13.07.2024 | Poslední výskyt: 05.09.2024*
 
 - **a) musíme zvláště dbát na šetrnost a stabilizaci hlavy při transportu**
 - b) musí být transport co nejrychlejší
@@ -1084,6 +1552,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Studená fronta je spojena s náhlým poklesem teploty, protože teplý vzduch je vytlačován chladnějším. S postupem fronty dochází k silnému poklesu tlaku, následovanému jeho rychlým vzestupem po jejím přechodu. S tímto jevem jsou spojeny silné a nárazovité větry.
+
+
+---
+
 ### Při provádění srovnávací orientace je vždy spolehlivější:
 *Body: 3 | Výskyty: 71 | Kategorie: Navigace a letové přístroje | První výskyt: 10.07.2024 | Poslední výskyt: 05.09.2024*
 
@@ -1093,12 +1567,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Při provádění vizuální (srovnávací) orientace je spolehlivější a přesnější používat více orientačních bodů. Porovnáním polohy a charakteristik několika bodů na mapě s tím, co vidíme pod letadlem, výrazně snižujeme riziko záměny jednoho bodu za jiný a zvyšujeme jistotu určení naší polohy. Zaměření se pouze na jeden bod (možnost C) je méně spolehlivé, protože může být snadno zaměněn nebo špatně identifikován.
+
+
+---
+
 ### Kde začíná na profilu odtrhávání proudu?
 *Body: 3 | Výskyty: 134 | Kategorie: Principy letu a aerodynamika | První výskyt: 09.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) v mezní vrstvě na sací straně profilu u náběžné hrany
 - **b) v mezní vrstvě na sací straně profilu od odtokové hrany**
 - c) v úplavu na sací straně profilu u náběžné hrany
+
+---
+
+
+> **Vysvětlení:** Odtrhávání proudu (neboli odtržení mezní vrstvy) je aerodynamický jev, při kterém se proudění vzduchu oddělí od povrchu profilu. Tento proces vždy začíná v mezní vrstvě, tenké vrstvě vzduchu přímo u povrchu křídla. Na sací straně (horní ploše) profilu, kde proudění vzduchu vytváří vztlak, dochází k odtrhávání proudu nejčastěji. K odtržení dochází v důsledku nepříznivého tlakového gradientu (rostoucího tlaku), který zpomaluje proudění v mezní vrstvě. Tento nepříznivý tlakový gradient je nejsilnější směrem k odtokové hraně profilu, a proto se odtrhávání proudu typicky iniciuje v této oblasti a postupně se s rostoucím úhlem náběhu šíří dopředu.
+
 
 ---
 
@@ -1120,6 +1606,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** V souladu s leteckými předpisy (např. ICAO Annex 11 a národní implementace, jako je česká AIP) se prostor třídy E v mnoha oblastech, včetně České republiky, obvykle rozprostírá od své spodní hranice (která se liší, např. 1000 ft AGL) až do výšky FL 95 (Flight Level 95). To odpovídá 9500 stopám standardní tlakové nadmořské výšky, což je přibližně 2900 metrů. Nad touto výškou se prostor zpravidla mění na jinou třídu (např. G nebo C), nebo má specifické omezení.
+
+
+---
+
 ### Nejspodnější vrstvu atmosféry nazýváme:
 *Body: 3 | Výskyty: 76 | Kategorie: Meteorologie | První výskyt: 11.07.2024 | Poslední výskyt: 05.09.2024*
 
@@ -1129,12 +1621,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Otázka se týká základní struktury atmosféry Země. Troposféra je nejspodnější vrstva atmosféry, která sahá od zemského povrchu do výšky přibližně 8–15 kilometrů. Je to vrstva, ve které se odehrává většina meteorologických jevů a ve které se odehrává drtivá většina letového provozu. Mezisféra a stratosféra jsou vyšší vrstvy atmosféry.
+
+
+---
+
 ### Srážky vypadávající z oblačných soustav výrazných teplých front jsou převážně:
 *Body: 3 | Výskyty: 18 | Kategorie: Meteorologie | První výskyt: 09.07.2024 | Poslední výskyt: 05.09.2024*
 
 - **a) srážky trvalé**
 - b) srážky občasné
 - c) přeháňky
+
+---
+
+
+> **Vysvětlení:** Teplé fronty jsou charakterizovány pomalým postupem a mírným sklonem. To způsobuje, že teplý vzduch nadzvedává studený vzduch postupně a po delší dobu, což vede k dlouhotrvajícím, ale obvykle méně intenzivním srážkám, které označujeme jako trvalé.
+
 
 ---
 
@@ -1156,6 +1660,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Srovnávací navigace, známá též jako pilotáž, je základní navigační technika, při které pilot vizuálně srovnává skutečný terén (dominantní body, řeky, silnice, města, atd.) s jejich zobrazením na navigační mapě. To pilotovi umožňuje potvrdit svou polohu, sledovat dráhu letu a udržovat si situační povědomí. Možnost C přesně popisuje tento proces, zatímco ostatní možnosti popisují jiné aspekty navigace nebo plánování letu.
+
+
+---
+
 ### Při improvizovaném transportu postiženého:
 *Body: 1 | Výskyty: 103 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 09.07.2024 | Poslední výskyt: 05.09.2024*
 
@@ -1171,6 +1681,12 @@ Celkem unikátních otázek: **393**
 - **a) 60 měsíců u osob do 40 let**
 - b) 24 měsíců u osob od 20 do 60 let
 - c) neomezená u osob do 60 let
+
+---
+
+
+> **Vysvětlení:** Otázka se týká doby platnosti lékařského posudku, což je specifické pravidlo stanovené leteckými předpisy pro piloty. Odpověď A je správná, protože dle platných předpisů pro piloty ultralehkých letadel (SLZ) je doba platnosti zdravotní prohlídky 60 měsíců pro osoby mladší 40 let.
+
 
 ---
 
@@ -1192,12 +1708,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Fronta je definována jako přechodové pásmo mezi dvěma vzduchovými hmotami s odlišnými meteorologickými vlastnostmi, jako je teplota, vlhkost a tlak. Tyto rozdíly často vedou k výrazným změnám počasí podél fronty.
+
+
+---
+
 ### Je možné z rychlostní poláry odečíst rychlost nejlepšího klouzání při protivětru?
 *Body: 1 | Výskyty: 22 | Kategorie: Letové výkony a plánování | První výskyt: 15.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) ne
 - **b) ano**
 - c) jen pro vítr do zad
+
+---
+
+
+> **Vysvětlení:** Ano, je to možné. Rychlostní polára je grafické znázornění závislosti klesavosti letadla na rychlosti letu (True Airspeed). Pro určení rychlosti nejlepšího klouzání pro maximální dolet vůči zemi při protivětru se na poláru vynese tečna. Tato tečna se nevynáší z počátku souřadnic (jako v případě bezvětří), ale z bodu na ose rychlosti (True Airspeed), jehož hodnota odpovídá rychlosti protivětru. Bod dotyku této tečny s polárou pak udává optimální rychlost letu (TAS) pro klouzání v daném protivětru. Tato rychlost bude vždy vyšší než rychlost nejlepšího klouzání v bezvětří.
+
 
 ---
 
@@ -1210,12 +1738,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Troposféra je nejnižší vrstva atmosféry, kde probíhají veškeré meteorologické jevy, včetně vertikálních pohybů vzduchu (vzestupné a sestupné proudy), které jsou klíčové pro tvorbu počasí.
+
+
+---
+
 ### Štíhlost křídla:
 *Body: 1 | Výskyty: 10 | Kategorie: Principy letu a aerodynamika | První výskyt: 12.07.2024 | Poslední výskyt: 05.09.2024*
 
 - **a) udává vztah mezi druhou mocninou rozpětí a plochou křídla**
 - b) udává vztah mezi rozpětím a tloušťkou profilu
 - c) udává vztah mezi hloubkou a tloušťkou profilu
+
+---
+
+
+> **Vysvětlení:** Štíhlost křídla (wing aspect ratio) je definována jako druhá mocnina rozpětí křídla dělená plochou křídla (AR = b²/S). Tato hodnota popisuje, jak 'dlouhé' a 'úzké' je křídlo v poměru k jeho ploše. Vyšší štíhlost obecně vede k nižšímu indukovanému odporu.
+
 
 ---
 
@@ -1237,12 +1777,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Vysoká oblaka (např. cirry, cirrocumulus, cirrostratus) se tvoří ve výškách nad 6 000 metrů, kde jsou teploty hluboko pod bodem mrazu. Z tohoto důvodu jsou tato oblaka tvořena téměř výhradně ledovými krystalky. Kroupy se vyskytují v bouřkových oblacích (cumulonimbus), které jsou charakteristické pro střední a nízké úrovně. Podchlazené vodní kapky se nacházejí v oblacích v nižších a středních výškách, kde teplota je sice pod bodem mrazu, ale voda zůstává v kapalném stavu.
+
+
+---
+
 ### Horizontální rychlost se udává:
 *Body: 0 | Výskyty: 103 | Kategorie: Navigace a letové přístroje | První výskyt: 09.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) v uzlech
 - b) ve stopách
 - **c) v km/hod, v MPH, v uzlech (kts)**
+
+---
+
+
+> **Vysvětlení:** Odpověď C je správná, protože horizontální rychlost se v letectví běžně udává ve všech třech jednotkách: v uzlech (kts), což je mezinárodní standard (zejména pro rychlost letu a rychlost vůči zemi), v kilometrech za hodinu (km/hod), což je běžné v některých zemích a pro některé typy letadel (např. VFR létání, lehké letouny), a v mílích za hodinu (MPH), které se používají především u starších letounů nebo v regionech s imperiálními jednotkami. Správné porozumění a používání těchto jednotek je klíčové pro výpočty letových výkonů a plánování.
+
 
 ---
 
@@ -1273,6 +1825,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Izolované bouřky místní povahy, které se objevují nezávisle na větších povětrnostních systémech, jsou typicky způsobeny konvektivním ohřevem zemského povrchu během slunečného dne. Tento ohřev vede ke vzniku termálních kupolí, které se zvedají a vytvářejí bouřkové oblaky (cumulonimbus).
+
+
+---
+
 ### Spirálu docílíme tak, že
 *Body: 0 | Výskyty: 211 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 10.07.2024 | Poslední výskyt: 05.09.2024*
 
@@ -1291,12 +1849,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Tato otázka se týká základních pravidel pro zabránění srážkám v letecké dopravě. Podle mezinárodních leteckých předpisů (např. ICAO Annex 2, Pravidla létání), pokud se dvě letadla blíží na vstřícných nebo přibližně vstřícných tratích, každé z nich musí změnit kurz vpravo. Toto pravidlo zajišťuje, že se obě letadla vyhnou stejným směrem, což maximalizuje šanci na bezpečné rozminutí a minimalizuje riziko srážky.
+
+
+---
+
 ### Definice dohlednosti zní:
 *Body: 0 | Výskyty: 69 | Kategorie: Meteorologie | První výskyt: 11.07.2024 | Poslední výskyt: 05.09.2024*
 
 - **a) schopnost vidět a rozeznávat význačné neosvětlené předměty ve dne a světla v noci určená atmosférickými podmínkami a vyjádřená jednotkami vzdálenosti**
 - b) dohlednost dopředu z kabiny letadla za letu daná meteorologickými podmínkami a vyjádřená v jednotkách délkové míry
 - c) schopnost vidět a rozeznávat význačné neosvětlené předměty ve dne a světla v noci z kabiny letadla za letu
+
+---
+
+
+> **Vysvětlení:** Správná odpověď C nejlépe vystihuje oficiální definici dohlednosti v letectví, která zahrnuje schopnost vidět a rozeznávat předměty (nebo světla v noci) určenou atmosférickými podmínkami a vyjádřenou v jednotkách vzdálenosti. Možnost A je nesprávná, protože se zaměřuje pouze na pohled z kabiny letadla za letu, což není kompletní definice. Možnost B je také neúplná, protože nezmiňuje rozlišování předmětů a specifikuje pouze pohled dopředu.
+
 
 ---
 
@@ -1327,12 +1897,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** V systému azimutálního měření směru se sever (N) obvykle považuje za 0° nebo 360°. Odtud se směr měří ve stupních po směru hodinových ručiček. Jih (S) je 180° a západ (W) je 270°. Vedlejší světová strana 'jihozápad' (SW) se nachází přesně mezi jihem a západem, což je průměrná hodnota mezi 180° a 270°, tedy (180 + 270) / 2 = 450 / 2 = 225°. Proto 225 stupňů odpovídá jihozápadu.
+
+
+---
+
 ### Letištní provozní zóna - ATZ je:
 *Body: 0 | Výskyty: 70 | Kategorie: Letecké předpisy a legislativa | První výskyt: 10.07.2024 | Poslední výskyt: 05.09.2024*
 
 - **a) vymezený vzdušný prostor, který slouží k ochraně letištního provozu**
 - b) vymezený vzdušný protstor se stálou informační službou
 - c) vymezený vzdušný prostor se službou řízení letového provozu
+
+---
+
+
+> **Vysvětlení:** Otázka se týká definice a účelu letištní provozní zóny (ATZ). ATZ je vymezený vzdušný prostor, který slouží k ochraně letadel provádějících letištní provoz (vzlety, přistání, okruhy) v blízkosti letiště před ostatním provozem. Možnost A je nesprávná, protože ATZ nemusí mít službu řízení letového provozu (ATC), může být i na neřízeném letišti (AFIS nebo bez stálé služby). Možnost C je také nesprávná, protože ne každá ATZ má stálou informační službu (AFIS); hlavní účel je ochrana provozu, nikoli nutná přítomnost služby. Správná odpověď B přesně vystihuje primární účel ATZ, kterým je ochrana letištního provozu.
+
 
 ---
 
@@ -1363,12 +1945,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Násobek zatížení (load factor) je definován jako poměr vztlaku k tíze letadla. Udává tedy, kolikrát je aktuální vztlak větší než tíha v daném okamžiku letu. Odpověď A tuto definici přesně vystihuje.
+
+
+---
+
 ### Letí-li dvě SLZ na protínajících se tratích ve volném prostoru má přednost SLZ letící
 *Body: 0 | Výskyty: 47 | Kategorie: Letecké předpisy a legislativa | První výskyt: 10.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) které letí proti slunci
 - b) leva
 - **c) zprava**
+
+---
+
+
+> **Vysvětlení:** Tato otázka se týká základních pravidel pro přednost v letu (right-of-way) ve volném prostoru. Podle mezinárodních leteckých předpisů (např. ICAO Annex 2 – Pravidla létání) a národních předpisů (v ČR Doplněk L2 Pravidla létání) platí, že pokud se dva letouny (nebo v tomto případě SLZ) blíží k sobě na protínajících se tratích ve zhruba stejné výšce a hrozí srážka, přednost má letoun, který má druhý letoun po své levé straně. To znamená, že letoun letící zprava má přednost a druhý letoun je povinen se vyhnout (obvykle změnou kurzu doprava, aby se vyhnul nadřazenému stroji).
+
 
 ---
 
@@ -1381,12 +1975,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Instabilní zvrstvení znamená, že vzduchová hmota vystoupá samovolně, protože se po mírném vertikálním pohybu stává teplejší a lehčí než okolní vzduch. Toto vede k dalším vertikálním pohybům, jako jsou konvekce a vývoj bouří.
+
+
+---
+
 ### Při stoupání je v převodní výšce přestavován výškoměr. Je-li místní QNH 1023 hPa, co se stane s údajem výškoměru?
 *Body: 0 | Výskyty: 31 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 12.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) Zvětší se
 - **b) Zmenší se**
 - c) Nebude tím ovlivněn
+
+---
+
+
+> **Vysvětlení:** Přestavení výškoměru na místní QNH v převodní výšce (transition altitude) je standardní postup definovaný leteckými předpisy. Po přeletu této výšky začne výškoměr indikovat nadmořskou výšku založenou na aktuálním tlaku u hladiny moře. Pokud je místní QNH (1023 hPa) nižší než standardní atmosférický tlak (1013.25 hPa), bude indikovaná výška při stejném skutečném tlaku pod výškoměrem nižší, než když byl nastaven na standardní tlak. Tudíž při nastavení na nižší QNH se údaj výškoměru zmenší.
+
 
 ---
 
@@ -1399,12 +2005,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Fén (Föhn) je specifický typ větrného jevu, který vzniká při proudění vzduchu přes horské překážky. Na návětrné straně hory vzduch stoupá, ochlazuje se, kondenzuje a sráží se. Na závětrné straně pak vzduch klesá, ohřívá se adiabaticky a stává se sušším a teplejším. Tento teplý a suchý vítr vanoucí z hor do údolí je právě charakteristikou fénu.
+
+
+---
+
 ### Pilot letadla nevybaveného radiostanicí, který má v úmyslu přiletět na neřízené letiště nebo z něho odletět, je povinen
 *Body: 0 | Výskyty: 27 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 12.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) dodržet pro odlet nebo přílet pravidla vyhýbání
 - **b) předem zkoordinovat svůj přílet nebo odlet se stanovištěm AFIS nebo provozovatelem letiště**
 - c) předem zkoordinovat svůj přílet nebo odlet s majitelem letiště
+
+---
+
+
+> **Vysvětlení:** Otázka se týká pravidel a povinností pilota při provozu na neřízeném letišti, což spadá do oblasti leteckých předpisů (pravidel létání a provozu letišť). Správná odpověď C je důležitá, protože i na neřízeném letišti je nutná koordinace pro zajištění bezpečného provozu, ať už s provozovatelem letiště nebo s AFIS (Aerodrome Flight Information Service), pokud je k dispozici.
+
 
 ---
 
@@ -1435,6 +2053,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Letecké mapy jsou primárně určeny pro navigaci, kde je zásadní přesné určení směru letu (kurzu/úhlu) a uražené vzdálenosti. Zkreslení úhlů by vedlo k chybám v kurzu a ložiscích, zatímco zkreslení vzdáleností by ovlivnilo výpočty času, spotřeby paliva a odhadu polohy. Proto je věrohodné zobrazení úhlů a vzdáleností klíčové pro bezpečnou a přesnou leteckou navigaci. Mnohé letecké mapové projekce (např. Lambertova kuželová konformní) jsou koncipovány tak, aby v daných oblastech minimalizovaly zkreslení úhlů a vzdáleností.
+
+
+---
+
 ### Letadlo, které je podle pravidel povinno dát přednost jinému letadlu se musí:
 *Body: 0 | Výskyty: 44 | Kategorie: Letecké předpisy a legislativa | První výskyt: 11.07.2024 | Poslední výskyt: 05.09.2024*
 
@@ -1444,12 +2068,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Otázka se týká pravidel přednosti v letovém provozu a způsobu, jakým má letadlo, které je povinno dát přednost, reagovat. Podle leteckých předpisů (např. ICAO Annex 2 nebo odpovídající národní legislativy) musí letadlo, které je povinno dát přednost, provést jasný a včasný úhybný manévr, aby zabránilo srážce a udrželo dostatečnou vzdálenost od druhého letadla. Možnost B správně popisuje obecné způsoby takového manévru (nadletět, podletět nebo křižovat trať v dostatečné vzdálenosti), které zajišťují bezpečné rozestupy. Možnosti A a C uvádějí konkrétní vzdálenosti (300 m horizontálně, 150 m vertikálně), které jsou spíše minimálními rozestupy pro určité situace nebo pro ATC řízení, ale nejsou primárním předpisem pro to, jak se má letadlo v obecné situaci přednosti aktivně vyhnout. Klíčové je provedení úhybného manévru s cílem zajistit dostatečnou vzdálenost, nikoli přesně dodržet konkrétní číselnou hodnotu separace jako takovou.
+
+
+---
+
 ### Osa zemská je myšlená přímka středem země kolmá na rovník. Místa, kde protíná povrch země se nazývají póly (točny). Jsou to póly:
 *Body: 0 | Výskyty: 75 | Kategorie: Navigace a letové přístroje | První výskyt: 10.07.2024 | Poslední výskyt: 05.09.2024*
 
 - **a) zeměpisné**
 - b) totožné
 - c) magnetické
+
+---
+
+
+> **Vysvětlení:** V otázce je popsána osa zemská, která prochází středem Země kolmo na rovník. Body, kde tato osa protíná povrch Země, jsou definicí zeměpisných pólů (severního a jižního zeměpisného pólu). Magnetické póly se od zeměpisných liší a jejich poloha není totožná s osou rotace Země. Proto je správná odpověď A – zeměpisné.
+
 
 ---
 
@@ -1471,6 +2107,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Vztlak je definován jako složka aerodynamické síly působící na profil křídla, která je kolmá na směr proudění vzduchu (a tedy i na směr aerodynamického odporu). Možnost A je sice částečně správná, ale neúplná, protože nezdůrazňuje kolmost na odpor. Možnost B popisuje odpor, nikoli vztlak, a navíc nesprávně uvádí, že odpor je dán úhlem náběhu (i když s ním souvisí).
+
+
+---
+
 ### Nezbytným předpokladem pro kondenzaci nasycených vodních par v troposféře je přítomnost kondenzačních jader, kterými jsou:
 *Body: 0 | Výskyty: 78 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 05.09.2024*
 
@@ -1480,12 +2122,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Kondenzace vodní páry v atmosféře, tedy tvorba oblaků a mlhy, vyžaduje přítomnost malých částic ve vzduchu, na kterých může pára kondenzovat. Tyto částice se nazývají kondenzační jádra. Většinou se jedná o pevné částice, jako jsou prachové částice, saze, mořská sůl nebo krystalky vulkanického popela. Kapky vody nebo ledové krystalky nemohou samovolně vzniknout bez povrchu, na kterém by se mohly tvořit.
+
+
+---
+
 ### Atmosférický tlak s rostoucí výškou:
 *Body: 0 | Výskyty: 78 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) roste a dosahuje ve výšce 5,5 km dvojnásobné hodnoty, než při hladině moře
 - **b) klesá a dosahuje ve výšce 5,5 km poloviční hodnoty, než při hladině moře**
 - c) se nemění
+
+---
+
+
+> **Vysvětlení:** Atmosférický tlak klesá s rostoucí výškou. Ve výšce přibližně 5,5 km (což je zhruba polovina celkové hmotnosti atmosféry nad námi) je tlak přibližně poloviční oproti tlaku na hladině moře. To je základní princip atmosférické fyziky.
+
 
 ---
 
@@ -1513,6 +2167,12 @@ Celkem unikátních otázek: **393**
 - **a) Tendence k mlze a nízké oblačnosti typu St**
 - b) Oblačnost typu Ns s trvalým deštěm
 - c) Bouřky
+
+---
+
+
+> **Vysvětlení:** V zimě nad pevninou jsou oblasti vysokého tlaku vzduchu obvykle spojeny se stabilním vzduchem. To omezuje vertikální pohyb vzduchu, který je nezbytný pro vznik bouřek nebo silného deště s vysokou oblačností. Místo toho dochází k ochlazování vzduchu u země, což vede k tvorbě mlhy nebo nízké oblačnosti typu Stratocumulus (St).
+
 
 ---
 
@@ -1561,12 +2221,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Cumulonimbus (Cb) jsou bouřkové oblaka, která mohou dosahovat obrovských vertikálních rozměrů. Jejich horní část, tzv. kovadlina (anvil), často proniká do spodních vrstev stratosféry (tropopauzy), což je až do výšky 15-20 km, nebo i více v tropických oblastech. Ostatní uvedené druhy oblačnosti (Cumulus a Cirrostratus) se vyskytují převážně v troposféře.
+
+
+---
+
 ### Pohyb letadla, při kterém se otáčí kolem své svislé (kolmé) osy se nazývá:
 *Body: 0 | Výskyty: 20 | Kategorie: Principy letu a aerodynamika | První výskyt: 16.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) klopení
 - **b) zatáčení**
 - c) klonění
+
+---
+
+
+> **Vysvětlení:** Otáčení letadla kolem své svislé osy, která prochází středem těžiště, se nazývá zatáčení (yaw). Klonění (roll) je rotace kolem podélné osy a klopení (pitch) je rotace kolem příčné osy.
+
 
 ---
 
@@ -1579,12 +2251,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** V troposféře, což je nejnižší vrstva atmosféry, teplota obvykle klesá s rostoucí výškou. Tento jev je způsoben tím, že sluneční záření ohřívá zemský povrch, který následně ohřívá vzduch v nižších vrstvách. S rostoucí výškou se vzduch stává řidším a dále od zdroje tepla, proto jeho teplota klesá. Naopak, v tropopauze (hranici mezi troposférou a stratosférou) dochází k inverzi teploty, kde se teplota s výškou přestává snižovat a začíná stoupat. Isotermie (konstantní teplota) a nárůst tlaku s výškou nejsou typickými vlastnostmi troposféry.
+
+
+---
+
 ### Které základní parametry a jevy určují počasí uvnitř vzduchové hmoty:
 *Body: 0 | Výskyty: 39 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) srážky, dohlednost
 - b) tlak, oblačnost, hustota vzduchu
 - **c) teplota, vlhkost, vertikální teplotní gradient**
+
+---
+
+
+> **Vysvětlení:** Možnost C je správná, protože teplota, vlhkost a vertikální teplotní gradient jsou klíčové meteorologické prvky, které definují charakteristiky a potenciální vývoj počasí uvnitř dané vzduchové hmoty. Tyto parametry ovlivňují vznik oblaků, srážek, turbulencí a dalších jevů.
+
 
 ---
 
@@ -1624,6 +2308,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Mezinárodní standardní atmosféra (ISA) definuje standardní atmosférické podmínky pro účely leteckých výpočtů a kalibrace přístrojů. Podle této definice jsou standardní hodnoty tlaku a teploty na střední hladině moře (MSL) přesně 1013,25 hPa a +15 °C. Tyto hodnoty jsou základem pro výpočty letových výkonů a správné nastavení výškoměrů.
+
+
+---
+
 ### Létat s MPK, UB bez odpovídače sekundárního radaru je možno do výšky:
 *Body: 0 | Výskyty: 32 | Kategorie: Letecké předpisy a legislativa | První výskyt: 11.07.2024 | Poslední výskyt: 05.09.2024*
 
@@ -1642,12 +2332,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Vzdušný prostor třídy G je nekontrolovaný vzdušný prostor. V tomto typu vzdušného prostoru se po VFR letech (lety za viditelnosti) obecně nevyžaduje navázání rádiového spojení s řízením letového provozu (ATC). Piloti zde létají primárně na principu 'vidět a vyhnout se'. Zatímco komunikace s jinými letadly na společných frekvencích (např. AFIS nebo UNICOM) je doporučena pro zvýšení situačního povědomí, oficiální požadavek na spojení s ATC neexistuje. Proto je odpověď A správná.
+
+
+---
+
 ### Který z následujících druhů oblačnosti je považován za střední oblačnost v mírném pásu?
 *Body: 0 | Výskyty: 103 | Kategorie: Meteorologie | První výskyt: 09.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) Ns, Ci
 - b) St, Sc
 - **c) As, Ac**
+
+---
+
+
+> **Vysvětlení:** Altostratus (As) a Altocumulus (Ac) jsou druhy oblačnosti, které se typicky vyskytují ve středních výškách (2000-7000 m) v mírném pásu, a proto jsou klasifikovány jako střední oblačnost. Stratocumulus (Sc) a Stratus (St) jsou nízko položené oblaky, zatímco Nimbostratus (Ns) je vertikálně rozsáhlý oblak srážkový a Cirrus (Ci) je vysoko položený oblak.
+
 
 ---
 
@@ -1660,6 +2362,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Omezený prostor (Restricted Area, označený v ČR jako LK R) je definován jako vzdušný prostor s vymezenými rozměry nad pevninou nebo mezinárodními vodami, ve kterém jsou letové činnosti omezeny stanovenými podmínkami. To znamená, že pilot do něj může vstoupit nebo jím proletět, ale pouze za předpokladu, že splní specifické podmínky, které jsou obvykle uvedeny v leteckých informacích (AIP). Na rozdíl od zakázaného prostoru (Prohibited Area), do kterého je vstup striktně zakázán, omezený prostor umožňuje vstup po splnění určitých kritérií, jako je například získání povolení od příslušného orgánu, let v konkrétní čas, nebo dodržení specifických procedur.
+
+
+---
+
 ### Při laminárním proudění:
 *Body: 0 | Výskyty: 225 | Kategorie: Principy letu a aerodynamika | První výskyt: 09.07.2024 | Poslední výskyt: 05.09.2024*
 
@@ -1669,12 +2377,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Laminární proudění je charakterizováno pohybem částic tekutiny ve vrstvách, které se navzájem nemíchají. Proudnice jsou rovnoběžné a plynulé, bez vírů a náhodného promíchávání. Každá částice sleduje jasně definovanou dráhu. Opakem je turbulentní proudění, při kterém dochází k intenzivnímu promíchávání proudnic a tvorbě vírů. Možnost A přesně vystihuje definici laminárního proudění, zatímco B a C popisují promíchávání, což je charakteristické pro turbulentní proudění.
+
+
+---
+
 ### Doba východu a západu slunce se mění:
 *Body: 0 | Výskyty: 105 | Kategorie: Meteorologie | První výskyt: 09.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) působením magnetického pole zeměkoule
 - **b) s roční dobou**
 - c) intensitou slunečního záření
+
+---
+
+
+> **Vysvětlení:** Doba východu a západu slunce se mění s roční dobou kvůli sklonu osy Země vzhledem k rovině její oběžné dráhy kolem Slunce. Jak Země obíhá Slunce, různé polokoule jsou nakloněny směrem ke Slunci nebo od něj, což způsobuje změny v délce dne a noci, a tím i v časech východu a západu slunce. Tyto astronomické jevy jsou základem pro pochopení a výpočet denního světla, které je klíčové pro leteckou navigaci a plánování letů, například pro určení začátku a konce letu v noci.
+
 
 ---
 
@@ -1696,12 +2416,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Otázka se týká pravidel pro předcházení srážkám ve vzduchu, která jsou součástí leteckých předpisů. Možnost B správně uvádí výjimku z obecného pravidla, že letadlo vpravo má přednost. Toto pravidlo se nevztahuje na situace, kdy jsou ve vzduchu objekty s nižší manévrovatelností nebo objekty vlečené jiným letadlem, kterým se musí motorové letadlo vyhnout.
+
+
+---
+
 ### Poloha zeměpisného a magnetického pólu:
 *Body: 0 | Výskyty: 113 | Kategorie: Navigace a letové přístroje | První výskyt: 09.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) magnetický pól je vždy na východ od zeměpisného
 - b) totožná
 - **c) není shodná**
+
+---
+
+
+> **Vysvětlení:** Zeměpisné póly jsou pevné body na zemském povrchu, kterými prochází osa rotace Země. Magnetické póly jsou body, kde se magnetické siločáry zemského magnetického pole kolmo noří nebo vynořují z povrchu. Tyto dva typy pólů se neshodují a jejich poloha se v průběhu času mění (zejména u magnetických pólů), což je klíčové pro leteckou navigaci při přepočtu mezi skutečným severem a magnetickým severem (magnetická deklinace).
+
 
 ---
 
@@ -1714,12 +2446,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Země se otáčí od západu k východu. Z tohoto důvodu vychází slunce nejdříve na místech, která leží nejvýchodněji. Moskva (přibližně 37.6° v.d.) leží výrazně východněji než Praha (přibližně 14.4° v.d.). Proto v Moskvě vychází slunce dříve než v Praze. Paříž (přibližně 2.3° v.d.) a Londýn (přibližně 0° v.d.) leží západněji než Praha, což znamená, že tam slunce vychází až po Praze.
+
+
+---
+
 ### Trať vašeho letu křižuje zleva doprava kluzák. Opatření k vyhnutí provede:
 *Body: 3 | Výskyty: 54 | Kategorie: Letecké předpisy a legislativa | První výskyt: 11.07.2024 | Poslední výskyt: 04.09.2024*
 
 - **a) vy**
 - b) letadlo s větší rychlostí nebo výškou
 - c) kluzák
+
+---
+
+
+> **Vysvětlení:** V souladu s pravidly pro předcházení srážkám v letecké dopravě (ICAO Annex 2, nebo národní ekvivalenty jako je LAA ČR Pravidla letů) platí, že pokud se dvě letadla přibližují proti sobě nebo jejich dráhy křižují, musí se jedno z nich vyhnout druhému. V tomto konkrétním případě, kdy trať letu křižuje kluzák zleva doprava, je pilot letadla (vy) povinen provést úhybný manévr. Kluzák má přednost, protože je méně ovladatelný a nemá vlastní pohon pro rychlé vyhýbací manévry. Možnost C je nesprávná, protože pravidla přímo neurčují, že letadlo s větší rychlostí nebo výškou má provést úhybný manévr, i když to může být často praktické, ale prioritou je vždy menší ovladatelné letadlo.
+
 
 ---
 
@@ -1732,12 +2476,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Zakázaný prostor (Prohibited Area, označovaný např. LK P v České republice) je oblast vzdušného prostoru, ve které je let letadel zakázán. Vstup do takového prostoru je možný pouze na základě zvláštního povolení vydaného příslušným úřadem, což je velmi výjimečné. Možnosti A a C jsou nesmyslné, jelikož porušují základní definici a účel zakázaného prostoru. Správná odpověď B přesně vystihuje podstatu omezení v zakázaném prostoru.
+
+
+---
+
 ### Nultý poledník je:
 *Body: 3 | Výskyty: 65 | Kategorie: Navigace a letové přístroje | První výskyt: 10.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) poledník neprocházející hvězdárnou v Greenwich, ovšem pouze na malé kružnici
 - **b) poledník, zvaný též základní, procházející hvězdárnou v Greenwich v Anglii**
 - c) poledník, na kterém se zeměpisná šířka i délka rovnají 0
+
+---
+
+
+> **Vysvětlení:** Nultý poledník, známý též jako základní nebo Greenwichský poledník, je mezinárodně uznaná referenční čára, která definuje 0° zeměpisné délky. Prochází Královskou observatoří v Greenwichi v Anglii a slouží jako východisko pro měření všech ostatních zeměpisných délek. Možnost A je nesprávná, protože poledník Greenwich prochází, a C je nepřesná, protože na nultém poledníku je pouze zeměpisná délka rovna 0°, nikoli zeměpisná šířka.
+
 
 ---
 
@@ -1759,12 +2515,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Odpověď B je správná, protože odpovídá základnímu principu letecké bezpečnosti, který je zakotven v leteckých předpisech. Cílem je chránit nejen osoby a majetek ve vzduchu (cestující, náklad), ale i osoby a majetek na zemi. Možnost A je příliš obecná a možnost C je neúplná, protože nezahrnuje všechny aspekty bezpečnosti, které musí být zajištěny.
+
+
+---
+
 ### Minimální letová dohlednost ve vzdušném prostoru třídy E je:
 *Body: 3 | Výskyty: 58 | Kategorie: Letecké předpisy a legislativa | První výskyt: 09.07.2024 | Poslední výskyt: 04.09.2024*
 
 - **a) 5 km**
 - b) 1,5 km
 - c) 8 km
+
+---
+
+
+> **Vysvětlení:** Správná odpověď C (5 km) je minimální letová dohlednost požadovaná pro vizuální lety (VFR) ve vzdušném prostoru třídy E pod výškou 3050 metrů (10 000 stop) AMSL. Tyto požadavky jsou stanoveny v leteckých předpisech, konkrétně v pravidlech letu podle ICAO Annex 2, které definují VMC (Visual Meteorological Conditions) minima pro různé třídy vzdušného prostoru.
+
 
 ---
 
@@ -1786,12 +2554,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Kompasová růžice je rozdělena na 360 stupňů. Hlavní světové strany jsou Sever (000/360°), Východ (090°), Jih (180°) a Západ (270°). Vedlejší světové strany leží přesně uprostřed mezi těmito hlavními směry. Severovýchod (Northeast) leží přesně mezi Severem (000°) a Východem (090°), což odpovídá 045 stupňům. Možnost B 'severovýchod' je tedy správná.
+
+
+---
+
 ### Čas se udává:
 *Body: 3 | Výskyty: 50 | Kategorie: Letecké předpisy a legislativa | První výskyt: 13.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) v hod, min, sec s tím, že minuta začíná ve 30.sec předchozí minuty a končí ve 30.sec následující minuty
 - **b) v hod, min, sec s tím, že minuta začíná 1.sec a končí 60.sec**
 - c) ve stupních
+
+---
+
+
+> **Vysvětlení:** Správná odpověď C popisuje standardní a mezinárodně uznávané vyjádření času, kde každá minuta začíná první sekundou a končí šedesátou sekundou. Tato jednoznačná definice je klíčová pro přesné a konzistentní udávání času v letectví, což je nezbytné pro bezpečnost a efektivitu provozu (např. při letových plánech, radiokomunikaci, meteorologických hlášeních). Možnost A zavádí neexistující a matoucí definici minuty, zatímco možnost B je zcela nesouvisející, protože stupně se používají k měření úhlů, nikoliv času.
+
 
 ---
 
@@ -1813,6 +2593,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Bouřky z tepla (konvektivní bouřky) vznikají v důsledku silného ohřívání zemského povrchu slunečním zářením. Toto ohřívání vede k nestabilitě atmosféry a výstupu teplého vlhkého vzduchu, což jsou klíčové faktory pro tvorbu bouřek. Nejintenzivnější ohřívání povrchu a tím i nejsilnější konvekce probíhá v odpoledních a podvečerních hodinách, kdy jsou přízemní teploty nejvyšší. V noci, naopak, dochází k ochlazování povrchu a atmosféra je stabilnější, což nepřeje vzniku těchto typů bouřek.
+
+
+---
+
 ### Údaj v metrech přepočítáte na údaj ve stopách přibližně (foot, zkr.ft)
 *Body: 1 | Výskyty: 62 | Kategorie: Navigace a letové přístroje | První výskyt: 10.07.2024 | Poslední výskyt: 04.09.2024*
 
@@ -1831,12 +2617,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Otázka se týká pravidel pro vzlety a přistání motorových sportovních létajících zařízení (SLZ) v nepravidelném provozu. V souladu s českými leteckými předpisy (konkrétně L-2, Pravidla létání) je pro vzlety a přistání SLZ mimo schválená letiště nebo plochy postačující souhlas vlastníka pozemku, pokud jsou splněny ostatní podmínky týkající se bezpečnosti provozu a vzdušného prostoru. Možnosti A a C popisují podmínky pro trvale vymezené plochy nebo letiště, které neodpovídají povaze „nepravidelného provozu“ pro SLZ.
+
+
+---
+
 ### Jaké meteorologické podmínky lze očekávat v mírných zeměpisných šířkách v létě nad pevninou ve středu stacionární oblasti vysokého tlaku vzduchu?
 *Body: 1 | Výskyty: 73 | Kategorie: Meteorologie | První výskyt: 09.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) Oblačnost typu Ns
 - b) Bouřky, průzračný vzduch a silný vítr.
 - **c) Slabý vítr, kouřmo.**
+
+---
+
+
+> **Vysvětlení:** Stacionární oblast vysokého tlaku vzduchu (anticyklóna) nad pevninou v létě v mírných zeměpisných šířkách je obecně spojena se stabilní atmosférou. Tato stabilita vede ke slabému vertikálnímu proudění a minimální oblačnosti. Ve středu takové oblasti bývá slabý vítr (často směrem k okrajům anticyklóny) a jasné nebo jen řídce oblačné počasí. Bouřky (A) jsou typické pro nestabilní atmosféru s konvekcí. Oblačnost typu Ns (C) jsou význačné vrstevnaté dešťové oblaky, které se obvykle vyskytují v teplých frontách nebo v oblastech s výrazným vertikálním prouděním, což je v centru anticyklóny nepravděpodobné.
+
 
 ---
 
@@ -1849,6 +2647,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Standardní atmosféra definuje, že barometrický tlak klesá exponenciálně s výškou. Přibližně poloviční hodnoty tlaku na hladině moře (1013.25 hPa) je dosaženo ve výšce kolem 5500 metrů (MSL).
+
+
+---
+
 ### Mezi vysoká oblaka patří:
 *Body: 1 | Výskyty: 36 | Kategorie: Meteorologie | První výskyt: 12.07.2024 | Poslední výskyt: 04.09.2024*
 
@@ -1858,12 +2662,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Cirrocumulus (Cc) a Cirrostratus (Cs) jsou typy vysokých oblaků, které se nacházejí ve výškách nad 5000 metrů. Stratus (St) a Stratocumulus (Sc) jsou nízká oblaka, zatímco Cumulus (Cu) jsou oblaka vertikálního vývoje a Altocumulus (Ac) jsou střední oblaka.
+
+
+---
+
 ### Odpovědnost pilota (velitele) letadla:
 *Body: 0 | Výskyty: 38 | Kategorie: Letecké předpisy a legislativa | První výskyt: 09.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) velitel letadla nemá právo s konečnou platností rozhodnout o provedení letu
 - b) velitel letadla neodpovídá za provedení letu v případě, když obdržel povolení ke vzletu od služeb řízení letového provozu
 - **c) velitel letadla odpovídá za provedení letu podle pravidel létání, ať letadlo sám řídí či nikoliv, vyjma případů, když si okolnosti vynutí odchylku od těchto pravidel v zájmu bezpečnosti**
+
+---
+
+
+> **Vysvětlení:** Možnost C je správná, protože ustanovuje primární odpovědnost pilota velícího za bezpečné provedení letu v souladu s pravidly létání. Tato odpovědnost je neustálá a platí i v případě delegování řízení jinému členu posádky, s výjimkou situací, kdy jsou nezbytné odchylky pro zajištění bezpečnosti. Možnosti A a B jsou nesprávné, protože velitel letadla má konečnou autoritu rozhodovat o letu a jeho odpovědnost za let není delegovatelná ani zrušitelná pouhým udělením povolení ke vzletu řídícím orgánem.
+
 
 ---
 
@@ -1894,6 +2710,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Vznik vztlaku (liftu) je primárně způsoben rozdílem tlaků mezi horní a dolní stranou křídla. Proudění vzduchu nad zakřivenou horní stranou křídla se zrychluje, což dle Bernoulliho principu vede k poklesu tlaku (vzniká podtlak). Naopak, proudění vzduchu pod spodní stranou křídla je zpomaleno a mírně stlačeno, což vede ke zvýšení tlaku oproti okolnímu prostředí (vzniká přetlak). Kombinace tohoto podtlaku nahoře a přetlaku dole vytváří čistou sílu směřující vzhůru, tedy vztlak.
+
+
+---
+
 ### Pokud použijeme škrtidlo, ale rána stále krvácí:
 *Body: 0 | Výskyty: 42 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 09.07.2024 | Poslední výskyt: 04.09.2024*
 
@@ -1909,6 +2731,12 @@ Celkem unikátních otázek: **393**
 - a) odtržení proudu vzduchu u kořene křídla později než na koncích
 - b) zmenšení indukovaného odporu
 - **c) odtržení proudu vzduchu na koncích křídla později než u kořene**
+
+---
+
+
+> **Vysvětlení:** Aerodynamické a geometrické zkroucení křídla (twist) znamená, že náběžná hrana je natočena více než odtoková hrana, což vede k tomu, že úhel náběhu je větší u kořene křídla než na koncích. Tímto způsobem se zajistí, že konce křídla zůstanou v zátěži déle než kořen. V důsledku toho dochází k odtržení proudu vzduchu (stall) na koncích křídla později než u kořene, což zvyšuje ovladatelnost letadla a zabraňuje rychlému pádu.
+
 
 ---
 
@@ -1957,12 +2785,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Správná odpověď C popisuje základní princip vzniku vztlaku. Aerodynamický profil křídla je navržen tak, aby vzduch proudící nad horní plochou musel urazit delší dráhu než vzduch proudící pod dolní plochou. Podle Bernoullího principu, kde se rychlost zvyšuje, tlak klesá. Proto vzniká nad profilem podtlak a pod profilem přetlak. Poměr velikosti těchto tlaků (typicky kolem 1/3 přetlaku a 2/3 podtlaku) je klíčový pro generování účinného vztlaku při běžných úhlech náběhu. Možnost A a B nesprávně uvádí směr tlaků nebo jejich poměr.
+
+
+---
+
 ### Doklady potřebné pro let SLZ musí mít pilot u sebe:
 *Body: 0 | Výskyty: 101 | Kategorie: Letecké předpisy a legislativa | První výskyt: 10.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) jen při mimoletištním letu
 - b) jen při přeletu
 - **c) při každém letu**
+
+---
+
+
+> **Vysvětlení:** Letecké předpisy jednoznačně stanovují, že pilot musí mít u sebe všechny požadované dokumenty (např. pilotní průkaz, osvědčení o zdravotní způsobilosti, technický průkaz SLZ) při každém letu. Tato povinnost platí bez ohledu na délku letu, typ letu (místní, přelet) nebo místo vzletu či přistání, a slouží k ověření oprávnění pilota a způsobilosti SLZ k letu.
+
 
 ---
 
@@ -1975,12 +2815,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** V letním období ve střední Evropě, v centrální části výrazné tlakové výše, se typicky vyskytuje stabilní vzduchová hmota. To vede k převážně jasné obloze, slabému větru, vysokým denním teplotám v důsledku silného slunečního záření a slábnoucí termice v odpoledních hodinách, kdy se denní ohřev snižuje a vzduchové masy se stabilizují.
+
+
+---
+
 ### Letí-li letadlo klouzavým letem při takovém úhlu náběhu, že jeho klouzavost je např. 10, pak to znamená, že:
 *Body: 0 | Výskyty: 74 | Kategorie: Principy letu a aerodynamika | První výskyt: 10.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) za dobu 10 s uletí 1 km
 - b) letí k zemi pod úhlem 10°
 - **c) doletí z výšky 1 km do vzdálenosti 10 km ( při bezvětří)**
+
+---
+
+
+> **Vysvětlení:** Klouzavost (glide ratio, poměr klouzavosti L/D) je definována jako poměr uražené vodorovné vzdálenosti k úbytku výšky při klouzavém letu. Klouzavost 10 tedy znamená, že letadlo na každý 1 km ztracené výšky urazí 10 km vodorovně (za bezvětří). Možnost B přesně vystihuje tuto definici, zatímco možnosti A a C jsou chybné – úhel sestupu není roven klouzavosti a klouzavost přímo nevyjadřuje rychlost za určitou dobu.
+
 
 ---
 
@@ -1993,12 +2845,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Instabilní zvrstvení (lapse rate) nastává, když se vzduchová částice po vychýlení z rovnovážné polohy (např. vlivem vnější síly) stává nestabilní a pokračuje ve svém pohybu (v tomto případě stoupání) i po odstranění této vnější síly. To je způsobeno tím, že teplota okolního vzduchu klesá rychleji s výškou než teplota nasycené vzduchové částice, což ji činí stále teplejší a lehčí než okolí, a proto stoupá.
+
+
+---
+
 ### V oblasti fronty se tvoří mohutná a výrazná Cb - cumulonimbus oblačnost. Je to typický projev:
 *Body: 0 | Výskyty: 18 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 04.09.2024*
 
 - **a) studené fronty II. druhu**
 - b) teplé fronty
 - c) teplé okludované fronty
+
+---
+
+
+> **Vysvětlení:** Cumulonimbus (Cb) oblačnost, charakterizovaná bouřkami, silnými srážkami a výskytem výbojů, je typická pro studené fronty, zejména pro studené fronty II. druhu (rychlé studené fronty). Tyto fronty způsobují prudký výstup teplého vzduchu, což vede k vertikálnímu rozvoji oblaků typu Cb. Teplé fronty a teplé okluze se obvykle spojují s jinými typy oblaků (např. nimbostratus, altostratus) a méně bouřkovým počasím.
+
 
 ---
 
@@ -2020,12 +2884,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Hustota vzduchu je nepřímo úměrná teplotě (za konstantního tlaku). Když se vzduch ochladí, molekuly vzduchu ztrácejí kinetickou energii, zpomalují se a shlukují se blíže k sobě. To znamená, že v daném objemu je více molekul vzduchu, což vede ke zvýšení hustoty vzduchu. V hustším vzduchu se letadlu generuje větší vztlak a motorům větší tah.
+
+
+---
+
 ### Suchá adiabata je stavová křivka znázorňující změnu teploty s výškou o hodnotu:
 *Body: 0 | Výskyty: 70 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) 0,60 °C/100 m výšky
 - **b) 1,00 °C/100 m výšky**
 - c) 0,65 °C/100 m výšky
+
+---
+
+
+> **Vysvětlení:** Správná odpověď C je platná, protože suchá adiabata popisuje, jak se teplota vzduchu mění s výškou, když vzduch stoupá a rozpíná se bez výměny tepla s okolím. Tato změna činí přibližně 1 °C na každých 100 metrů výšky v troposféře, což je standardní atmosférický gradient.
+
 
 ---
 
@@ -2047,12 +2923,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Otázka se týká dokumentů, které pilot musí mít u sebe za letu, což spadá přímo pod letecké předpisy. Správná odpověď B obsahuje klíčové dokumenty vyžadované pro let se sportovním létajícím zařízením (SLZ): průkaz totožnosti (pro ověření identity pilota), pilotní průkaz nebo doklad žáka (pro prokázání oprávnění k letu), technický průkaz SLZ (doklad o registraci a technické způsobilosti letadla) a doklad o pojištění za škody způsobené provozem SLZ (povinné pojištění odpovědnosti). Ostatní možnosti buď opomíjejí důležité dokumenty (např. C vynechává průkaz totožnosti), nebo obsahují méně přesné či pro SLZ ne vždy primárně vyžadované formulace (např. 'osvědčení letové způsobilosti' a 'lékařský posudek' v A a C, kde pro SLZ bývá 'technický průkaz SLZ' a platné osvědčení o zdravotní způsobilosti často stačí, bez nutnosti vozit detailní posudek).
+
+
+---
+
 ### Část cyklóny mezi teplou a studenou frontou se jmenuje:
 *Body: 0 | Výskyty: 67 | Kategorie: Meteorologie | První výskyt: 09.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) výběžek tlaku
 - b) přední linie
 - **c) teplý sektor**
+
+---
+
+
+> **Vysvětlení:** Teplý sektor cyklóny je oblast, která se nachází mezi studenou a teplou frontou, kde vanou teplé vzdušné hmoty. Přední linie a výběžek tlaku jsou jiné meteorologické termíny, které se nevztahují k této části cyklóny.
+
 
 ---
 
@@ -2065,12 +2953,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Číslice umístěné svisle na letištní věži nebo poblíž ní slouží jako vizuální pomůcka pro piloty na zemi, aby určili doporučený směr vzletu v desítkách stupňů magnetického kurzu. Toto je standardní vizuální navigační pomůcka pro provoz na letišti.
+
+
+---
+
 ### Letištní provozní zóna (ATZ) má tyto rozměry:
 *Body: 0 | Výskyty: 62 | Kategorie: Letecké předpisy a legislativa | První výskyt: 11.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) kružnice 5,5 NM (10 km) do nadmořské výšky 4 000 ft (1200 m)
 - **b) kruh o poloměru 3 NM (5,5 km), vertikálně od země do nadmořské výšky 4000ft (1200 m)**
 - c) kruh o průměru 3NM (5,5 km) do nadmořské výšky 4000ft (1200 m)
+
+---
+
+
+> **Vysvětlení:** Správná odpověď B přesně popisuje standardní rozměry letištní provozní zóny (ATZ) podle leteckých předpisů. ATZ je definována jako kruh o poloměru 3 námořních mil (NM), což odpovídá přibližně 5,5 kilometrům, se středem v referenčním bodě letiště. Vertikálně se rozprostírá od země (povrchu) do nadmořské výšky 4000 stop (přibližně 1200 metrů). Možnost A uvádí nesprávný poloměr 5,5 NM, zatímco možnost C chybně uvádí průměr 3 NM namísto poloměru.
+
 
 ---
 
@@ -2083,12 +2983,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Bouřky vznikají v nestabilní atmosféře, která umožňuje vertikální pohyb vzduchu. K tomu je nezbytný dostatečný obsah vlhkosti, která se při kondenzaci uvolňuje latentní teplo a dále zesiluje stoupavé proudy. Nízký tlak podporuje konvergenci vzduchu, ale není primární podmínkou pro vývoj bouřky. Stabilní podmínky a vysoký tlak vzduchu naopak vývoji bouřek brání.
+
+
+---
+
 ### Vertikální mohutnost troposféry je nejmenší:
-*Body: 0 | Výskyty: 37 | Kategorie: Nezařazeno | První výskyt: 10.07.2024 | Poslední výskyt: 04.09.2024*
+*Body: 0 | Výskyty: 37 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 04.09.2024*
 
 - **a) nad póly**
 - b) nad oblastmi rovníku
 - c) v mírném pásu
+
+---
+
+
+> **Vysvětlení:** Vertikální mohutnost troposféry je nejmenší nad póly, kde je nejchladněji a vzduch je nejhustší, což způsobuje nižší výšku její horní hranice (tropopauzy).
+
 
 ---
 
@@ -2098,6 +3010,12 @@ Celkem unikátních otázek: **393**
 - a) silný nárazovitý přízemní vítr
 - **b) oblaka Cb - cumulonimbus na čele fronty ukrytá v nízké vrstevnaté oblačnosti, turbulence a námraza**
 - c) pouze nízká oblačnost vrstevnatého typu
+
+---
+
+
+> **Vysvětlení:** Studená fronta I. druhu (tzv. studená fronta s přeháňkami) je spojena s rychlým postupem chladného vzduchu, který způsobuje silné vertikální pohyby vzduchu. Tyto pohyby vedou ke vzniku bouřkových oblaků (cumulonimbus), které jsou zdrojem turbulence, srážek a námrazy. Nízká vrstevnatá oblačnost se může vyskytovat před frontou nebo s ní být spojena, ale typické nebezpečné jevy jsou právě ty spojené s Cb. Možnost B je nesprávná, protože studená fronta I. druhu není spojena pouze s nízkou vrstevnatou oblačností. Možnost C, silný nárazovitý přízemní vítr, je sice často doprovodným jevem studené fronty, ale není to hlavní a nejnebezpečnější jev, který je primárně spojen s bouřkovými oblaky.
+
 
 ---
 
@@ -2119,12 +3037,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Tlaková níže (cyklona) je definována jako oblast s nižším atmosférickým tlakem ve srovnání s okolními oblastmi. Nejnižší hodnota tlaku je právě v jejím středu, odkud tlak postupně narůstá směrem k okrajům.
+
+
+---
+
 ### Letadlo za letu nebo pohybující se na zemi musí dát přednost letadlu, které:
 *Body: 0 | Výskyty: 52 | Kategorie: Letecké předpisy a legislativa | První výskyt: 09.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) nemá spojení se službou řízeného letového provozu
 - **b) přistává nebo je v poslední fázi přiblížení na přistání**
 - c) dostalo povolení pro přiblížení na přistání
+
+---
+
+
+> **Vysvětlení:** Tato otázka se týká pravidel přednosti v letovém provozu, která jsou základní součástí leteckých předpisů (např. ICAO Annex 2 – Rules of the Air). Způsobilost letadla k přistání nebo jeho nacházení se v závěrečné fázi přiblížení k přistání mu dává přednost před ostatními letadly ve vzduchu nebo pohybujícími se na zemi. To je klíčové pro zajištění bezpečnosti během kritické fáze letu. Možnost A není správná, protože absence spojení s ATC nezakládá přednost. Možnost B je sice relevantní, ale ne tak přesná a definitivní jako C; samotné povolení k přiblížení ještě neznamená, že letadlo již skutečně přistává nebo je v poslední fázi, kdy je jeho manévrovací schopnost omezena a má nejvyšší prioritu.
+
 
 ---
 
@@ -2143,6 +3073,12 @@ Celkem unikátních otázek: **393**
 - **a) NW**
 - b) SW
 - c) SE
+
+---
+
+
+> **Vysvětlení:** Zkratka 'NW' je standardní ICAO zkratkou pro severozápadní vítr (Northwest wind). Ostatní možnosti neodpovídají této zkratce: 'SE' značí jihovýchodní vítr a 'SW' značí jihozápadní vítr.
+
 
 ---
 
@@ -2191,6 +3127,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Otázka se ptá na specifická pravidla pro lety VFR (Visual Flight Rules) ve vzdušném prostoru tříd C, D a E, což se týká dodržování minimálních vzdáleností od oblaků. Tyto informace jsou součástí leteckých předpisů a standardů pro bezpečný let.
+
+
+---
+
 ### Zaškrcení se provádí:
 *Body: 0 | Výskyty: 30 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 10.07.2024 | Poslední výskyt: 04.09.2024*
 
@@ -2206,6 +3148,12 @@ Celkem unikátních otázek: **393**
 - a) nad póly
 - b) v mírném pásu
 - **c) nad rovníkovými oblastmi**
+
+---
+
+
+> **Vysvětlení:** Vertikální mohutnost troposféry je největší nad rovníkovými oblastmi kvůli vyšším teplotám a intenzivnějšímu konvekčnímu proudění, které tlačí horní hranici troposféry výše. Na pólech je troposféra naopak nejtenčí.
+
 
 ---
 
@@ -2236,12 +3184,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Advekční mlha vzniká, když teplý a vlhký vzduch proudí nad studeným povrchem. Tento proces vede k ochlazování vzduchu v nižších vrstvách, což způsobuje kondenzaci vodní páry a tvorbu mlhy. Vzduchová vrstva těsně nad povrchem se ochladí a stane se chladnější než vzduch nad ní. To je definice teplotní inverze – jevu, kdy teplota vzduchu s rostoucí výškou neklesá, ale naopak roste nebo zůstává stejná.
+
+
+---
+
 ### Které z následujících typů oblačnosti jsou známkou instabilní (nestabilní) vzduchové hmoty?
 *Body: 0 | Výskyty: 50 | Kategorie: Meteorologie | První výskyt: 11.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) Sc, Ns
 - **b) Cu, Cb**
 - c) St, Cs
+
+---
+
+
+> **Vysvětlení:** Správná odpověď B je správná, protože mraky typu Cumulus (Cu) a Cumulonimbus (Cb) jsou charakteristické pro nestabilní vzduchovou hmotu. Nestabilní vzduch umožňuje vertikální vývoj oblaků, což vede k tvorbě kypících, kupovitých mraků (Cumulus) a v případě silné nestability a dostatečné vlhkosti i mohutných bouřkových mraků (Cumulonimbus). Tyto mraky jsou spojeny s konvektivní aktivitou a silnými vertikálními pohyby vzduchu. Naopak mraky jako Stratocumulus (Sc), Nimbostratus (Ns), Stratus (St) a Cirrostratus (Cs) jsou obvykle spojeny se stabilními nebo mírně stabilními vzduchovými hmotami, kde převládá horizontální rozvoj nebo pozvolné zvedání vzduchu.
+
 
 ---
 
@@ -2254,12 +3214,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Odpověď A je správná, protože předpisy pro lety VFR (Visual Flight Rules) obecně stanovují minimální výšku 150 metrů nad zemí nebo vodou. Možnost "s výjimkou létání na svahu" je klíčová, protože tato výjimka je explicitně uvedena v předpisech, které umožňují létání v nižší výšce při letu podél svahu. Možnost B je nesprávná, protože neobsahuje důležitou výjimku. Možnost C (300 m) neodpovídá standardní minimální výšce pro VFR lety.
+
+
+---
+
 ### Základní příčinou vzniku mechanické turbulence je:
 *Body: 0 | Výskyty: 25 | Kategorie: Meteorologie | První výskyt: 15.07.2024 | Poslední výskyt: 04.09.2024*
 
 - **a) vítr a uspořádání terénu**
 - b) vlhkost a teplota vzduchu
 - c) zvrstvení vzduchu
+
+---
+
+
+> **Vysvětlení:** Mechanická turbulence je způsobena náhlými změnami ve vertikální a horizontální složce větru, které jsou primárně ovlivněny překážkami na zemi (terén, budovy) a silnými větry proudícími přes tyto překážky. Vlhko a teplota vzduchu ovlivňují jiné meteorologické jevy (např. tvorbu oblaků, srážky, ale ne přímo mechanickou turbulenci). Zvrstvení vzduchu je spíše spojené s konvektivní turbulencí nebo vertikálními pohyby v atmosféře, nikoli s mechanickým narážením větru na překážky.
+
 
 ---
 
@@ -2272,12 +3244,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Výsledná aerodynamická síla (resultant aerodynamic force) je vektorový součet dvou hlavních aerodynamických sil působících na křídlo: vztlaku (lift) a odporu (drag). Vztlak působí kolmo na směr proudění vzduchu a tíha (weight) je síla zemské přitažlivosti, nikoliv aerodynamická síla.
+
+
+---
+
 ### Z vertikálně vyvinutých oblaků typu Cb - cumulonimbus vypadávají převážně srážky ve formě:
 *Body: 3 | Výskyty: 23 | Kategorie: Meteorologie | První výskyt: 11.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) slabý dešť
 - b) mrholení
 - **c) déšť a kroupy**
+
+---
+
+
+> **Vysvětlení:** Cumulonimbus (Cb) jsou bouřkové oblaky, které se vyvíjejí vertikálně a jsou spojeny s konvektivní činností. V těchto oblastech dochází k silným vzestupným proudům, které mohou vynášet vodní kapky do velmi vysokých nadmořských výšek, kde teplota klesne pod bod mrazu. Tyto kapky pak mrznou a rostou přidáváním dalších podchlazených kapiček vody nebo se srážejí s jinými ledovými částicemi. V důsledku silných vzestupných a sestupných proudů uvnitř oblaku mohou tyto ledové částice narůstat do velikosti krup. Po dosažení určité velikosti a hmotnosti již nejsou vzestupné proudy schopny je udržet a vypadávají na zem jako kroupy. Současně s kroupami jsou z těchto oblaků běžné i silné srážky ve formě deště, neboť v nižších částech oblaku mohou ledové částice při sestupu roztát.
+
 
 ---
 
@@ -2299,12 +3283,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Isobary jsou izolinie (čáry) na meteorologických mapách, které spojují místa se stejným atmosférickým tlakem. V tomto případě se jedná o tlak přepočtený na hladinu moře, což je standardní praxe pro porovnávání tlaku na různých nadmořských výškách.
+
+
+---
+
 ### Traťová rychlost (TR) je:
 *Body: 3 | Výskyty: 71 | Kategorie: Navigace a letové přístroje | První výskyt: 09.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) rychlost vůči vzduchové hmotě
 - b) rychlost, kterou nám udává rychloměr
 - **c) rychlost, kterou letadlo letí vůči zemi**
+
+---
+
+
+> **Vysvětlení:** Traťová rychlost (Ground Speed, GS) je definována jako rychlost, kterou letadlo postupuje vůči zemskému povrchu. Je to skutečná rychlost pohybu letadla nad zemí a je přímo ovlivněna směrem a rychlostí větru. Odlišuje se od rychlosti vůči vzduchové hmotě (True Airspeed, TAS), která je rychlostí letadla vzhledem k okolnímu vzduchu. Správná odpověď B přesně vystihuje tuto definici.
+
 
 ---
 
@@ -2317,12 +3313,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Násobek zatížení (G-force) udává, jakou silou je pilot tlačen nebo tažen vzhledem ke své vlastní hmotnosti. Hodnota '3 G' znamená trojnásobek normálního gravitačního zrychlení. Pokud pilot váží 80 kg, při 3 G je tlačen do sedačky silou, jako kdyby vážil 3 * 80 kg = 240 kg. Možnost A správně popisuje tento efekt jako sílu tlačení do sedačky.
+
+
+---
+
 ### Termická turbulence vzniká vlivem:
 *Body: 3 | Výskyty: 25 | Kategorie: Meteorologie | První výskyt: 13.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) nestejnoměrného zahřívání zemského povrchu
 - b) kopcovitého terénu
 - **c) ohřevu vzduchu o zemský povrch při instabilním zvrstvení**
+
+---
+
+
+> **Vysvětlení:** Termická turbulence je způsobena konvekcí, která vzniká, když jsou spodní vrstvy atmosféry nestabilně zvrstvené a nerovnoměrně ohřívané zemským povrchem. Teplejší vzduch stoupá a vytváří turbulence.
+
 
 ---
 
@@ -2335,12 +3343,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Teplá fronta je definována jako rozhraní mezi postupující teplou vzduchovou masou a za ní ustupující studenou vzduchovou masou. Protože teplý vzduch je méně hustý než studený vzduch, má tendenci se nad ním nasouvat, což způsobuje pozvolné stoupání teplého vzduchu a s ním spojené meteorologické jevy (např. oblačnost a srážky).
+
+
+---
+
 ### Po průletu převodní výškou se pro udávání výšky přejde z nastavení hodnoty QNH:
 *Body: 3 | Výskyty: 42 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
 - **a) na nastavení výškoměru na hodnotu 1013,2 hPa a vertikální polohy letadla se vyjadřují v letových hladinách**
 - b) na nastavení údaje QFE a vertikální polohy letadla se vyjadřují jako výšky nad zemí
 - c) na nastavení údaje QFE cílového letiště a vertikální polohy letadla se vyjadřují jako výšky nad cílovým letištěm
+
+---
+
+
+> **Vysvětlení:** Po průletu převodní výškou (transition altitude), která je standardizovaná, se výškoměry nastavují na standardní tlak 1013,2 hPa. Tímto nastavením se začínají vyjadřovat vertikální polohy letadla v letových hladinách (Flight Levels), které jsou referenční pro let nad touto výškou a zajišťují bezpečné oddělení letadel bez ohledu na lokální tlakové podmínky na zemi.
+
 
 ---
 
@@ -2353,6 +3373,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Správná odpověď C je správná, protože AIP ČR (Aeronautical Information Publication České republiky) je primární oficiální zdroj informací o leteckém prostoru, včetně CTR, TMA, zakázaných (LKR) a omezených (LKP) oblastí. Platné letecké mapy (např. ICAO mapy) jsou grafické reprezentace těchto informací, které jsou odvozeny z AIP a jsou nezbytné pro vizuální orientaci pilotů. Obě tyto zdroje jsou oficiální a závazné pro letovou činnost. Možnost A je nesprávná, jelikož ADAC není oficiální letecká organizace. Možnost B je příliš obecná a AIP nebo konkrétní platná letecká mapa jsou přesnějšími specifikacemi oficiálních zdrojů.
+
+
+---
+
 ### Odtržení proudu na horní straně profilu má za následek:
 *Body: 3 | Výskyty: 22 | Kategorie: Principy letu a aerodynamika | První výskyt: 13.07.2024 | Poslední výskyt: 02.09.2024*
 
@@ -2362,12 +3388,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Odtržení proudu (stall) nastává, když úhel náběhu křídla překročí kritickou hodnotu. To vede k náhlému poklesu vztlaku, protože vzduchové proudění se oddělí od horní strany profilu. Tato ztráta vztlaku obvykle způsobuje změnu v rozložení tlaku na křídle, což vede ke změně klopivého momentu. Zároveň se výrazně zvyšuje odpor, protože se zvyšuje turbulence a celková plocha vystavená proudu vzduchu.
+
+
+---
+
 ### Indukovaný odpor lze zmenšit:
-*Body: 3 | Výskyty: 15 | Kategorie: Nezařazeno | První výskyt: 15.07.2024 | Poslední výskyt: 02.09.2024*
+*Body: 3 | Výskyty: 15 | Kategorie: Principy letu a aerodynamika | První výskyt: 15.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) šípem křídla a tloušťkou profilu
 - **b) štíhlostí křídla a vhodným zakončením křídla**
 - c) tloušťkou profilu a koncovými tělěsy na koncích křídla
+
+---
+
+
+> **Vysvětlení:** Indukovaný odpor je část celkového odporu letadla, která vzniká v důsledku tvorby vztlaku. Je přímo úměrný druhé mocnině úhlu náběhu a nepřímo úměrný druhé mocnině rozpětí křídla. Zmenšení indukovaného odporu lze dosáhnout zvýšením efektivního rozpětí křídla. 'Štíhlost křídla' (poměr druhé mocniny rozpětí ke ploše křídla) je ukazatelem této vlastnosti. Vhodné zakončení křídla (winglety) také pomáhá omezit víry na koncích křídla, které přispívají k indukovanému odporu.
+
 
 ---
 
@@ -2380,12 +3418,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Odpověď C je správná, protože obecně platí, že shazování nebo rozprašování čehokoli ze SLZ (Sportovního a rekreačního letadla) není povoleno bez splnění specifických podmínek a povolení. Možnost A a B jsou příliš obecné a nepostihují tuto regulaci v plném rozsahu. Provozní postupy a předpisy jasně definují omezení pro takové činnosti.
+
+
+---
+
 ### Mezi oblačnost s mohutným vertikálním vývojem řadíme:
 *Body: 3 | Výskyty: 15 | Kategorie: Meteorologie | První výskyt: 11.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) Ac – altocumulus
 - b) Cc – cirocumulus
 - **c) Cb – cumulonimbus**
+
+---
+
+
+> **Vysvětlení:** Cumulonimbus (Cb) jsou bouřkové oblaky s výrazným vertikálním vývojem, často dosahující až do horní troposféry. Cirocumulus (Cc) a altocumulus (Ac) jsou oblaky s menším vertikálním rozsahem.
+
 
 ---
 
@@ -2398,6 +3448,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Platný technický průkaz (či průkaz letové způsobilosti) je základním dokumentem, který musí být na palubě každého letadla, včetně SLZ, při všech fázích letu i pozemních operací. Potvrzuje, že letadlo je způsobilé k letu a splňuje všechny bezpečnostní a technické normy. Provoz bez tohoto platného dokladu je protiprávní a nebezpečný, a to platí i pro výcvikové lety.
+
+
+---
+
 ### Letadlo pojíždějící po provozní ploše (před vzletem) musí dát přednost letadlu:
 *Body: 3 | Výskyty: 41 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
@@ -2407,12 +3463,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Dle leteckých předpisů a standardních provozních postupů má letadlo, které je ve fázi vzletu nebo je připraveno ke vzletu (tj. nachází se v pozici pro vzlet), přednost před letadlem, které pouze pojíždí. Toto pravidlo zajišťuje bezpečnost a plynulost provozu, jelikož vzlet je kritickou fází letu a vyžaduje neomezený prostor a nepřerušenou sekvenci úkonů.
+
+
+---
+
 ### Teplotou rosného bodu nazýváme:
 *Body: 3 | Výskyty: 28 | Kategorie: Meteorologie | První výskyt: 11.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) teplotu vzduchu se stanovenou relativní vlhkostí
 - b) teplotu vzduchu v určité výšce
 - **c) teplotu, kterou by vzduch měl v okamžiku stavu nasycení**
+
+---
+
+
+> **Vysvětlení:** Teplota rosného bodu je definována jako teplota, na kterou by musel být vzduch ochlazen, aby dosáhl nasycení, tedy aby se v něm začala srážet voda (kondenzace). Možnost B tuto definici přesně vystihuje.
+
 
 ---
 
@@ -2434,12 +3502,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Radiační mlha vzniká v důsledku ochlazování povrchu Země v noci, kdy dochází k malým vertikálním pohybům vzduchu. Zesílení rychlosti přízemního větru dokáže narušit tuto stabilní vrstvu vzduchu a promíchat ji s teplejším vzduchem z vyšších vrstev, čímž mlhu rozptýlí.
+
+
+---
+
 ### Co rozumíme pojmem „čistá termika“:
 *Body: 1 | Výskyty: 51 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) turbulenci ve spojení se střihem větru
 - b) silný nárazovitý vítr v bezoblačném prostředí
 - **c) termický vzestupný proud který není provázen kupovitou oblačností**
+
+---
+
+
+> **Vysvětlení:** Čistá termika označuje stoupavý vzdušný proud, který vzniká v důsledku nerovnoměrného ohřevu zemského povrchu, ale není doprovázen vývojem kumuliformní oblačnosti (např. kupovité oblačnosti). Ostatní možnosti popisují jiné meteorologické jevy (turbulenci, střih větru, nárazový vítr).
+
 
 ---
 
@@ -2452,12 +3532,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Plošné zatížení (anglicky wing loading) je základní aerodynamický parametr, který vyjadřuje poměr celkové hmotnosti letadla k ploše jeho nosných křídel. Udává, kolik kilogramů celkové hmotnosti připadá na jeden metr čtvereční nosné plochy. Vyšší plošné zatížení obvykle znamená vyšší minimální rychlost letu a větší rychlost klesání při vypnutém motoru, ale také lepší vlastnosti v turbulenci. Možnost A přesně definuje tento pojem.
+
+
+---
+
 ### Jaké je povoleno maximální úmyslné vychýlení UL letounu kolem příčné osy za letu ve stupních:
 *Body: 1 | Výskyty: 52 | Kategorie: Letecké předpisy a legislativa | První výskyt: 15.07.2024 | Poslední výskyt: 02.09.2024*
 
 - **a) 30.0**
 - b) 45.0
 - c) 60.0
+
+---
+
+
+> **Vysvětlení:** Otázka se týká specifického provozního omezení (maximální úmyslné vychýlení kolem příčné osy) pro kategorii UL letounů, což spadá pod regulace a předpisy pro provoz letadel. Podle platných leteckých předpisů pro ultralehká letadla je maximální úmyslné vychýlení UL letounu kolem příčné osy (tj. náklon dopředu nebo dozadu) omezeno na 30 stupňů. Toto omezení je stanoveno pro zajištění bezpečného provozu UL letadel a zabránění provádění manévrů, které by mohly překročit konstrukční limity letounu nebo schopnosti pilota v této kategorii.
+
 
 ---
 
@@ -2506,6 +3598,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Měřítko mapy 1 : 500 000 znamená, že 1 cm na mapě odpovídá 500 000 cm ve skutečnosti. Pro převod této vzdálenosti na kilometry: 500 000 cm = 5 000 metrů = 5 km. Jestliže 1 cm na mapě představuje 5 km, pak 9 cm na mapě odpovídá 9 * 5 km = 45 km.
+
+
+---
+
 ### „Protišoková“ fólie se používá nejlépe tak, že se:
 *Body: 0 | Výskyty: 35 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 13.07.2024 | Poslední výskyt: 02.09.2024*
 
@@ -2533,12 +3631,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Tětiva profilu je definována jako přímka spojující náběžnou hranu s odtokovou hranou křídla. Tato definice přesně odpovídá možnosti B. Ostatní možnosti popisují nesprávné geometrické vztahy a nejsou standardní definicí tětivy profilu.
+
+
+---
+
 ### Kdy dojde ke snížení indukovaného odporu za letu?
-*Body: 0 | Výskyty: 14 | Kategorie: Nezařazeno | První výskyt: 16.07.2024 | Poslední výskyt: 02.09.2024*
+*Body: 0 | Výskyty: 14 | Kategorie: Principy letu a aerodynamika | První výskyt: 16.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) ke snížení indukovaného odporu dojde za letu ve velké výšce, kdy se vlivem malé hustoty vzduchu nevytvoří dostatečně velký tlakový spád pro vznik koncových vírů.
 - **b) ke snížení indukovaného odporu dojde za letu v těsné blízkosti země, kdy malá vzdálenost křídla od země omezí vytvoření koncových vírů.**
 - c) ke snížení indukovaného odporu dojde, jestliže se na nosných plochách letounu vytvoří námraza, která změní tvar křídla, dojde ke zmenšení koncových vírů a výrazně se zvýší klouzavost.
+
+---
+
+
+> **Vysvětlení:** Indukovaný odpor vzniká v důsledku koncových vírů na koncích křídel. V blízkosti země je efekt "podpory země", který omezuje rozvoj těchto koncových vírů, čímž se snižuje indukovaný odpor. Možnost A je nesprávná, protože ve velké výšce je hustota vzduchu nižší, což by teoreticky mohlo vést k jiným efektům, ale ne k primárnímu snížení indukovaného odporu způsobenému blízkostí země. Možnost C popisuje efekt námrazy, která obecně zhoršuje letové vlastnosti a zvyšuje odpor, nikoli snižuje indukovaný odpor v kontextu zlepšení klouzavosti.
+
 
 ---
 
@@ -2587,6 +3697,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Vztlak na křídle letadla je generován rozdílným tlakem mezi horní a spodní stranou profilu. Podle Bernoulliovy rovnice a Newtonových zákonů pohybu je většina tohoto rozdílu tlaků, a tedy i většinová část vztlaku, generována na horní (zadní) části profilu křídla. Přibližně 2/3 vztlaku pochází z horní plochy profilu.
+
+
+---
+
 ### V prostory třídy E mohu potkat dopravní letadlo?
 *Body: 0 | Výskyty: 48 | Kategorie: Letecké předpisy a legislativa | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
@@ -2605,6 +3721,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Zkratka SLZ je v českém leteckém prostředí běžně používána pro označení 'Sportovní létající zařízení', což je kategorie letadel definovaná v leteckých předpisech pro provoz specifických typů lehkých letadel určených pro sportovní a rekreační létání.
+
+
+---
+
 ### Který z jevů vznikající na studené frontě II. druhu je zvláště nebezpečný pro nízko letící letadla?
 *Body: 0 | Výskyty: 26 | Kategorie: Meteorologie | První výskyt: 09.07.2024 | Poslední výskyt: 02.09.2024*
 
@@ -2614,12 +3736,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Húlavy (tromboflebitida) jsou silné turbulence, které se mohou vyskytovat na studených frontách II. druhu (často spojené s bouřkami). Tyto turbulence jsou omezené na úzký prostor, často kolem horizontální osy v úrovni základny cumulonimbů. Pro nízko letící letadla představují značné riziko kvůli silným vertikálním proudům a náhlým změnám rychlosti a směru větru, které mohou vést ke ztrátě kontroly nad letadlem.
+
+
+---
+
 ### Jakou velikost a orientaci má výsledná aerodynamická síla při ustáleném klouzavém letu?
 *Body: 0 | Výskyty: 16 | Kategorie: Principy letu a aerodynamika | První výskyt: 12.07.2024 | Poslední výskyt: 02.09.2024*
 
 - **a) je stejně velká a opačně orientovaná jako tíha**
 - b) je stejně orientovaná, ale menší než tíha - proto klesáme
 - c) je opačně orientovaná a menší než tíha - proto klesáme
+
+---
+
+
+> **Vysvětlení:** Při ustáleném klouzavém letu není k dispozici tah motoru. Letadlo udržuje konstantní rychlost a směr letu tím, že se jeho výsledná aerodynamická síla vyrovnává s tíhou. Aby to bylo možné, musí být výsledná aerodynamická síla rovna tíze a opačně orientovaná, což zajišťuje, že dochází k postupnému poklesu letadla, jelikož vertikální složka této síly vyrovnává tíhu a horizontální složka je nulová (nebo zanedbatelná, pokud neuvažujeme odpor vzduchu jako sílu působící proti směru letu v daném okamžiku). Odpověď B správně popisuje tuto rovnováhu sil.
+
 
 ---
 
@@ -2641,12 +3775,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Zeměpisné souřadnice (zeměpisná šířka a délka) jsou primárně určeny k jednoznačnému a přesnému definování geografické polohy libovolného bodu na zemském povrchu. Neudávají název místa (to je popisný identifikátor) ani polohu časového pásma (které je definováno širším rozsahem zeměpisné délky, nikoli konkrétním bodem).
+
+
+---
+
 ### V oblasti tlakové výše vane na severní polokouli vítr při zemi:
 *Body: 0 | Výskyty: 25 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) proti směru pohybu hodinových ručiček
 - b) rovně ze středu výše v celé její oblasti
 - **c) ve směru pohybu hodinových ručiček**
+
+---
+
+
+> **Vysvětlení:** Vysokotlaké oblasti (anticyklóny) na severní polokouli způsobují na základě Coriolisovy síly odklonění vzduchu směrem doprava vzhledem k gradientu tlaku. To vede k větrům vanoucím ve směru pohybu hodinových ručiček kolem středu výše.
+
 
 ---
 
@@ -2665,6 +3811,12 @@ Celkem unikátních otázek: **393**
 - a) Během noci z kopce
 - **b) Během dne ke kopci**
 - c) Během dne z kopce
+
+---
+
+
+> **Vysvětlení:** Během dne slunce ohřívá svahy hor rychleji než dno údolí. Vzduch nad těmito ohřátými svahy se ohřívá, stává se méně hustým a stoupá (anabatický vítr). Aby se tento stoupající vzduch nahradil, chladnější vzduch z údolí proudí nahoru po svazích směrem ke kopci. Tento jev je znám jako údolní vítr a je typický pro denní hodiny v hornatých oblastech.
+
 
 ---
 
@@ -2713,6 +3865,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Vlhkost vzduchu je definována jako množství vodních par přítomných v atmosféře. Možnosti B (sněžení) a C (vypadávání srážek) popisují formy, jakými se voda může vracet ze atmosféry na zem, ale nejsou definicí vlhkosti vzduchu samotné.
+
+
+---
+
 ### Klouzavost PK lze definovat:
 *Body: 0 | Výskyty: 10 | Kategorie: Principy letu a aerodynamika | První výskyt: 13.07.2024 | Poslední výskyt: 02.09.2024*
 
@@ -2731,12 +3889,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Součinitel vztlaku (CL) je přímo úměrný zakřivení profilu křídla. Větší zakřivení profilu vede k většímu rozdílu tlaků mezi horní a dolní stranou křídla při dané rychlosti, a tím k vyššímu součiniteli vztlaku. Rychlost proudění primárně ovlivňuje velikost vznikajícího vztlaku (síla vztlaku = 0.5 * hustota vzduchu * rychlost^2 * plocha křídla * CL), nikoli jeho součinitel. Hloubka profilu (chord length) ovlivňuje rozměr křídla, nikoli přímo jeho aerodynamické vlastnosti součinitele vztlaku.
+
+
+---
+
 ### Srážky vypadávající z oblačnosti typu Cb - cumulonimbus, jsou charakteru:
 *Body: 0 | Výskyty: 23 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) mrholení
 - **b) silných přeháněk**
 - c) trvalých srážek
+
+---
+
+
+> **Vysvětlení:** Oblačnost typu Cumulonimbus (Cb) je spojena s bouřkami, konvektivními srážkami a často silnými srážkovými událostmi. Mrholení (A) obvykle pochází z nízké vrstevnaté oblačnosti (St), zatímco trvalé srážky (C) jsou typické pro oblačnost typu Ns (Nimbostratus). Proto jsou silné přeháňky (B) charakteristické pro Cb.
+
 
 ---
 
@@ -2758,6 +3928,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Otázka se týká pravidel pro lety VFR (Visual Flight Rules), konkrétně podmínek pro let nad oblaky a s tím souvisejícího pokrytí oblohy oblačností. Toto spadá pod letecké předpisy, které definují pravidla pro bezpečné létání.
+
+
+---
+
 ### Frontální mlhy se tvoří hlavně při přechodu front:
 *Body: 0 | Výskyty: 34 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
@@ -2767,12 +3943,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Frontální mlhy vznikají, když teplý a vlhký vzduch přechází přes chladnější povrch. Tento proces je typický pro teplé fronty, kde se teplý vzduch postupně nasouvá přes studený vzduch a dochází ke kondenzaci vodní páry do mlhy.
+
+
+---
+
 ### Zvětšení úhlu náběhu:
 *Body: 0 | Výskyty: 18 | Kategorie: Principy letu a aerodynamika | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
 - **a) zvýší odpor křídla**
 - b) sníží odpor křídla
 - c) odpor se nemění
+
+---
+
+
+> **Vysvětlení:** Zvýšení úhlu náběhu vede ke zvětšení indukovaného odporu křídla, což je jedna z hlavních složek celkového odporu, zejména při nižších rychlostech a vyšších úhlech náběhu.
+
 
 ---
 
@@ -2803,6 +3991,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Vítr má vliv na rychlost a směr vůči zemi ve všech fázích letu, včetně vzletu, přistání a letu v letové hladině. Ovlivňuje tak zejména spotřebu paliva, dobu letu a dráhu potřebnou pro vzlet a přistání.
+
+
+---
+
 ### Lety s MPK, UB je možno provádět
 *Body: 0 | Výskyty: 39 | Kategorie: Letecké předpisy a legislativa | První výskyt: 15.07.2024 | Poslední výskyt: 02.09.2024*
 
@@ -2830,6 +4024,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Stratus (St) je nízko položená vrstva oblačnosti, která je typická tvorbou mrholení. Kroupy a prudké přívalové deště jsou spojeny s jinými typy oblačnosti, jako jsou cumulonimbus.
+
+
+---
+
 ### Rychlost letu zvýším
 *Body: 0 | Výskyty: 33 | Kategorie: Principy letu a aerodynamika | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
@@ -2848,12 +4048,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Konvekční aktivita, která vede ke vzniku bouřek a kumulonimbů, je způsobena ohříváním zemského povrchu slunečním zářením. Tento proces je nejintenzivnější v létě, kdy je sluneční záření nejsilnější, a odpoledne, kdy povrch dosáhl nejvyšší teploty po celodenním slunečním svitu. V poledne sice slunce svítí nejsilněji, ale zemský povrch ještě nedosáhl své maximální denní teploty. V zimě je sluneční záření mnohem slabší a atmosférické podmínky obvykle neumožňují silnou konvekci.
+
+
+---
+
 ### Kdo je oprávněn kontrolovat pilotní průkaz nebo doklad žáka
 *Body: 0 | Výskyty: 59 | Kategorie: Letecké předpisy a legislativa | První výskyt: 11.07.2024 | Poslední výskyt: 02.09.2024*
 
 - **a) inspektor provozu a techniky LAA ČR, osoba pověřená MD ČR nebo ÚCL, příslušník Policie ČR**
 - b) inspektor provozu LAA ČR, příslušník Policie ČR, inspektor ÚCL, osoba pověřená provozovatelem letiště nebo majitelem pozemku
 - c) inspektor provozu LAA ČR, osoba pověřená MD ČR, příslušník Policie ČR, nebo pracovník městského úřadu obce, na jehož pozemcích je letiště, nebo plocha SLZ
+
+---
+
+
+> **Vysvětlení:** Otázka se týká pravomoci jednotlivých orgánů a osob při kontrole pilotních průkazů nebo dokladů žáka, což spadá pod oblast leteckých předpisů a pravidel souvisejících s licencováním a oprávněním pilotů.
+
 
 ---
 
@@ -2884,6 +4096,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Inverze teploty je jev, kdy se teplota vzduchu s rostoucí výškou zvyšuje namísto obvyklého poklesu. Tato vrstva působí jako poklička, která brání vertikálnímu pohybu vzduchu. Jakýkoli vzduchový balík, který se snaží stoupnout do vrstvy inverze, se setká s chladnějším okolním vzduchem a má tendenci klesat zpět, čímž se obnovuje původní rovnováha. Stejně tak vzduchový balík, který se snaží klesat, se setká s teplejším okolním vzduchem (pod inverzní vrstvou) a má tendenci stoupat zpět. Tato tendence k návratu do původní polohy je charakteristikou stabilní atmosféry.
+
+
+---
+
 ### Rozdíl mezi UTC a letním středoevropským (SELČ) časem je:
 *Body: 0 | Výskyty: 74 | Kategorie: Navigace a letové přístroje | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
@@ -2893,12 +4111,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Středoevropský letní čas (SELČ) neboli Central European Summer Time (CEST) je oproti koordinovanému světovému času (UTC) posunut o +2 hodiny. Běžný středoevropský čas (SEČ/CET) je UTC +1 hodina, a během letního období (SELČ/CEST) se hodiny posouvají o další hodinu dopředu, což celkově činí +2 hodiny oproti UTC. Znalost tohoto rozdílu je klíčová pro přesné plánování letů, navigaci a komunikaci v letectví, které standardně operuje s UTC.
+
+
+---
+
 ### TMA (koncová řízená oblast)
 *Body: 0 | Výskyty: 40 | Kategorie: Letecké předpisy a legislativa | První výskyt: 09.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) nedá se podletět ani nadletět
 - **b) se dá podletět**
 - c) dá se podletět pouze při vzájemné komunikaci radiostanicí s příslušným stanovištěm ATS
+
+---
+
+
+> **Vysvětlení:** TMA (Terminal Control Area) je definovaná vzdušná prostorová oblast, obvykle kolem rušného letiště, která je pod kontrolou letové provozní služby (ATS). Podletění TMA (tedy let pod její spodní hranicí) není obecně zakázáno, pokud nejsou stanoveny specifické nižší minimální výšky nebo jiné restrikce. Možnost C je nesprávná, protože TMA má definovanou spodní i horní hranici a některé přístupy mohou vyžadovat průlet pod horní hranicí. Možnost B je nesprávná, protože zatímco komunikace s ATS je typická pro provoz v TMA, samotné podletění TMA nezávisí na předchozí komunikaci, ale na dodržení ustanovení o minimálních výškách a provozu ve vzdušném prostoru.
+
 
 ---
 
@@ -2920,12 +4150,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Tlaková výše (anticyklona) je definována jako oblast s nejvyšším atmosférickým tlakem ve svém středu, odkud tlak směrem k okrajům klesá.
+
+
+---
+
 ### Jak se změní rychlost proudu a statický tlak, když se rozšíří v určitém místě proudnice:
 *Body: 0 | Výskyty: 21 | Kategorie: Principy letu a aerodynamika | První výskyt: 09.07.2024 | Poslední výskyt: 02.09.2024*
 
 - **a) rychlost se sníží, statický tlak se zvýší**
 - b) rychlost se sníží, statický tlak poklesne
 - c) rychlost se zvýší, statický tlak se zvýší
+
+---
+
+
+> **Vysvětlení:** Otázka se týká Bernoulliho principu, který je základním principem letu. Bernoulliho princip uvádí, že v proudící tekutině (v tomto případě vzduchu) se snižuje tlak tam, kde se rychlost zvyšuje, a naopak se zvyšuje tlak tam, kde se rychlost snižuje. Když se proudnice rozšíří, objem pro proudění se zvětší, což způsobí snížení rychlosti proudu vzduchu. Podle Bernoulliho principu se v místě snížené rychlosti zvýší statický tlak.
+
 
 ---
 
@@ -2938,12 +4180,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Stratus (St) je typ oblaku, který se vyskytuje v nízkých výškách a často pokrývá celou oblohu v podobě šedé vrstvy. Cirrus (Ci) jsou vysoké ledové oblaky a Altocumulus (Ac) jsou střední oblaky, které se obvykle nacházejí ve vyšších vrstvách atmosféry než stratus.
+
+
+---
+
 ### Ke vzletům a přistáním při nepravidelném provozu motorových SLZ může být použita
 *Body: 0 | Výskyty: 37 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) plocha ležící mimo území národního parku, chráněné krajinné oblasti, národní přírodní rezervace, přírodní rezervace, národní přírodní památky a přírodní památky a nejméně 300 m od obytných budov
 - **b) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 100 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 50 m od SLZ osoby nezúčastněné na provozu**
 - c) plocha ležící mimo obytné území obce ve vzdálenosti nejméně 300 m od obytných budov a při provozu nebudou ve vzdálenosti menší než 100 m od SLZ osoby nezúčastněné na provozu
+
+---
+
+
+> **Vysvětlení:** Otázka se týká specifických podmínek a omezení pro vzlety a přistání motorových sportovních létajících zařízení (SLZ) mimo registrovaná letiště v rámci nepravidelného provozu. Tyto podmínky jsou přesně stanoveny v českých leteckých předpisech, zejména v Leteckém předpisu L 2 – Pravidla létání, nebo souvisejících prováděcích předpisech pro SLZ (např. VFR-L). Správná odpověď C uvádí přesné vzdálenosti a umístění plochy, které jsou v souladu s platnými regulacemi: plocha musí ležet mimo obytné území obce, nejméně 100 m od obytných budov a při provozu se ve vzdálenosti menší než 50 m od SLZ nesmí nacházet osoby nezúčastněné na provozu.
+
 
 ---
 
@@ -2965,12 +4219,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Dle leteckých předpisů, které upravují provoz letadel a práva a povinnosti pilotů (např. ICAO Annex 1 nebo evropské nařízení (EU) 1178/2011 Part-FCL), musí mít pilot u sebe platný pilotní průkaz a příslušné doklady (jako je osvědčení zdravotní způsobilosti) vždy, když vykonává privilegia svého průkazu, což znamená při každém letu, ve kterém působí jako pilot. Tím je zajištěno, že může kdykoli na požádání předložit své oprávnění k létání. Možnosti A a C jsou příliš omezující, jelikož tato povinnost platí pro všechny typy letů.
+
+
+---
+
 ### Letadlo letí za velmi teplého dne přes Alpy. Počasí je dobré a v dané oblasti je tlaková výše. Letadlo prolétává kolem hory ve výšce jejího vrcholku. Co ukazuje výškoměr v porovnání s nadmořskou výškou vrcholku?
 *Body: 0 | Výskyty: 20 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) Stejnou výšku jako je nadmořksá výška vrcholku
 - **b) Menší výšku než je nadmořská výška vrcholku**
 - c) Větší výšku než je nadmořská výška vrcholku
+
+---
+
+
+> **Vysvětlení:** Ve výšce vrcholku hory, kde je teplota vzduchu nadprůměrná (velmi teplý den), se v důsledku tepelné roztažnosti vzduchu měří vyšší nadmořská výška, než je skutečná. Výškoměr kalibrovaný pro standardní atmosféru ukáže proto nižší hodnotu, než je skutečná nadmořská výška vrcholku hory.
+
 
 ---
 
@@ -2993,11 +4259,17 @@ Celkem unikátních otázek: **393**
 ---
 
 ### V našich zeměpisných šířkách zasahuje vertikálně vyvinutá oblačnost typu Cb do výšky:
-*Body: 0 | Výskyty: 39 | Kategorie: Nezařazeno | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
+*Body: 0 | Výskyty: 39 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) 4 km
 - **b) až 15 km, ojediněle i více**
 - c) 1 km
+
+---
+
+
+> **Vysvětlení:** Odpověď B je správná, protože bouřkové oblaky typu Cumulonimbus (Cb) jsou vertikálně vyvinuté oblaky, které mohou zasahovat do vysokých výšek atmosféry. V našich zeměpisných šířkách je běžné, že vrcholky těchto oblaků dosahují výšky kolem 10-12 km, ale v extrémních případech, zejména při silných bouřkách, mohou přesáhnout i 15 km, a to až do spodní stratosféry.
+
 
 ---
 
@@ -3037,8 +4309,14 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Základním principem letových předpisů a pravidel létání je zabránit srážkám mezi letadly. Letadla musí vždy udržovat takovou vzdálenost, která nevytváří nebezpečí srážky. Možnost A (150m) je sice konkrétní vzdálenost, která se může vztahovat na specifické situace (např. formace nebo provoz na letišti), ale není univerzálním a jediným kritériem. Možnost B je spíše důsledkem nedostatečné vzdálenosti, ale primární a nejzásadnější problém je nebezpečí srážky. Odpověď C nejpřesněji vystihuje univerzální a nejdůležitější bezpečnostní normu, kterou musí piloti dodržovat.
+
+
+---
+
 ### Přetažení PK je:
-*Body: 1 | Výskyty: 79 | Kategorie: Nezařazeno | První výskyt: 10.07.2024 | Poslední výskyt: 01.09.2024*
+*Body: 1 | Výskyty: 79 | Kategorie: Principy letu a aerodynamika | První výskyt: 10.07.2024 | Poslední výskyt: 01.09.2024*
 
 - a) razatní sešlápnutí speed systému
 - **b) když pilot PK přebrzdí**
@@ -3052,6 +4330,12 @@ Celkem unikátních otázek: **393**
 - a) ve směru pohybu hodinových ručiček
 - **b) proti směru pohybu hodinových ručiček**
 - c) rovně do středu níže v celé její oblasti
+
+---
+
+
+> **Vysvětlení:** Na severní polokouli je v oblasti tlakové níže dochází k cirkulaci vzduchu proti směru pohybu hodinových ručiček v důsledku Coriolisovy síly. Vítr při zemi se orientuje podél izobar s mírným stočením do středu níže.
+
 
 ---
 
@@ -3070,6 +4354,12 @@ Celkem unikátních otázek: **393**
 - **a) 70 stupňů**
 - b) 60 stupňů
 - c) 80 stupňů
+
+---
+
+
+> **Vysvětlení:** Otázka se týká definice předlétávajícího letadla, což je klíčová součást pravidel pro zamezení srážkám v letecké dopravě. Tyto definice a pravidla jsou stanoveny v leteckých předpisech, konkrétně v ICAO Annexu 2 (Rules of the Air) a odpovídajících národních předpisech (např. v České republice L2 – Pravidla létání). Předlétávající letadlo je definováno jako takové, které se k jinému letadlu přibližuje zezadu v úhlu menším než 70 stupňů od podélné osy předlétávaného letadla (tedy v zadním oblouku 140 stupňů, 70 stupňů na každou stranu od osy souměrnosti). Tato definice určuje, které letadlo má povinnost se vyhnout (předlétávající se vyhýbá) a je základním pilířem letecké bezpečnosti.
+
 
 ---
 
@@ -3100,6 +4390,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Bouřky z tepla (konvektivní bouřky) vznikají v důsledku silného ohřevu zemského povrchu slunečním zářením. Tento ohřev způsobuje stoupavé pohyby vzduchu, které vedou ke vzniku oblaků typu kumulonimbus a následným bouřkám. Největší intenzita ohřevu a tím i největší pravděpodobnost vzniku těchto bouřek je obvykle v pozdním odpoledni, kdy se nahromadila energie z celého dne. Poledne představuje začátek tohoto období, zatímco půlnoc je dobou nejmenšího slunečního záření a ohřevu.
+
+
+---
+
 ### Při přetažení PK
 *Body: 0 | Výskyty: 27 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 11.07.2024 | Poslední výskyt: 01.09.2024*
 
@@ -3119,11 +4415,17 @@ Celkem unikátních otázek: **393**
 ---
 
 ### Rychlost větru obvykle s rostoucí výškou:
-*Body: 0 | Výskyty: 18 | Kategorie: Nezařazeno | První výskyt: 09.07.2024 | Poslední výskyt: 01.09.2024*
+*Body: 0 | Výskyty: 18 | Kategorie: Meteorologie | První výskyt: 09.07.2024 | Poslední výskyt: 01.09.2024*
 
 - a) klesá
 - **b) roste**
 - c) v létě stoupá, v zimě klesá
+
+---
+
+
+> **Vysvětlení:** S rostoucí výškou se obvykle zvyšuje i rychlost větru. Je to způsobeno snížením vlivu zemského povrchu (tření), který zpomaluje vítr u země. Ve vyšších vrstvách atmosféry, kde je tento vliv menší, může vítr dosahovat vyšších rychlostí, zejména v proudových (jet) proudech.
+
 
 ---
 
@@ -3145,12 +4447,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Správná odpověď B definuje rosný bod jako teplotu, při které dochází ke kondenzaci. Tato teplota je klíčová pro pochopení tvorby oblaků a srážek, což spadá do meteorologie.
+
+
+---
+
 ### Který z oblaků tvořící se na čele studené fronty je pro letový provoz nejnebezpečnější:
 *Body: 3 | Výskyty: 19 | Kategorie: Meteorologie | První výskyt: 11.07.2024 | Poslední výskyt: 30.08.2024*
 
 - **a) Cb – cumulonimbus**
 - b) As – altostratus
 - c) Ns – nimbostratus
+
+---
+
+
+> **Vysvětlení:** Cumulonimbus (Cb) jsou bouřkové oblaky, které se tvoří na čelech studených front a jsou spojeny s intenzivními jevy jako silný vítr, kroupy, blesky a turbulence, které představují největší nebezpečí pro letový provoz.
+
 
 ---
 
@@ -3163,6 +4477,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Kondenzace je proces, při kterém vodní pára (plynné skupenství) mění své skupenství na vodu (kapalné skupenství). Krystalizace je přechod z kapalného do pevného skupenství a tuhnutí je synonymum pro krystalizaci, případně přechod z kapalného do pevného skupenství.
+
+
+---
+
 ### V klouzavém ustáleném letu je rovnováha mezi:
 *Body: 1 | Výskyty: 24 | Kategorie: Principy letu a aerodynamika | První výskyt: 10.07.2024 | Poslední výskyt: 30.08.2024*
 
@@ -3172,12 +4492,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** V ustáleném klouzavém letu letadlo klesá s konstantní rychlostí a úhlem. To znamená, že letadlo není zrychlováno, a proto jsou všechny síly působící na letadlo v rovnováze. Hlavními silami jsou tíha letadla (směřující vertikálně dolů) a celková aerodynamická síla, která je vektorovým součtem vztlaku a odporu. Pro dosažení rovnováhy musí být výsledná aerodynamická síla stejně velká a opačně orientovaná než tíha letadla. Možnost B přesně popisuje tuto rovnováhu mezi tíhou letadla a výslednou aerodynamickou silou.
+
+
+---
+
 ### Postupujeme-li na severní polokouli ve vertikálním směru od země, pak směr větru se poněkud liší od směru, který byl naměřen u země a stáčí se:
 *Body: 1 | Výskyty: 37 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 30.08.2024*
 
 - **a) vpravo od směru isobar**
 - b) nestáčí se
 - c) vlevo od směru isobar
+
+---
+
+
+> **Vysvětlení:** Tato otázka se týká chování větru ve vztahu k nadmořské výšce, což je základní koncept meteorologie. V blízkosti země (v takzvané třecí vrstvě, obvykle do výšky 1000-2000 stop AGL) je směr a rychlost větru ovlivněna povrchovým třením. Tření zpomaluje vítr, což oslabuje Coriolisovu sílu (která na severní polokouli stáčí proudění doprava). V důsledku toho se vítr u země odklání od směru izobar a proudí s určitým úhlem směrem k nízkému tlaku. Jak se postupuje vzhůru od země, vliv tření se zmenšuje. Rychlost větru se zvyšuje a Coriolisova síla se stává dominantnější. To způsobí, že se směr větru postupně stáčí doprava (veers, ve směru hodinových ručiček), dokud se nad třecí vrstvou (kde je síla tření zanedbatelná) téměř nevyrovná se směrem izobar (geostrofický vítr), přičemž nízký tlak je po jeho levici. Správná odpověď B tedy odráží toto stáčení doprava při stoupání na severní polokouli.
+
 
 ---
 
@@ -3199,6 +4531,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Správná odpověď C nejlépe odpovídá standardní definici letištního provozu (aerodrome traffic), která zahrnuje veškerý pohyb na provozní ploše (včetně letadel, vozidel a osob) a všechna letadla operující ve vzdušném prostoru v blízkosti letiště (např. v letištní provozní zóně nebo v okruhu). Ostatní možnosti jsou neúplné, protože buď vynechávají pozemní provoz (vozidla, osoby), nebo letadla ve vzduchu v blízkosti letiště.
+
+
+---
+
 ### Při přechodu studené fronty I. druhu je srážkové pásmo:
 *Body: 0 | Výskyty: 21 | Kategorie: Meteorologie | První výskyt: 12.07.2024 | Poslední výskyt: 30.08.2024*
 
@@ -3208,12 +4546,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Studená fronta I. druhu (rychlá studená fronta) je charakterizována prudkým nárůstem tlaku a poklesem teploty. Srážkové pásmo, často spojené s bouřkami a přeháňkami, se nachází za čarou této fronty, protože studený vzduch, který je hustší, vytlačuje teplejší vzduch vzhůru.
+
+
+---
+
 ### Srážkové pásmo teplé fronty je:
 *Body: 0 | Výskyty: 34 | Kategorie: Meteorologie | První výskyt: 09.07.2024 | Poslední výskyt: 30.08.2024*
 
 - a) převážně těsně za čarou fronty a jedná se o srážky občasné
 - **b) před čarou fronty a jde o srážky trvalé**
 - c) na čáře fronty a jde o srážky krátkodobého charakteru
+
+---
+
+
+> **Vysvětlení:** Teplé fronty jsou charakterizovány dlouhým a pozvolným klínem teplého vzduchu stoupajícího nad studený vzduch. To vede k rozsáhlému zatažení a srážkám, které se obvykle objevují před čarou fronty a mají charakter trvalejšího deště nebo sněžení.
+
 
 ---
 
@@ -3244,12 +4594,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** V ustálené zatáčce se zvyšuje efektivní přetížení, které klade vyšší nároky na vztlak. Pro udržení vztlaku je nutné zvýšit útočnou rychlost, a tím i rychlost letu. Čím větší je náklon (a tedy i přetížení), tím vyšší musí být minimální rychlost pro udržení letu.
+
+
+---
+
 ### Jev nazývaný turbulence je definován jako:
 *Body: 0 | Výskyty: 22 | Kategorie: Meteorologie | První výskyt: 11.07.2024 | Poslední výskyt: 30.08.2024*
 
 - **a) síly působící na letadlo v různých směrech a udělující tomuto letadlu různá přídavná zrychlení**
 - b) síly, které působí na letadlo ve vertikálním směru
 - c) síly, které zvyšují rychlost letícího letadla
+
+---
+
+
+> **Vysvětlení:** Turbulence je definována jako nepravidelné, náhodné a často prudké pohyby vzduchu. Tyto pohyby způsobují, že na letadlo působí síly v různých směrech, což vede k neočekávaným a proměnlivým zrychlením letadla. Možnost B tuto definici přesně vystihuje, protože popisuje síly působící v různých směrech a udělující různá přídavná zrychlení.
+
 
 ---
 
@@ -3262,12 +4624,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Odpověď C je správná, protože podle leteckých předpisů je velitel letadla (pilot) konečně zodpovědný za bezpečný stav letadla před každým letem. To zahrnuje i ověření, zda byla provedena předepsaná údržba a zda letadlo splňuje všechny požadavky pro bezpečný let.
+
+
+---
+
 ### Vztlak na profilu křídla:
 *Body: 0 | Výskyty: 12 | Kategorie: Principy letu a aerodynamika | První výskyt: 19.07.2024 | Poslední výskyt: 30.08.2024*
 
 - **a) vzniká v důsledku rozdílné rychlosti proudu nad a pod profilem**
 - b) vzniká v důsledku úhlu náběhu a změny teploty vzduchu nad a pod křídlem
 - c) vzniká působením Coriolisovy síly a vyrovnáváním tlaku nad a pod profilem
+
+---
+
+
+> **Vysvětlení:** Vztlak na profilu křídla vzniká především v důsledku rozdílné rychlosti proudění vzduchu nad a pod křídlem. Podle Bernoulliho principu, kde se zvyšuje rychlost, klesá tlak. Křídla letadel jsou obvykle tvarována tak, aby vzduch proudící nad horní povrch musel urazit delší dráhu než vzduch proudící pod spodní povrch. To vede k vyšší rychlosti vzduchu nad křídlem a tím k nižšímu tlaku na horní straně oproti spodní straně, což vytváří vztlak.
+
 
 ---
 
@@ -3280,12 +4654,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Blízko sebe ležící izobary na meteorologické mapě indikují velký tlakový gradient. Velký tlakový gradient způsobuje silnější přízemní vítr. Přibližně se vítr v přízemní vrstvě pohybuje zhruba podél izobar směrem k nižšímu tlaku, přičemž rychlost větru je přímo úměrná hustotě izobar.
+
+
+---
+
 ### Koncentrace kondenzačních jader je největší:
 *Body: 0 | Výskyty: 34 | Kategorie: Meteorologie | První výskyt: 09.07.2024 | Poslední výskyt: 30.08.2024*
 
 - a) nad oceány
 - b) nad pohořími
 - **c) v blízkosti velkých městských aglomerací (průmyslové oblasti)**
+
+---
+
+
+> **Vysvětlení:** Kondenzační jádra jsou drobné částice ve vzduchu (např. prach, saze, soli), na kterých se může srážet vodní pára a tvořit obláčky nebo mlhu. Průmyslové oblasti a velká města jsou významným zdrojem těchto částic v důsledku spalování fosilních paliv, dopravy a průmyslové výroby. Proto je koncentrace kondenzačních jader v těchto oblastech nejvyšší ve srovnání s relativně čistým ovzduším nad oceány nebo horami.
+
 
 ---
 
@@ -3325,6 +4711,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Oblaky se v troposféře tvoří kondenzací vodní páry. Když vzduch dosáhne bodu nasycení a následně ochlazení, vodní pára se mění na drobné kapičky vody nebo ledové krystalky, které tvoří oblaky.
+
+
+---
+
 ### Který z následujícíh procesů ve vrstvě vzduchu může vést k tvorbě oblačnosti typu kumulus a kumulonimbus?
 *Body: 0 | Výskyty: 27 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 30.08.2024*
 
@@ -3334,12 +4726,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Konvekce je vertikální pohyb vzduchu způsobený rozdílnou teplotou a hustotou. Když teplý, vlhký vzduch stoupá, ochlazuje se a při dosažení nasycení dochází ke kondenzaci vodní páry, což vede ke vzniku kumulárních oblaků. Silná konvekce může vést až k bouřkovým oblakům typu kumulonimbus.
+
+
+---
+
 ### Vztlak na profilu vzniká v důsledku:
 *Body: 0 | Výskyty: 10 | Kategorie: Principy letu a aerodynamika | První výskyt: 17.07.2024 | Poslední výskyt: 30.08.2024*
 
 - a) zhuštění proudnic pod profilem, tím se pod profilem vytvoří přetlak, nad profilem se proudnice rozšíří a tím se nad profilem vytvoří podtlak
 - **b) zhuštění proudnic nad profilem, tím se nad profilem vytvoří podtlak, pod profilem se proudnice rozšíří a tím se pod profilem vytvoří přetlak**
 - c) náporu vzduchu na spodní stranu profilu (při kladném úhlu náběhu)
+
+---
+
+
+> **Vysvětlení:** Vztlak vzniká primárně na základě Bernoulliho principu. Tvar křídla (profilu) je navržen tak, že vzduch proudící nad horní stranou profilu musí urazit delší dráhu než vzduch proudící pod spodní stranou. Aby oba proudy vzduchu dorazily do odtokové hrany ve stejný čas, musí vzduch nad profilem proudit rychleji. Podle Bernoulliho principu platí, že kde je vyšší rychlost proudění, tam je nižší tlak. Tím se nad profilem vytvoří podtlak a pod profilem přetlak, což dohromady generuje vztlakovou sílu směřující vzhůru.
+
 
 ---
 
@@ -3361,6 +4765,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Oblačnost vzniká, když vodní pára v atmosféře dosáhne stavu nasycení a následně kondenzuje do drobných kapiček vody nebo ledových krystalků. Pokles teploty s výškou (možnost B) je sice faktorem, který napomáhá dosažení nasycení, ale není samotnou příčinou vzniku oblačnosti. Možnost A (dosažení stavu nasycení) je nutnou podmínkou, ale bez následné kondenzace (možnost C) by oblaka nevznikla.
+
+
+---
+
 ### Co rozumíme v meteorologii pojmem bouřka:
 *Body: 3 | Výskyty: 19 | Kategorie: Meteorologie | První výskyt: 22.07.2024 | Poslední výskyt: 29.08.2024*
 
@@ -3370,12 +4780,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Možnost B je správná, protože bouřka je definována jako meteorologický jev charakterizovaný výskytem blesků a hromů, doprovázený obvykle silnými srážkami (déšť, kroupy) a často i silným větrem. Možnost A sice popisuje konvekci, která je základem vzniku bouřek, ale není to kompletní definice. Možnost C je nesprávná, protože bouřka a studená fronta jsou různé meteorologické jevy, i když se studená fronta může s bouřkami často spojovat.
+
+
+---
+
 ### Výškoměr nastavený na hodnotu QFE letiště ukazuje po přistání na letišti:
 *Body: 3 | Výskyty: 39 | Kategorie: Navigace a letové přístroje | První výskyt: 10.07.2024 | Poslední výskyt: 29.08.2024*
 
 - **a) nulovou výšku**
 - b) nadmořskou výšku prahu VPD tohoto letiště
 - c) nadmořskou výšku vztažného bodu letiště
+
+---
+
+
+> **Vysvětlení:** QFE (Quarantined Field Elevation) je tlaková hodnota nastavená na výškoměru, která způsobí, že výškoměr ukazuje nulovou výšku, když je letadlo na referenčním bodě letiště (např. na zemi u ranveje). Po přistání na letišti, pokud je výškoměr správně nastaven na QFE daného letiště, bude proto ukazovat nulovou výšku, což znamená, že letadlo je na úrovni referenčního bodu letiště. Ostatní možnosti jsou nesprávné, protože QNH by ukazovalo nadmořskou výšku letiště a QFE není primárně nastaveno na práh VPD, ale na referenční bod.
+
 
 ---
 
@@ -3398,11 +4820,17 @@ Celkem unikátních otázek: **393**
 ---
 
 ### Při změně plošného zatížení se aerodynamická klouzavost:
-*Body: 1 | Výskyty: 11 | Kategorie: Nezařazeno | První výskyt: 15.07.2024 | Poslední výskyt: 29.08.2024*
+*Body: 1 | Výskyty: 11 | Kategorie: Principy letu a aerodynamika | První výskyt: 15.07.2024 | Poslední výskyt: 29.08.2024*
 
 - **a) nezmění, protože vztah mezi součinitelem vztlaku a součinitelem odporu se nemění**
 - b) změní, protože vztah mezi velikostí vztlakové a odporové síly se nezmění
 - c) změní, protože efektivní nosná plocha zůstává stejná
+
+---
+
+
+> **Vysvětlení:** Aerodynamická klouzavost (neboli poměr vztlak/odpor L/D) je definována jako poměr součinitele vztlaku (Cl) k součiniteli odporu (Cd). Tato hodnota je primárně závislá na tvaru letadla (aerodynamickém designu) a úhlu náběhu. Plošné zatížení (hmotnost letadla dělená nosnou plochou) ovlivňuje rychlost, při které letadlo dosáhne daného úhlu náběhu, a tím i daného poměru L/D, ale samotná hodnota maximální aerodynamické klouzavosti (Cl/Cd_max) se nemění. Jinými slovy, pro daný úhel náběhu, vztah mezi Cl a Cd zůstává stejný bez ohledu na plošné zatížení, a proto se nemění ani aerodynamická klouzavost.
+
 
 ---
 
@@ -3412,6 +4840,12 @@ Celkem unikátních otázek: **393**
 - a) 24 měsíců u osob od 35 do 60 let
 - b) 36 měsíců u osob od 30 do 60 let
 - **c) 12 měsíců u osob od 75 let**
+
+---
+
+
+> **Vysvětlení:** Otázka se týká doby platnosti lékařského posudku o zdravotní způsobilosti pro piloty, což je předpis stanovený leteckými úřady. Podle platných leteckých předpisů EASA (např. Part-MED pro lékařskou způsobilost třídy 2, která je vyžadována pro soukromé piloty) je doba platnosti lékařského posudku 12 měsíců pro osoby ve věku 50 let a starší. Z tohoto důvodu je pro osoby od 75 let (tedy starší 50 let) platnost skutečně 12 měsíců. Ostatní možnosti uvádějí doby platnosti nebo věkové rozsahy, které nejsou v souladu s platnými předpisy pro dané věkové kategorie.
+
 
 ---
 
@@ -3430,6 +4864,12 @@ Celkem unikátních otázek: **393**
 - a) rozdílná teplota vzduchu ve dne a v noci
 - b) nestejnoměrné zahřívání různě barevného zemského povrchu
 - **c) dostatečný ohřev vzduchu o zemský povrch při instabilním zvrstvení**
+
+---
+
+
+> **Vysvětlení:** Atmosférická konvekce je primárně způsobena nerovnoměrným ohřevem zemského povrchu slunečním zářením. Když je spodní vrstva vzduchu teplejší a lehčí než vzduch nad ní (instabilní zvrstvení), stoupá vzhůru, což vede ke vzniku konvektivních proudů. Možnost B je částečně pravdivá, ale není hlavní příčinou. Možnost C je také dílčím faktorem, ale opět hlavní příčinou je celkový ohřev a nestabilita atmosféry.
+
 
 ---
 
@@ -3460,6 +4900,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Vítr je definován jako horizontální pohyb vzduchu v atmosféře. Možnost A popisuje spíše turbulence, zatímco možnost C popisuje výstup nebo sestup vzduchu, což jsou odlišné atmosférické jevy než vítr.
+
+
+---
+
 ### Klouzavost je ovlivněna jen:
 *Body: 0 | Výskyty: 16 | Kategorie: Nezařazeno | První výskyt: 16.07.2024 | Poslední výskyt: 29.08.2024*
 
@@ -3478,12 +4924,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Celkový aerodynamický odpor letadla je součtem několika složek. Odpor tvarový (pressure drag) vzniká v důsledku tvaru tělesa a odtrhávání proudnic. Třecí odpor (skin friction drag) je způsoben třením vzduchu o povrch letadla. Indukovaný odpor (induced drag) je vedlejší produkt tvorby vztlaku a je vyšší při nižších rychlostech a vyšších úhlech náběhu. Interferenční odpor (interference drag) vzniká na místech, kde se stýkají různé části letadla (např. křídlo a trup).
+
+
+---
+
 ### Hlavní příčinou odtržení proudu je vždy:
 *Body: 0 | Výskyty: 15 | Kategorie: Principy letu a aerodynamika | První výskyt: 11.07.2024 | Poslední výskyt: 28.08.2024*
 
 - **a) překročení kritického úhlu náběhu**
 - b) počátek přechodu laminárního proudění na povrchu PK v turbulentní
 - c) snížení rychlosti letu pod hodnotu minimální dopředné rychlosti vůči zemi v ustáleném přímočarém letu
+
+---
+
+
+> **Vysvětlení:** Odtržení proudu (stall) nastává, když vzduchové proudění na horní straně křídla přestane plynule obtékat povrch křídla. K tomu dochází primárně při překročení kritického úhlu náběhu, kdy se proudění od křídla odtrhne a dojde ke ztrátě vztlaku.
+
 
 ---
 
@@ -3496,6 +4954,12 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Správná odpověď A je založena na Bernoulliho principu. Tvar křídla (profil křídla) je navržen tak, aby vzduch proudící nad horní stranou křídla měl větší rychlost než vzduch proudící pod spodní stranou. Podle Bernoulliho principu platí, že čím vyšší je rychlost proudění, tím nižší je tlak. Proto na horní straně křídla vzniká podtlak a na spodní straně přetlak, což dohromady vytváří vztlakovou sílu.
+
+
+---
+
 ### Kolik souřadných os má letoun a jak se nazývají ?
 *Body: 1 | Výskyty: 12 | Kategorie: Principy letu a aerodynamika | První výskyt: 12.07.2024 | Poslední výskyt: 27.08.2024*
 
@@ -3505,12 +4969,24 @@ Celkem unikátních otázek: **393**
 
 ---
 
+
+> **Vysvětlení:** Letoun má tři hlavní souřadné osy, které jsou definovány vzhledem k jeho vlastní konstrukci a slouží k popisu jeho pohybu ve vzduchu. Podélná osa je osa symetrie letounu, kolem které dochází k otáčení (valení). Příčná (bočná) osa prochází ze strany na stranu křídly, kolem ní dochází k pohybu nahoru a dolů (klopení). Svislá (kolmá) osa prochází horní částí letounu dolů skrz trup, kolem ní dochází k otáčení (směru). Tyto tři osy jsou standardním způsobem popisu orientace a pohybu letadla.
+
+
+---
+
 ### Zvětšující se vzdálenost mezi izobarami znamená, že v dané oblasti bude rychlost proudění vzduchu:
 *Body: 0 | Výskyty: 24 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 27.08.2024*
 
 - a) větší
 - b) vzdálenost mezi izobarami nevypovídá nic o rychlosti proudění
 - **c) menší**
+
+---
+
+
+> **Vysvětlení:** Izobary jsou čáry spojující místa se stejným atmosférickým tlakem. Zvětšující se vzdálenost mezi izobarami znamená, že tlakový spád je menší. Menší tlakový spád vede k menší rychlosti proudění vzduchu (větru), protože vítr vane z oblasti vyššího tlaku do oblasti nižšího tlaku a jeho rychlost je přímo úměrná tlakovému spádu.
+
 
 ---
 
@@ -3529,6 +5005,12 @@ Celkem unikátních otázek: **393**
 - a) klopení
 - b) zatáčení
 - **c) klonění**
+
+---
+
+
+> **Vysvětlení:** Klonění je pohyb letadla kolem jeho podélné osy (osa procházející zepředu dozadu), který způsobuje pohyb křídel nahoru nebo dolů. Zatáčení je pohyb kolem svislé osy a klopení je pohyb kolem příčné osy.
+
 
 ---
 

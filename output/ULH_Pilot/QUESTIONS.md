@@ -302,7 +302,7 @@ Celkem unikátních otázek: **294**
 ---
 
 ### Rychlost větru obvykle s rostoucí výškou:
-*Body: 0 | Výskyty: 8 | Kategorie: Nezařazeno | První výskyt: 11.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 0 | Výskyty: 8 | Kategorie: Meteorologie | První výskyt: 11.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) klesá
 - b) roste
@@ -545,7 +545,7 @@ Celkem unikátních otázek: **294**
 ---
 
 ### Ocasní plochy letadla jsou:
-*Body: 3 | Výskyty: 11 | Kategorie: Nezařazeno | První výskyt: 12.07.2024 | Poslední výskyt: 28.08.2024*
+*Body: 3 | Výskyty: 11 | Kategorie: Všeobecné znalosti letadel | První výskyt: 12.07.2024 | Poslední výskyt: 28.08.2024*
 
 - a) pohyblivé plochy, jimiž se mění za letu klopení a zatáčení
 - b) zařízení, které vyvozuje reakční moment
@@ -761,7 +761,7 @@ Celkem unikátních otázek: **294**
 ---
 
 ### Horizontální bílé nebo oranžové přistávací „T" určuje směr, který má být použit pro:
-*Body: 3 | Výskyty: 4 | Kategorie: Nezařazeno | První výskyt: 15.07.2024 | Poslední výskyt: 27.08.2024*
+*Body: 3 | Výskyty: 4 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 15.07.2024 | Poslední výskyt: 27.08.2024*
 
 - a) jen přistání
 - b) přistání i vzlet letadla
@@ -941,7 +941,7 @@ Celkem unikátních otázek: **294**
 ---
 
 ### Má vliv na chlazení motoru tvar krytu motoru a velikosti otvorů v tomto krytu?
-*Body: 3 | Výskyty: 4 | Kategorie: Nezařazeno | První výskyt: 17.07.2024 | Poslední výskyt: 26.08.2024*
+*Body: 3 | Výskyty: 4 | Kategorie: Všeobecné znalosti letadel | První výskyt: 17.07.2024 | Poslední výskyt: 26.08.2024*
 
 - a) nemá
 - b) má jen při určité rychlosti
@@ -1553,7 +1553,7 @@ Celkem unikátních otázek: **294**
 ---
 
 ### Kontroly a výměny svíček u zážehových motorů jsou:
-*Body: 3 | Výskyty: 3 | Kategorie: Nezařazeno | První výskyt: 30.07.2024 | Poslední výskyt: 19.08.2024*
+*Body: 3 | Výskyty: 3 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 30.07.2024 | Poslední výskyt: 19.08.2024*
 
 - a) z hlediska bezpečnosti nevýznamné
 - b) prováděny pouze u certifikovaných leteckých motorů
@@ -1688,7 +1688,7 @@ Celkem unikátních otázek: **294**
 ---
 
 ### V letové příručce letadla je uvedena minimální hmotnost pilota 70 kg a maximální hmotnost pilota 110 kg. Pilot s hmotností 59 kg pro provedení letu provede:
-*Body: 3 | Výskyty: 5 | Kategorie: Nezařazeno | První výskyt: 12.07.2024 | Poslední výskyt: 19.08.2024*
+*Body: 3 | Výskyty: 5 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 12.07.2024 | Poslední výskyt: 19.08.2024*
 
 - a) let bez dalších úprav
 - b) dovážení své hmotnosti na 70 kg
@@ -1850,7 +1850,7 @@ Celkem unikátních otázek: **294**
 ---
 
 ### Indukovaný odpor:
-*Body: 0 | Výskyty: 2 | Kategorie: Nezařazeno | První výskyt: 04.08.2024 | Poslední výskyt: 19.08.2024*
+*Body: 0 | Výskyty: 2 | Kategorie: Principy letu a aerodynamika | První výskyt: 04.08.2024 | Poslední výskyt: 19.08.2024*
 
 - a) vzniká jako důsledek vzájemného ovlivnění obtékání různých částí
 - b) vzniká jako důsledek indukce u zadní části profilu
@@ -2084,7 +2084,7 @@ Celkem unikátních otázek: **294**
 ---
 
 ### Co je to kompenzace kompasu?
-*Body: 3 | Výskyty: 2 | Kategorie: Nezařazeno | První výskyt: 30.07.2024 | Poslední výskyt: 11.08.2024*
+*Body: 3 | Výskyty: 2 | Kategorie: Navigace a letové přístroje | První výskyt: 30.07.2024 | Poslední výskyt: 11.08.2024*
 
 - a) odstraňování chyb kompasu způsobených třením přístroje
 - b) odstraňování chyb kompasu způsobených špatným upevněním v letadle.

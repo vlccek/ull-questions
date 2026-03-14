@@ -122,7 +122,7 @@ Celkem unikátních otázek: **80**
 ---
 
 ### V letové příručce letadla je uvedena minimální hmotnost pilota 70 kg a maximální hmotnost pilota 110 kg. Pilot s hmotností 59 kg pro provedení letu provede:
-*Body: 3 | Výskyty: 1 | Kategorie: Nezařazeno | První výskyt: 22.07.2024 | Poslední výskyt: 22.07.2024*
+*Body: 3 | Výskyty: 1 | Kategorie: Provozní postupy a bezpečnost | První výskyt: 22.07.2024 | Poslední výskyt: 22.07.2024*
 
 - a) let bez dalších úprav
 - b) dovážení své hmotnosti na 70 kg

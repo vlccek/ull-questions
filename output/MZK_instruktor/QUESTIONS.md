@@ -1076,7 +1076,7 @@ Celkem unikátních otázek: **193**
 ---
 
 ### Při změně plošného zatížení se aerodynamická klouzavost:
-*Body: 1 | Výskyty: 1 | Kategorie: Nezařazeno | První výskyt: 19.07.2024 | Poslední výskyt: 19.07.2024*
+*Body: 1 | Výskyty: 1 | Kategorie: Principy letu a aerodynamika | První výskyt: 19.07.2024 | Poslední výskyt: 19.07.2024*
 
 - a) nezmění, protože vztah mezi součinitelem vztlaku a součinitelem odporu se nemění
 - b) změní, protože vztah mezi velikostí vztlakové a odporové síly se nezmění
@@ -1211,7 +1211,7 @@ Celkem unikátních otázek: **193**
 ---
 
 ### Nasycená adiabata je stavová křivka znázorňující změnu teploty s výškou o hodnotu:
-*Body: 0 | Výskyty: 1 | Kategorie: Nezařazeno | První výskyt: 19.07.2024 | Poslední výskyt: 19.07.2024*
+*Body: 0 | Výskyty: 1 | Kategorie: Meteorologie | První výskyt: 19.07.2024 | Poslední výskyt: 19.07.2024*
 
 - a) 1,00 °C/100 m výšky
 - b) 0,65 °C/100 m výšky

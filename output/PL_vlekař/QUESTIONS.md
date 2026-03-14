@@ -104,7 +104,7 @@ Celkem unikátních otázek: **136**
 ---
 
 ### Při improvizovaném transportu postiženého v bezvědomí:
-*Body: 3 | Výskyty: 5 | Kategorie: Nezařazeno | První výskyt: 12.07.2024 | Poslední výskyt: 30.08.2024*
+*Body: 3 | Výskyty: 5 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 12.07.2024 | Poslední výskyt: 30.08.2024*
 
 - a) musíme zvláště dbát na šetrnost a stabilizaci hlavy při transportu
 - b) musí být transport co nejrychlejší
@@ -887,7 +887,7 @@ Celkem unikátních otázek: **136**
 ---
 
 ### Rychlost větru obvykle s rostoucí výškou:
-*Body: 0 | Výskyty: 1 | Kategorie: Nezařazeno | První výskyt: 30.07.2024 | Poslední výskyt: 30.07.2024*
+*Body: 0 | Výskyty: 1 | Kategorie: Meteorologie | První výskyt: 30.07.2024 | Poslední výskyt: 30.07.2024*
 
 - a) klesá
 - b) roste

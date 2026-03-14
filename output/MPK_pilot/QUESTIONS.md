@@ -212,7 +212,7 @@ Celkem unikátních otázek: **393**
 ---
 
 ### Údolní vítr (tzv. "údolka") vane:
-*Body: 1 | Výskyty: 35 | Kategorie: Nezařazeno | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
+*Body: 1 | Výskyty: 35 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) napříč údolím vzhůru po horských svazích
 - b) napříč údolím v důsledku výškového větru
@@ -473,7 +473,7 @@ Celkem unikátních otázek: **393**
 ---
 
 ### Indukovaný odpor:
-*Body: 0 | Výskyty: 14 | Kategorie: Nezařazeno | První výskyt: 16.07.2024 | Poslední výskyt: 07.09.2024*
+*Body: 0 | Výskyty: 14 | Kategorie: Principy letu a aerodynamika | První výskyt: 16.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) vzniká jako důsledek vzájemného ovlivnění obtékání různých částí
 - b) vzniká jako důsledek indukce u zadní části profilu
@@ -725,7 +725,7 @@ Celkem unikátních otázek: **393**
 ---
 
 ### Nasycená adiabata je stavová křivka znázorňující změnu teploty s výškou o hodnotu:
-*Body: 0 | Výskyty: 48 | Kategorie: Nezařazeno | První výskyt: 11.07.2024 | Poslední výskyt: 07.09.2024*
+*Body: 0 | Výskyty: 48 | Kategorie: Meteorologie | První výskyt: 11.07.2024 | Poslední výskyt: 07.09.2024*
 
 - a) 1,00 °C/100 m výšky
 - b) 0,65 °C/100 m výšky
@@ -1067,7 +1067,7 @@ Celkem unikátních otázek: **393**
 ---
 
 ### Při improvizovaném transportu postiženého v bezvědomí:
-*Body: 3 | Výskyty: 31 | Kategorie: Nezařazeno | První výskyt: 13.07.2024 | Poslední výskyt: 05.09.2024*
+*Body: 3 | Výskyty: 31 | Kategorie: Lidská výkonnost, zdravotní způsobilost a první pomoc | První výskyt: 13.07.2024 | Poslední výskyt: 05.09.2024*
 
 - a) musíme zvláště dbát na šetrnost a stabilizaci hlavy při transportu
 - b) musí být transport co nejrychlejší
@@ -2084,7 +2084,7 @@ Celkem unikátních otázek: **393**
 ---
 
 ### Vertikální mohutnost troposféry je nejmenší:
-*Body: 0 | Výskyty: 37 | Kategorie: Nezařazeno | První výskyt: 10.07.2024 | Poslední výskyt: 04.09.2024*
+*Body: 0 | Výskyty: 37 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 04.09.2024*
 
 - a) nad póly
 - b) nad oblastmi rovníku
@@ -2363,7 +2363,7 @@ Celkem unikátních otázek: **393**
 ---
 
 ### Indukovaný odpor lze zmenšit:
-*Body: 3 | Výskyty: 15 | Kategorie: Nezařazeno | První výskyt: 15.07.2024 | Poslední výskyt: 02.09.2024*
+*Body: 3 | Výskyty: 15 | Kategorie: Principy letu a aerodynamika | První výskyt: 15.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) šípem křídla a tloušťkou profilu
 - b) štíhlostí křídla a vhodným zakončením křídla
@@ -2534,7 +2534,7 @@ Celkem unikátních otázek: **393**
 ---
 
 ### Kdy dojde ke snížení indukovaného odporu za letu?
-*Body: 0 | Výskyty: 14 | Kategorie: Nezařazeno | První výskyt: 16.07.2024 | Poslední výskyt: 02.09.2024*
+*Body: 0 | Výskyty: 14 | Kategorie: Principy letu a aerodynamika | První výskyt: 16.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) ke snížení indukovaného odporu dojde za letu ve velké výšce, kdy se vlivem malé hustoty vzduchu nevytvoří dostatečně velký tlakový spád pro vznik koncových vírů.
 - b) ke snížení indukovaného odporu dojde za letu v těsné blízkosti země, kdy malá vzdálenost křídla od země omezí vytvoření koncových vírů.
@@ -2993,7 +2993,7 @@ Celkem unikátních otázek: **393**
 ---
 
 ### V našich zeměpisných šířkách zasahuje vertikálně vyvinutá oblačnost typu Cb do výšky:
-*Body: 0 | Výskyty: 39 | Kategorie: Nezařazeno | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
+*Body: 0 | Výskyty: 39 | Kategorie: Meteorologie | První výskyt: 10.07.2024 | Poslední výskyt: 02.09.2024*
 
 - a) 4 km
 - b) až 15 km, ojediněle i více
@@ -3038,7 +3038,7 @@ Celkem unikátních otázek: **393**
 ---
 
 ### Přetažení PK je:
-*Body: 1 | Výskyty: 79 | Kategorie: Nezařazeno | První výskyt: 10.07.2024 | Poslední výskyt: 01.09.2024*
+*Body: 1 | Výskyty: 79 | Kategorie: Principy letu a aerodynamika | První výskyt: 10.07.2024 | Poslední výskyt: 01.09.2024*
 
 - a) razatní sešlápnutí speed systému
 - b) když pilot PK přebrzdí
@@ -3119,7 +3119,7 @@ Celkem unikátních otázek: **393**
 ---
 
 ### Rychlost větru obvykle s rostoucí výškou:
-*Body: 0 | Výskyty: 18 | Kategorie: Nezařazeno | První výskyt: 09.07.2024 | Poslední výskyt: 01.09.2024*
+*Body: 0 | Výskyty: 18 | Kategorie: Meteorologie | První výskyt: 09.07.2024 | Poslední výskyt: 01.09.2024*
 
 - a) klesá
 - b) roste
@@ -3398,7 +3398,7 @@ Celkem unikátních otázek: **393**
 ---
 
 ### Při změně plošného zatížení se aerodynamická klouzavost:
-*Body: 1 | Výskyty: 11 | Kategorie: Nezařazeno | První výskyt: 15.07.2024 | Poslední výskyt: 29.08.2024*
+*Body: 1 | Výskyty: 11 | Kategorie: Principy letu a aerodynamika | První výskyt: 15.07.2024 | Poslední výskyt: 29.08.2024*
 
 - a) nezmění, protože vztah mezi součinitelem vztlaku a součinitelem odporu se nemění
 - b) změní, protože vztah mezi velikostí vztlakové a odporové síly se nezmění
