@@ -18,6 +18,11 @@ import warnings
 import hashlib
 import sqlite3
 import argparse
+import concurrent.futures
+from threading import Lock
+
+# Globální zámek pro bezpečný zápis do SQLite z více vláken
+db_lock = Lock()
 from datetime import date, datetime, timedelta
 from multiprocessing import Pool, cpu_count
 
@@ -49,9 +54,13 @@ logger.add(sys.stderr, level="INFO",
 # PART 1: DATA SCRAPING & DATABASE OPERATIONS
 # ==============================================================================
 def get_question_hash(question_text, options):
-    """Creates a consistent hash for a question based on its text and options."""
-    sorted_options = "".join(str(v) for k, v in sorted(options.items()))
-    return hashlib.md5((question_text + sorted_options).encode('utf-8')).hexdigest()
+    """Vytvoří unifikovaný hash z textu a seřazených odpovědí (ignoruje pořadí a whitespace)."""
+    # Sjednotíme text (všechny bílé znaky na jednu mezeru a strip)
+    normalized_text = " ".join(question_text.split()).strip()
+    # Seřadíme hodnoty odpovědí pro eliminaci vlivu náhodného pořadí (shuffling)
+    sorted_option_values = sorted([" ".join(str(v).split()).strip() for v in options.values() if v is not None])
+    combined = normalized_text + "".join(sorted_option_values)
+    return hashlib.md5(combined.encode('utf-8')).hexdigest()
 
 
 def initialize_database(conn):
@@ -363,7 +372,7 @@ def save_test_to_db(conn, current_id, data):
 
 
 def download_new_data(conn, args, session):
-    """Sekvenční mód, který automaticky nalezne konec známých testů a začne stahovat novinky."""
+    """Paralelní stahování novinek pomocí ThreadPoolExecutor pro maximální výkon."""
     cursor = conn.cursor()
 
     start_fallback = args.start_id if args.start_id else 900000
@@ -379,108 +388,85 @@ def download_new_data(conn, args, session):
         max_f = max_f if max_f is not None else start_fallback
         current_id = max(max_t, max_f) + 1
 
-    logger.info(f"Sekvenční stahování novinek zahájeno od ID: {current_id}")
-    if not check_failed_cache:
-        logger.info("Režim ignorování cache chyb: Všechna ID budou zkontrolována znovu.")
-
+    logger.info(f"Paralelní stahování zahájeno od ID: {current_id}")
     pbar = tqdm(desc="Stahování", unit="test")
     last_processed_date = None
     error_count = 0
+    max_workers = 30
 
-    while True:
-        if args.end_id and current_id > args.end_id:
-            break
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        while True:
+            if args.end_id and current_id > args.end_id:
+                break
 
-        pbar.update(1)
-        pbar.set_postfix({
-            "ID": current_id,
-            "Chyby": error_count,
-            "Datum": last_processed_date.strftime('%d.%m.%Y') if last_processed_date else '...'
-        })
-
-        if cursor.execute("SELECT 1 FROM tests WHERE id = ?", (current_id,)).fetchone():
-            current_id += 1
-            continue
-        if check_failed_cache and cursor.execute("SELECT 1 FROM failed_tests WHERE id = ?", (current_id,)).fetchone():
-            current_id += 1
-            continue
-
-        data = parse_pdf_from_url(URL_BASE + str(current_id), session)
-
-        if data == "NETWORK_ERROR":
-            tqdm.write(f"Síťový výpadek u ID {current_id}. Čekám 3s a zkouším znovu...")
-            time.sleep(3)
-            pbar.update(-1)
-            continue
-
-        if data and data.get("questions"):
-            error_count = 0
-            if data['test_date']:
-                last_processed_date = data['test_date']
-
-            save_test_to_db(conn, current_id, data)
-        else:
-            error_count += 1
-            cursor.execute("INSERT OR IGNORE INTO failed_tests (id) VALUES (?)", (current_id,))
-            conn.commit()
-
-            if error_count >= 50:
-                today = date.today()
-                days_diff = (today - last_processed_date).days if last_processed_date else 999
-
-                if not args.end_id and days_diff <= 14:
-                    logger.success(f"Dosaženo 50 prázdných ID a poslední test je z nedávna. Aktuální data stažena.")
+            # Příprava balíčku ID, která ještě nemáme v DB ani failed_cache
+            batch_ids = []
+            probe_id = current_id
+            while len(batch_ids) < max_workers:
+                if args.end_id and probe_id > args.end_id:
                     break
+                
+                # Rychlá kontrola existence v DB/failed cache
+                in_db = cursor.execute("SELECT 1 FROM tests WHERE id = ?", (probe_id,)).fetchone()
+                in_failed = check_failed_cache and cursor.execute("SELECT 1 FROM failed_tests WHERE id = ?", (probe_id,)).fetchone()
+                
+                if not in_db and not in_failed:
+                    batch_ids.append(probe_id)
+                probe_id += 1
+            
+            if not batch_ids:
+                if args.end_id and probe_id > args.end_id: break
+                current_id = probe_id
+                continue
+
+            # Paralelní stažení a parsování
+            future_to_id = {executor.submit(parse_pdf_from_url, URL_BASE + str(tid), session): tid for tid in batch_ids}
+            
+            # Sběr výsledků v pořadí dokončení
+            results = {}
+            for future in concurrent.futures.as_completed(future_to_id):
+                results[future_to_id[future]] = future.result()
+            
+            stop_loop = False
+            for tid in sorted(batch_ids):
+                data = results[tid]
+                current_id = tid + 1
+                
+                pbar.update(1)
+                pbar.set_postfix({"ID": tid, "Chyby": error_count, "Datum": last_processed_date.strftime('%d.%m.%Y') if last_processed_date else '...'})
+
+                if data == "NETWORK_ERROR":
+                    # Při síťové chybě zkusíme sekvenčně s malým čekáním
+                    time.sleep(2)
+                    data = parse_pdf_from_url(URL_BASE + str(tid), session)
+
+                if data and isinstance(data, dict) and data.get("questions"):
+                    error_count = 0
+                    if data['test_date']:
+                        last_processed_date = data['test_date']
+                    save_test_to_db(conn, tid, data)
                 else:
-                    logger.warning(f"Zjištěna obří propast v datech (50 chyb). Skokově hledám další živý test...")
-                    step = 500
-                    found_next = False
+                    error_count += 1
+                    cursor.execute("INSERT OR IGNORE INTO failed_tests (id) VALUES (?)", (tid,))
+                    conn.commit()
 
-                    while step <= 500000:
-                        probe_id = current_id + step
-                        if args.end_id and probe_id > args.end_id:
-                            break
+                    if args.end_id:
+                        # Pokud je zadáno end_id, pokračujeme až do konce bez ohledu na chyby
+                        continue
 
-                        p_data = parse_pdf_from_url(URL_BASE + str(probe_id), session)
-
-                        if p_data == "NETWORK_ERROR":
-                            time.sleep(3)
-                            continue
-
-                        if p_data and p_data.get("questions"):
-                            low, high = current_id, probe_id
-                            best_valid = probe_id
-
-                            while low <= high:
-                                mid = (low + high) // 2
-                                m_data = parse_pdf_from_url(URL_BASE + str(mid), session)
-
-                                if m_data == "NETWORK_ERROR":
-                                    time.sleep(3)
-                                    continue
-
-                                if m_data and m_data.get("questions"):
-                                    best_valid = mid
-                                    high = mid - 1
-                                else:
-                                    low = mid + 1
-
-                            safe_start = max(current_id, best_valid - 5)
-                            current_id = safe_start - 1
-                            found_next = True
-                            logger.success(f"Konec propasti nalezen, stahování naváže na ID {safe_start}.")
-                            break
-
-                        step *= 2
-
-                    if not found_next:
-                        logger.success("V zadaném rozsahu nenalezena žádná další data. Končím.")
+                    if error_count == 1000:
+                        logger.warning(f"Dosaženo 1000 chyb. Zkouším skok o 5000 ID vpřed ({tid} -> {tid + 5000}).")
+                        current_id = tid + 5000
+                        error_count = 9900  # Zbývá 100 pokusů do limitu 10000
                         break
 
-                    error_count = 0
-
-        current_id += 1
-
+                    if error_count >= 10000:
+                        logger.warning(f"Dosažen limit 10000 chyb. Končím.")
+                        stop_loop = True
+                        break
+            
+            if stop_loop: break
+            
     pbar.close()
 
 
