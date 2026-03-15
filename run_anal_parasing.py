@@ -16,12 +16,14 @@ import time
 import subprocess
 import warnings
 import hashlib
-import sqlite3
 import argparse
 import concurrent.futures
 from threading import Lock
+from dotenv import load_dotenv
+import psycopg2
+from psycopg2 import pool
 
-# Globální zámek pro bezpečný zápis do SQLite z více vláken
+# Globální zámek pro bezpečný zápis do DB
 db_lock = Lock()
 from datetime import date, datetime, timedelta
 from multiprocessing import Pool, cpu_count
@@ -33,10 +35,18 @@ import requests
 from loguru import logger
 from tqdm import tqdm
 
+# Načtení proměnných z .env souboru (pokud existuje)
+load_dotenv()
+
 # ==============================================================================
 # SCRIPT CONFIGURATION
 # ==============================================================================
-DB_FILE = "tests.sqlite"
+DB_NAME = os.getenv("DB_NAME", "postgres")
+DB_HOST = os.getenv("DB_HOST", "localhost")
+DB_PORT = os.getenv("DB_PORT", "5432")
+DB_USER = os.getenv("DB_USER", "postgres")
+DB_PASS = os.getenv("DB_PASS", "")
+
 URL_BASE = "https://zkouseni.laacr.cz/Zkouseni/PDFReport?module=M09&report=vysledek&id="
 REQUEST_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -48,6 +58,24 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 logger.remove()
 logger.add(sys.stderr, level="INFO",
            format="<green>{time:HH:mm:ss}</green> | <level>{level: <8}</level> | <level>{message}</level>")
+
+
+def get_db_connection():
+    """Returns a PostgreSQL database connection."""
+    try:
+        conn = psycopg2.connect(
+            dbname=DB_NAME,
+            user=DB_USER,
+            password=DB_PASS,
+            host=DB_HOST,
+            port=DB_PORT
+        )
+        # Postgres connections don't automatically commit by default in psycopg2
+        conn.autocommit = False
+        return conn
+    except Exception as e:
+        logger.error(f"Nepodařilo se připojit k PostgreSQL: {e}")
+        sys.exit(1)
 
 
 # ==============================================================================
@@ -64,125 +92,69 @@ def get_question_hash(question_text, options):
 
 
 def initialize_database(conn):
-    """Initializes the SQLite database schema with a relational structure."""
+    """Initializes the database schema with a relational structure for PostgreSQL."""
     logger.info("Inicializace databázového schématu...")
+    cursor = conn.cursor()
 
-    conn.execute("PRAGMA journal_mode=WAL;")
-
-    conn.execute("""
+    cursor.execute("""
                  CREATE TABLE IF NOT EXISTS categories
                  (
-                     id
-                     INTEGER
-                     PRIMARY
-                     KEY
-                     AUTOINCREMENT,
-                     name
-                     TEXT
-                     UNIQUE
+                     id SERIAL PRIMARY KEY,
+                     name TEXT UNIQUE
                  );
                  """)
 
-    conn.execute("""
+    cursor.execute("""
                  CREATE TABLE IF NOT EXISTS questions
                  (
-                     id
-                     TEXT
-                     PRIMARY
-                     KEY,
-                     text
-                     TEXT,
-                     option_a
-                     TEXT,
-                     option_b
-                     TEXT,
-                     option_c
-                     TEXT,
-                     correct_option
-                     TEXT,
-                     points
-                     INTEGER,
-                     explanation
-                     TEXT,
-                     category_id
-                     INTEGER
-                     REFERENCES
-                     categories
-                 (
-                     id
-                 )
-                     );
+                     id TEXT PRIMARY KEY,
+                     text TEXT,
+                     option_a TEXT,
+                     option_b TEXT,
+                     option_c TEXT,
+                     correct_option TEXT,
+                     points INTEGER,
+                     explanation TEXT,
+                     category_id INTEGER REFERENCES categories (id)
+                 );
                  """)
 
-    conn.execute("""
+    cursor.execute("""
                  CREATE TABLE IF NOT EXISTS tests
                  (
-                     id
-                     INTEGER
-                     PRIMARY
-                     KEY,
-                     test_date
-                     DATE,
-                     is_practice
-                     BOOLEAN,
-                     official_test_number
-                     TEXT,
-                     test_type
-                     TEXT,
-                     odbornost
-                     TEXT,
-                     min_points
-                     INTEGER,
-                     max_points
-                     INTEGER
+                     id INTEGER PRIMARY KEY,
+                     test_date DATE,
+                     is_practice BOOLEAN,
+                     official_test_number TEXT,
+                     test_type TEXT,
+                     odbornost TEXT,
+                     min_points INTEGER,
+                     max_points INTEGER
                  );
                  """)
 
-    conn.execute("""
+    cursor.execute("""
                  CREATE TABLE IF NOT EXISTS failed_tests
                  (
-                     id
-                     INTEGER
-                     PRIMARY
-                     KEY
+                     id INTEGER PRIMARY KEY
                  );
                  """)
 
-    conn.execute("""
+    cursor.execute("""
                  CREATE TABLE IF NOT EXISTS test_questions
                  (
-                     test_id
-                     INTEGER,
-                     question_id
-                     TEXT,
-                     PRIMARY
-                     KEY
-                 (
-                     test_id,
-                     question_id
-                 ),
-                     FOREIGN KEY
-                 (
-                     test_id
-                 ) REFERENCES tests
-                 (
-                     id
-                 ),
-                     FOREIGN KEY
-                 (
-                     question_id
-                 ) REFERENCES questions
-                 (
-                     id
-                 )
-                     );
+                     test_id INTEGER REFERENCES tests (id),
+                     question_id TEXT REFERENCES questions (id),
+                     PRIMARY KEY (test_id, question_id)
+                 );
                  """)
 
     # Přidání indexů pro extrémní zrychlení čtení a agregací
-    conn.execute("CREATE INDEX IF NOT EXISTS idx_test_type ON tests(test_type);")
-    conn.execute("CREATE INDEX IF NOT EXISTS idx_test_practice ON tests(is_practice);")
+    cursor.execute("CREATE INDEX IF NOT EXISTS idx_test_type ON tests(test_type);")
+    cursor.execute("CREATE INDEX IF NOT EXISTS idx_test_practice ON tests(is_practice);")
 
     conn.commit()
+    cursor.close()
 
 
 def import_enriched_questions(conn):
@@ -192,23 +164,25 @@ def import_enriched_questions(conn):
             data = json.load(f)
 
         cursor = conn.cursor()
+        insert_ignore_cat = "INSERT INTO categories (name) VALUES (%s) ON CONFLICT (name) DO NOTHING"
+        insert_ignore_q = """INSERT INTO questions 
+                       (id, text, option_a, option_b, option_c, correct_option, points, category_id, explanation) 
+                       VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s) ON CONFLICT (id) DO NOTHING"""
+
         for item in data:
             if 'hashid' in item and 'text_otazky' in item and item['hashid']:
                 cat_name = item.get('kategorie')
                 cat_id = None
 
                 if cat_name and cat_name != 'Nezařazeno':
-                    cursor.execute("INSERT OR IGNORE INTO categories (name) VALUES (?)", (cat_name,))
-                    cursor.execute("SELECT id FROM categories WHERE name = ?", (cat_name,))
+                    cursor.execute(insert_ignore_cat, (cat_name,))
+                    cursor.execute("SELECT id FROM categories WHERE name = %s", (cat_name,))
                     res = cursor.fetchone()
                     if res:
                         cat_id = res[0]
 
                 cursor.execute(
-                    """INSERT
-                    OR IGNORE INTO questions 
-                       (id, text, option_a, option_b, option_c, correct_option, points, category_id, explanation) 
-                       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+                    insert_ignore_q,
                     (
                         item['hashid'],
                         item['text_otazky'],
@@ -222,7 +196,9 @@ def import_enriched_questions(conn):
                     )
                 )
         conn.commit()
-    except Exception:
+        cursor.close()
+    except Exception as e:
+        logger.error(f"Error importing enriched questions: {e}")
         pass
 
 
@@ -323,52 +299,59 @@ def parse_pdf_from_url(url: str, session: requests.Session):
 
 def save_test_to_db(conn, current_id, data):
     """Pomocná funkce pro bezpečné uložení testu a jeho otázek do databáze."""
-    question_hashes = []
+    with db_lock:
+        question_hashes = []
+        
+        insert_ignore_q = """INSERT INTO questions 
+                           (id, text, option_a, option_b, option_c, correct_option, points)
+                           VALUES (%s, %s, %s, %s, %s, %s, %s) ON CONFLICT (id) DO NOTHING"""
 
-    for question in data['questions']:
-        q_hash = question['hash']
-        question_hashes.append(q_hash)
+        insert_ignore_test = """INSERT INTO tests 
+               (id, test_date, is_practice, official_test_number, test_type, odbornost, min_points, max_points) 
+               VALUES (%s, %s, %s, %s, %s, %s, %s, %s) ON CONFLICT (id) DO NOTHING"""
+               
+        insert_ignore_tq = "INSERT INTO test_questions (test_id, question_id) VALUES (%s, %s) ON CONFLICT (test_id, question_id) DO NOTHING"
 
-        conn.execute(
-            """INSERT
-            OR IGNORE INTO questions 
-               (id, text, option_a, option_b, option_c, correct_option, points)
-               VALUES (?, ?, ?, ?, ?, ?, ?)""",
+        cursor = conn.cursor()
+        for question in data['questions']:
+            q_hash = question['hash']
+            question_hashes.append(q_hash)
+
+            cursor.execute(
+                insert_ignore_q,
+                (
+                    q_hash,
+                    question['question_text'],
+                    question['options'].get('A'),
+                    question['options'].get('B'),
+                    question['options'].get('C'),
+                    question.get('correct_option'),
+                    question.get('points')
+                )
+            )
+
+        cursor.execute(
+            insert_ignore_test,
             (
-                q_hash,
-                question['question_text'],
-                question['options'].get('A'),
-                question['options'].get('B'),
-                question['options'].get('C'),
-                question.get('correct_option'),
-                question.get('points')
+                current_id,
+                data['test_date'].strftime("%Y-%m-%d") if data['test_date'] else None,
+                data['is_practice'],
+                data['official_number'],
+                data['test_type'],
+                data['odbornost'],
+                data['min_points'],
+                data['max_points']
             )
         )
 
-    conn.execute(
-        """INSERT
-        OR IGNORE INTO tests 
-           (id, test_date, is_practice, official_test_number, test_type, odbornost, min_points, max_points) 
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?)""",
-        (
-            current_id,
-            data['test_date'].strftime("%Y-%m-%d") if data['test_date'] else None,
-            data['is_practice'],
-            data['official_number'],
-            data['test_type'],
-            data['odbornost'],
-            data['min_points'],
-            data['max_points']
-        )
-    )
+        for q_hash in question_hashes:
+            cursor.execute(
+                insert_ignore_tq,
+                (current_id, q_hash)
+            )
 
-    for q_hash in question_hashes:
-        conn.execute(
-            "INSERT OR IGNORE INTO test_questions (test_id, question_id) VALUES (?, ?)",
-            (current_id, q_hash)
-        )
-
-    conn.commit()
+        conn.commit()
+        cursor.close()
 
 
 def download_new_data(conn, args, session):
@@ -382,8 +365,10 @@ def download_new_data(conn, args, session):
         current_id = args.start_id
         check_failed_cache = False
     else:
-        max_t = cursor.execute("SELECT MAX(id) FROM tests").fetchone()[0]
-        max_f = cursor.execute("SELECT MAX(id) FROM failed_tests").fetchone()[0]
+        cursor.execute("SELECT MAX(id) FROM tests")
+        max_t = cursor.fetchone()[0]
+        cursor.execute("SELECT MAX(id) FROM failed_tests")
+        max_f = cursor.fetchone()[0]
         max_t = max_t if max_t is not None else start_fallback
         max_f = max_f if max_f is not None else start_fallback
         current_id = max(max_t, max_f) + 1
@@ -392,7 +377,9 @@ def download_new_data(conn, args, session):
     pbar = tqdm(desc="Stahování", unit="test")
     last_processed_date = None
     error_count = 0
-    max_workers = 30
+    max_workers = 2
+    
+    insert_ignore_failed = "INSERT INTO failed_tests (id) VALUES (%s) ON CONFLICT (id) DO NOTHING"
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         while True:
@@ -407,8 +394,13 @@ def download_new_data(conn, args, session):
                     break
                 
                 # Rychlá kontrola existence v DB/failed cache
-                in_db = cursor.execute("SELECT 1 FROM tests WHERE id = ?", (probe_id,)).fetchone()
-                in_failed = check_failed_cache and cursor.execute("SELECT 1 FROM failed_tests WHERE id = ?", (probe_id,)).fetchone()
+                cursor.execute("SELECT 1 FROM tests WHERE id = %s", (probe_id,))
+                in_db = cursor.fetchone()
+                
+                in_failed = False
+                if check_failed_cache:
+                    cursor.execute("SELECT 1 FROM failed_tests WHERE id = %s", (probe_id,))
+                    in_failed = cursor.fetchone()
                 
                 if not in_db and not in_failed:
                     batch_ids.append(probe_id)
@@ -447,7 +439,7 @@ def download_new_data(conn, args, session):
                     save_test_to_db(conn, tid, data)
                 else:
                     error_count += 1
-                    cursor.execute("INSERT OR IGNORE INTO failed_tests (id) VALUES (?)", (tid,))
+                    cursor.execute(insert_ignore_failed, (tid,))
                     conn.commit()
 
                     if args.end_id:
@@ -468,6 +460,7 @@ def download_new_data(conn, args, session):
             if stop_loop: break
             
     pbar.close()
+    cursor.close()
 
 
 # ==============================================================================
@@ -505,7 +498,7 @@ def generate_global_metadata(conn, output_dir):
                    SELECT COALESCE(c.name, 'Nezařazeno'), COUNT(q.id)
                    FROM questions q
                             LEFT JOIN categories c ON q.category_id = c.id
-                   GROUP BY c.name
+                   GROUP BY COALESCE(c.name, 'Nezařazeno')
                    """)
     categories_breakdown = {row[0]: row[1] for row in cursor.fetchall()}
 
@@ -523,16 +516,16 @@ def generate_global_metadata(conn, output_dir):
 
     metadata_path = os.path.join(output_dir, "metadata.json")
     with open(metadata_path, "w", encoding="utf-8") as f:
-        json.dump(metadata, f, ensure_ascii=False, indent=4)
+        json.dump(metadata, f, ensure_ascii=False, indent=4, cls=CustomJSONEncoder)
 
+    cursor.close()
     return metadata
 
 
 def fetch_aggregated_questions_for_category(conn, test_type):
     """
     MEMORY OPTIMIZATION: Místo tahání milionů řádků do paměti a složitého seskupování
-    v Pythonu/Polars, necháme databázi provést agregaci (COUNT, MIN, MAX) na úrovni SQLite.
-    Tím ušetříme gigabyty RAM.
+    v Pythonu/Polars, necháme databázi provést agregaci (COUNT, MIN, MAX).
     """
     cursor = conn.cursor()
     query = """
@@ -552,8 +545,8 @@ def fetch_aggregated_questions_for_category(conn, test_type):
                      JOIN test_questions tq ON q.id = tq.question_id
                      JOIN tests t ON tq.test_id = t.id
                      LEFT JOIN categories c ON q.category_id = c.id
-            WHERE t.test_type = ?
-            GROUP BY q.id
+            WHERE t.test_type = %s
+            GROUP BY q.id, q.text, q.option_a, q.option_b, q.option_c, q.correct_option, q.explanation, c.name
             ORDER BY occurrence_count DESC \
             """
     cursor.execute(query, (test_type,))
@@ -561,23 +554,27 @@ def fetch_aggregated_questions_for_category(conn, test_type):
     data = cursor.fetchall()
 
     if not data:
+        cursor.close()
         return None
 
     # Vytvoření odlehčeného DataFramu pouze pro jednu kategorii
     df = pl.DataFrame(data, schema=columns, orient="row")
 
-    # Ošetření formátu datumu z DB (v SQLite uloženo jako text) do Polars Date typu
-    if 'first_seen' in df.columns:
-        df = df.with_columns(pl.col('first_seen').str.strptime(pl.Date, "%Y-%m-%d", strict=False))
-    if 'last_seen' in df.columns:
-        df = df.with_columns(pl.col('last_seen').str.strptime(pl.Date, "%Y-%m-%d", strict=False))
+    # Ošetření formátu datumu z DB (v Postgresu jako Date objekt)
+    for col in ['first_seen', 'last_seen']:
+        if col in df.columns:
+            if df[col].dtype == pl.Utf8:
+                df = df.with_columns(pl.col(col).str.strptime(pl.Date, "%Y-%m-%d", strict=False))
+            elif df[col].dtype == pl.Object:
+                # If they are date objects, convert them to Polars Date
+                df = df.with_columns(pl.col(col).cast(pl.Date))
 
-    # Zabalení možností (option_a, b, c) do jednoho structu/slovníku 'options',
-    # aby to odpovídalo očekávanému formátu v generátorech Markdownu a JSONu.
+    # Zabalení možností (option_a, b, c) do jednoho structu/slovníku 'options'
     df_with_struct = df.with_columns(
         pl.struct(['option_a', 'option_b', 'option_c']).alias("options")
     )
 
+    cursor.close()
     return df_with_struct
 
 
@@ -663,7 +660,7 @@ def generate_categories_json(conn, test_type, output_path):
                             JOIN test_questions tq ON q.id = tq.question_id
                             JOIN tests t ON tq.test_id = t.id
                             JOIN categories c ON q.category_id = c.id
-                   WHERE t.test_type = ?
+                   WHERE t.test_type = %s
                      AND c.name IS NOT NULL
                    ORDER BY c.name
                    """, (test_type,))
@@ -676,19 +673,20 @@ def generate_categories_json(conn, test_type, output_path):
         "categories": unique_cats
     }
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+        json.dump(data, f, ensure_ascii=False, indent=4, cls=CustomJSONEncoder)
+    cursor.close()
 
 
 def generate_real_tests_json(conn, test_type, output_path):
     """JSON 3: Rychlý SQL dotaz na ostré testy a spojení IDček otázek přímo v databázi."""
     cursor = conn.cursor()
-
+    
     cursor.execute("""
-                   SELECT t.id, t.test_date, t.official_test_number, GROUP_CONCAT(tq.question_id)
+                   SELECT t.id, t.test_date, t.official_test_number, string_agg(tq.question_id, ',')
                    FROM tests t
                             JOIN test_questions tq ON t.id = tq.test_id
-                   WHERE t.test_type = ?
-                     AND t.is_practice = 0
+                   WHERE t.test_type = %s
+                     AND t.is_practice = false
                    GROUP BY t.id, t.test_date, t.official_test_number
                    """, (test_type,))
 
@@ -705,6 +703,7 @@ def generate_real_tests_json(conn, test_type, output_path):
 
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(real_tests_list, f, ensure_ascii=False, indent=4, cls=CustomJSONEncoder)
+    cursor.close()
 
 
 def convert_md_to_pdf(md_file_path):
@@ -732,6 +731,7 @@ def generate_outputs_for_all_categories(conn, skip_pdf_gen=False):
     cursor = conn.cursor()
     cursor.execute("SELECT DISTINCT test_type FROM tests WHERE test_type IS NOT NULL AND test_type != 'Unknown'")
     categories = [r[0] for r in cursor.fetchall()]
+    cursor.close()
 
     if not categories:
         logger.warning("Nebyly nalezeny žádné známé kategorie. Generování ukončeno.")
@@ -815,13 +815,16 @@ def main():
     session = requests.Session()
     session.headers.update(REQUEST_HEADERS)
 
-    with sqlite3.connect(DB_FILE, timeout=30) as conn:
+    conn = get_db_connection()
+    try:
         initialize_database(conn)
         import_enriched_questions(conn)
 
         if args.clear_failed:
-            conn.execute("DELETE FROM failed_tests")
+            cur = conn.cursor()
+            cur.execute("DELETE FROM failed_tests")
             conn.commit()
+            cur.close()
             logger.info("Cache neúspěšných testů (failed_tests) byla úspěšně vymazána. Skript zkusí staré díry znovu.")
 
         if not args.skip_scraping:
@@ -837,6 +840,7 @@ def main():
         current_total_tests = cursor.fetchone()[0]
         cursor.execute("SELECT COUNT(*) FROM questions")
         current_total_questions = cursor.fetchone()[0]
+        cursor.close()
 
         metadata_path = os.path.join("output", "metadata.json")
         if os.path.exists(metadata_path) and not args.force_generate:
@@ -858,6 +862,8 @@ def main():
         generate_global_metadata(conn, "output")
 
         generate_outputs_for_all_categories(conn, skip_pdf_gen=args.skip_pdf_gen)
+    finally:
+        conn.close()
 
     logger.success("Celý skript proběhl bez kritických chyb.")
 
