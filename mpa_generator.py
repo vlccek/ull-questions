@@ -1,12 +1,13 @@
 import os
 import json
 import html
-import sqlite3
+import psycopg2
+from psycopg2.extras import RealDictCursor
+from dotenv import load_dotenv
 import math
 from datetime import datetime
 
 # --- KONFIGURACE ---
-DB_FILE = "tests.sqlite"
 ITEMS_PER_PAGE = 500
 
 COMMON_HEAD = """
@@ -84,6 +85,9 @@ def get_sidebar(sorted_tests, root_path, current_test=None):
                 <a href="{root_path}index.html" class="w-full block px-4 py-3 rounded-xl transition flex items-center gap-3 font-bold {'bg-blue-600 text-white shadow-xl shadow-blue-900/40' if current_test == 'Dashboard' else 'text-slate-400 hover:bg-slate-800 hover:text-white'}">
                     <i data-lucide="layout-dashboard" class="w-5 h-5"></i> Dashboard
                 </a>
+                <a href="https://ull.jevlk.cz/" target="_blank" class="w-full block px-4 py-3 rounded-xl transition flex items-center gap-3 font-bold text-indigo-400 hover:bg-slate-800 hover:text-indigo-300">
+                    <i data-lucide="zap" class="w-5 h-5"></i> Procvičování
+                </a>
                 <div class="pt-8 pb-3 px-4 text-[10px] font-black text-slate-500 uppercase tracking-[0.2em]">Moduly</div>
                 {nav_items}
             </nav>
@@ -91,12 +95,20 @@ def get_sidebar(sorted_tests, root_path, current_test=None):
     """
 
 def deploy_site(output_dir="output"):
-    if not os.path.exists(DB_FILE): return
-    conn = sqlite3.connect(DB_FILE); conn.row_factory = sqlite3.Row
+    load_dotenv()
+    conn = psycopg2.connect(
+        host=os.getenv("DB_HOST"),
+        port=os.getenv("DB_PORT"),
+        database=os.getenv("DB_NAME"),
+        user=os.getenv("DB_USER"),
+        password=os.getenv("DB_PASS")
+    )
+    cursor = conn.cursor(cursor_factory=RealDictCursor)
     with open(os.path.join(output_dir, "metadata.json"), "r", encoding="utf-8") as f: metadata = json.load(f)
     
-    cursor = conn.execute("SELECT MIN(test_date), MAX(test_date) FROM tests")
-    db_min_str, db_max_str = cursor.fetchone()
+    cursor.execute("SELECT MIN(test_date)::text as min_d, MAX(test_date)::text as max_d FROM tests")
+    row = cursor.fetchone()
+    db_min_str, db_max_str = row['min_d'], row['max_d']
     db_min = datetime.strptime(db_min_str, "%Y-%m-%d")
     db_max = datetime.strptime(db_max_str, "%Y-%m-%d")
     sorted_tests = sorted(metadata["breakdown_by_test_type"].items(), key=lambda x: x[1], reverse=True)
@@ -104,15 +116,16 @@ def deploy_site(output_dir="output"):
     # --- DASHBOARD ---
     with open(os.path.join(output_dir, "index.html"), "w", encoding="utf-8") as f:
         sidebar = get_sidebar(sorted_tests, "", "Dashboard")
-        f.write(f'<!DOCTYPE html><html lang="cs"><head>{COMMON_HEAD}<title>Dashboard</title></head><body class="bg-slate-50 text-slate-900 font-sans flex flex-col lg:flex-row min-h-screen" x-data="{{ mobileMenu: false }}">{sidebar}<main class="flex-1 p-4 sm:p-10 overflow-y-auto"><h2 class="text-2xl sm:text-4xl font-black text-slate-800 tracking-tighter mb-8 uppercase italic">Dashboard</h2><div class="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-8 mb-8"><div class="bg-white p-6 sm:p-8 rounded-2xl sm:rounded-[32px] border border-slate-200 shadow-sm"><div class="text-blue-600 mb-2 font-black text-3xl sm:text-5xl tracking-tighter">{metadata["total_questions"]}</div><div class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Unikátních otázek</div></div><div class="bg-white p-6 sm:p-8 rounded-2xl sm:rounded-[32px] border border-slate-200 shadow-sm"><div class="text-emerald-600 mb-2 font-black text-3xl sm:text-5xl tracking-tighter">{metadata["total_tests"]}</div><div class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Analyzovaných testů</div></div><div class="bg-white p-6 sm:p-8 rounded-2xl sm:rounded-[32px] border border-slate-200 shadow-sm"><div class="text-purple-600 mb-2 font-black text-xl sm:text-2xl tracking-tight">{db_max_str}</div><div class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Poslední data</div></div></div><div class="grid grid-cols-1 lg:grid-cols-2 gap-8"><div class="bg-white p-6 sm:p-10 rounded-2xl sm:rounded-[40px] border border-slate-200 shadow-sm transition hover:shadow-xl"><h3 class="font-bold mb-6 text-slate-400 uppercase text-[10px] tracking-widest text-center">Distribuce kategorií</h3><div class="h-[300px] sm:h-[450px]"><canvas id="catChart"></canvas></div></div><div class="bg-white p-6 sm:p-10 rounded-2xl sm:rounded-[40px] border border-slate-200 shadow-sm transition hover:shadow-xl"><h3 class="font-bold mb-6 text-slate-400 uppercase text-[10px] tracking-widest text-center">Počty v modulech</h3><div class="h-[300px] sm:h-[450px]"><canvas id="testChart"></canvas></div></div></div></main><script>lucide.createIcons();new Chart(document.getElementById("catChart"),{{type:"doughnut",data:{{labels:{list(metadata["breakdown_by_category"].keys())},datasets:[{{data:{list(metadata["breakdown_by_category"].values())},backgroundColor:["#2563eb","#10b981","#f59e0b","#ef4444","#8b5cf6","#ec4899","#06b6d4","#f97316","#6366f1","#14b8a6"],borderWidth:0,hoverOffset:30}}]}},options:{{responsive:true,maintainAspectRatio:false,cutout:"75%",plugins:{{legend:{{display:false}}}}}}}});new Chart(document.getElementById("testChart"),{{type:"bar",data:{{labels:{list(metadata["breakdown_by_test_type"].keys())},datasets:[{{label:"Otázek",data:{list(metadata["breakdown_by_test_type"].values())},backgroundColor:"#3b82f6",borderRadius:8}}]}},options:{{responsive:true,maintainAspectRatio:false,indexAxis:"y",plugins:{{legend:{{display:false}}}},scales:{{x:{{grid:{{display:false}}}},y:{{grid:{{display:false}},ticks:{{font:{{size:9,weight:"600"}}}}}}}}}}}});</script></body></html>')
+        f.write(f'<!DOCTYPE html><html lang="cs"><head>{COMMON_HEAD}<title>Dashboard</title></head><body class="bg-slate-50 text-slate-900 font-sans flex flex-col lg:flex-row min-h-screen" x-data="{{ mobileMenu: false }}">{sidebar}<main class="flex-1 p-4 sm:p-10 overflow-y-auto"><h2 class="text-2xl sm:text-4xl font-black text-slate-800 tracking-tighter mb-8 uppercase italic">Dashboard</h2><a href="https://ull-trainer.jevlk.cz/" target="_blank" class="block mb-8 p-6 sm:p-10 bg-gradient-to-br from-indigo-600 to-blue-700 rounded-2xl sm:rounded-[40px] text-white shadow-xl shadow-indigo-200 hover:shadow-indigo-300 transition-all group overflow-hidden relative"><div class="absolute right-0 top-0 opacity-10 translate-x-1/4 -translate-y-1/4 group-hover:scale-110 transition-transform duration-500"><i data-lucide="zap" class="w-64 h-64"></i></div><div class="relative z-10 flex flex-col sm:flex-row items-center justify-between gap-6"><div><h3 class="text-2xl sm:text-3xl font-black tracking-tight mb-2">Chcete se otestovat nanečisto?</h3><p class="text-indigo-100 font-medium text-sm sm:text-base">Vyzkoušejte novou aplikaci pro interaktivní procvičování všech otázek.</p></div><div class="flex items-center gap-3 bg-white/20 px-6 py-3 rounded-xl font-bold backdrop-blur-sm group-hover:bg-white/30 transition text-sm sm:text-base whitespace-nowrap">Spustit procvičování <i data-lucide="arrow-right" class="w-5 h-5"></i></div></div></a><div class="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-8 mb-8"><div class="bg-white p-6 sm:p-8 rounded-2xl sm:rounded-[32px] border border-slate-200 shadow-sm"><div class="text-blue-600 mb-2 font-black text-3xl sm:text-5xl tracking-tighter">{metadata["total_questions"]}</div><div class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Unikátních otázek</div></div><div class="bg-white p-6 sm:p-8 rounded-2xl sm:rounded-[32px] border border-slate-200 shadow-sm"><div class="text-emerald-600 mb-2 font-black text-3xl sm:text-5xl tracking-tighter">{metadata["total_tests"]}</div><div class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Analyzovaných testů</div></div><div class="bg-white p-6 sm:p-8 rounded-2xl sm:rounded-[32px] border border-slate-200 shadow-sm"><div class="text-purple-600 mb-2 font-black text-xl sm:text-2xl tracking-tight">{db_max_str}</div><div class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Poslední data</div></div></div><div class="grid grid-cols-1 lg:grid-cols-2 gap-8"><div class="bg-white p-6 sm:p-10 rounded-2xl sm:rounded-[40px] border border-slate-200 shadow-sm transition hover:shadow-xl"><h3 class="font-bold mb-6 text-slate-400 uppercase text-[10px] tracking-widest text-center">Distribuce kategorií</h3><div class="h-[300px] sm:h-[450px]"><canvas id="catChart"></canvas></div></div><div class="bg-white p-6 sm:p-10 rounded-2xl sm:rounded-[40px] border border-slate-200 shadow-sm transition hover:shadow-xl"><h3 class="font-bold mb-6 text-slate-400 uppercase text-[10px] tracking-widest text-center">Počty v modulech</h3><div class="h-[300px] sm:h-[450px]"><canvas id="testChart"></canvas></div></div></div></main><script>lucide.createIcons();new Chart(document.getElementById("catChart"),{{type:"doughnut",data:{{labels:{list(metadata["breakdown_by_category"].keys())},datasets:[{{data:{list(metadata["breakdown_by_category"].values())},backgroundColor:["#2563eb","#10b981","#f59e0b","#ef4444","#8b5cf6","#ec4899","#06b6d4","#f97316","#6366f1","#14b8a6"],borderWidth:0,hoverOffset:30}}]}},options:{{responsive:true,maintainAspectRatio:false,cutout:"75%",plugins:{{legend:{{display:false}}}}}}}});new Chart(document.getElementById("testChart"),{{type:"bar",data:{{labels:{list(metadata["breakdown_by_test_type"].keys())},datasets:[{{label:"Otázek",data:{list(metadata["breakdown_by_test_type"].values())},backgroundColor:"#3b82f6",borderRadius:8}}]}},options:{{responsive:true,maintainAspectRatio:false,indexAxis:"y",plugins:{{legend:{{display:false}}}},scales:{{x:{{grid:{{display:false}}}},y:{{grid:{{display:false}},ticks:{{font:{{size:9,weight:"600"}}}}}}}}}}}});</script></body></html>')
 
     # --- TEST PAGES ---
     for test_name, _ in sorted_tests:
         folder_name = test_name.replace(" ", "_"); test_path = os.path.join(output_dir, folder_name)
         for mode in ["all", "real"]:
-            where_clause = "WHERE t.test_type = ?"
-            if mode == "real": where_clause += " AND t.is_practice = 0"
-            cursor = conn.execute(f"SELECT q.id, q.text as question_text, GROUP_CONCAT(t.test_date) as seen_dates FROM questions q JOIN test_questions tq ON q.id = tq.question_id JOIN tests t ON tq.test_id = t.id {where_clause} GROUP BY q.id", (test_name,))
+            where_clause = "WHERE t.test_type = %s"
+            if mode == "real": where_clause += " AND t.is_practice = FALSE"
+            cursor.execute(f"SELECT q.id, q.text as question_text, string_agg(t.test_date::text, ',') as seen_dates FROM questions q JOIN test_questions tq ON q.id = tq.question_id JOIN tests t ON tq.test_id = t.id {where_clause} GROUP BY q.id, q.text", (test_name,))
+
             deduped = {}
             for row in cursor:
                 txt, dates = row['question_text'], row['seen_dates'].split(',')
@@ -137,10 +150,11 @@ def deploy_site(output_dir="output"):
                 real_active = "bg-emerald-600 text-white shadow-lg shadow-emerald-500/20" if mode == "real" else "bg-white text-slate-400 border border-slate-200 hover:bg-slate-50"
                 
                 toggle_html = f'<div class="flex flex-col sm:flex-row gap-2 sm:gap-4 mb-8"><a href="index.html" class="px-4 py-3 rounded-xl font-bold text-xs uppercase tracking-widest transition {all_active} flex items-center justify-center gap-2"><i data-lucide="layers" class="w-4 h-4"></i> Všechny výskyty</a><div class="tooltip w-full sm:w-auto"><a href="real.html" class="w-full px-4 py-3 rounded-xl font-bold text-xs uppercase tracking-widest transition {real_active} flex items-center justify-center gap-2"><i data-lucide="shield-check" class="w-4 h-4"></i> Pouze reálné zkoušky</a><span class="tooltiptext">Pouze otázky z ostrých testů z oficiálních zkoušek.</span></div></div>'
-                downloads = f"""<div class="grid grid-cols-1 sm:grid-cols-3 gap-3 sm:gap-6 mb-8">
+                downloads = f"""<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6 mb-8">
                     <a href="QUESTIONS.pdf" class="flex items-center gap-4 bg-white p-4 sm:p-6 rounded-2xl border border-slate-200 hover:shadow-lg transition group shadow-sm"><div class="p-3 bg-blue-50 text-blue-600 rounded-xl group-hover:bg-blue-600 group-hover:text-white transition shadow-sm"><i data-lucide="file-text" class="w-5 h-5"></i></div><div><div class="font-black text-slate-800 text-sm tracking-tight">PDF Seznam</div></div></a>
                     <a href="QUESTIONS_WITH_ANS.pdf" class="flex items-center gap-4 bg-white p-4 sm:p-6 rounded-2xl border border-slate-200 hover:shadow-lg transition group shadow-sm"><div class="p-3 bg-emerald-50 text-emerald-600 rounded-xl group-hover:bg-emerald-600 group-hover:text-white transition shadow-sm"><i data-lucide="check-square" class="w-5 h-5"></i></div><div><div class="font-black text-slate-800 text-sm tracking-tight">PDF Klíč</div></div></a>
                     <a href="unique_questions.json" class="flex items-center gap-4 bg-white p-4 sm:p-6 rounded-2xl border border-slate-200 hover:shadow-lg transition group shadow-sm"><div class="p-3 bg-amber-50 text-amber-600 rounded-xl group-hover:bg-amber-600 group-hover:text-white transition shadow-sm"><i data-lucide="database" class="w-5 h-5"></i></div><div><div class="font-black text-slate-800 text-sm tracking-tight">JSON Data</div></div></a>
+                    <a href="https://ull.jevlk.cz/" target="_blank" class="flex items-center gap-4 bg-white p-4 sm:p-6 rounded-2xl border border-slate-200 hover:shadow-lg transition group shadow-sm"><div class="p-3 bg-indigo-50 text-indigo-600 rounded-xl group-hover:bg-indigo-600 group-hover:text-white transition shadow-sm"><i data-lucide="play-circle" class="w-5 h-5"></i></div><div><div class="font-black text-slate-800 text-sm tracking-tight">Procvičování</div></div></a>
                 </div><div class="bg-white p-4 sm:p-10 rounded-2xl sm:rounded-[40px] border border-slate-200 shadow-sm mb-8 transition hover:shadow-xl"><h3 class="font-bold mb-6 text-slate-400 uppercase text-[10px] tracking-widest text-center">Top 20 nejčastějších otázek</h3><div class="h-[300px] sm:h-[400px]"><canvas id="topChart"></canvas></div></div>""" if p == 0 else ""
                 
                 p_btns = [f'<a href="{"index.html" if mode=="all" and pi==0 else "real.html" if mode=="real" and pi==0 else f"{mode}_page{pi+1}.html"}" class="px-4 py-2 rounded-lg text-[10px] font-black border {("bg-blue-600 text-white shadow-xl" if mode=="all" else "bg-emerald-600 text-white shadow-xl") if pi == p else "bg-white text-slate-500 hover:bg-slate-50 border-slate-200"}">{pi+1}</a>' for pi in range(num_pages)]
