@@ -48,9 +48,16 @@ DB_USER = os.getenv("DB_USER", "postgres")
 DB_PASS = os.getenv("DB_PASS", "")
 
 URL_BASE = "https://zkouseni.laacr.cz/Zkouseni/PDFReport?module=M09&report=vysledek&id="
+LAA_COOKIE = os.getenv("LAA_COOKIE", "JSESSIONID=C4DEF87564B25E8E5863DD54EE1700DE; twk_uuid_6594683b0ff6374032bb685c=%7B%22uuid%22%3A%221.6AsoI2iK4EWxARnwlh5GTkVsyW1AoavOcYEbBEt5kmEWaItkiO00tuyTAf5TLZDNhri0enW88HiaV2wUwp109mG2rFrRLg0B9AbSQtnQxvz9FSeq%22%2C%22version%22%3A3%2C%22domain%22%3A%22laacr.cz%22%2C%22ts%22%3A1773396418690%7D; JSESSIONID=32CBF96C87CEFA273D8531EA45D2BC7F")
+
+
 REQUEST_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
+
+if LAA_COOKIE:
+    REQUEST_HEADERS['Cookie'] = LAA_COOKIE
+
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
@@ -769,7 +776,7 @@ def generate_outputs_for_all_categories(conn, skip_pdf_gen=False):
         logger.warning("Přeskočeno generování PDF (--skip-pdf-gen bylo aktivováno).")
     elif md_files_to_convert:
         logger.info(f"Spouštím paralelní generování PDF pro {len(md_files_to_convert)} souborů...")
-        num_workers = max(1, cpu_count() - 1)
+        num_workers = max(1, cpu_count() - 2)
 
         with Pool(processes=num_workers) as pool:
             results = list(tqdm(

@@ -128,7 +128,11 @@ def deploy_site(output_dir="output"):
 
             deduped = {}
             for row in cursor:
-                txt, dates = row['question_text'], row['seen_dates'].split(',')
+                if row['seen_dates']:
+                    tmp = row['seen_dates']
+                else:
+                    tmp = ""
+                txt, dates = row['question_text'], tmp.split(',')
                 if txt not in deduped: deduped[txt] = {"dates": dates, "count": len(dates)}
                 else: deduped[txt]["dates"].extend(dates); deduped[txt]["count"] += len(dates)
             if not deduped and mode == "real": continue
